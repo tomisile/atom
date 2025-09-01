@@ -25,7 +25,7 @@ jobs:
 
       - name: Run etl script
         run: |
-          python etl_pipeline.py
+          python live.py
       # - name: Upload scraped data artifact
       #   uses: actions/upload-artifact@v3
       #   with:
@@ -40,14 +40,14 @@ jobs:
           token: ${{ secrets.SLACK_BOT_TOKEN }}
           payload: |
             {
-              "channel": "${{ vars.SLACK_CHANNEL_ID }}",
-              "text": "Deploying to the production environment. Final preview - PR #${{ github.run_number }}",
+              "channel": "${{ vars.LIVE_SLACK_CHANNEL_ID }}",
+              "text": "Found promising event(s) - Run ${{ github.run_number }}",
               "blocks": [
                 {
                   "type": "section",
                   "text": {
                     "type": "mrkdwn",
-                    "text": "Found promising events\n"
+                    "text": "Found promising event(s)\n"
                   }
                 },
                 {
