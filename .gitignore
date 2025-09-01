@@ -1,0 +1,12 @@
+# Ignore miscellenous ipynb-related files and folders
+.ipynb_checkpoints
+*.ipynb_checkpoints
+*.pyc
+__pycache__
+
+# Ignore csv files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+
