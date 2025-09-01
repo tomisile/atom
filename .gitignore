@@ -10,3 +10,12 @@ __pycache__
 *.xlsx
 *.xls
 
+# Ignore environment files
+*.env
+*.venv
+env/
+venv/
+
+# Ignore log files
+*.log
+logs/
