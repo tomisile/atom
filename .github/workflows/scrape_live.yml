@@ -1,4 +1,4 @@
-name: Pull live data to find promising teams matching the ht criteria
+name: Live Data Pull
 
 on:
   schedule:
@@ -54,7 +54,7 @@ jobs:
                   "fields": [
                     {
                       "type": "mrkdwn",
-                      "text": "*Title:*\n<insert here>"
+                      "text": "*Title:*\n"
                     },
                     {
                       "type": "mrkdwn",

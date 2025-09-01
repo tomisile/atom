@@ -1,4 +1,4 @@
-name: Pull and save upcoming events for the day
+name: Upcoming Data Pull
 
 on:
   schedule:
@@ -40,7 +40,7 @@ jobs:
           token: ${{ secrets.SLACK_BOT_TOKEN }}
           payload: |
             {
-              "channel": "${{ vars.SLACK_CHANNEL_ID }}",
+              "channel": "${{ vars.GENERAL_SLACK_CHANNEL_ID }}",
               "text": "Upcoming data summary is ready - Run ${{ github.run_number }} :heavy_check_mark:",
               "blocks": [
                 {
