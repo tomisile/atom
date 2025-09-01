@@ -32,7 +32,6 @@ jobs:
       #     name: scraped-data
       
       - name: Send Slack notification
-        
         if: success() 
         uses: slackapi/slack-github-action@v2
         with:
@@ -59,7 +58,7 @@ jobs:
                     },
                     {
                       "type": "mrkdwn",
-                      "text": "*place data here:*\n`${{ github.head_ref }}`"
+                      "text": "*place data here:*\n"
                     }
                   ]
                 }
