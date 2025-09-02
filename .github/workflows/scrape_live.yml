@@ -40,6 +40,8 @@ jobs:
           payload: |
             {
               "channel": "${{ vars.LIVE_SLACK_CHANNEL_ID }}",
+              "username": "aTom_yml",
+              "icon_emoji": ":cloud:",
               "text": ":bar_chart: Summary - Run ${{ github.run_number }}",
               "blocks": [
                 {
