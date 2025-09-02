@@ -30,9 +30,15 @@ jobs:
           echo "script_output<<EOF" >> $GITHUB_OUTPUT
           cat output.txt >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
+          # Check if output contains 👀 emoji
+          if grep -q "👀" output.txt; then
+            echo "send_slack=true" >> $GITHUB_OUTPUT
+          else
+            echo "send_slack=false" >> $GITHUB_OUTPUT
+          fi
       
       - name: Send Slack notification
-        if: success() 
+        if: success() && steps.run_etl.outputs.send_slack == 'true'
         uses: slackapi/slack-github-action@v2
         with:
           method: chat.postMessage
