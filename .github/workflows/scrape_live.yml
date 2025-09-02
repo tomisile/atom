@@ -2,7 +2,7 @@ name: Live Data Pull
 
 on:
   schedule:
-    - cron: '0/5 7-23 * * *' # Runs every 5 minutes from 7 AM to 11 PM
+    - cron: '0/6 7-23 * * *' # Runs every 6 minutes from 7 AM to 11 PM
   workflow_dispatch:
 
 jobs:
