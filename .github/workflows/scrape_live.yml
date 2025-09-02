@@ -25,11 +25,10 @@ jobs:
 
       - name: Run etl script
         run: |
-          python live.py
-      # - name: Upload scraped data artifact
-      #   uses: actions/upload-artifact@v3
-      #   with:
-      #     name: scraped-data
+          python live.py > output.txt
+          echo "script_output<<EOF" >> $GITHUB_OUTPUT
+          cat output.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
       
       - name: Send Slack notification
         if: success() 
@@ -58,11 +57,9 @@ jobs:
                     },
                     {
                       "type": "mrkdwn",
-                      "text": "*place data here:*\n"
+                      "text": "*Script Output:*\n${{ steps.run_etl.outputs.script_output }}"
                     }
                   ]
                 }
               ]
             }
-
-
