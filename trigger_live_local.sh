@@ -157,7 +157,7 @@ send_to_slack() {
     local payload=$(cat <<EOF
 {
     "channel": "$SLACK_LIVE_CHANNEL_ID",
-    "username": "atom",
+    "username": "aTom_local",
     "icon_emoji": "$emoji",
     "attachments": [
         {
@@ -237,25 +237,31 @@ main() {
     python_exit_code=$?
     
     # Truncate output if too long
-    # truncated_output=$(truncate_output "$python_output" 3000)
+    truncated_output=$(truncate_output "$python_output" 3000)
     
-    # Send to Slack based on success/failure
-    if [[ $python_exit_code -eq 0 ]]; then
-        if send_to_slack "$python_output" "true"; then
-            log_message "SUCCESS: Output sent to Slack successfully"
+    # Check if output contains 👀 emoji
+    if [[ $python_output == *"👀"* ]]; then
+        log_message "Output contains 👀 emoji, sending to Slack"
+        # Send to Slack based on success/failure
+        if [[ $python_exit_code -eq 0 ]]; then
+            if send_to_slack "$truncated_output" "true"; then
+                log_message "SUCCESS: Output sent to Slack successfully"
+            else
+                log_message "ERROR: Failed to send to Slack"
+                exit 1
+            fi
         else
-            log_message "ERROR: Failed to send to Slack"
+            # Send error output to Slack
+            error_msg="Python script failed with exit code $python_exit_code\n\nOutput:\n$truncated_output"
+            if send_to_slack "$error_msg" "false"; then
+                log_message "ERROR: Python script failed, but error sent to Slack"
+            else
+                log_message "ERROR: Python script failed AND failed to send to Slack"
+            fi
             exit 1
         fi
     else
-        # Send error output to Slack
-        error_msg="Python script failed with exit code $python_exit_code\n\nOutput:\n$truncated_output"
-        if send_to_slack "$error_msg" "false"; then
-            log_message "ERROR: Python script failed, but error sent to Slack"
-        else
-            log_message "ERROR: Python script failed AND failed to send to Slack"
-        fi
-        exit 1
+        log_message "Output does not contain 👀 emoji, skipping Slack notification"
     fi
     
     log_message "=== Python to Slack Script Completed ==="
