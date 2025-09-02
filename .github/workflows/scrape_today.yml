@@ -2,7 +2,7 @@ name: Upcoming Data Pull
 
 on:
   schedule:
-    - cron: '0 6 * * *' # Runs every day at 6 AM
+    - cron: '3 5,13 * * *' # Runs every day at 6:03 AM and 2:03 PM (WAT)
   workflow_dispatch:
 
 jobs:
@@ -24,12 +24,12 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run data scraping script
+        id: run_etl
         run: |
-          python today.py
-      # - name: Upload scraped data artifact
-      #   uses: actions/upload-artifact@v3
-      #   with:
-      #     name: scraped-data
+          python today.py > output.txt
+          echo "script_output<<EOF" >> $GITHUB_OUTPUT
+          cat output.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
       
       - name: Send Slack notification
         
@@ -41,40 +41,16 @@ jobs:
           payload: |
             {
               "channel": "${{ vars.GENERAL_SLACK_CHANNEL_ID }}",
+              "username": "aTom_yml",
+              "icon_emoji": ":cloud:",
               "text": "Upcoming data summary is ready - Run ${{ github.run_number }} :heavy_check_mark:",
               "blocks": [
                 {
                   "type": "section",
                   "text": {
                     "type": "mrkdwn",
-                    "text": "Upcoming Data Summary is ready\n"
+                    "text": "${{ steps.run_etl.outputs.script_output }}"
                   }
-                },
-                {
-                  "type": "section",
-                  "fields": [
-                    {
-                      "type": "mrkdwn",
-                      "text": "*Number of Events for today:*\n`$(wc -l < today_events.csv)`"
-                    },
-                    {
-                      "type": "mrkdwn",
-                      "text": "*Number of Promising Events:*\n`$(wc -l < promising_events.csv)`"
-                    }
-                  ]
-                },
-                {
-                  "type": "actions",
-                  "elements": [
-                    {
-                      "type": "button",
-                      "text": {
-                        "type": "plain_text",
-                        "text": "View Data"
-                      },
-                      "url": "https://github.com/atom/data/promising_events.csv"
-                    }
-                  ]
                 }
               ]
             }
