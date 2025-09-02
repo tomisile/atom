@@ -113,7 +113,7 @@ def scrape_sb_live():
         
         # Find all matches with the correct class structure
         matches = soup.find_all('div', class_='m-table-row m-content-row match-row football-row')
-        print(f"Found {len(matches)} events")
+        print(f"Found {len(matches)} ongoing events")
         
         extracted_data = []
         halftime_matches = 0
@@ -198,7 +198,7 @@ def scrape_sb_live():
                     }
                     extracted_data.append(match_data)
                     zero_goal_matches += 1
-                    print(f"⚽ Found 0-goal HT event: {home_team} vs {away_team}")
+                    print(f"👀 0-goal HT event: {home_team} vs {away_team}")
                     # Attempt to find SofaScore URL
                     # print(search_sofascore_match(home_team, away_team))
             

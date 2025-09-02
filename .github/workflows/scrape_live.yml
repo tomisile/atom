@@ -24,6 +24,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run etl script
+        id: run_etl
         run: |
           python live.py > output.txt
           echo "script_output<<EOF" >> $GITHUB_OUTPUT
@@ -39,27 +40,14 @@ jobs:
           payload: |
             {
               "channel": "${{ vars.LIVE_SLACK_CHANNEL_ID }}",
-              "text": "Found promising event(s) - Run ${{ github.run_number }}",
+              "text": ":bar_chart: Summary - Run ${{ github.run_number }}",
               "blocks": [
                 {
                   "type": "section",
                   "text": {
                     "type": "mrkdwn",
-                    "text": "Found promising event(s)\n"
+                    "text": "${{ steps.run_etl.outputs.script_output }}"
                   }
-                },
-                {
-                  "type": "section",
-                  "fields": [
-                    {
-                      "type": "mrkdwn",
-                      "text": "*Title:*\n"
-                    },
-                    {
-                      "type": "mrkdwn",
-                      "text": "*Script Output:*\n${{ steps.run_etl.outputs.script_output }}"
-                    }
-                  ]
                 }
               ]
             }
