@@ -18,14 +18,14 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
-# SoccerData imports (install with: pip install soccerdata)
-try:
-    import soccerdata as sd
-    SOCCERDATA_AVAILABLE = True
-    # print("✅ SoccerData library available")
-except ImportError:
-    SOCCERDATA_AVAILABLE = False
-    # print("⚠️ SoccerData library not installed. Run: pip install soccerdata")
+# # SoccerData imports (install with: pip install soccerdata)
+# try:
+#     import soccerdata as sd
+#     SOCCERDATA_AVAILABLE = True
+#     # print("✅ SoccerData library available")
+# except ImportError:
+#     SOCCERDATA_AVAILABLE = False
+#     # print("⚠️ SoccerData library not installed. Run: pip install soccerdata")
 
 
 def get_random_headers():
@@ -395,173 +395,173 @@ def save_to_csv(data, filename=None):
         return False, None
     
 
-def get_match_stats_soccerdata(home_team, away_team, league=None, season="2024-25"):
-    """
-    Extract match statistics using SoccerData library from multiple sources
-    Returns dictionary with comprehensive match stats
-    """
-    if not SOCCERDATA_AVAILABLE:
-        print("❌ SoccerData library not available")
-        return None
+# def get_match_stats_soccerdata(home_team, away_team, league=None, season="2024-25"):
+#     """
+#     Extract match statistics using SoccerData library from multiple sources
+#     Returns dictionary with comprehensive match stats
+#     """
+#     if not SOCCERDATA_AVAILABLE:
+#         print("❌ SoccerData library not available")
+#         return None
     
-    stats_data = {
-        'attempts_home': 0, 'attempts_away': 0,
-        'on_target_home': 0, 'on_target_away': 0,
-        'corners_home': 0, 'corners_away': 0,
-        'l5g_home_gf': 0, 'l5g_home_ga': 0,
-        'l5g_away_gf': 0, 'l5g_away_ga': 0,
-        'possession_home': 0, 'possession_away': 0,
-        'passes_home': 0, 'passes_away': 0,
-        'data_source': 'soccerdata'
-    }
+#     stats_data = {
+#         'attempts_home': 0, 'attempts_away': 0,
+#         'on_target_home': 0, 'on_target_away': 0,
+#         'corners_home': 0, 'corners_away': 0,
+#         'l5g_home_gf': 0, 'l5g_home_ga': 0,
+#         'l5g_away_gf': 0, 'l5g_away_ga': 0,
+#         'possession_home': 0, 'possession_away': 0,
+#         'passes_home': 0, 'passes_away': 0,
+#         'data_source': 'soccerdata'
+#     }
     
-    try:
-        print(f"🔍 Using SoccerData for: {home_team} vs {away_team}")
+#     try:
+#         print(f"🔍 Using SoccerData for: {home_team} vs {away_team}")
         
-        # Try FotMob first (good for live match stats)
-        try:
-            fotmob = sd.FotMob()
+#         # Try FotMob first (good for live match stats)
+#         try:
+#             fotmob = sd.FotMob()
             
-            # Search for recent matches involving these teams
-            home_matches = fotmob.read_team_match_stats(team=home_team, stat_type="match")
-            away_matches = fotmob.read_team_match_stats(team=away_team, stat_type="match")
+#             # Search for recent matches involving these teams
+#             home_matches = fotmob.read_team_match_stats(team=home_team, stat_type="match")
+#             away_matches = fotmob.read_team_match_stats(team=away_team, stat_type="match")
             
-            # Find the match between these two teams
-            recent_match = None
-            if not home_matches.empty and not away_matches.empty:
-                # Look for recent head-to-head match
-                for idx, match in home_matches.iterrows():
-                    if away_team.lower() in str(match).lower():
-                        recent_match = match
-                        break
+#             # Find the match between these two teams
+#             recent_match = None
+#             if not home_matches.empty and not away_matches.empty:
+#                 # Look for recent head-to-head match
+#                 for idx, match in home_matches.iterrows():
+#                     if away_team.lower() in str(match).lower():
+#                         recent_match = match
+#                         break
             
-            if recent_match is not None:
-                # Extract basic stats (structure depends on FotMob data format)
-                stats_data['attempts_home'] = getattr(recent_match, 'shots_home', 0) or 0
-                stats_data['attempts_away'] = getattr(recent_match, 'shots_away', 0) or 0
-                stats_data['on_target_home'] = getattr(recent_match, 'shots_on_target_home', 0) or 0
-                stats_data['on_target_away'] = getattr(recent_match, 'shots_on_target_away', 0) or 0
-                stats_data['corners_home'] = getattr(recent_match, 'corners_home', 0) or 0
-                stats_data['corners_away'] = getattr(recent_match, 'corners_away', 0) or 0
+#             if recent_match is not None:
+#                 # Extract basic stats (structure depends on FotMob data format)
+#                 stats_data['attempts_home'] = getattr(recent_match, 'shots_home', 0) or 0
+#                 stats_data['attempts_away'] = getattr(recent_match, 'shots_away', 0) or 0
+#                 stats_data['on_target_home'] = getattr(recent_match, 'shots_on_target_home', 0) or 0
+#                 stats_data['on_target_away'] = getattr(recent_match, 'shots_on_target_away', 0) or 0
+#                 stats_data['corners_home'] = getattr(recent_match, 'corners_home', 0) or 0
+#                 stats_data['corners_away'] = getattr(recent_match, 'corners_away', 0) or 0
                 
-                print("✅ Extracted stats from FotMob")
-                return stats_data
+#                 print("✅ Extracted stats from FotMob")
+#                 return stats_data
                 
-        except Exception as e:
-            print(f"⚠️ FotMob failed: {e}")
+#         except Exception as e:
+#             print(f"⚠️ FotMob failed: {e}")
         
-        # Try SofaScore as fallback
-        try:
-            sofascore = sd.Sofascore()
+#         # Try SofaScore as fallback
+#         try:
+#             sofascore = sd.Sofascore()
             
-            # Get recent matches for both teams
-            home_stats = sofascore.read_team_match_stats(team=home_team)
-            away_stats = sofascore.read_team_match_stats(team=away_team)
+#             # Get recent matches for both teams
+#             home_stats = sofascore.read_team_match_stats(team=home_team)
+#             away_stats = sofascore.read_team_match_stats(team=away_team)
             
-            # Process the data similar to FotMob
-            if not home_stats.empty or not away_stats.empty:
-                print("✅ Extracted stats from SofaScore via SoccerData")
-                return stats_data
+#             # Process the data similar to FotMob
+#             if not home_stats.empty or not away_stats.empty:
+#                 print("✅ Extracted stats from SofaScore via SoccerData")
+#                 return stats_data
                 
-        except Exception as e:
-            print(f"⚠️ SofaScore failed: {e}")
+#         except Exception as e:
+#             print(f"⚠️ SofaScore failed: {e}")
         
-        # Try FBref for team statistics (season-long stats)
-        try:
-            fbref = sd.FBref()
+#         # Try FBref for team statistics (season-long stats)
+#         try:
+#             fbref = sd.FBref()
             
-            # Get team stats for the season
-            if league:
-                team_stats = fbref.read_team_season_stats(stat_type="standard")
+#             # Get team stats for the season
+#             if league:
+#                 team_stats = fbref.read_team_season_stats(stat_type="standard")
                 
-                # Extract relevant team stats
-                home_team_stats = team_stats[team_stats.index.get_level_values('team').str.contains(home_team, case=False, na=False)]
-                away_team_stats = team_stats[team_stats.index.get_level_values('team').str.contains(away_team, case=False, na=False)]
+#                 # Extract relevant team stats
+#                 home_team_stats = team_stats[team_stats.index.get_level_values('team').str.contains(home_team, case=False, na=False)]
+#                 away_team_stats = team_stats[team_stats.index.get_level_values('team').str.contains(away_team, case=False, na=False)]
                 
-                if not home_team_stats.empty and not away_team_stats.empty:
-                    # Extract season averages as proxy
-                    stats_data['l5g_home_gf'] = int(home_team_stats['goals_for'].iloc[0] / 5) if 'goals_for' in home_team_stats.columns else 0
-                    stats_data['l5g_home_ga'] = int(home_team_stats['goals_against'].iloc[0] / 5) if 'goals_against' in home_team_stats.columns else 0
-                    stats_data['l5g_away_gf'] = int(away_team_stats['goals_for'].iloc[0] / 5) if 'goals_for' in away_team_stats.columns else 0
-                    stats_data['l5g_away_ga'] = int(away_team_stats['goals_against'].iloc[0] / 5) if 'goals_against' in away_team_stats.columns else 0
+#                 if not home_team_stats.empty and not away_team_stats.empty:
+#                     # Extract season averages as proxy
+#                     stats_data['l5g_home_gf'] = int(home_team_stats['goals_for'].iloc[0] / 5) if 'goals_for' in home_team_stats.columns else 0
+#                     stats_data['l5g_home_ga'] = int(home_team_stats['goals_against'].iloc[0] / 5) if 'goals_against' in home_team_stats.columns else 0
+#                     stats_data['l5g_away_gf'] = int(away_team_stats['goals_for'].iloc[0] / 5) if 'goals_for' in away_team_stats.columns else 0
+#                     stats_data['l5g_away_ga'] = int(away_team_stats['goals_against'].iloc[0] / 5) if 'goals_against' in away_team_stats.columns else 0
                     
-                    print("✅ Extracted stats from FBref")
-                    return stats_data
+#                     print("✅ Extracted stats from FBref")
+#                     return stats_data
                     
-        except Exception as e:
-            print(f"⚠️ FBref failed: {e}")
+#         except Exception as e:
+#             print(f"⚠️ FBref failed: {e}")
         
-        print("⚠️ No stats found via SoccerData")
-        return stats_data
+#         print("⚠️ No stats found via SoccerData")
+#         return stats_data
         
-    except Exception as e:
-        print(f"❌ SoccerData extraction failed: {e}")
-        return stats_data
+#     except Exception as e:
+#         print(f"❌ SoccerData extraction failed: {e}")
+#         return stats_data
     
 
-def update_csv_with_soccerdata(csv_filename, league=None):
-    """
-    Update existing CSV file with SoccerData statistics (alternative to manual scraping)
-    """
-    if not SOCCERDATA_AVAILABLE:
-        print("❌ SoccerData library not available. Install with: pip install soccerdata")
-        return None
+# def update_csv_with_soccerdata(csv_filename, league=None):
+#     """
+#     Update existing CSV file with SoccerData statistics (alternative to manual scraping)
+#     """
+#     if not SOCCERDATA_AVAILABLE:
+#         print("❌ SoccerData library not available. Install with: pip install soccerdata")
+#         return None
     
-    try:
-        # Read existing CSV
-        df = pd.read_csv(csv_filename)
-        print(f"📖 Reading {len(df)} matches from {csv_filename}")
+#     try:
+#         # Read existing CSV
+#         df = pd.read_csv(csv_filename)
+#         print(f"📖 Reading {len(df)} matches from {csv_filename}")
         
-        # Add new columns if they don't exist
-        new_columns = ['attempts_home', 'attempts_away', 'on_target_home', 'on_target_away', 
-                      'corners_home', 'corners_away', 'l5g_home_gf', 'l5g_home_ga', 
-                      'l5g_away_gf', 'l5g_away_ga', 'possession_home', 'possession_away',
-                      'passes_home', 'passes_away', 'data_source']
+#         # Add new columns if they don't exist
+#         new_columns = ['attempts_home', 'attempts_away', 'on_target_home', 'on_target_away', 
+#                       'corners_home', 'corners_away', 'l5g_home_gf', 'l5g_home_ga', 
+#                       'l5g_away_gf', 'l5g_away_ga', 'possession_home', 'possession_away',
+#                       'passes_home', 'passes_away', 'data_source']
         
-        for col in new_columns:
-            if col not in df.columns:
-                df[col] = 0
+#         for col in new_columns:
+#             if col not in df.columns:
+#                 df[col] = 0
         
-        # Process each match using SoccerData
-        for index, row in df.iterrows():
-            home_team = row['home-team']
-            away_team = row['away-team']
-            title = row['title']
+#         # Process each match using SoccerData
+#         for index, row in df.iterrows():
+#             home_team = row['home-team']
+#             away_team = row['away-team']
+#             title = row['title']
             
-            print(f"🔍 Processing with SoccerData: {title}")
+#             print(f"🔍 Processing with SoccerData: {title}")
             
-            # Get stats using SoccerData
-            stats = get_match_stats_soccerdata(home_team, away_team, league)
+#             # Get stats using SoccerData
+#             stats = get_match_stats_soccerdata(home_team, away_team, league)
             
-            if stats:
-                # Update DataFrame with stats
-                for stat_key, stat_value in stats.items():
-                    if stat_key in df.columns:
-                        df.at[index, stat_key] = stat_value
+#             if stats:
+#                 # Update DataFrame with stats
+#                 for stat_key, stat_value in stats.items():
+#                     if stat_key in df.columns:
+#                         df.at[index, stat_key] = stat_value
                 
-                print(f"✅ Updated stats for {title}")
-            else:
-                print(f"⚠️ No stats found for {title}")
+#                 print(f"✅ Updated stats for {title}")
+#             else:
+#                 print(f"⚠️ No stats found for {title}")
             
-            # Add delay to be respectful
-            time.sleep(1)
+#             # Add delay to be respectful
+#             time.sleep(1)
         
-        # Save updated CSV
-        updated_filename = csv_filename.replace('.csv', '_with_soccerdata.csv')
-        df.to_csv(updated_filename, index=False)
+#         # Save updated CSV
+#         updated_filename = csv_filename.replace('.csv', '_with_soccerdata.csv')
+#         df.to_csv(updated_filename, index=False)
         
-        print(f"💾 Updated CSV saved as: {updated_filename}")
-        print(f"📊 Processed {len(df)} matches with SoccerData")
+#         print(f"💾 Updated CSV saved as: {updated_filename}")
+#         print(f"📊 Processed {len(df)} matches with SoccerData")
         
-        return updated_filename
+#         return updated_filename
         
-    except Exception as e:
-        print(f"❌ Error updating CSV with SoccerData: {e}")
-        return None
+#     except Exception as e:
+#         print(f"❌ Error updating CSV with SoccerData: {e}")
+#         return None
         
-    except Exception as e:
-        print(f"❌ Error searching Google for {match_title}: {e}")
-        return None
+#     except Exception as e:
+#         print(f"❌ Error searching Google for {match_title}: {e}")
+#         return None
     
 
 def display_results(filename=None):
