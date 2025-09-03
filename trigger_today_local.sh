@@ -162,6 +162,7 @@ send_to_slack() {
     "attachments": [
         {
             "color": "$color",
+            "title": "$title",
             "text": "$escaped_message",
             "footer": "Executed from $(hostname)",
             "ts": $(date +%s)
