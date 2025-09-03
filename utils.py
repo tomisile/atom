@@ -18,6 +18,15 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
+# SoccerData imports (install with: pip install soccerdata)
+try:
+    import soccerdata as sd
+    SOCCERDATA_AVAILABLE = True
+    # print("✅ SoccerData library available")
+except ImportError:
+    SOCCERDATA_AVAILABLE = False
+    # print("⚠️ SoccerData library not installed. Run: pip install soccerdata")
+
 
 def get_random_headers():
     """Load and return a random set of headers from the JSON file."""
@@ -120,6 +129,14 @@ def scrape_sb_live():
         first_half_matches = 0
         second_half_matches = 0
         zero_goal_matches = 0
+
+        # Load watchlist CSV
+        try:
+            watchlist_df = pd.read_csv('watchlist_today.csv')
+            watchlist_titles = set(watchlist_df['title'])  # Convert titles to a set for O(1) lookup
+        except Exception as e:
+            print(f"⚠️ Could not load watchlist_today.csv: {e}")
+            watchlist_titles = set()
         
         for match in matches:
             try:                
@@ -198,7 +215,10 @@ def scrape_sb_live():
                     }
                     extracted_data.append(match_data)
                     zero_goal_matches += 1
-                    print(f"👀 0-goal HT event: {home_team} vs {away_team}")
+                    if title in watchlist_titles:
+                        print(f"👀⭐ Watchlist event: {home_team} vs {away_team}")
+                    else:
+                        print(f"👀 0-goal HT event: {home_team} vs {away_team}")
                     # Attempt to find SofaScore URL
                     # print(search_sofascore_match(home_team, away_team))
             
@@ -210,6 +230,137 @@ def scrape_sb_live():
         # print(f"   - Total events found: {len(matches)}")
         print(f"   - HT: {halftime_matches}, H1: {first_half_matches}, H2: {second_half_matches}")
         print(f"   - 0 at HT: {zero_goal_matches}")
+        
+        return extracted_data
+    
+    except requests.exceptions.RequestException as e:
+        print(f"❌ Error fetching data: {e}")
+        return []
+    except Exception as e:
+        print(f"❌ Unexpected error: {e}")
+        return []
+    
+def scrape_sb_today():
+    """
+    Scrapes SportyBet today's football matches and extracts match data
+    Returns a list of dictionaries containing match data
+    """
+    url = "https://www.sportybet.com/ng/sport/football/today"
+    
+    # Headers to mimic a real browser
+    headers = get_random_headers()
+    
+    try:
+        # Set up headless Chrome
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")  # Run without opening a browser window
+        chrome_options.add_argument("--no-sandbox")  # For stability in some environments
+        chrome_options.add_argument("--disable-dev-shm-usage")  # Avoid resource issues
+        chrome_options.add_argument("--disable-gpu")  # Additional stability
+        chrome_options.add_argument("--disable-extensions")
+        chrome_options.add_argument("--disable-logging")  # Reduce log noise
+        chrome_options.add_argument("--log-level=3")  # Only fatal errors
+        chrome_options.add_argument(f"user-agent={headers['User-Agent']}")  # Reuse your user-agent for consistency
+        
+        # Initialize driver
+        service = Service(ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=service, options=chrome_options)
+        
+        driver.get(url)
+        
+        # Wait for JS to load (adjust timeout if needed; 10 seconds should suffice for this site)
+        driver.implicitly_wait(10)
+
+        # Get page source and clean it before parsing
+        page_source = driver.page_source
+        
+        # Clean the page source to remove any problematic content
+        # Remove any WebDriver-related paths that might be causing issues
+        page_source = re.sub(r'/[^<>]*?\.wdm/[^<>]*?chromedriver[^<>]*?', '', page_source)
+        page_source = re.sub(r'\[[^<>\[\]]*?chromedriver[^<>\[\]]*?\]', '', page_source)
+
+        # Parse with explicit parser and error handling
+        try:
+            # Try html.parser first (most robust)
+            soup = BeautifulSoup(page_source, 'html.parser')
+        except Exception as e1:
+            print(f"⚠️ html.parser failed: {e1}")
+            try:
+                # Fallback to lxml if available
+                soup = BeautifulSoup(page_source, 'lxml')
+            except Exception as e2:
+                print(f"⚠️ lxml parser failed: {e2}")
+                # Last resort - use html5lib if available
+                try:
+                    soup = BeautifulSoup(page_source, 'html5lib')
+                except Exception as e3:
+                    print(f"❌ All parsers failed. html5lib error: {e3}")
+                    driver.quit()
+                    return []
+        
+        # Find all matches with the correct class structure
+        matches = soup.find_all('div', class_='m-table-row m-content-row match-row')
+        print(f"There are {len(matches)} more upcoming events today")
+        
+        extracted_data = []
+        
+        for match in matches:
+            try:                
+                left_team_cell = match.find(class_='m-table-cell left-team-cell')
+
+                if left_team_cell:
+                    left_team_table = left_team_cell.find(class_='left-team-table')
+                    if left_team_table:
+                        game_id_elem = left_team_table.find(class_='game-id')
+                        if game_id_elem:
+                            game_id_text = game_id_elem.get_text(strip=True)
+                            # Extract 5-digit number using regex
+                            game_id_match = re.search(r'\b\d{5}\b', game_id_text)
+                            # if game_id_match:
+                            #     match_data['game_id'] = game_id_match.group()
+                            # else:
+                            #     match_data['game_id'] = game_id_text  # Fallback to full text if no 5-digit found
+
+                        # Extract time
+                        time_elem = left_team_table.find(class_='clock-time')
+                        if time_elem:
+                            time_text = time_elem.get_text(strip=True)
+        
+                # Find teams container
+                teams_container = match.find(class_='teams')
+                if not teams_container:
+                    continue
+                
+                # Extract team names
+                home_team_elem = teams_container.find(class_='home-team')
+                away_team_elem = teams_container.find(class_='away-team')
+                
+                if not home_team_elem or not away_team_elem:
+                    continue
+                
+                home_team = home_team_elem.get_text(strip=True)
+                away_team = away_team_elem.get_text(strip=True)
+                
+                # Extract title from teams container
+                title = teams_container.get('title', f"{home_team} vs {away_team}")
+                   
+                match_data = {
+                    'time': time_text,
+                    'title': title,
+                    'game-id': game_id_match.group() if game_id_match else game_id_text,
+                    'home-team': home_team,
+                    'away-team': away_team,
+                }
+                extracted_data.append(match_data)                
+            
+            except Exception as e:
+                print(f"⚠️ Error processing match: {e}")
+                continue
+
+        driver.quit()  # Clean up browser session
+        
+        print(f"\n📊 Summary:")
+        print(f"   - Total events found: {len(matches)}")
         
         return extracted_data
     
@@ -232,7 +383,7 @@ def save_to_csv(data, filename=None):
     if filename is None:
         # Generate filename with current timestamp
         current_time = datetime.now()
-        filename = f"sb_{current_time.strftime('%d-%m-%y-%H-%M-%S')}.csv"
+        filename = f"sb_data_{current_time.strftime('%d-%m-%y-%H-%M-%S')}.csv"
     
     try:
         df = pd.DataFrame(data)
