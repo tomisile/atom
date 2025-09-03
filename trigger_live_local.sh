@@ -138,7 +138,7 @@ send_to_slack() {
     
     # Determine message color based on success
     local color="good"
-    local title=":bar_chart: Summary"
+    local title=":hourglass_flowing_sand: Live | Action Required"
     local emoji=":computer:"
     
     if [[ "$success" == "false" ]]; then

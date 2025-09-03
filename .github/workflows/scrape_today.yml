@@ -43,7 +43,7 @@ jobs:
               "channel": "${{ vars.GENERAL_SLACK_CHANNEL_ID }}",
               "username": "aTom_yml",
               "icon_emoji": ":cloud:",
-              "text": "Upcoming data summary is ready - Run ${{ github.run_number }} :heavy_check_mark:",
+              "text": ":incoming_envelope: Upcoming - Run ${{ github.run_number }} :heavy_check_mark:",
               "blocks": [
                 {
                   "type": "section",

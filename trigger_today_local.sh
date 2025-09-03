@@ -138,7 +138,7 @@ send_to_slack() {
     
     # Determine message color based on success
     local color="good"
-    local title=":bar_chart: Summary"
+    local title=":incoming_envelope: Upcoming"
     local emoji=":computer:"
     
     if [[ "$success" == "false" ]]; then
@@ -162,7 +162,6 @@ send_to_slack() {
     "attachments": [
         {
             "color": "$color",
-            "title": "$title",
             "text": "$escaped_message",
             "footer": "Executed from $(hostname)",
             "ts": $(date +%s)
