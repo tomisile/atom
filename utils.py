@@ -215,7 +215,7 @@ def scrape_sb_live():
                     }
                     extracted_data.append(match_data)
                     zero_goal_matches += 1
-                    print(f"👀 0-goal HT event: {home_team} vs {away_team}")
+                    print(f"| 👀 0aHT: {home_team} vs {away_team} |")
                     # # Check if in watchlist
                     # if title in watchlist_titles:
                     #     print(f"👀⭐ Watchlist event: {home_team} vs {away_team}")
