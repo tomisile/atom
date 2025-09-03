@@ -431,6 +431,96 @@ def save_to_csv(data, filename=None):
         return False, None
 
 
+def update_alert_log(extracted_data):
+    """
+    Updates alerts_log.csv with new match data while avoiding duplicates
+    
+    Args:
+        extracted_data (list): List of dictionaries containing match data from scrape_sb_live()
+    
+    Returns:
+        int: Number of new records added
+    """
+    
+    # Define the CSV file path
+    csv_file = 'alerts_log.csv'
+    
+    # Get current date and time
+    current_date = datetime.now().strftime('%d-%m-%y')
+    current_time = datetime.now().strftime('%H:%M')
+    
+    # Check if extracted_data is empty
+    if not extracted_data:
+        # print("📝 No new data to add to alerts log.")
+        return 0
+    
+    # Prepare new data with additional columns
+    new_records = []
+    for match in extracted_data:
+        new_record = {
+            'date': current_date,
+            'log_time': current_time,
+            'title': match['title'],
+            'home-team': match['home-team'],
+            'away-team': match['away-team'],
+            'ht_goals': match['ht_goals'],
+            'criteria_met': 'unknown',
+            'ft_goals': 'unknown'
+        }
+        new_records.append(new_record)
+    
+    # Create DataFrame from new records
+    new_df = pd.DataFrame(new_records)
+    
+    try:
+        # Check if the CSV file exists
+        if os.path.exists(csv_file):
+            # Load existing data
+            existing_df = pd.read_csv(csv_file)
+            
+            # Get existing titles to check for duplicates
+            existing_titles = set(existing_df['title'].tolist())
+            
+            # Filter out duplicates from new data
+            unique_records = []
+            duplicate_count = 0
+            
+            for record in new_records:
+                if record['title'] not in existing_titles:
+                    unique_records.append(record)
+                else:
+                    duplicate_count += 1
+            
+            if unique_records:
+                # Create DataFrame from unique records
+                unique_df = pd.DataFrame(unique_records)
+                
+                # Append unique records to existing data
+                updated_df = pd.concat([existing_df, unique_df], ignore_index=True)
+                
+                # Save updated data back to CSV
+                updated_df.to_csv(csv_file, index=False)
+                
+                print(f"📝 Added {len(unique_records)} new records to alerts_log.csv")
+                if duplicate_count > 0:
+                    print(f"⏭️ Skipped {duplicate_count} duplicate records")
+                
+                return len(unique_records)
+            else:
+                print(f"⏭️ All {len(new_records)} records were duplicates - no new data added")
+                return 0
+                
+        else:
+            # File doesn't exist, create new one with headers
+            new_df.to_csv(csv_file, index=False)
+            # print(f"📝 Created new alerts_log.csv with {len(new_records)} records")
+            return len(new_records)
+            
+    except Exception as e:
+        # print(f"❌ Error updating alerts_log.csv: {e}")
+        return 0
+
+
 # def get_match_stats_soccerdata(home_team, away_team, league=None, season="2024-25"):
 #     """
 #     Extract match statistics using SoccerData library from multiple sources
