@@ -130,13 +130,13 @@ def scrape_sb_live():
         second_half_matches = 0
         zero_goal_matches = 0
 
-        # Load watchlist CSV
-        try:
-            watchlist_df = pd.read_csv('watchlist_today.csv')
-            watchlist_titles = set(watchlist_df['title'])  # Convert titles to a set for O(1) lookup
-        except Exception as e:
-            print(f"⚠️ Could not load watchlist_today.csv: {e}")
-            watchlist_titles = set()
+        # # Load watchlist CSV
+        # try:
+        #     watchlist_df = pd.read_csv('watchlist_today.csv')
+        #     watchlist_titles = set(watchlist_df['title'])  # Convert titles to a set for O(1) lookup
+        # except Exception as e:
+        #     print(f"⚠️ Could not load watchlist_today.csv: {e}")
+        #     watchlist_titles = set()
         
         for match in matches:
             try:                
@@ -215,12 +215,12 @@ def scrape_sb_live():
                     }
                     extracted_data.append(match_data)
                     zero_goal_matches += 1
-                    if title in watchlist_titles:
-                        print(f"👀⭐ Watchlist event: {home_team} vs {away_team}")
-                    else:
-                        print(f"👀 0-goal HT event: {home_team} vs {away_team}")
-                    # Attempt to find SofaScore URL
-                    # print(search_sofascore_match(home_team, away_team))
+                    print(f"👀 0-goal HT event: {home_team} vs {away_team}")
+                    # # Check if in watchlist
+                    # if title in watchlist_titles:
+                    #     print(f"👀⭐ Watchlist event: {home_team} vs {away_team}")
+                    # else:
+                    #     print(f"👀 0-goal HT event: {home_team} vs {away_team}")
             
             except Exception as e:
                 print(f"⚠️ Error processing match: {e}")
