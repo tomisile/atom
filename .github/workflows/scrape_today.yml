@@ -2,7 +2,7 @@ name: Upcoming Data Pull
 
 on:
   schedule:
-    - cron: '3 5,13 * * *' # Runs every day at 6:03 AM and 2:03 PM (WAT)
+    - cron: '3 5,13,16 * * *' # Runs every day at 6:03 AM, 2:03 PM, and 5:03 PM (WAT)
   workflow_dispatch:
 
 jobs:
