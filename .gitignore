@@ -1,21 +1,22 @@
-# Ignore miscellenous ipynb-related files and folders
+# Miscellanous ipynb-related files and folders
 .ipynb_checkpoints
 *.ipynb_checkpoints
 *.pyc
 __pycache__
 
-# Ignore csv files
+# Generated files
 *.csv
 *.tsv
 *.xlsx
 *.xls
+# *.txt
 
-# Ignore environment files
+# Environment files and variables
 *.env
 *.venv
 env/
 venv/
 
-# Ignore log files
+# Log files
 *.log
 logs/
