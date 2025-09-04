@@ -507,7 +507,7 @@ def update_alert_log(extracted_data):
                 
                 return len(unique_records)
             else:
-                print(f"⏭️ All {len(new_records)} records were duplicates - no new data added")
+                print(f"⏭️ All {len(new_records)} records were duplicates - no new data saved")
                 return 0
                 
         else:
@@ -521,173 +521,91 @@ def update_alert_log(extracted_data):
         return 0
 
 
-# def get_match_stats_soccerdata(home_team, away_team, league=None, season="2024-25"):
-#     """
-#     Extract match statistics using SoccerData library from multiple sources
-#     Returns dictionary with comprehensive match stats
-#     """
-#     if not SOCCERDATA_AVAILABLE:
-#         print("❌ SoccerData library not available")
-#         return None
-
-#     stats_data = {
-#         'attempts_home': 0, 'attempts_away': 0,
-#         'on_target_home': 0, 'on_target_away': 0,
-#         'corners_home': 0, 'corners_away': 0,
-#         'l5g_home_gf': 0, 'l5g_home_ga': 0,
-#         'l5g_away_gf': 0, 'l5g_away_ga': 0,
-#         'possession_home': 0, 'possession_away': 0,
-#         'passes_home': 0, 'passes_away': 0,
-#         'data_source': 'soccerdata'
-#     }
-
-#     try:
-#         print(f"🔍 Using SoccerData for: {home_team} vs {away_team}")
-
-#         # Try FotMob first (good for live match stats)
-#         try:
-#             fotmob = sd.FotMob()
-
-#             # Search for recent matches involving these teams
-#             home_matches = fotmob.read_team_match_stats(team=home_team, stat_type="match")
-#             away_matches = fotmob.read_team_match_stats(team=away_team, stat_type="match")
-
-#             # Find the match between these two teams
-#             recent_match = None
-#             if not home_matches.empty and not away_matches.empty:
-#                 # Look for recent head-to-head match
-#                 for idx, match in home_matches.iterrows():
-#                     if away_team.lower() in str(match).lower():
-#                         recent_match = match
-#                         break
-
-#             if recent_match is not None:
-#                 # Extract basic stats (structure depends on FotMob data format)
-#                 stats_data['attempts_home'] = getattr(recent_match, 'shots_home', 0) or 0
-#                 stats_data['attempts_away'] = getattr(recent_match, 'shots_away', 0) or 0
-#                 stats_data['on_target_home'] = getattr(recent_match, 'shots_on_target_home', 0) or 0
-#                 stats_data['on_target_away'] = getattr(recent_match, 'shots_on_target_away', 0) or 0
-#                 stats_data['corners_home'] = getattr(recent_match, 'corners_home', 0) or 0
-#                 stats_data['corners_away'] = getattr(recent_match, 'corners_away', 0) or 0
-
-#                 print("✅ Extracted stats from FotMob")
-#                 return stats_data
-
-#         except Exception as e:
-#             print(f"⚠️ FotMob failed: {e}")
-
-#         # Try SofaScore as fallback
-#         try:
-#             sofascore = sd.Sofascore()
-
-#             # Get recent matches for both teams
-#             home_stats = sofascore.read_team_match_stats(team=home_team)
-#             away_stats = sofascore.read_team_match_stats(team=away_team)
-
-#             # Process the data similar to FotMob
-#             if not home_stats.empty or not away_stats.empty:
-#                 print("✅ Extracted stats from SofaScore via SoccerData")
-#                 return stats_data
-
-#         except Exception as e:
-#             print(f"⚠️ SofaScore failed: {e}")
-
-#         # Try FBref for team statistics (season-long stats)
-#         try:
-#             fbref = sd.FBref()
-
-#             # Get team stats for the season
-#             if league:
-#                 team_stats = fbref.read_team_season_stats(stat_type="standard")
-
-#                 # Extract relevant team stats
-#                 home_team_stats = team_stats[team_stats.index.get_level_values('team').str.contains(home_team, case=False, na=False)]
-#                 away_team_stats = team_stats[team_stats.index.get_level_values('team').str.contains(away_team, case=False, na=False)]
-
-#                 if not home_team_stats.empty and not away_team_stats.empty:
-#                     # Extract season averages as proxy
-#                     stats_data['l5g_home_gf'] = int(home_team_stats['goals_for'].iloc[0] / 5) if 'goals_for' in home_team_stats.columns else 0
-#                     stats_data['l5g_home_ga'] = int(home_team_stats['goals_against'].iloc[0] / 5) if 'goals_against' in home_team_stats.columns else 0
-#                     stats_data['l5g_away_gf'] = int(away_team_stats['goals_for'].iloc[0] / 5) if 'goals_for' in away_team_stats.columns else 0
-#                     stats_data['l5g_away_ga'] = int(away_team_stats['goals_against'].iloc[0] / 5) if 'goals_against' in away_team_stats.columns else 0
-
-#                     print("✅ Extracted stats from FBref")
-#                     return stats_data
-
-#         except Exception as e:
-#             print(f"⚠️ FBref failed: {e}")
-
-#         print("⚠️ No stats found via SoccerData")
-#         return stats_data
-
-#     except Exception as e:
-#         print(f"❌ SoccerData extraction failed: {e}")
-#         return stats_data
-
-
-# def update_csv_with_soccerdata(csv_filename, league=None):
-#     """
-#     Update existing CSV file with SoccerData statistics (alternative to manual scraping)
-#     """
-#     if not SOCCERDATA_AVAILABLE:
-#         print("❌ SoccerData library not available. Install with: pip install soccerdata")
-#         return None
-
-#     try:
-#         # Read existing CSV
-#         df = pd.read_csv(csv_filename)
-#         print(f"📖 Reading {len(df)} matches from {csv_filename}")
-
-#         # Add new columns if they don't exist
-#         new_columns = ['attempts_home', 'attempts_away', 'on_target_home', 'on_target_away',
-#                       'corners_home', 'corners_away', 'l5g_home_gf', 'l5g_home_ga',
-#                       'l5g_away_gf', 'l5g_away_ga', 'possession_home', 'possession_away',
-#                       'passes_home', 'passes_away', 'data_source']
-
-#         for col in new_columns:
-#             if col not in df.columns:
-#                 df[col] = 0
-
-#         # Process each match using SoccerData
-#         for index, row in df.iterrows():
-#             home_team = row['home-team']
-#             away_team = row['away-team']
-#             title = row['title']
-
-#             print(f"🔍 Processing with SoccerData: {title}")
-
-#             # Get stats using SoccerData
-#             stats = get_match_stats_soccerdata(home_team, away_team, league)
-
-#             if stats:
-#                 # Update DataFrame with stats
-#                 for stat_key, stat_value in stats.items():
-#                     if stat_key in df.columns:
-#                         df.at[index, stat_key] = stat_value
-
-#                 print(f"✅ Updated stats for {title}")
-#             else:
-#                 print(f"⚠️ No stats found for {title}")
-
-#             # Add delay to be respectful
-#             time.sleep(1)
-
-#         # Save updated CSV
-#         updated_filename = csv_filename.replace('.csv', '_with_soccerdata.csv')
-#         df.to_csv(updated_filename, index=False)
-
-#         print(f"💾 Updated CSV saved as: {updated_filename}")
-#         print(f"📊 Processed {len(df)} matches with SoccerData")
-
-#         return updated_filename
-
-#     except Exception as e:
-#         print(f"❌ Error updating CSV with SoccerData: {e}")
-#         return None
-
-#     except Exception as e:
-#         print(f"❌ Error searching Google for {match_title}: {e}")
-#         return None
+def generate_stats_prompts(extracted_data, output_file='stats_prompts.txt'):
+    """
+    Generates statistical analysis prompts for each match in extracted_data
+    and saves them to a text file for easy copy/paste
+    
+    Args:
+        extracted_data (list): List of dictionaries containing match data from scrape_sb_live()
+        output_file (str): Name of the output text file (default: 'stats_prompts.txt')
+    
+    Returns:
+        int: Number of prompts generated
+    """
+    
+    # Check if extracted_data is empty
+    if not extracted_data:
+        print("📝 No matches found - no prompts to generate.")
+        return 0
+    
+    # Get current date for the prompts (format: YYYY-MM-DD)
+    current_date = datetime.now().strftime('%Y-%m-%d')
+    
+    # Prompt template
+    prompt_template = """Provide the following stats for the last 5 matches of both teams in the football match {home_team} vs {away_team} played on {date} (format: YYYY-MM-DD):
+* Average number of goals scored by {home_team} in the last 5 matches
+* Average number of goals conceded by {home_team} in the last 5 matches
+* Total number of goals scored by {home_team} in the last 5 matches
+* Total number of goals conceded by {home_team} in the last 5 matches
+* Total season stats for {home_team} (games played, games won, games drawn, games lost, goals scored and conceded, if available)
+* Average number of goals scored by {away_team} in the last 5 matches
+* Average number of goals conceded by {away_team} in the last 5 matches
+* Total number of goals scored by {away_team} in the last 5 matches
+* Total number of goals conceded by {away_team} in the last 5 matches
+* Total season stats for {away_team} (games played, games won, games drawn, games lost, goals scored and conceded, if available)
+Provide live stats (shots on target, off target, corners) for {home_team} vs {away_team} on {date}. 
+Calculate over 0.5 goals probability using Poisson model from last 5 match averages.
+List only these stats for each team, in this order, with no additional text. Use 'N/A' if data is unavailable."""
+    
+    try:
+        # Generate prompts for all matches
+        all_prompts = []
+        
+        for i, match in enumerate(extracted_data, 1):
+            home_team = match['home-team']
+            away_team = match['away-team']
+            
+            # Generate the prompt for this match
+            prompt = prompt_template.format(
+                home_team=home_team,
+                away_team=away_team,
+                date=current_date
+            )
+            
+            # Add separator and match info for clarity
+            match_header = f"\n{'='*80}\nMATCH {i}: {home_team} vs {away_team} (0 goals at HT)\n{'='*80}\n"
+            full_prompt = match_header + prompt
+            
+            all_prompts.append(full_prompt)
+        
+        # Write all prompts to file
+        with open(output_file, 'w', encoding='utf-8') as f:
+            # Add file header with timestamp
+            timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            file_header = f"FOOTBALL STATS PROMPTS - Generated on {timestamp}\n"
+            file_header += f"Total matches: {len(extracted_data)}\n"
+            file_header += "="*80 + "\n"
+            
+            f.write(file_header)
+            
+            # Write all prompts
+            for prompt in all_prompts:
+                f.write(prompt)
+                f.write("\n\n")  # Add spacing between prompts
+            
+            # Add footer
+            footer = f"\n{'='*80}\nEND OF PROMPTS - {len(extracted_data)} matches total\n{'='*80}"
+            f.write(footer)
+        
+        # print(f"📝 Generated {len(extracted_data)} stat prompts and saved to '{output_file}'")
+        # print(f"💾 File size: {os.path.getsize(output_file)} bytes")
+        
+        return len(extracted_data)
+        
+    except Exception as e:
+        print(f"❌ Error generating prompts: {e}")
+        return 0
 
 
 def display_results(filename=None):
