@@ -63,6 +63,20 @@ def scrape_sb_live():
     # Headers to mimic a real browser
     headers = get_random_headers()
 
+    # Test for blocks with a quick HTTP request
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        print(f"Response status: {response.status_code}")
+        if response.status_code in [403, 429]:
+            print("❌ Blocked: Rate limit or IP ban detected")
+            return []
+        if not response.text.strip() or "blocked" in response.text.lower():
+            print("❌ Blocked: Empty response or block page detected")
+            return []
+    except requests.exceptions.RequestException as e:
+        print(f"❌ HTTP check failed: {e}")
+        return []
+
     # print("🌐 Fetching data...")
 
     try:
@@ -87,6 +101,8 @@ def scrape_sb_live():
 
         # print("🛠️ Initializing browser...")
         driver.get(url)
+
+        time.sleep(random.uniform(1, 3))  # Random delay to mimic human behavior
 
         # Wait for JS to load (adjust timeout if needed; 10 seconds should suffice for this site)
         driver.implicitly_wait(10)
