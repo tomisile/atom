@@ -301,7 +301,7 @@ def scrape_sb_today():
     # Test for blocks with a quick HTTP request
     try:
         response = requests.get(url, headers=headers, timeout=10)
-        print(f"Response status: {response.status_code}")
+        # print(f"Response status: {response.status_code}")
         if response.status_code in [403, 429]:
             print("❌ Blocked: Rate limit or IP ban detected")
             return []
@@ -334,7 +334,7 @@ def scrape_sb_today():
 
         driver.get(url)
 
-        time.sleep(random.uniform(1, 3))  # Random delay to mimic human behavior
+        # time.sleep(random.uniform(1, 3))  # Random delay to mimic human behavior
 
         # Wait for JS to load (adjust timeout if needed; 10 seconds should suffice for this site)
         driver.implicitly_wait(10)
