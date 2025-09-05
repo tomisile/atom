@@ -63,19 +63,19 @@ def scrape_sb_live():
     # Headers to mimic a real browser
     headers = get_random_headers()
 
-    # Test for blocks with a quick HTTP request
-    try:
-        response = requests.get(url, headers=headers, timeout=10)
-        print(f"Response status: {response.status_code}")
-        if response.status_code in [403, 429]:
-            print("❌ Blocked: Rate limit or IP ban detected")
-            return []
-        if not response.text.strip() or "blocked" in response.text.lower():
-            print("❌ Blocked: Empty response or block page detected")
-            return []
-    except requests.exceptions.RequestException as e:
-        print(f"❌ HTTP check failed: {e}")
-        return []
+    # # Test for blocks with a quick HTTP request
+    # try:
+    #     response = requests.get(url, headers=headers, timeout=10)
+    #     print(f"Response status: {response.status_code}")
+    #     if response.status_code in [403, 429]:
+    #         print("❌ Blocked: Rate limit or IP ban detected")
+    #         return []
+    #     if not response.text.strip() or "blocked" in response.text.lower():
+    #         print("❌ Blocked: Empty response or block page detected")
+    #         return []
+    # except requests.exceptions.RequestException as e:
+    #     print(f"❌ HTTP check failed: {e}")
+    #     return []
 
     # print("🌐 Fetching data...")
 
@@ -102,7 +102,8 @@ def scrape_sb_live():
         # print("🛠️ Initializing browser...")
         driver.get(url)
 
-        time.sleep(random.uniform(1, 3))  # Random delay to mimic human behavior
+        # Random delay to mimic human behavior
+        time.sleep(random.uniform(1, 3))
 
         # Wait for JS to load (adjust timeout if needed; 10 seconds should suffice for this site)
         driver.implicitly_wait(10)
@@ -254,7 +255,7 @@ def scrape_sb_live():
                     #     print(f"👀⭐ Watchlist event: {home_team} vs {away_team}")
                     # else:
                     #     print(f"👀 0-goal HT event: {home_team} vs {away_team}")
-                
+
                 # Matches with 1 total goals at HT
                 if total_goals == 1 and is_halftime:
                     new_match_data = {
@@ -298,19 +299,19 @@ def scrape_sb_today():
     # Headers to mimic a real browser
     headers = get_random_headers()
 
-    # Test for blocks with a quick HTTP request
-    try:
-        response = requests.get(url, headers=headers, timeout=10)
-        # print(f"Response status: {response.status_code}")
-        if response.status_code in [403, 429]:
-            print("❌ Blocked: Rate limit or IP ban detected")
-            return []
-        if not response.text.strip() or "blocked" in response.text.lower():
-            print("❌ Blocked: Empty response or block page detected")
-            return []
-    except requests.exceptions.RequestException as e:
-        print(f"❌ HTTP check failed: {e}")
-        return []
+    # # Test for blocks with a quick HTTP request
+    # try:
+    #     response = requests.get(url, headers=headers, timeout=10)
+    #     # print(f"Response status: {response.status_code}")
+    #     if response.status_code in [403, 429]:
+    #         print("❌ Blocked: Rate limit or IP ban detected")
+    #         return []
+    #     if not response.text.strip() or "blocked" in response.text.lower():
+    #         print("❌ Blocked: Empty response or block page detected")
+    #         return []
+    # except requests.exceptions.RequestException as e:
+    #     print(f"❌ HTTP check failed: {e}")
+    #     return []
 
     try:
         # Set up headless Chrome
@@ -480,26 +481,26 @@ def save_to_csv(data, filename=None):
 def update_alert_log(extracted_data):
     """
     Updates alerts_log.csv with new match data while avoiding duplicates
-    
+
     Args:
         extracted_data (list): List of dictionaries containing match data from scrape_sb_live()
-    
+
     Returns:
         int: Number of new records added
     """
-    
+
     # Define the CSV file path
     csv_file = 'alerts_log.csv'
-    
+
     # Get current date and time
     current_date = datetime.now().strftime('%d-%m-%y')
     current_time = datetime.now().strftime('%H:%M')
-    
+
     # Check if extracted_data is empty
     if not extracted_data:
         # print("📝 No new data to add to alerts log.")
         return 0
-    
+
     # Prepare new data with additional columns
     new_records = []
     for match in extracted_data:
@@ -514,54 +515,57 @@ def update_alert_log(extracted_data):
             'ft_goals': 'unknown'
         }
         new_records.append(new_record)
-    
+
     # Create DataFrame from new records
     new_df = pd.DataFrame(new_records)
-    
+
     try:
         # Check if the CSV file exists
         if os.path.exists(csv_file):
             # Load existing data
             existing_df = pd.read_csv(csv_file)
-            
+
             # Get existing titles to check for duplicates
             existing_titles = set(existing_df['title'].tolist())
-            
+
             # Filter out duplicates from new data
             unique_records = []
             duplicate_count = 0
-            
+
             for record in new_records:
                 if record['title'] not in existing_titles:
                     unique_records.append(record)
                 else:
                     duplicate_count += 1
-            
+
             if unique_records:
                 # Create DataFrame from unique records
                 unique_df = pd.DataFrame(unique_records)
-                
+
                 # Append unique records to existing data
-                updated_df = pd.concat([existing_df, unique_df], ignore_index=True)
-                
+                updated_df = pd.concat(
+                    [existing_df, unique_df], ignore_index=True)
+
                 # Save updated data back to CSV
                 updated_df.to_csv(csv_file, index=False)
-                
-                print(f"📝 Added {len(unique_records)} new records to alerts_log.csv")
+
+                print(
+                    f"📝 Added {len(unique_records)} new records to alerts_log.csv")
                 if duplicate_count > 0:
                     print(f"⏭️ Skipped {duplicate_count} duplicate records")
-                
+
                 return len(unique_records)
             else:
-                print(f"⏭️ All {len(new_records)} records were duplicates - no new data saved")
+                print(
+                    f"⏭️ All {len(new_records)} records were duplicates - no new data saved")
                 return 0
-                
+
         else:
             # File doesn't exist, create new one with headers
             new_df.to_csv(csv_file, index=False)
             # print(f"📝 Created new alerts_log.csv with {len(new_records)} records")
             return len(new_records)
-            
+
     except Exception as e:
         # print(f"❌ Error updating alerts_log.csv: {e}")
         return 0
@@ -571,23 +575,23 @@ def generate_stats_prompts(extracted_data, output_file='stats_prompts.txt'):
     """
     Generates statistical analysis prompts for each match in extracted_data
     and saves them to a text file for easy copy/paste
-    
+
     Args:
         extracted_data (list): List of dictionaries containing match data from scrape_sb_live()
         output_file (str): Name of the output text file (default: 'stats_prompts.txt')
-    
+
     Returns:
         int: Number of prompts generated
     """
-    
+
     # Check if extracted_data is empty
     if not extracted_data:
         print("📝 No matches found - no prompts to generate.")
         return 0
-    
+
     # Get current date for the prompts (format: YYYY-MM-DD)
     current_date = datetime.now().strftime('%Y-%m-%d')
-    
+
     # Prompt template
     prompt_template = """Provide the following stats for the last 5 matches of both teams in the football match {home_team} vs {away_team} played on {date} (format: YYYY-MM-DD):
 * Average number of goals scored by {home_team} in the last 5 matches
@@ -603,28 +607,28 @@ def generate_stats_prompts(extracted_data, output_file='stats_prompts.txt'):
 Provide live stats (shots on target, off target, corners) for {home_team} vs {away_team} on {date}. 
 Calculate over 0.5 goals probability using Poisson model from last 5 match averages.
 List only these stats for each team, in this order, with no additional text. Use 'N/A' if data is unavailable."""
-    
+
     try:
         # Generate prompts for all matches
         all_prompts = []
-        
+
         for i, match in enumerate(extracted_data, 1):
             home_team = match['home-team']
             away_team = match['away-team']
-            
+
             # Generate the prompt for this match
             prompt = prompt_template.format(
                 home_team=home_team,
                 away_team=away_team,
                 date=current_date
             )
-            
+
             # Add separator and match info for clarity
             match_header = f"\n{'='*80}\nMATCH {i}: {home_team} vs {away_team} (0 goals at HT)\n{'='*80}\n"
             full_prompt = match_header + prompt
-            
+
             all_prompts.append(full_prompt)
-        
+
         # Write all prompts to file
         with open(output_file, 'w', encoding='utf-8') as f:
             # Add file header with timestamp
@@ -632,23 +636,23 @@ List only these stats for each team, in this order, with no additional text. Use
             file_header = f"FOOTBALL STATS PROMPTS - Generated on {timestamp}\n"
             file_header += f"Total matches: {len(extracted_data)}\n"
             file_header += "="*80 + "\n"
-            
+
             f.write(file_header)
-            
+
             # Write all prompts
             for prompt in all_prompts:
                 f.write(prompt)
                 f.write("\n\n")  # Add spacing between prompts
-            
+
             # Add footer
             footer = f"\n{'='*80}\nEND OF PROMPTS - {len(extracted_data)} matches total\n{'='*80}"
             f.write(footer)
-        
+
         # print(f"📝 Generated {len(extracted_data)} stat prompts and saved to '{output_file}'")
         # print(f"💾 File size: {os.path.getsize(output_file)} bytes")
-        
+
         return len(extracted_data)
-        
+
     except Exception as e:
         print(f"❌ Error generating prompts: {e}")
         return 0
