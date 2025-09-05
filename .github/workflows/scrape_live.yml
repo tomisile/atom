@@ -67,7 +67,7 @@ jobs:
           git pull --rebase origin main
           if [ -f alerts_log.csv ]; then
             git add alerts_log.csv
-            git commit -m "chore: update alerts_log.csv with live scrape results [Run ${{ github.run_number }}]" || true
+            git commit -f -m "chore: update alerts_log.csv with live scrape results [Run ${{ github.run_number }}]" || true
             git push origin main
           else
             echo "⚠️ alerts_log.csv not found, skipping commit"
