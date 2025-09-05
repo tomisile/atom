@@ -239,9 +239,9 @@ main() {
     # Truncate output if too long
     truncated_output=$(truncate_output "$python_output" 3000)
     
-    # Check if output contains 👀 emoji
-    if [[ $python_output == *"👀"* ]]; then
-        log_message "Output contains 👀 emoji, sending to Slack"
+    # Check if output contains 👀 or 💡 emoji
+    if [[ $python_output == *"👀"* || $python_output == *"💡"* ]]; then
+        log_message "Output contains 👀 or 💡 emoji, sending to Slack"
         # Send to Slack based on success/failure
         if [[ $python_exit_code -eq 0 ]]; then
             if send_to_slack "$truncated_output" "true"; then

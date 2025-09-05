@@ -136,6 +136,7 @@ def scrape_sb_live():
         first_half_matches = 0
         second_half_matches = 0
         zero_goal_matches = 0
+        one_goal_matches = 0
 
         # # Load watchlist CSV
         # try:
@@ -221,7 +222,7 @@ def scrape_sb_live():
                 except (ValueError, IndexError):
                     continue
 
-                # Only include matches with 0 total goals at HT
+                # Matches with 0 total goals at HT
                 if total_goals == 0 and is_halftime:
                     match_data = {
                         'title': title,
@@ -237,6 +238,18 @@ def scrape_sb_live():
                     #     print(f"👀⭐ Watchlist event: {home_team} vs {away_team}")
                     # else:
                     #     print(f"👀 0-goal HT event: {home_team} vs {away_team}")
+                
+                # Matches with 1 total goals at HT
+                if total_goals == 1 and is_halftime:
+                    new_match_data = {
+                        'title': title,
+                        'home-team': home_team,
+                        'away-team': away_team,
+                        'ht_goals': total_goals
+                    }
+                    extracted_data.append(new_match_data)
+                    one_goal_matches += 1
+                    print(f"| 💡 1aHT: {home_team} vs {away_team} |")
 
             except Exception as e:
                 print(f"⚠️ Error processing match: {e}")
@@ -246,7 +259,8 @@ def scrape_sb_live():
         # print(f"   - Total events found: {len(matches)}")
         print(
             f"   - HT: {halftime_matches}, H1: {first_half_matches}, H2: {second_half_matches}")
-        print(f"   - 0 at HT: {zero_goal_matches}")
+        print(f"   - 0aHT: {zero_goal_matches}")
+        print(f"   - 1aHT: {one_goal_matches}")
 
         return extracted_data
 
