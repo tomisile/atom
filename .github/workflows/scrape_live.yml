@@ -5,6 +5,9 @@ on:
     - cron: '0/9 6-22 * * *' # Runs every 9 minutes from 7 AM to 11 PM (WAT)
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   scrape_live_data:
     runs-on: ubuntu-latest
