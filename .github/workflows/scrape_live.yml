@@ -11,6 +11,8 @@ permissions:
 jobs:
   scrape_live_data:
     runs-on: ubuntu-latest
+    env:
+      TZ: Africa/Lagos
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
