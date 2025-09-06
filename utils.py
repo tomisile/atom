@@ -489,8 +489,8 @@ def update_alert_log(extracted_data):
         int: Number of new records added
     """
 
-    # Define the CSV file path
-    csv_file = 'alerts_log.csv'
+    # Define the CSV file path (default to 'alerts_log.csv' if not set in env)
+    csv_file = os.getenv('ALERT_LOG_FILE', 'alerts_log.csv')
 
     # Get current date and time
     current_date = datetime.now().strftime('%d-%m-%y')
