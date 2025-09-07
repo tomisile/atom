@@ -354,7 +354,7 @@ def scrape_sb_today():
 
         while True:
             page_count += 1
-            print(f"📄 Processing page {page_count}...")
+            # print(f"📄 Processing page {page_count}...")
             time.sleep(random.uniform(1, 3))
 
             # Get page source and clean it before parsing
@@ -819,7 +819,7 @@ def check_and_navigate_pagination(driver):
             except NoSuchElementException:
                 continue
 
-        print("📄 No more pages available")
+        # print("📄 No more pages available")
         return False
 
     except Exception as e:
@@ -1058,63 +1058,64 @@ def update_alerts_with_final_scores():
     """
     Creates a copy of alerts_log.csv and updates it with final scores from results.csv
     Matches records based on date and title
-    
+
     Returns:
         str: Path to the updated file, or None if error
     """
-    
+
     # Define file paths
     alerts_log_file = os.getenv('ALERT_LOG_FILE', 'alerts_log.csv')
     results_file = 'results.csv'
-    
+
     # Create output filename with timestamp
     current_time = datetime.now().strftime('%d-%m-%y-%H-%M-%S')
     output_file = f"alerts_final_{current_time}.csv"
-    
+
     try:
         # Load alerts_log.csv
         if not os.path.exists(alerts_log_file):
             print(f"❌ {alerts_log_file} not found")
             return None
-            
+
         alerts_df = pd.read_csv(alerts_log_file)
-        
+
         # Load results.csv
         if not os.path.exists(results_file):
             print(f"❌ {results_file} not found")
             return None
-            
+
         results_df = pd.read_csv(results_file)
-        
+
         # Add ft_goals column to alerts_df if it doesn't exist
         if 'ft_goals' not in alerts_df.columns:
             alerts_df['ft_goals'] = ''
-            
+
         # Add criteria_met column if it doesn't exist
         if 'criteria_met' not in alerts_df.columns:
             alerts_df['criteria_met'] = 'unknown'
-        
+
         # Update alerts_df with ft_goals from results_df
         matches_found = 0
         for idx, alert_row in alerts_df.iterrows():
             # Try to find matching row in results based on team names
             # Since results.csv uses home_team/away_team and alerts uses home-team/away-team
             matching_result = results_df[
-                (results_df['home_team'] == alert_row['home-team']) & 
+                (results_df['home_team'] == alert_row['home-team']) &
                 (results_df['away_team'] == alert_row['away-team'])
             ]
-            
+
             if not matching_result.empty:
                 result_row = matching_result.iloc[0]
                 alerts_df.at[idx, 'ft_goals'] = result_row['ft_goals']
                 matches_found += 1
-        
+
         # Save the updated dataframe to new file
         alerts_df.to_csv(output_file, index=False, quoting=3, escapechar='\\')
-        
-        print(f"📝 Created {output_file} with {matches_found} final scores updated")
+
+        print(
+            f"📝 Created {output_file} with {matches_found} final scores updated")
         return output_file
-        
+
     except Exception as e:
         print(f"❌ Error creating final scores file: {e}")
         return None
@@ -1124,33 +1125,33 @@ def backfill_tournament_and_odds():
     """
     Backfills existing alerts_log.csv records with tournament and odds data from today.csv
     Updates records where tournament data is missing
-    
+
     Returns:
         int: Number of records updated
     """
-    
+
     # Define file paths
     alerts_log_file = os.getenv('ALERT_LOG_FILE', 'alerts_log.csv')
     today_csv = 'today.csv'
-    
+
     try:
         # Load both files
         if not os.path.exists(alerts_log_file):
             print(f"❌ {alerts_log_file} not found")
             return 0
-            
+
         if not os.path.exists(today_csv):
             print(f"❌ {today_csv} not found")
             return 0
-            
+
         alerts_df = pd.read_csv(alerts_log_file)
         today_df = pd.read_csv(today_csv)
-        
+
         # Add missing columns if they don't exist
         for col in ['tournament', 'pre-match_odds_home', 'pre-match_odds_draw', 'pre-match_odds_away']:
             if col not in alerts_df.columns:
                 alerts_df[col] = ''
-        
+
         # Update records
         updates_made = 0
         for idx, alert_row in alerts_df.iterrows():
@@ -1158,27 +1159,33 @@ def backfill_tournament_and_odds():
             if pd.isna(alert_row.get('tournament')) or alert_row.get('tournament') == '':
                 # Find matching record in today.csv
                 matching_row = today_df[
-                    (today_df['date'] == alert_row['date']) & 
+                    (today_df['date'] == alert_row['date']) &
                     (today_df['title'] == alert_row['title'])
                 ]
-                
+
                 if not matching_row.empty:
                     match = matching_row.iloc[0]
-                    alerts_df.at[idx, 'tournament'] = match.get('tournament', '')
-                    alerts_df.at[idx, 'pre-match_odds_home'] = match.get('pre-match_odds_home', '')
-                    alerts_df.at[idx, 'pre-match_odds_draw'] = match.get('pre-match_odds_draw', '')
-                    alerts_df.at[idx, 'pre-match_odds_away'] = match.get('pre-match_odds_away', '')
+                    alerts_df.at[idx, 'tournament'] = match.get(
+                        'tournament', '')
+                    alerts_df.at[idx, 'pre-match_odds_home'] = match.get(
+                        'pre-match_odds_home', '')
+                    alerts_df.at[idx, 'pre-match_odds_draw'] = match.get(
+                        'pre-match_odds_draw', '')
+                    alerts_df.at[idx, 'pre-match_odds_away'] = match.get(
+                        'pre-match_odds_away', '')
                     updates_made += 1
-        
+
         # Save updated file
         if updates_made > 0:
-            alerts_df.to_csv(alerts_log_file, index=False, quoting=3, escapechar='\\')
-            print(f"📝 Backfilled {updates_made} records with tournament and odds data")
+            alerts_df.to_csv(alerts_log_file, index=False,
+                             quoting=3, escapechar='\\')
+            print(
+                f"📝 Backfilled {updates_made} records with tournament and odds data")
         else:
             print("📝 No records needed backfilling")
-            
+
         return updates_made
-        
+
     except Exception as e:
         print(f"❌ Error backfilling data: {e}")
         return 0
