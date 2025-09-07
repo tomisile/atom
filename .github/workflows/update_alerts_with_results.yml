@@ -32,7 +32,7 @@ jobs:
       - name: Scrape results from the previous day
         id: update_results
         run: |
-          python results.py
+          python results.py > output.txt
           echo "script_output<<EOF" >> $GITHUB_OUTPUT
           cat output.txt >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT

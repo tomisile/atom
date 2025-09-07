@@ -150,7 +150,7 @@ def scrape_sb_live():
         # Find all matches with the correct class structure
         matches = soup.find_all(
             'div', class_='m-table-row m-content-row match-row football-row')
-        print(f"Found {len(matches)} ongoing events")
+        # print(f"Found {len(matches)} ongoing events")
 
         extracted_data = []
         halftime_matches = 0
@@ -733,7 +733,7 @@ def select_date(driver, target_date):
         target_date: Date string in format "05/09/2025"
     """
     try:
-        print(f"🗓️ Attempting to select date: {target_date}")
+        # print(f"🗓️ Attempting to select date: {target_date}")
 
         # Wait for the date dropdown to be present
         wait = WebDriverWait(driver, 20)
@@ -776,10 +776,10 @@ def select_date(driver, target_date):
         for option in date_options:
             try:
                 option_text = option.text.strip()
-                print(f"🔍 Found date option: '{option_text}'")
+                # print(f"🔍 Found date option: '{option_text}'")
 
                 if target_date in option_text:
-                    print(f"✅ Selecting date: {target_date}")
+                    # print(f"✅ Selecting date: {target_date}")
                     driver.execute_script("arguments[0].click();", option)
                     time.sleep(3)  # Wait for page to reload with new date
                     return True
@@ -812,7 +812,7 @@ def check_and_navigate_pagination(driver):
             try:
                 next_button = driver.find_element(By.CSS_SELECTOR, selector)
                 if next_button and "icon-disabled" not in next_button.get_attribute("class"):
-                    print("📄 Navigating to next page...")
+                    # print("📄 Navigating to next page...")
                     driver.execute_script("arguments[0].click();", next_button)
                     time.sleep(3)  # Wait for page to load
                     return True
@@ -843,7 +843,7 @@ def extract_match_data(soup):
 
         # Find all tournament blocks (dl elements)
         tournament_blocks = result_section.find_all("dl", class_="list")
-        print(f"🏆 Found {len(tournament_blocks)} tournament blocks")
+        # print(f"🏆 Found {len(tournament_blocks)} tournament blocks")
 
         for block in tournament_blocks:
             try:
@@ -966,7 +966,7 @@ def scrape_sb_results(target_date):
     all_matches = []
 
     try:
-        print(f"🚀 Starting scraper for date: {target_date}")
+        # print(f"🚀 Starting scraper for date: {target_date}")
 
         # Set up headless Chrome
         chrome_options = Options()
@@ -984,7 +984,7 @@ def scrape_sb_results(target_date):
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=chrome_options)
 
-        print("🌐 Loading sb page...")
+        # print("🌐 Loading sb page...")
         driver.get(url)
 
         # Wait for initial page load
