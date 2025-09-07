@@ -1,0 +1,75 @@
+name: Update alerts log with ft results
+
+on:
+  schedule:
+    - cron: '30 5 * * *' # Runs every day at 6:30 AM (WAT)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape_result_data:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Africa/Lagos
+      RESULT_LOG_FILE: remote_results.csv
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python environment
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Scrape results from the previous day
+        id: update_results
+        run: |
+          python results.py
+          echo "script_output<<EOF" >> $GITHUB_OUTPUT
+          cat output.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+      
+      - name: Send Slack notification
+        if: success()
+        uses: slackapi/slack-github-action@v2
+        with:
+          method: chat.postMessage
+          token: ${{ secrets.SLACK_BOT_TOKEN }}
+          payload: |
+            {
+              "channel": "${{ vars.GENERAL_SLACK_CHANNEL_ID }}",
+              "username": "aTom_yml",
+              "icon_emoji": ":cloud:",
+              "text": ":repeat: Updated results from yesterday",
+              "blocks": [
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "${{ steps.update_results.outputs.script_output }}"
+                  }
+                }
+              ]
+            }
+          
+      - name: Commit alerts log to repository
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          if [ -f "$RESULT_LOG_FILE" ]; then
+            git add -f "$RESULT_LOG_FILE"
+            git commit -m "chore: pull results data from the previous day [Run ${{ github.run_number }}]" || true
+            git push origin main
+          else
+            echo "⚠️ $RESULT_LOG_FILE not found, skipping commit"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
