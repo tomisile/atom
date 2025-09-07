@@ -268,6 +268,8 @@ def scrape_sb_live():
                         'title': title,
                         'home-team': home_team,
                         'away-team': away_team,
+                        'home_ht_goals': home_score,
+                        'away_ht_goals': away_score,
                         'ht_goals': total_goals
                     }
                     extracted_data.append(new_match_data)
