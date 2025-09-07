@@ -1,347 +1,169 @@
 date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-match_odds_draw,pre-match_odds_away
-07-09-25,17:00,Lithuania vs Netherlands,International World Cup Qualification UEFA,39691,Lithuania,Netherlands,34.00,11.50,1.07
-07-09-25,17:00,North Macedonia vs Liechtenstein,International World Cup Qualification UEFA,24336,North Macedonia,Liechtenstein,1.06,12.00,41.00
-07-09-25,19:45,Belgium vs Kazakhstan,International World Cup Qualification UEFA,38546,Belgium,Kazakhstan,1.06,12.50,36.00
-07-09-25,19:45,Germany vs Northern Ireland,International World Cup Qualification UEFA,28608,Germany,Northern Ireland,1.17,7.40,17.00
-07-09-25,19:45,Luxembourg vs Slovakia,International World Cup Qualification UEFA,30128,Luxembourg,Slovakia,5.00,3.33,1.81
-07-09-25,19:45,Poland vs Finland,International World Cup Qualification UEFA,26246,Poland,Finland,1.51,4.20,6.70
-07-09-25,19:45,Turkey vs Spain,International World Cup Qualification UEFA,26222,Turkey,Spain,5.50,4.50,1.55
-07-09-25,17:00,Central African Republic vs Comoros,"International World Cup, Qualification CAF",28629,Central African Republic,Comoros,5.10,3.50,1.74
-07-09-25,16:15,Qatar vs Russia,International Int. Friendly Games,16556,Qatar,Russia,4.90,3.60,1.74
-07-09-25,15:15,Burgos CF vs Las Palmas,Spain LaLiga 2,19542,Burgos CF,Las Palmas,2.60,3.10,2.85
-07-09-25,15:15,Real Sociedad San Sebastian B vs Cadiz,Spain LaLiga 2,19849,Real Sociedad San Sebastian B,Cadiz,3.40,3.10,2.30
-07-09-25,17:30,Almeria vs Racing Santander,Spain LaLiga 2,25621,Almeria,Racing Santander,1.72,4.00,4.40
-07-09-25,17:30,Cultural Leonesa vs Leganes,Spain LaLiga 2,29106,Cultural Leonesa,Leganes,3.20,3.20,2.30
-07-09-25,16:30,SG Sacavenense vs Rabo de Peixe,Portugal Taca de Portugal,45056,SG Sacavenense,Rabo de Peixe,1.61,4.10,5.00
-07-09-25,00:00,Sporting Kansas City vs Austin FC,USA MLS,20642,Sporting Kansas City,Austin FC,2.39,3.75,2.90
-07-09-25,16:00,Enyimba vs Nasarawa United,Nigeria Premier League,25702,Enyimba,Nasarawa United,1.37,3.75,9.60
-07-09-25,16:00,Kwara United vs Kun Khalifat FC,Nigeria Premier League,26041,Kwara United,Kun Khalifat FC,,,
-07-09-25,16:00,Niger Tornadoes FC vs Bayelsa United FC,Nigeria Premier League,27070,Niger Tornadoes FC,Bayelsa United FC,2.05,3.00,3.60
-07-09-25,16:00,Shooting Stars vs Ikorodu City,Nigeria Premier League,27163,Shooting Stars,Ikorodu City,1.51,3.60,6.30
-07-09-25,20:00,Criciuma EC SC vs Chapecoense SC,Brazil Brasileiro Serie B,15608,Criciuma EC SC,Chapecoense SC,1.95,3.20,4.25
-07-09-25,22:30,America FC MG vs Operario Ferroviario EC PR,Brazil Brasileiro Serie B,28718,America FC MG,Operario Ferroviario EC PR,2.00,3.10,4.10
-07-09-25,00:30,Avai FC SC vs Goias EC GO,Brazil Brasileiro Serie B,26974,Avai FC SC,Goias EC GO,2.20,3.10,3.60
-07-09-25,00:00,Deportes Limache vs Deportes La Serena,Chile Copa Chile,26808,Deportes Limache,Deportes La Serena,1.97,3.50,3.50
+07-09-25,19:45,Belgium vs Kazakhstan,International World Cup Qualification UEFA,38546,Belgium,Kazakhstan,1.06,13.00,37.00
+07-09-25,19:45,Germany vs Northern Ireland,International World Cup Qualification UEFA,28608,Germany,Northern Ireland,1.17,7.40,16.50
+07-09-25,19:45,Luxembourg vs Slovakia,International World Cup Qualification UEFA,30128,Luxembourg,Slovakia,5.10,3.40,1.78
+07-09-25,19:45,Poland vs Finland,International World Cup Qualification UEFA,26246,Poland,Finland,1.49,4.30,6.90
+07-09-25,19:45,Turkey vs Spain,International World Cup Qualification UEFA,26222,Turkey,Spain,5.70,4.50,1.53
+07-09-25,17:30,Almeria vs Racing Santander,Spain LaLiga 2,25621,Almeria,Racing Santander,1.78,3.90,4.10
+07-09-25,17:30,Cultural Leonesa vs Leganes,Spain LaLiga 2,29106,Cultural Leonesa,Leganes,2.85,3.10,2.55
+07-09-25,00:00,Sporting Kansas City vs Austin FC,USA MLS,20642,Sporting Kansas City,Austin FC,2.35,3.86,2.90
+07-09-25,20:00,Criciuma EC SC vs Chapecoense SC,Brazil Brasileiro Serie B,15608,Criciuma EC SC,Chapecoense SC,2.05,3.10,4.00
+07-09-25,22:30,America FC MG vs Operario Ferroviario EC PR,Brazil Brasileiro Serie B,28718,America FC MG,Operario Ferroviario EC PR,2.10,3.10,3.90
+07-09-25,00:30,Avai FC SC vs Goias EC GO,Brazil Brasileiro Serie B,26974,Avai FC SC,Goias EC GO,2.15,3.00,3.75
+07-09-25,00:00,Deportes Limache vs Deportes La Serena,Chile Copa Chile,26808,Deportes Limache,Deportes La Serena,2.05,3.40,3.30
 07-09-25,20:00,Envigado FC vs Aguilas Doradas Rionegro,"Colombia Primera A, Clausura",36043,Envigado FC,Aguilas Doradas Rionegro,2.95,2.90,2.60
 07-09-25,22:10,America de Cali vs AD Cali,"Colombia Primera A, Clausura",30438,America de Cali,AD Cali,1.70,3.33,5.40
-07-09-25,00:20,Independiente Medellin vs Atletico Nacional Medellin,"Colombia Primera A, Clausura",35062,Independiente Medellin,Atletico Nacional Medellin,2.75,2.90,2.75
+07-09-25,00:20,Independiente Medellin vs Atletico Nacional Medellin,"Colombia Primera A, Clausura",35062,Independiente Medellin,Atletico Nacional Medellin,2.75,2.95,2.70
 07-09-25,19:00,Cobresal vs CD Palestino,Chile Primera Division,21035,Cobresal,CD Palestino,2.55,3.33,2.60
-07-09-25,19:00,Costa Brava de General Pico vs Kimberley de Mar Del Plata,Argentina Torneo Federal A,12731,Costa Brava de General Pico,Kimberley de Mar Del Plata,1.73,3.30,5.00
-07-09-25,19:00,CS Estudiantes San Luis vs Germinal,Argentina Torneo Federal A,34324,CS Estudiantes San Luis,Germinal,2.15,3.10,3.50
-07-09-25,19:00,Guillermo Brown vs CA Juventud Unida Universitario San Luis,Argentina Torneo Federal A,34336,Guillermo Brown,CA Juventud Unida Universitario San Luis,2.05,2.95,3.90
-07-09-25,19:30,CA Bartolome Mitre vs Linqueno,Argentina Torneo Federal A,33513,CA Bartolome Mitre,Linqueno,2.00,3.10,3.90
-07-09-25,19:30,Sp. Belgrano de S. F. vs CA Sarmiento de la Banda,Argentina Torneo Federal A,29363,Sp. Belgrano de S. F.,CA Sarmiento de la Banda,1.80,3.20,4.70
-07-09-25,19:30,Sportivo General San Martin vs Gimnasia de Chivilcoy,Argentina Torneo Federal A,33731,Sportivo General San Martin,Gimnasia de Chivilcoy,1.72,3.20,5.30
-07-09-25,20:00,Gimnasia Y Esgrima vs Def. de Belgrano de Villa Ramallo,Argentina Torneo Federal A,20663,Gimnasia Y Esgrima,Def. de Belgrano de Villa Ramallo,1.66,3.25,5.90
-07-09-25,20:00,Huracan Las Heras vs CD Santamarina Tandil,Argentina Torneo Federal A,44462,Huracan Las Heras,CD Santamarina Tandil,2.05,2.95,3.90
-07-09-25,20:00,San Martin de Mendoza vs Gutierrez SC,Argentina Torneo Federal A,34757,San Martin de Mendoza,Gutierrez SC,1.28,5.00,10.00
-07-09-25,20:00,Sportivo Las Parejas vs Club Sportivo Ben Hur,Argentina Torneo Federal A,34776,Sportivo Las Parejas,Club Sportivo Ben Hur,1.74,3.30,4.90
-07-09-25,20:30,Sportivo Y Biblioteca Atenas vs Cipolletti,Argentina Torneo Federal A,22607,Sportivo Y Biblioteca Atenas,Cipolletti,2.45,2.80,3.20
+07-09-25,19:00,Costa Brava de General Pico vs Kimberley de Mar Del Plata,Argentina Torneo Federal A,12731,Costa Brava de General Pico,Kimberley de Mar Del Plata,1.79,3.10,5.00
+07-09-25,19:00,CS Estudiantes San Luis vs Germinal,Argentina Torneo Federal A,34324,CS Estudiantes San Luis,Germinal,2.15,3.00,3.50
+07-09-25,19:00,Guillermo Brown vs CA Juventud Unida Universitario San Luis,Argentina Torneo Federal A,34336,Guillermo Brown,CA Juventud Unida Universitario San Luis,2.10,2.90,3.75
+07-09-25,19:30,CA Bartolome Mitre vs Linqueno,Argentina Torneo Federal A,33513,CA Bartolome Mitre,Linqueno,1.96,3.10,4.00
+07-09-25,19:30,Sp. Belgrano de S. F. vs CA Sarmiento de la Banda,Argentina Torneo Federal A,29363,Sp. Belgrano de S. F.,CA Sarmiento de la Banda,1.84,3.10,4.80
+07-09-25,19:30,Sportivo General San Martin vs Gimnasia de Chivilcoy,Argentina Torneo Federal A,33731,Sportivo General San Martin,Gimnasia de Chivilcoy,1.73,3.25,5.10
+07-09-25,20:00,Gimnasia Y Esgrima vs Def. de Belgrano de Villa Ramallo,Argentina Torneo Federal A,20663,Gimnasia Y Esgrima,Def. de Belgrano de Villa Ramallo,1.52,3.50,7.20
+07-09-25,20:00,Huracan Las Heras vs CD Santamarina Tandil,Argentina Torneo Federal A,44462,Huracan Las Heras,CD Santamarina Tandil,2.10,2.95,3.80
+07-09-25,20:00,San Martin de Mendoza vs Gutierrez SC,Argentina Torneo Federal A,34757,San Martin de Mendoza,Gutierrez SC,1.29,4.90,9.90
+07-09-25,20:00,Sportivo Las Parejas vs Club Sportivo Ben Hur,Argentina Torneo Federal A,34776,Sportivo Las Parejas,Club Sportivo Ben Hur,1.79,3.25,4.60
+07-09-25,20:30,Sportivo Y Biblioteca Atenas vs Cipolletti,Argentina Torneo Federal A,22607,Sportivo Y Biblioteca Atenas,Cipolletti,2.40,2.80,3.25
 07-09-25,21:05,Atletico de Rafaela vs CA 9 de Julio Rafaela,Argentina Torneo Federal A,33599,Atletico de Rafaela,CA 9 de Julio Rafaela,1.64,3.33,5.75
-07-09-25,15:00,Royal Knokke FC vs Lommel SK,Belgium Beker van Belgie,10725,Royal Knokke FC,Lommel SK,5.25,4.30,1.51
-07-09-25,16:30,AS Giana Erminio vs Pro Patria Busto Arsizio,"Italy Serie C, Group A",39009,AS Giana Erminio,Pro Patria Busto Arsizio,2.05,3.00,3.90
-07-09-25,16:30,LR Vicenza vs FC Arzignano Valchiampo,"Italy Serie C, Group A",30989,LR Vicenza,FC Arzignano Valchiampo,1.57,3.70,5.80
-07-09-25,15:30,US Citta Di Fasano vs Afragolese 1944,"Italy Serie D, Group H",29183,US Citta Di Fasano,Afragolese 1944,1.37,4.60,6.60
-07-09-25,16:00,Virtus Francavilla Calcio vs Barletta Calcio,"Italy Serie D, Group H",37584,Virtus Francavilla Calcio,Barletta Calcio,2.05,3.30,3.20
-07-09-25,15:00,Vigor Lamezia vs ASD Citta di Acireale 1946,"Italy Serie D, Group I",44484,Vigor Lamezia,ASD Citta di Acireale 1946,2.25,3.10,3.00
 07-09-25,21:00,Oakland Roots SC vs Pittsburgh Riverhounds,USA USL Championship,16042,Oakland Roots SC,Pittsburgh Riverhounds,3.30,3.10,2.20
 07-09-25,20:00,Columbus Crew 2 vs Inter Miami CF II,USA MLS Next Pro,31829,Columbus Crew 2,Inter Miami CF II,1.71,4.40,3.70
 07-09-25,22:00,Cucuta Deportivo FC vs CD Real Santander,Colombia Primera B,25315,Cucuta Deportivo FC,CD Real Santander,1.31,4.75,9.30
-07-09-25,23:00,Real Cartagena FC vs Barranquilla FC,Colombia Primera B,34964,Real Cartagena FC,Barranquilla FC,1.31,5.00,8.50
+07-09-25,23:00,Real Cartagena FC vs Barranquilla FC,Colombia Primera B,34964,Real Cartagena FC,Barranquilla FC,1.29,5.10,9.00
 07-09-25,00:00,Spokane Velocity FC vs Westchester SC,USA USL League One,37072,Spokane Velocity FC,Westchester SC,1.53,4.20,5.30
-07-09-25,16:30,CD Antofagasta vs Santiago Morning,Chile Primera B,17683,CD Antofagasta,Santiago Morning,2.10,3.30,3.30
 07-09-25,19:00,CD Santa Cruz vs Deportes Magallanes,Chile Primera B,18400,CD Santa Cruz,Deportes Magallanes,2.40,3.20,2.90
 07-09-25,21:30,Deportes Concepcion vs CD Cobreloa Calama,Chile Primera B,25492,Deportes Concepcion,CD Cobreloa Calama,2.45,3.00,2.95
-07-09-25,15:00,CA Cerro vs Cerro Largo FC,Uruguay Primera Division,24251,CA Cerro,Cerro Largo FC,2.90,2.95,2.60
 07-09-25,19:30,CA Progreso vs Miramar Misiones,Uruguay Primera Division,24814,CA Progreso,Miramar Misiones,2.15,3.25,3.40
 07-09-25,22:00,Club Nacional de Football vs Racing Club Montevideo,Uruguay Primera Division,35532,Club Nacional de Football,Racing Club Montevideo,1.52,4.10,5.80
 07-09-25,00:30,Montevideo City Torque vs Liverpool Montevideo,Uruguay Primera Division,35551,Montevideo City Torque,Liverpool Montevideo,2.05,3.25,3.60
-07-09-25,15:45,Alfaro CD vs Sestao River Club,Spain Segunda Federacion,29790,Alfaro CD,Sestao River Club,2.65,3.10,2.30
-07-09-25,16:00,Bergantinos FC vs Salamanca CF UDS,Spain Segunda Federacion,39576,Bergantinos FC,Salamanca CF UDS,2.15,2.95,3.10
-07-09-25,16:00,SD Logrones vs SD Eibar B,Spain Segunda Federacion,40277,SD Logrones,SD Eibar B,2.30,2.70,3.10
-07-09-25,17:00,Atletic Lleida CE vs Torrent CF,Spain Segunda Federacion,32998,Atletic Lleida CE,Torrent CF,2.30,2.75,3.00
-07-09-25,17:00,Naxara CD vs CD Ebro,Spain Segunda Federacion,40312,Naxara CD,CD Ebro,2.55,2.80,2.65
-07-09-25,17:00,UP Langreo vs Coruxo FC,Spain Segunda Federacion,40282,UP Langreo,Coruxo FC,2.50,2.85,2.65
-07-09-25,17:30,CD Quintanar del Rey vs CF Intercity,Spain Segunda Federacion,34385,CD Quintanar del Rey,CF Intercity,3.30,3.10,2.00
+07-09-25,17:30,CD Quintanar del Rey vs CF Intercity,Spain Segunda Federacion,34385,CD Quintanar del Rey,CF Intercity,2.90,3.00,2.20
 07-09-25,17:45,Reus FC Reddis vs Girona FC B,Spain Segunda Federacion,39289,Reus FC Reddis,Girona FC B,2.20,3.00,2.90
-07-09-25,18:00,CD Alcoyano vs Valencia CF Mestalla,Spain Segunda Federacion,34386,CD Alcoyano,Valencia CF Mestalla,1.88,3.00,3.70
-07-09-25,18:00,CD Extremadura vs MALAGA B,Spain Segunda Federacion,41078,CD Extremadura,MALAGA B,2.10,2.85,3.33
-07-09-25,18:00,CD Tudelano vs SD Beasain,Spain Segunda Federacion,40329,CD Tudelano,SD Beasain,2.15,2.85,3.10
+07-09-25,18:00,CD Alcoyano vs Valencia CF Mestalla,Spain Segunda Federacion,34386,CD Alcoyano,Valencia CF Mestalla,1.84,3.10,3.80
+07-09-25,18:00,CD Extremadura vs MALAGA B,Spain Segunda Federacion,41078,CD Extremadura,MALAGA B,2.00,2.95,3.40
+07-09-25,18:00,CD Tudelano vs SD Beasain,Spain Segunda Federacion,40329,CD Tudelano,SD Beasain,2.20,2.90,3.00
 07-09-25,18:00,Utebo FC vs CD Basconia,Spain Segunda Federacion,40314,Utebo FC,CD Basconia,1.96,3.10,3.33
 07-09-25,18:30,Orihuela CF vs CF Fuenlabrada,Spain Segunda Federacion,34413,Orihuela CF,CF Fuenlabrada,2.10,2.85,3.33
 07-09-25,19:00,CA Antoniano vs FC La Union Atletico,Spain Segunda Federacion,26524,CA Antoniano,FC La Union Atletico,2.95,2.50,2.50
 07-09-25,19:00,Xerez Deportivo FC vs Club Deportiva Minera,Spain Segunda Federacion,41084,Xerez Deportivo FC,Club Deportiva Minera,2.35,2.90,2.80
-07-09-25,15:00,AD Machico vs SC Mirandela,Portugal Campeonato de Portugal,24073,AD Machico,SC Mirandela,1.95,3.33,3.50
-07-09-25,15:00,GD Lagoa vs Louletano DC,Portugal Campeonato de Portugal,25057,GD Lagoa,Louletano DC,3.80,3.50,1.82
-07-09-25,17:00,AD Cantolao vs CDU San Martin,Peru Liga 2,38514,AD Cantolao,CDU San Martin,3.25,3.20,2.10
-07-09-25,21:00,Comerciantes FC vs FC San Marcos,Peru Liga 2,25692,Comerciantes FC,FC San Marcos,1.52,3.60,6.10
+07-09-25,21:00,Comerciantes FC vs FC San Marcos,Peru Liga 2,25692,Comerciantes FC,FC San Marcos,1.56,3.50,5.80
 07-09-25,00:00,Tepatitlan FC vs Leones Negros UDEG,"Mexico Liga de Expansion MX, Apertura",16707,Tepatitlan FC,Leones Negros UDEG,2.00,3.50,3.40
-07-09-25,17:00,Shelbourne FC vs Galway United FC,Ireland Premier Division,31343,Shelbourne FC,Galway United FC,1.90,3.30,4.20
-07-09-25,15:00,CA Osasuna B vs Ourense CF,Spain Primera Federacion,42887,CA Osasuna B,Ourense CF,1.69,3.40,4.60
-07-09-25,17:15,Atletico Sanluqueno vs CE Sabadell FC,Spain Primera Federacion,43500,Atletico Sanluqueno,CE Sabadell FC,2.90,2.85,2.45
-07-09-25,17:15,CD Arenteiro vs Unionistas de Salamanca CF,Spain Primera Federacion,42890,CD Arenteiro,Unionistas de Salamanca CF,2.45,2.90,2.90
-07-09-25,17:15,Real Murcia CF vs Juventud Torremolinos CF,Spain Primera Federacion,34541,Real Murcia CF,Juventud Torremolinos CF,1.49,3.60,6.50
-07-09-25,18:15,Gimnasia Y Esgrima Mendoza vs Gimnasia y Esgrima de Jujuy,Argentina Primera Nacional,12242,Gimnasia Y Esgrima Mendoza,Gimnasia y Esgrima de Jujuy,2.00,2.70,4.80
+07-09-25,18:15,Gimnasia Y Esgrima Mendoza vs Gimnasia y Esgrima de Jujuy,Argentina Primera Nacional,12242,Gimnasia Y Esgrima Mendoza,Gimnasia y Esgrima de Jujuy,1.92,2.75,5.10
 07-09-25,20:00,Mitre Santiago Del Estero vs CA Defensores de Belgrano,Argentina Primera Nacional,27783,Mitre Santiago Del Estero,CA Defensores de Belgrano,2.15,2.70,4.00
-07-09-25,20:15,Deportivo Madryn vs Club Atletico Los Andes,Argentina Primera Nacional,38006,Deportivo Madryn,Club Atletico Los Andes,1.60,3.33,6.40
-07-09-25,21:00,Central Norte Salta vs Agropecuario Argentino,Argentina Primera Nacional,35447,Central Norte Salta,Agropecuario Argentino,2.20,2.90,3.60
+07-09-25,20:15,Deportivo Madryn vs Club Atletico Los Andes,Argentina Primera Nacional,38006,Deportivo Madryn,Club Atletico Los Andes,1.63,3.30,6.20
+07-09-25,21:00,Central Norte Salta vs Agropecuario Argentino,Argentina Primera Nacional,35447,Central Norte Salta,Agropecuario Argentino,2.25,2.85,3.50
 07-09-25,22:00,Racing de Cordoba vs CA Patronato Parana,Argentina Primera Nacional,39935,Racing de Cordoba,CA Patronato Parana,2.20,2.85,3.60
 07-09-25,23:00,CA Chaco For Ever vs Chacarita Juniors,Argentina Primera Nacional,38007,CA Chaco For Ever,Chacarita Juniors,2.05,2.80,4.25
-07-09-25,15:30,FK Dinamo Jug vs FK Usce Novi Beograd,Serbia Prva Liga,35457,FK Dinamo Jug,FK Usce Novi Beograd,2.25,2.95,2.90
-07-09-25,15:30,FK Fap vs FK Trayal Krusevac,Serbia Prva Liga,20155,FK Fap,FK Trayal Krusevac,2.00,3.10,3.25
 07-09-25,19:00,FK Vozdovac Belgrade vs FK Tekstilac Odzaci,Serbia Prva Liga,35463,FK Vozdovac Belgrade,FK Tekstilac Odzaci,1.44,3.70,6.00
-07-09-25,15:00,Deportivo Maldonado vs Atletico Fenix Montevideo,Uruguay Segunda Division,42279,Deportivo Maldonado,Atletico Fenix Montevideo,2.35,2.90,3.10
 07-09-25,19:00,Uruguay Montevideo FC vs CA Artigas,Uruguay Segunda Division,41391,Uruguay Montevideo FC,CA Artigas,2.05,3.10,3.50
 07-09-25,19:30,CA Rentistas vs Tacuarembo FC,Uruguay Segunda Division,41416,CA Rentistas,Tacuarembo FC,2.10,3.10,3.33
-07-09-25,15:00,Assyriska FF vs IF Karlstad Fotbol,"Sweden Ettan, Norra",24799,Assyriska FF,IF Karlstad Fotbol,3.00,3.70,2.10
-07-09-25,15:00,Ariana FC vs Skovde AIK,"Sweden Ettan, Sodra",22359,Ariana FC,Skovde AIK,1.48,4.40,5.50
-07-09-25,15:00,BK Olympic vs Jonkopings Sodra IF,"Sweden Ettan, Sodra",40134,BK Olympic,Jonkopings Sodra IF,3.25,3.33,2.10
 07-09-25,19:30,Argentino de Rosario vs CA Atlas,Argentina Primera C,39951,Argentino de Rosario,CA Atlas,1.58,3.80,5.75
 07-09-25,19:30,General Lamadrid vs Club Estrella Del Sur (Alejandro Korn),Argentina Primera C,28565,General Lamadrid,Club Estrella Del Sur (Alejandro Korn),2.20,2.90,3.60
-07-09-25,00:00,Municipal Liberia vs Sporting FC,"Costa Rica Primera Division, Apertura",32371,Municipal Liberia,Sporting FC,1.85,3.40,4.10
-07-09-25,17:00,SD Compostela vs CD BARCO,"Spain Amateur Tercera Federacion, Group 1",32342,SD Compostela,CD BARCO,1.47,3.70,6.60
-07-09-25,18:00,Arosa SC vs Silva SD,"Spain Amateur Tercera Federacion, Group 1",36752,Arosa SC,Silva SD,1.60,3.60,5.10
-07-09-25,16:00,Atletico Onubense vs Cordoba CF B,"Spain Amateur Tercera Federacion, Group 10",13040,Atletico Onubense,Cordoba CF B,2.60,2.85,2.75
+07-09-25,00:00,Municipal Liberia vs Sporting FC,"Costa Rica Primera Division, Apertura",32371,Municipal Liberia,Sporting FC,1.81,3.50,4.20
+07-09-25,18:00,Arosa SC vs Silva SD,"Spain Amateur Tercera Federacion, Group 1",36752,Arosa SC,Silva SD,1.67,3.40,4.80
 07-09-25,18:00,Bollullos CF vs Club Atletico Central,"Spain Amateur Tercera Federacion, Group 10",45109,Bollullos CF,Club Atletico Central,2.30,2.90,3.10
 07-09-25,18:00,CD Ciudad de Lucena vs CD Utrera,"Spain Amateur Tercera Federacion, Group 10",30310,CD Ciudad de Lucena,CD Utrera,1.80,3.20,4.40
 07-09-25,18:00,CD San Roque de Lepe vs Coria CF,"Spain Amateur Tercera Federacion, Group 10",45110,CD San Roque de Lepe,Coria CF,1.99,3.00,3.75
 07-09-25,18:00,UD Tomares vs Castilleja CF,"Spain Amateur Tercera Federacion, Group 10",45111,UD Tomares,Castilleja CF,1.73,3.20,4.90
 07-09-25,18:00,CD Binissalem vs CE Santanyi,"Spain Amateur Tercera Federacion, Group 11",40365,CD Binissalem,CE Santanyi,2.35,2.85,3.10
-07-09-25,17:00,CD Cieza vs UD Caravaca,"Spain Amateur Tercera Federacion, Group 13",28110,CD Cieza,UD Caravaca,1.36,4.40,7.25
-07-09-25,17:15,SFC Minerva vs Mazarron FC,"Spain Amateur Tercera Federacion, Group 13",44537,SFC Minerva,Mazarron FC,2.75,2.95,2.50
 07-09-25,17:30,Olimpico Totana vs Atletico Santa Cruz,"Spain Amateur Tercera Federacion, Group 13",41050,Olimpico Totana,Atletico Santa Cruz,2.20,3.10,3.10
 07-09-25,18:00,CD Bala Azul vs CF Santomera,"Spain Amateur Tercera Federacion, Group 13",30810,CD Bala Azul,CF Santomera,2.65,3.00,2.60
-07-09-25,18:00,Muleno CF vs Aguilas FC B,"Spain Amateur Tercera Federacion, Group 13",36003,Muleno CF,Aguilas FC B,4.20,3.30,1.79
+07-09-25,18:00,Muleno CF vs Aguilas FC B,"Spain Amateur Tercera Federacion, Group 13",36003,Muleno CF,Aguilas FC B,3.90,3.20,1.89
 07-09-25,18:00,Cp Montehermoso vs CF Jaraiz,"Spain Amateur Tercera Federacion, Group 14",19304,Cp Montehermoso,CF Jaraiz,3.10,3.20,2.15
-07-09-25,16:30,CDFC La Calzada vs SD Oyonesa,"Spain Amateur Tercera Federacion, Group 16",24374,CDFC La Calzada,SD Oyonesa,2.25,3.10,3.00
-07-09-25,16:30,CD Belchite 97 vs CD Binefar,"Spain Amateur Tercera Federacion, Group 17",44673,CD Belchite 97,CD Binefar,2.90,2.85,2.45
-07-09-25,17:00,CD La Almunia vs CD Zuera,"Spain Amateur Tercera Federacion, Group 17",15703,CD La Almunia,CD Zuera,2.10,2.95,3.50
 07-09-25,17:30,CF Atletico de Monzon vs SD Huesca B,"Spain Amateur Tercera Federacion, Group 17",44676,CF Atletico de Monzon,SD Huesca B,2.05,3.10,3.50
-07-09-25,18:00,Andorra CF vs CD Caspe,"Spain Amateur Tercera Federacion, Group 17",36035,Andorra CF,CD Caspe,3.75,2.90,2.05
+07-09-25,18:00,Andorra CF vs CD Caspe,"Spain Amateur Tercera Federacion, Group 17",36035,Andorra CF,CD Caspe,3.50,2.80,2.20
 07-09-25,18:00,CD Pedroneras vs CF La Solana,"Spain Amateur Tercera Federacion, Group 18",11792,CD Pedroneras,CF La Solana,1.97,2.95,3.90
-07-09-25,16:30,CD Tuilla vs Aviles Stadium CF,"Spain Amateur Tercera Federacion, Group 2",18724,CD Tuilla,Aviles Stadium CF,2.10,3.10,3.40
-07-09-25,16:30,El San Martin Ra vs Real Titanico FC,"Spain Amateur Tercera Federacion, Group 2",16073,El San Martin Ra,Real Titanico FC,2.15,3.00,3.25
-07-09-25,16:45,CD Praviano vs Sporting Atletico,"Spain Amateur Tercera Federacion, Group 2",24390,CD Praviano,Sporting Atletico,4.00,3.60,1.75
-07-09-25,17:00,Caudal Deportivo vs UC Ceares,"Spain Amateur Tercera Federacion, Group 2",24655,Caudal Deportivo,UC Ceares,1.33,4.40,8.40
-07-09-25,17:30,CD Covadonga vs UD Llanera,"Spain Amateur Tercera Federacion, Group 2",41035,CD Covadonga,UD Llanera,2.30,3.40,2.70
-07-09-25,17:30,Club Siero vs CD Mosconia,"Spain Amateur Tercera Federacion, Group 2",40966,Club Siero,CD Mosconia,6.25,3.80,1.47
-07-09-25,16:00,Castro FC vs CF Vimenor,"Spain Amateur Tercera Federacion, Group 3",40952,Castro FC,CF Vimenor,2.30,3.25,2.85
-07-09-25,16:00,CD Laredo vs CD Guarnizo,"Spain Amateur Tercera Federacion, Group 3",45072,CD Laredo,CD Guarnizo,1.53,3.80,5.50
+07-09-25,17:30,CD Covadonga vs UD Llanera,"Spain Amateur Tercera Federacion, Group 2",41035,CD Covadonga,UD Llanera,2.35,3.30,2.70
+07-09-25,17:30,Club Siero vs CD Mosconia,"Spain Amateur Tercera Federacion, Group 2",40966,Club Siero,CD Mosconia,5.70,3.70,1.52
 07-09-25,17:30,CD Cayon vs UM Escobedo,"Spain Amateur Tercera Federacion, Group 3",41041,CD Cayon,UM Escobedo,2.40,3.30,2.65
-07-09-25,17:00,CD Derio vs CD San Ignacio,"Spain Amateur Tercera Federacion, Group 4",45060,CD Derio,CD San Ignacio,2.20,2.95,3.25
-07-09-25,17:00,Cerdanyola del Valles vs CF Montanesa,"Spain Amateur Tercera Federacion, Group 5",36595,Cerdanyola del Valles,CF Montanesa,2.25,3.00,3.10
-07-09-25,17:00,CF Peralada vs CF Badalona,"Spain Amateur Tercera Federacion, Group 5",38651,CF Peralada,CF Badalona,2.45,3.20,2.65
 07-09-25,18:00,CE Europa B vs UE Vilassar de Mar,"Spain Amateur Tercera Federacion, Group 5",43572,CE Europa B,UE Vilassar de Mar,1.85,3.33,3.90
 07-09-25,18:00,FE Grama vs FC L Escala,"Spain Amateur Tercera Federacion, Group 5",34159,FE Grama,FC L Escala,2.05,3.10,3.33
-07-09-25,17:00,CD Soneja vs UD Alzira,"Spain Amateur Tercera Federacion, Group 6",32549,CD Soneja,UD Alzira,2.15,3.00,3.33
-07-09-25,17:00,Crevillente Deportivo vs FC Jove Espanol San Vicente,"Spain Amateur Tercera Federacion, Group 6",32944,Crevillente Deportivo,FC Jove Espanol San Vicente,2.20,3.00,3.20
 07-09-25,17:30,Atletico Saguntino vs CD Utiel,"Spain Amateur Tercera Federacion, Group 6",33265,Atletico Saguntino,CD Utiel,2.40,2.90,2.95
-07-09-25,17:30,CF Villarreal C vs Recambios Colon CF,"Spain Amateur Tercera Federacion, Group 6",20844,CF Villarreal C,Recambios Colon CF,1.56,3.60,5.50
+07-09-25,17:30,CF Villarreal C vs Recambios Colon CF,"Spain Amateur Tercera Federacion, Group 6",20844,CF Villarreal C,Recambios Colon CF,1.55,3.60,5.70
 07-09-25,18:15,UD Castellonense vs Atletico Levante UD,"Spain Amateur Tercera Federacion, Group 6",34337,UD Castellonense,Atletico Levante UD,2.00,3.20,3.50
-07-09-25,15:30,CD Galapagar vs AD Torrejon CF,"Spain Amateur Tercera Federacion, Group 7",42613,CD Galapagar,AD Torrejon CF,2.45,3.00,2.80
-07-09-25,17:30,CF Trival Valderas Alcoron vs AD Parla,"Spain Amateur Tercera Federacion, Group 7",33350,CF Trival Valderas Alcoron,AD Parla,1.96,3.40,3.33
+07-09-25,17:30,CF Trival Valderas Alcoron vs AD Parla,"Spain Amateur Tercera Federacion, Group 7",33350,CF Trival Valderas Alcoron,AD Parla,2.10,3.25,3.20
 07-09-25,18:00,Atletico Madrid C vs RCD Carabanchel,"Spain Amateur Tercera Federacion, Group 7",26508,Atletico Madrid C,RCD Carabanchel,1.73,3.40,4.40
-07-09-25,17:00,CD Guijuelo vs CD Atletico Mansilles,"Spain Amateur Tercera Federacion, Group 8",42752,CD Guijuelo,CD Atletico Mansilles,1.70,3.60,4.30
 07-09-25,18:00,Atletico Porcuna CF vs CD Torreperogil,"Spain Amateur Tercera Federacion, Group 9",30298,Atletico Porcuna CF,CD Torreperogil,2.70,2.90,2.65
-07-09-25,18:30,CF Motril vs CD Huetor Tajar,"Spain Amateur Tercera Federacion, Group 9",40366,CF Motril,CD Huetor Tajar,1.77,3.25,4.40
+07-09-25,18:30,CF Motril vs CD Huetor Tajar,"Spain Amateur Tercera Federacion, Group 9",40366,CF Motril,CD Huetor Tajar,1.75,3.20,4.70
 07-09-25,18:30,Udc Torredonjimeno vs CP Mijas-Las Lagunas,"Spain Amateur Tercera Federacion, Group 9",36126,Udc Torredonjimeno,CP Mijas-Las Lagunas,2.70,3.30,2.35
-07-09-25,15:00,FC Kamaz Naberezhnye Chelny vs Torpedo Moscow,Russia 1. Liga,39639,FC Kamaz Naberezhnye Chelny,Torpedo Moscow,2.85,3.00,2.60
-07-09-25,15:00,FC Shinnik Yaroslavl vs FC Volga Ulyanovsk,Russia 1. Liga,36211,FC Shinnik Yaroslavl,FC Volga Ulyanovsk,2.80,2.95,2.70
-07-09-25,16:00,FC Chernomorets Novorossiysk vs FK Ufa,Russia 1. Liga,39654,FC Chernomorets Novorossiysk,FK Ufa,2.05,3.10,4.00
-07-09-25,16:00,SK Rotor Volgograd vs FC Ska-Khabarovsk,Russia 1. Liga,27123,SK Rotor Volgograd,FC Ska-Khabarovsk,2.25,3.00,3.40
-07-09-25,16:00,FK Varnsdorf vs SK Sokol Brozany,Czechia CFL,30686,FK Varnsdorf,SK Sokol Brozany,2.00,3.60,3.10
-07-09-25,15:00,FBK Karlstad vs Motala AIF FK,"Sweden Division 2, Norra Gotaland",43121,FBK Karlstad,Motala AIF FK,1.56,4.50,4.30
-07-09-25,15:00,Falu BS FK vs Ytterhogdals IK,"Sweden Division 2, Norra Svealand",27115,Falu BS FK,Ytterhogdals IK,1.07,9.20,18.50
-07-09-25,15:00,FC Jarfalla vs FC Gute,"Sweden Division 2, Norra Svealand",20869,FC Jarfalla,FC Gute,1.24,5.80,8.30
-07-09-25,20:00,CS 2 de Mayo vs Club Olimpia,"Paraguay Division de Honor, Clausura",18638,CS 2 de Mayo,Club Olimpia,3.75,3.20,2.00
-07-09-25,15:00,Warta Poznan vs Zaglebie Sosnowiec,Poland II Liga,35739,Warta Poznan,Zaglebie Sosnowiec,2.45,3.50,2.60
-07-09-25,18:30,ZKS Stal Stalowa Wola vs OKS Swit Skolwin Szczecin,Poland II Liga,35767,ZKS Stal Stalowa Wola,OKS Swit Skolwin Szczecin,1.75,3.75,4.10
-07-09-25,17:30,KSZO Ostrowiec Swietokrzyski vs Star Starachowice,"Poland III Liga, Group 4",33877,KSZO Ostrowiec Swietokrzyski,Star Starachowice,1.52,4.20,4.90
-07-09-25,22:00,Herrera FC vs Tauro FC,"Panama Liga Panamena, Clausura",41575,Herrera FC,Tauro FC,3.90,3.10,1.92
+07-09-25,20:00,CS 2 de Mayo vs Club Olimpia,"Paraguay Division de Honor, Clausura",18638,CS 2 de Mayo,Club Olimpia,3.60,3.20,2.05
+07-09-25,18:30,ZKS Stal Stalowa Wola vs OKS Swit Skolwin Szczecin,Poland II Liga,35767,ZKS Stal Stalowa Wola,OKS Swit Skolwin Szczecin,1.85,3.70,3.75
+07-09-25,17:30,KSZO Ostrowiec Swietokrzyski vs Star Starachowice,"Poland III Liga, Group 4",33877,KSZO Ostrowiec Swietokrzyski,Star Starachowice,1.54,4.00,4.90
+07-09-25,22:00,Herrera FC vs Tauro FC,"Panama Liga Panamena, Clausura",41575,Herrera FC,Tauro FC,4.00,2.95,1.96
 07-09-25,00:15,AF Sporting San Miguelito vs CA Independiente de La Chorrera,"Panama Liga Panamena, Clausura",41597,AF Sporting San Miguelito,CA Independiente de La Chorrera,2.70,3.00,2.50
-07-09-25,17:00,Hapoel Hadera FC vs Hapoel Acre FC,Israel National League,44674,Hapoel Hadera FC,Hapoel Acre FC,2.75,3.20,2.50
-07-09-25,17:00,Hapoel Kfar Saba FC vs Bnei Yehuda Tel Aviv FC,Israel National League,44675,Hapoel Kfar Saba FC,Bnei Yehuda Tel Aviv FC,3.60,3.50,1.94
-07-09-25,17:00,Hapoel Kfar Shalem FC vs Hapoel Afula FC,Israel National League,45143,Hapoel Kfar Shalem FC,Hapoel Afula FC,1.53,4.20,5.40
-07-09-25,17:00,MS Football Hapoel Kiryat Yam vs Ironi Modiin,Israel National League,44678,MS Football Hapoel Kiryat Yam,Ironi Modiin,1.78,3.50,4.25
 07-09-25,20:30,Atletico El Vigia vs Heroes de Falcon,Venezuela Segunda Division,30208,Atletico El Vigia,Heroes de Falcon,1.85,3.50,3.70
-07-09-25,20:30,Monagas SC B vs Bolivar SC,Venezuela Segunda Division,32911,Monagas SC B,Bolivar SC,3.60,3.50,1.85
-07-09-25,20:30,Real Frontera FC vs TFC Guanare,Venezuela Segunda Division,32974,Real Frontera FC,TFC Guanare,2.65,3.50,2.30
-07-09-25,20:30,Trujillanos FC vs Barquisimeto SC,Venezuela Segunda Division,33001,Trujillanos FC,Barquisimeto SC,1.84,3.33,3.90
-07-09-25,21:00,Angostura FC vs Mineros de Guayana,Venezuela Segunda Division,33163,Angostura FC,Mineros de Guayana,2.55,2.95,2.70
-07-09-25,21:00,Aragua FC vs Dynamo Puerto FC,Venezuela Segunda Division,33563,Aragua FC,Dynamo Puerto FC,2.45,3.00,2.80
-07-09-25,21:00,Urena SC vs Academia Puerto Cabello B,Venezuela Segunda Division,29173,Urena SC,Academia Puerto Cabello B,2.50,3.25,2.55
-07-09-25,22:00,CS Maritimo de la Guaira vs Deportivo Miranda,Venezuela Segunda Division,33564,CS Maritimo de la Guaira,Deportivo Miranda,2.05,3.20,3.40
-07-09-25,16:00,ND Beltinci vs Krka Novo Mesto,Slovenia 2. Liga,39304,ND Beltinci,Krka Novo Mesto,1.75,3.60,4.00
-07-09-25,16:00,Triglav Kranj vs Nd Slovan,Slovenia 2. Liga,41303,Triglav Kranj,Nd Slovan,1.40,4.60,6.00
-07-09-25,20:30,Floresta EC CE vs SER Caxias do Sul,Brazil Brasileiro Serie C,41453,Floresta EC CE,SER Caxias do Sul,2.70,2.70,2.90
+07-09-25,20:30,Monagas SC B vs Bolivar SC,Venezuela Segunda Division,32911,Monagas SC B,Bolivar SC,2.95,3.40,2.10
+07-09-25,20:30,Real Frontera FC vs TFC Guanare,Venezuela Segunda Division,32974,Real Frontera FC,TFC Guanare,2.80,3.25,2.30
+07-09-25,20:30,Trujillanos FC vs Barquisimeto SC,Venezuela Segunda Division,33001,Trujillanos FC,Barquisimeto SC,1.77,2.90,5.30
+07-09-25,21:00,Angostura FC vs Mineros de Guayana,Venezuela Segunda Division,33163,Angostura FC,Mineros de Guayana,2.95,3.10,2.25
+07-09-25,21:00,Aragua FC vs Dynamo Puerto FC,Venezuela Segunda Division,33563,Aragua FC,Dynamo Puerto FC,2.50,2.90,2.85
+07-09-25,21:00,Urena SC vs Academia Puerto Cabello B,Venezuela Segunda Division,29173,Urena SC,Academia Puerto Cabello B,2.15,3.30,3.00
+07-09-25,22:00,CS Maritimo de la Guaira vs Deportivo Miranda,Venezuela Segunda Division,33564,CS Maritimo de la Guaira,Deportivo Miranda,2.00,3.20,3.50
+07-09-25,20:30,Floresta EC CE vs SER Caxias do Sul,Brazil Brasileiro Serie C,41453,Floresta EC CE,SER Caxias do Sul,2.50,2.75,3.20
 07-09-25,23:00,Brusque FC SC vs Nautico PE,Brazil Brasileiro Serie C,41552,Brusque FC SC,Nautico PE,2.45,2.85,3.10
-07-09-25,18:00,Maccabi Ironi Ashdod FC vs Maccabi Y.,Israel Liga Alef,13267,Maccabi Ironi Ashdod FC,Maccabi Y.,3.50,3.10,2.15
-07-09-25,18:00,Maccabi Ironi Kiryat Malakhi vs Hapoel Nir Ramat Hasharon FC,Israel Liga Alef,34104,Maccabi Ironi Kiryat Malakhi,Hapoel Nir Ramat Hasharon FC,1.79,3.90,3.75
+07-09-25,18:00,Maccabi Ironi Ashdod FC vs Maccabi Y.,Israel Liga Alef,13267,Maccabi Ironi Ashdod FC,Maccabi Y.,3.10,3.00,2.35
+07-09-25,18:00,Maccabi Ironi Kiryat Malakhi vs Hapoel Nir Ramat Hasharon FC,Israel Liga Alef,34104,Maccabi Ironi Kiryat Malakhi,Hapoel Nir Ramat Hasharon FC,1.64,4.40,4.20
 07-09-25,18:00,Quepos Cambute vs Pfa Antioquia FC,"Costa Rica Liga de Ascenso, Apertura",29291,Quepos Cambute,Pfa Antioquia FC,1.85,3.33,4.10
-07-09-25,22:00,CS Uruguay de Coronado vs AD Carmelita,"Costa Rica Liga de Ascenso, Apertura",34993,CS Uruguay de Coronado,AD Carmelita,1.88,3.80,3.50
+07-09-25,22:00,CS Uruguay de Coronado vs AD Carmelita,"Costa Rica Liga de Ascenso, Apertura",34993,CS Uruguay de Coronado,AD Carmelita,1.92,3.70,3.50
 07-09-25,18:00,Aurora FC vs CD Malacateco,Guatemala Liga Nacional. Apertura,14100,Aurora FC,CD Malacateco,2.05,3.10,3.60
 07-09-25,22:00,Deportivo Achuapa vs CSD Xelaju MC,Guatemala Liga Nacional. Apertura,42957,Deportivo Achuapa,CSD Xelaju MC,2.50,2.80,3.10
-07-09-25,22:00,Udelas FC vs CD Bocas FC,Panama Liga Prom,23368,Udelas FC,CD Bocas FC,11.00,6.30,1.17
+07-09-25,22:00,Udelas FC vs CD Bocas FC,Panama Liga Prom,23368,Udelas FC,CD Bocas FC,10.50,5.70,1.21
 07-09-25,00:00,San Martin FC vs Panama City FC,Panama Liga Prom,33835,San Martin FC,Panama City FC,2.25,3.40,2.75
-07-09-25,15:00,SK Polanka Nad Odrou vs SK Unicov,Czechia MSFL,44585,SK Polanka Nad Odrou,SK Unicov,5.10,4.20,1.50
-07-09-25,15:00,Uni Iks Labs vs FC Osipovichi,Belarus Pervaya Liga,17738,Uni Iks Labs,FC Osipovichi,1.51,4.60,5.10
 07-09-25,19:00,Independiente Rivadavia de Mendoza Reserve vs CD Godoy Cruz,"Argentina Primera LPF, Reserves",11602,Independiente Rivadavia de Mendoza Reserve,CD Godoy Cruz,2.25,3.20,2.70
-07-09-25,19:00,San Lorenzo de Almagro Res. vs CA Huracan,"Argentina Primera LPF, Reserves",29938,San Lorenzo de Almagro Res.,CA Huracan,1.94,3.10,3.40
-07-09-25,15:30,NK Croatia Zmijavci vs NK Sesvete,Croatia Prva NL,39788,NK Croatia Zmijavci,NK Sesvete,2.40,3.25,2.65
-07-09-25,19:00,HNK Cibalia Vinkovci vs NK Opatija,Croatia Prva NL,39895,HNK Cibalia Vinkovci,NK Opatija,2.30,3.20,2.80
-07-09-25,15:00,FK Kolomna vs Yenisey 2 Krasnoyarsk,"Russia 2. Liga, Division B, Group 2",24072,FK Kolomna,Yenisey 2 Krasnoyarsk,1.61,3.60,5.00
-07-09-25,16:00,Dinamo Vologda vs FC Irkutsk 2020,"Russia 2. Liga, Division B, Group 2",36267,Dinamo Vologda,FC Irkutsk 2020,2.25,3.00,3.10
-07-09-25,16:30,Sotra SK vs Arendal FK,Norway 2nd Division Group 1,44945,Sotra SK,Arendal FK,2.15,3.50,3.00
-07-09-25,16:00,Tromsdalen UIL vs Hoenefoss BK,Norway 2nd Division Group 2,44939,Tromsdalen UIL,Hoenefoss BK,1.73,4.10,3.80
-07-09-25,22:00,CD Aguila San Miguel vs C.D. Cacahuatique,"El Salvador Primera Division, Apertura",21282,CD Aguila San Miguel,C.D. Cacahuatique,1.55,3.70,5.50
-07-09-25,22:00,CD Fuerte San Francisco Morazan vs AD Isidro Metapan,"El Salvador Primera Division, Apertura",26434,CD Fuerte San Francisco Morazan,AD Isidro Metapan,4.10,3.10,1.89
-07-09-25,22:00,Zacatecoluca FC vs Alianza FC San Salvador,"El Salvador Primera Division, Apertura",29758,Zacatecoluca FC,Alianza FC San Salvador,5.00,2.70,1.88
-07-09-25,20:00,Deportes Naval de Talcahuano vs Quintero Unido FC,Chile Tercera Division,22662,Deportes Naval de Talcahuano,Quintero Unido FC,1.78,3.40,4.10
-07-09-25,15:00,Frigg Oslo FK vs Harstad,Norway 3rd Division Group 1,30738,Frigg Oslo FK,Harstad,1.15,7.40,10.50
-07-09-25,15:00,Ullern vs Sortland IL,Norway 3rd Division Group 1,18102,Ullern,Sortland IL,1.07,10.00,16.00
-07-09-25,22:30,Club 2 de Mayo Reserves vs Olimpia Asuncion Reserves,"Paraguay Primera Division Reserve, Apertura",14535,Club 2 de Mayo Reserves,Olimpia Asuncion Reserves,4.00,3.25,1.84
+07-09-25,19:00,San Lorenzo de Almagro Res. vs CA Huracan,"Argentina Primera LPF, Reserves",29938,San Lorenzo de Almagro Res.,CA Huracan,1.98,3.10,3.33
+07-09-25,19:00,HNK Cibalia Vinkovci vs NK Opatija,Croatia Prva NL,39895,HNK Cibalia Vinkovci,NK Opatija,2.25,3.00,3.00
+07-09-25,22:00,CD Aguila San Miguel vs C.D. Cacahuatique,"El Salvador Primera Division, Apertura",21282,CD Aguila San Miguel,C.D. Cacahuatique,1.56,3.60,5.70
+07-09-25,22:00,CD Fuerte San Francisco Morazan vs AD Isidro Metapan,"El Salvador Primera Division, Apertura",26434,CD Fuerte San Francisco Morazan,AD Isidro Metapan,4.00,3.00,1.94
+07-09-25,22:00,Zacatecoluca FC vs Alianza FC San Salvador,"El Salvador Primera Division, Apertura",29758,Zacatecoluca FC,Alianza FC San Salvador,4.50,2.85,1.91
+07-09-25,22:30,Club 2 de Mayo Reserves vs Olimpia Asuncion Reserves,"Paraguay Primera Division Reserve, Apertura",14535,Club 2 de Mayo Reserves,Olimpia Asuncion Reserves,3.90,3.60,1.77
 07-09-25,23:00,America FC RN vs Santa Cruz FC PE,Brazil Brasileiro Serie D,39655,America FC RN,Santa Cruz FC PE,1.92,3.25,4.00
 07-09-25,19:00,Comercial FC SP vs Sao Jose EC SP,Brazil Copa Paulista,15066,Comercial FC SP,Sao Jose EC SP,3.90,2.40,2.45
-07-09-25,16:30,Asd Pineto Calcio vs US Citta Di Pontedera,"Italy Serie C, Group B",44648,Asd Pineto Calcio,US Citta Di Pontedera,1.94,3.25,3.90
-07-09-25,16:30,Ravenna FC 1913 vs AC Bra,"Italy Serie C, Group B",44652,Ravenna FC 1913,AC Bra,1.56,3.90,5.50
 07-09-25,19:30,Rimini FC 1912 vs Ternana Calcio,"Italy Serie C, Group B",33907,Rimini FC 1912,Ternana Calcio,8.30,4.10,1.39
 07-09-25,19:30,Sambenedettese vs Forli FC,"Italy Serie C, Group B",40429,Sambenedettese,Forli FC,2.30,3.10,3.10
 07-09-25,19:30,US Livorno 1915 vs Guidonia Montecelio 1937 FC,"Italy Serie C, Group B",44623,US Livorno 1915,Guidonia Montecelio 1937 FC,1.74,3.40,4.75
-07-09-25,16:30,Crotone vs Cosenza Calcio,"Italy Serie C, Group C",14069,Crotone,Cosenza Calcio,2.15,3.25,3.25
 07-09-25,19:30,Asd Team Altamura vs Cavese 1919,"Italy Serie C, Group C",44620,Asd Team Altamura,Cavese 1919,2.70,3.00,2.70
-07-09-25,19:30,Audace Cerignola vs SIRACUSA,"Italy Serie C, Group C",44621,Audace Cerignola,SIRACUSA,1.63,3.60,5.25
-07-09-25,19:30,Latina Calcio vs AZ Picerno,"Italy Serie C, Group C",44622,Latina Calcio,AZ Picerno,3.30,3.00,2.25
-07-09-25,14:30,Arnavutkoy Belediyesi Genclik Ve Spor vs 68 Aksaray Belediyespor,Turkiye Amateur 2. Lig,16843,Arnavutkoy Belediyesi Genclik Ve Spor,68 Aksaray Belediyespor,2.60,3.10,2.55
-07-09-25,14:30,Halide Edip Adivarspor vs Adana 1954 FK,Turkiye Amateur 2. Lig,42989,Halide Edip Adivarspor,Adana 1954 FK,2.20,3.25,2.95
-07-09-25,15:00,Aliaga Futbol vs Fethiyespor,Turkiye Amateur 2. Lig,42993,Aliaga Futbol,Fethiyespor,1.51,3.80,5.70
-07-09-25,15:00,Altinordu FK vs 24Erzincanspor,Turkiye Amateur 2. Lig,36304,Altinordu FK,24Erzincanspor,2.50,3.40,2.45
-07-09-25,17:00,Batman Petrolspor vs Iskenderun FK,Turkiye Amateur 2. Lig,26922,Batman Petrolspor,Iskenderun FK,1.24,4.90,10.50
-07-09-25,17:00,Icel Idmanyurdu Spor vs Bursaspor,Turkiye Amateur 2. Lig,27022,Icel Idmanyurdu Spor,Bursaspor,28.00,8.75,1.05
-07-09-25,17:00,Isparta 32 Spor vs Kirklarelispor,Turkiye Amateur 2. Lig,23805,Isparta 32 Spor,Kirklarelispor,1.59,3.50,5.40
-07-09-25,17:00,Karacabey Belediyespor vs Erbaaspor,Turkiye Amateur 2. Lig,26748,Karacabey Belediyespor,Erbaaspor,1.64,3.50,4.90
-07-09-25,17:00,Karaman FK vs Inegolspor,Turkiye Amateur 2. Lig,26198,Karaman FK,Inegolspor,2.15,3.10,3.20
-07-09-25,17:00,MKE Ankaragucu vs Elazigspor,Turkiye Amateur 2. Lig,19623,MKE Ankaragucu,Elazigspor,2.70,3.40,2.30
-07-09-25,17:00,Sanliurfaspor vs Kepez Spor Futbol AS,Turkiye Amateur 2. Lig,26507,Sanliurfaspor,Kepez Spor Futbol AS,1.12,6.70,16.50
-07-09-25,18:00,Muglaspor vs Tuzlaspor,Turkiye Amateur 2. Lig,24561,Muglaspor,Tuzlaspor,1.67,3.40,4.80
-07-09-25,15:00,Arbaer vs Sindri,Iceland 3. deild,44584,Arbaer,Sindri,1.84,4.30,3.10
-07-09-25,15:00,Galata SK vs Edirnespor,"Turkiye Amateur 3. Lig, Group 1",33358,Galata SK,Edirnespor,1.18,5.10,11.00
-07-09-25,15:00,Inegol Kafkas Genclikspor vs Cankaya FK,"Turkiye Amateur 3. Lig, Group 1",25812,Inegol Kafkas Genclikspor,Cankaya FK,2.20,3.10,2.85
-07-09-25,15:00,Inkilap Fsk vs Kucukcekmece Sinop Spor,"Turkiye Amateur 3. Lig, Group 1",31994,Inkilap Fsk,Kucukcekmece Sinop Spor,3.90,3.33,1.74
-07-09-25,17:00,Talasgucu Belediyespor vs Turk Metal 1963,"Turkiye Amateur 3. Lig, Group 2",17261,Talasgucu Belediyespor,Turk Metal 1963,1.70,3.30,4.20
-07-09-25,17:00,52 Orduspor FK vs Karabuk Idmanyurdu Spor,"Turkiye Amateur 3. Lig, Group 3",33739,52 Orduspor FK,Karabuk Idmanyurdu Spor,1.34,4.10,7.20
-07-09-25,17:00,Denizli Idman Yurdu vs Bergama,"Turkiye Amateur 3. Lig, Group 4",33609,Denizli Idman Yurdu,Bergama,2.10,3.10,3.00
-07-09-25,17:00,Eskisehirspor vs Anadolu Universitesi,"Turkiye Amateur 3. Lig, Group 4",30274,Eskisehirspor,Anadolu Universitesi,1.76,3.20,4.00
-07-09-25,17:00,Viven Bornova FK vs Alanya Kestelspor,"Turkiye Amateur 3. Lig, Group 4",17298,Viven Bornova FK,Alanya Kestelspor,2.25,3.00,2.80
-07-09-25,14:30,Fortuna Koln II vs VfL Vichttal,Germany Amateur Mittelrheinliga,31615,Fortuna Koln II,VfL Vichttal,2.75,3.90,2.10
-07-09-25,14:30,Siegburger SV 04 vs SV Bergisch Gladbach 09,Germany Amateur Mittelrheinliga,36761,Siegburger SV 04,SV Bergisch Gladbach 09,1.65,4.25,3.90
-07-09-25,14:30,Teutonia Weiden vs FC Wegberg-Beeck,Germany Amateur Mittelrheinliga,28887,Teutonia Weiden,FC Wegberg-Beeck,4.80,5.20,1.43
-07-09-25,14:30,TUS BW Konigsdorf vs SSV Merten,Germany Amateur Mittelrheinliga,32562,TUS BW Konigsdorf,SSV Merten,4.30,4.30,1.57
-07-09-25,14:30,TuS Ennepetal vs SG Wattenscheid 09,Germany Amateur Oberliga Westfalen,27458,TuS Ennepetal,SG Wattenscheid 09,8.60,5.75,1.24
-07-09-25,15:00,SC Verl II vs SV Westfalia Rhynern,Germany Amateur Oberliga Westfalen,23110,SC Verl II,SV Westfalia Rhynern,5.00,4.90,1.44
-07-09-25,15:00,FC Egg vs SV Lochau,Austria Amateur Eliteliga Vorarlberg,31338,FC Egg,SV Lochau,2.00,3.80,2.70
-07-09-25,15:30,SC Eltersdorf vs Neudrossenfeld,Germany Amateur Bayernliga North,16377,SC Eltersdorf,Neudrossenfeld,2.10,4.00,2.70
-07-09-25,21:00,Chapelton Maroons FC vs Portmore United,Jamaica Premier League,12427,Chapelton Maroons FC,Portmore United,4.40,3.30,1.83
+07-09-25,19:30,Audace Cerignola vs SIRACUSA,"Italy Serie C, Group C",44621,Audace Cerignola,SIRACUSA,1.60,3.70,5.40
+07-09-25,19:30,Latina Calcio vs AZ Picerno,"Italy Serie C, Group C",44622,Latina Calcio,AZ Picerno,3.20,3.00,2.30
+07-09-25,18:00,Muglaspor vs Tuzlaspor,Turkiye Amateur 2. Lig,24561,Muglaspor,Tuzlaspor,1.66,3.40,5.00
+07-09-25,21:00,Chapelton Maroons FC vs Portmore United,Jamaica Premier League,12427,Chapelton Maroons FC,Portmore United,4.40,3.40,1.79
 07-09-25,21:00,Harbour View FC vs Arnett Gardens FC,Jamaica Premier League,19222,Harbour View FC,Arnett Gardens FC,2.95,3.50,2.20
+07-09-25,21:00,Treasure Beach FC vs Molynes,Jamaica Premier League,24945,Treasure Beach FC,Molynes,2.15,3.33,3.10
 07-09-25,23:30,Racing United FC vs Mount Pleasant FC,Jamaica Premier League,16151,Racing United FC,Mount Pleasant FC,5.75,3.33,1.65
-07-09-25,15:30,FK Buducnost Banovici vs FK Radnik Hadzici,"Bosnia & Herzegovina Prva Liga, Fed BiH",37261,FK Buducnost Banovici,FK Radnik Hadzici,2.40,3.33,2.60
-07-09-25,15:30,NK Stupcanica Olovo vs NK TOSK Tesanj,"Bosnia & Herzegovina Prva Liga, Fed BiH",12526,NK Stupcanica Olovo,NK TOSK Tesanj,1.41,3.70,8.50
-07-09-25,15:30,NK Travnik vs FK Igman Konjic,"Bosnia & Herzegovina Prva Liga, Fed BiH",17872,NK Travnik,FK Igman Konjic,2.55,3.20,2.55
-07-09-25,15:30,Tomislav Tomislavgrad vs NK Gosk Gabela,"Bosnia & Herzegovina Prva Liga, Fed BiH",33421,Tomislav Tomislavgrad,NK Gosk Gabela,2.20,3.30,2.90
-07-09-25,15:30,FK BSK Banja Luka vs FK Sloboda Novi Grad,"Bosnia & Herzegovina Prva Liga, Rep of Srpska",14804,FK BSK Banja Luka,FK Sloboda Novi Grad,1.41,4.30,6.40
-07-09-25,18:00,Morocco vs USA,International Youth U20 Friendly Games,33864,Morocco,USA,3.80,4.25,1.71
-07-09-25,19:00,Coimbra U20 vs Uberaba U20,Brazil U20 Mineiro,30707,Coimbra U20,Uberaba U20,1.74,3.60,4.00
-07-09-25,18:00,Throttur/SR U19 vs Thor/THK/Volsungur U19,Iceland U19 League,36674,Throttur/SR U19,Thor/THK/Volsungur U19,3.70,4.60,1.64
-07-09-25,14:30,Cavigal Nice SF U19 vs Bastia SC,France U19 National,45145,Cavigal Nice SF U19,Bastia SC,3.25,3.70,1.92
-07-09-25,14:30,FC 93 Bobigny BG U19 vs Dijon FCO,France U19 National,29757,FC 93 Bobigny BG U19,Dijon FCO,2.05,3.90,2.80
-07-09-25,15:00,Throttur Reykjavik vs Fjardab/Hottur/Leiknir,"Iceland Besta deild, Women",45102,Throttur Reykjavik,Fjardab/Hottur/Leiknir,1.06,9.30,20.00
-07-09-25,19:00,Club America vs Atletico San Luis,"Mexico Liga MX, Women, Apertura",15974,Club America,Atletico San Luis,1.03,13.00,35.00
-07-09-25,16:30,Olympique Lyon W vs Olympique Marseille,"France Premiere Ligue, Women",45116,Olympique Lyon W,Olympique Marseille,1.01,12.00,37.00
-07-09-25,18:00,Levante UD vs Alhama CF,Spain Primera Division Women,41968,Levante UD,Alhama CF,1.66,3.60,4.50
-07-09-25,15:00,Hamburger SV vs VfL Wolfsburg W,Germany Amateur Women Bundesliga,40821,Hamburger SV,VfL Wolfsburg W,17.00,8.30,1.09
-07-09-25,17:30,FC Union Berlin vs 1. FC Nuremberg,Germany Amateur Women Bundesliga,29302,FC Union Berlin,1. FC Nuremberg,1.52,4.20,5.00
-07-09-25,15:00,FK Fortuna Alesund vs Arna-Bjornar,"Norway 1st Division, Women",29803,FK Fortuna Alesund,Arna-Bjornar,1.41,4.70,5.70
-07-09-25,15:00,IK Start vs Aasane,"Norway 1st Division, Women",34010,IK Start,Aasane,3.90,4.70,1.58
-07-09-25,14:30,Cruzeiro EC MG vs SC Corinthians SP,"Brazil Brasileiro A1, Women",30257,Cruzeiro EC MG,SC Corinthians SP,3.50,3.20,1.88
-07-09-25,16:00,FC Melgar vs Real Ancash,Peru Liga Femenina,42747,FC Melgar,Real Ancash,1.29,5.40,8.40
-07-09-25,18:30,Defensores Del Ilucan vs Flamengo FBC,Peru Liga Femenina,23068,Defensores Del Ilucan,Flamengo FBC,3.33,3.75,1.95
+07-09-25,18:00,Morocco vs USA,International Youth U20 Friendly Games,33864,Morocco,USA,4.00,4.30,1.68
+07-09-25,19:00,Coimbra U20 vs Uberaba U20,Brazil U20 Mineiro,30707,Coimbra U20,Uberaba U20,1.79,3.50,3.90
+07-09-25,18:00,Throttur/SR U19 vs Thor/THK/Volsungur U19,Iceland U19 League,36674,Throttur/SR U19,Thor/THK/Volsungur U19,4.10,4.75,1.55
+07-09-25,19:00,Club America vs Atletico San Luis,"Mexico Liga MX, Women, Apertura",15974,Club America,Atletico San Luis,1.02,13.50,39.00
+07-09-25,18:00,Levante UD vs Alhama CF,Spain Primera Division Women,41968,Levante UD,Alhama CF,1.69,3.50,4.40
+07-09-25,17:30,FC Union Berlin vs 1. FC Nuremberg,Germany Amateur Women Bundesliga,29302,FC Union Berlin,1. FC Nuremberg,1.46,4.30,5.50
+07-09-25,18:30,Defensores Del Ilucan vs Flamengo FBC,Peru Liga Femenina,23068,Defensores Del Ilucan,Flamengo FBC,4.40,4.10,1.64
 07-09-25,21:00,Club Alianza Lima vs CD Universidad Cesar Vallejo,Peru Liga Femenina,20476,Club Alianza Lima,CD Universidad Cesar Vallejo,1.01,13.50,55.00
-07-09-25,20:00,Chicago Red Stars vs Orlando Pride,USA National Womens Soccer League,13372,Chicago Red Stars,Orlando Pride,3.90,3.70,1.74
+07-09-25,20:00,Chicago Red Stars vs Orlando Pride,USA National Womens Soccer League,13372,Chicago Red Stars,Orlando Pride,3.80,3.60,1.78
 07-09-25,21:00,Washington Spirit vs OL Reign,USA National Womens Soccer League,36536,Washington Spirit,OL Reign,1.71,3.60,4.25
 07-09-25,22:00,Gotham FC vs Angel City FC,USA National Womens Soccer League,32936,Gotham FC,Angel City FC,1.67,3.50,4.60
-07-09-25,15:05,Celtic LFC vs Rangers LFC,"Scotland Premier League, Women",40880,Celtic LFC,Rangers LFC,3.00,3.60,2.05
-07-09-25,16:00,Motherwell LFC vs Hamilton Academical WFC,"Scotland Premier League, Women",30019,Motherwell LFC,Hamilton Academical WFC,1.26,5.50,8.10
-07-09-25,14:30,FC Petrzalka B vs Ok Castkovce,Slovakia 3. Liga,25695,FC Petrzalka B,Ok Castkovce,5.10,4.30,1.42
-07-09-25,15:00,FK Podkonice vs MSK Fomat Martin,Slovakia 3. Liga,45120,FK Podkonice,MSK Fomat Martin,1.49,4.00,4.75
-07-09-25,15:00,MFK Snina vs MSK Tesla Stropkov,Slovakia 3. Liga,26349,MFK Snina,MSK Tesla Stropkov,1.85,3.33,3.40
-07-09-25,15:00,MFK Spartak Medzev vs MSK Spisske Podhradie,Slovakia 3. Liga,45136,MFK Spartak Medzev,MSK Spisske Podhradie,1.31,4.60,6.60
-07-09-25,15:00,Ofk-Sim Raslavice vs FC Kosice II,Slovakia 3. Liga,30309,Ofk-Sim Raslavice,FC Kosice II,4.50,4.10,1.50
-07-09-25,15:00,TJ Banik Kalinovo vs FK Dukla Banska Bystrica B,Slovakia 3. Liga,34034,TJ Banik Kalinovo,FK Dukla Banska Bystrica B,1.89,3.40,3.25
-07-09-25,15:30,NK Carda vs SD Videm,Slovenia 3. SNL,29163,NK Carda,SD Videm,3.20,3.80,1.92
-07-09-25,15:30,NK Smartno 1928 vs NK Korotan,Slovenia 3. SNL,18361,NK Smartno 1928,NK Korotan,1.72,4.10,3.70
 07-09-25,19:00,Cruzeiro Arapiraca AL vs Miguelense AL,"Brazil Alagoano, Serie B U23",18781,Cruzeiro Arapiraca AL,Miguelense AL,1.40,4.20,6.90
-07-09-25,15:00,SK Pama vs ASV Neudorf/Parndorf II,Austria Amateur Burgenlandliga,25929,SK Pama,ASV Neudorf/Parndorf II,1.70,3.80,4.00
 07-09-25,18:45,Campo Grande AC RJ vs Serrano FC RJ,"Brazil Carioca, Serie B1",14566,Campo Grande AC RJ,Serrano FC RJ,3.10,2.80,2.40
-07-09-25,16:00,Hluboka vs Tj Jiskra Domazlice II,Czechia Divize A,19723,Hluboka,Tj Jiskra Domazlice II,1.77,3.90,3.25
-07-09-25,16:00,FK Seko Louny vs FC Predni Kopanina,Czechia Divize B,19876,FK Seko Louny,FC Predni Kopanina,2.10,3.70,2.65
-07-09-25,16:00,FK Caslav vs Brandys Nad Labem,Czechia Divize C,20819,FK Caslav,Brandys Nad Labem,1.27,4.90,7.10
-07-09-25,16:00,MFK Trutnov vs Svitavy,Czechia Divize C,25559,MFK Trutnov,Svitavy,1.18,5.75,9.00
-07-09-25,15:00,Zdar Nad Sazavou vs TJ Tatran Bohunice,Czechia Divize D,19135,Zdar Nad Sazavou,TJ Tatran Bohunice,2.00,3.75,2.70
-07-09-25,15:00,FK Kozlovice vs Tj Sokol Lanzhot,Czechia Divize E,19244,FK Kozlovice,Tj Sokol Lanzhot,2.65,3.20,2.25
-07-09-25,15:00,Pusta Polom vs Opava B,Czechia Divize F,19586,Pusta Polom,Opava B,2.15,4.20,2.55
-07-09-25,15:00,SK Sulko Zabreh vs SK Stonava,Czechia Divize F,19460,SK Sulko Zabreh,SK Stonava,1.36,5.00,6.10
-07-09-25,15:00,NK Radnik Krizevci vs NK Segesta,Croatia Druga NL,44460,NK Radnik Krizevci,NK Segesta,1.49,4.00,4.80
-07-09-25,15:00,Orebro SK Soder vs Sunnanaa SK,"Sweden Amateur Elitettan, Women",44504,Orebro SK Soder,Sunnanaa SK,1.60,3.90,4.00
+07-09-25,20:30,CD Real Tomayapo vs Guabira Montero,Bolivia Copa Division Profesional,38711,CD Real Tomayapo,Guabira Montero,2.55,3.40,2.40
 07-09-25,19:00,Brasil de Farroupilha RS vs Flamengo Sao Pedro RS,"Brazil Gaucho, Women",15809,Brasil de Farroupilha RS,Flamengo Sao Pedro RS,1.05,7.90,19.50
-07-09-25,19:00,EC Juventude RS vs SC Internacional RS,"Brazil Gaucho, Women",18346,EC Juventude RS,SC Internacional RS,4.50,3.50,1.61
+07-09-25,19:00,EC Juventude RS vs SC Internacional RS,"Brazil Gaucho, Women",18346,EC Juventude RS,SC Internacional RS,5.30,3.90,1.46
 07-09-25,19:30,Santa Helena GO vs Aparecida EC GO,"Brazil Goiano, 3. Divisao",15735,Santa Helena GO,Aparecida EC GO,1.48,3.50,6.10
-07-09-25,17:00,CD Honduras Progreso vs CD Atletico Junior,Honduras Liga de Ascenso,14046,CD Honduras Progreso,CD Atletico Junior,1.78,3.60,4.10
 07-09-25,22:00,Meluca FC vs CD Hondupino,Honduras Liga de Ascenso,24337,Meluca FC,CD Hondupino,2.90,3.60,2.20
-07-09-25,23:00,CD Parrillas One vs CD Subirana,Honduras Liga de Ascenso,33786,CD Parrillas One,CD Subirana,3.00,3.50,2.15
+07-09-25,23:00,CD Parrillas One vs CD Subirana,Honduras Liga de Ascenso,33786,CD Parrillas One,CD Subirana,3.40,3.10,2.15
 07-09-25,19:00,Montaneses FC vs Jaguares FC,Mexico Liga Premier Serie A,42766,Montaneses FC,Jaguares FC,1.98,3.40,3.33
-07-09-25,23:00,Acatlan FC vs Tecos FC,Mexico Liga Premier Serie A,21682,Acatlan FC,Tecos FC,2.30,3.40,2.70
-07-09-25,14:30,Boa EC MG vs Nacional FC Uberaba MG,"Brazil Mineiro, Segunda Divisao",36145,Boa EC MG,Nacional FC Uberaba MG,1.43,3.90,5.70
-07-09-25,15:00,Balatonfuredi FC vs Szombathelyi Mav Haladas VSE,Hungary NB III,30940,Balatonfuredi FC,Szombathelyi Mav Haladas VSE,2.55,3.33,2.30
-07-09-25,15:00,BKV Elore vs Szegedi Vasutas SE,Hungary NB III,36157,BKV Elore,Szegedi Vasutas SE,2.15,3.30,2.75
-07-09-25,15:00,Debreceni Eac vs Tiszaujvaros,Hungary NB III,32737,Debreceni Eac,Tiszaujvaros,1.49,4.10,4.75
-07-09-25,15:00,Eger SE vs Kisvarda FC II,Hungary NB III,29411,Eger SE,Kisvarda FC II,4.40,3.75,1.56
-07-09-25,15:00,Esmtk Budapest vs Martfui Lse,Hungary NB III,13124,Esmtk Budapest,Martfui Lse,1.17,5.60,10.00
-07-09-25,15:00,FC Tatabanya vs Zsambeki SK,Hungary NB III,33115,FC Tatabanya,Zsambeki SK,1.06,8.20,16.00
-07-09-25,15:00,Fuzesabony SC Eross Ut vs Tarpa SC,Hungary NB III,36719,Fuzesabony SC Eross Ut,Tarpa SC,3.10,2.95,2.15
-07-09-25,15:00,Godolloi SK vs Cigand SE,Hungary NB III,36522,Godolloi SK,Cigand SE,3.20,3.60,1.86
-07-09-25,15:00,Hodmezovasarhelyi FC vs Dunaharaszti MTK,Hungary NB III,31155,Hodmezovasarhelyi FC,Dunaharaszti MTK,1.71,3.70,3.70
-07-09-25,15:00,III Keruleti Tve vs Vasas SC II,Hungary NB III,26463,III Keruleti Tve,Vasas SC II,1.93,4.00,2.75
-07-09-25,15:00,Komarom Vse vs Ujpest FC II,Hungary NB III,35885,Komarom Vse,Ujpest FC II,1.70,3.75,3.60
-07-09-25,15:00,Majosi SE vs Kaposvari Rakoczi FC,Hungary NB III,12724,Majosi SE,Kaposvari Rakoczi FC,3.30,3.50,1.85
-07-09-25,15:00,Monori SE vs Dabas FC,Hungary NB III,31885,Monori SE,Dabas FC,1.37,4.25,6.10
-07-09-25,15:00,Mosonmagyarovari TE vs Puskas Akademia FC II,Hungary NB III,40941,Mosonmagyarovari TE,Puskas Akademia FC II,2.05,3.90,2.60
-07-09-25,15:00,Penzugyor SE vs Pte Peac,Hungary NB III,31727,Penzugyor SE,Pte Peac,2.00,3.20,3.20
-07-09-25,15:00,SC Sopron vs Budaorsi SC,Hungary NB III,33130,SC Sopron,Budaorsi SC,2.45,3.25,2.40
-07-09-25,15:00,Senyo Carnifex FC vs Diosgyori Vtk II,Hungary NB III,36668,Senyo Carnifex FC,Diosgyori Vtk II,4.70,4.40,1.45
-07-09-25,15:00,Szekszardi UFC vs BFC Siofok,Hungary NB III,30616,Szekszardi UFC,BFC Siofok,2.60,3.33,2.25
-07-09-25,15:00,Tiszafured Vse vs Putnok VSE,Hungary NB III,36889,Tiszafured Vse,Putnok VSE,2.85,3.50,2.05
-07-09-25,16:00,Dunaujvaros Palhalma Agrospecial SE vs FC Nagykanizsai,Hungary NB III,15359,Dunaujvaros Palhalma Agrospecial SE,FC Nagykanizsai,4.30,3.90,1.56
-07-09-25,16:00,Gyirmot FC Gyor vs Papai Perutz FC,Hungary NB III,34040,Gyirmot FC Gyor,Papai Perutz FC,1.06,8.40,14.00
-07-09-25,16:00,Pecsi MFC vs Balatonlelle,Hungary NB III,41100,Pecsi MFC,Balatonlelle,1.10,7.10,12.50
-07-09-25,15:30,Dundee United Wfc vs Kilmarnock Lfc,"Scotland Premier League Cup, Women",11315,Dundee United Wfc,Kilmarnock Lfc,2.50,3.80,2.30
-07-09-25,18:00,Deportivo Nueva Concepcion vs Huehuetecos FC,Guatemala Primera Division,14424,Deportivo Nueva Concepcion,Huehuetecos FC,1.38,3.90,8.20
-07-09-25,20:00,CD Suchitepequez vs Deportivo Coatepeque,Guatemala Primera Division,32539,CD Suchitepequez,Deportivo Coatepeque,1.33,4.20,9.20
+07-09-25,23:00,Acatlan FC vs Tecos FC,Mexico Liga Premier Serie A,21682,Acatlan FC,Tecos FC,2.30,3.50,2.65
+07-09-25,18:00,Deportivo Nueva Concepcion vs Huehuetecos FC,Guatemala Primera Division,14424,Deportivo Nueva Concepcion,Huehuetecos FC,1.50,3.50,6.80
+07-09-25,20:00,CD Suchitepequez vs Deportivo Coatepeque,Guatemala Primera Division,32539,CD Suchitepequez,Deportivo Coatepeque,1.41,3.90,7.60
 07-09-25,22:00,Csd Ipala vs Chimaltenango FC,Guatemala Primera Division,31872,Csd Ipala,Chimaltenango FC,1.36,4.40,7.20
 07-09-25,22:00,Deportivo Carcha vs San Benito FC,Guatemala Primera Division,26911,Deportivo Carcha,San Benito FC,2.45,3.30,2.60
 07-09-25,22:00,Deportivo San Pedro vs Juventud Copalera,Guatemala Primera Division,32389,Deportivo San Pedro,Juventud Copalera,1.26,5.00,9.50
-07-09-25,18:00,CD Fas U20 vs CD Luis Angel Firpo,"El Salvador Primera Division, Reserves, Apertura",44296,CD Fas U20,CD Luis Angel Firpo,2.50,3.40,2.45
-07-09-25,19:00,CD Aguila U20 vs CD Cacahuatique U20,"El Salvador Primera Division, Reserves, Apertura",31340,CD Aguila U20,CD Cacahuatique U20,1.59,3.90,4.75
-07-09-25,19:00,CD Fuerte San Francisco U20 vs AD Isidro Metapan U20,"El Salvador Primera Division, Reserves, Apertura",44295,CD Fuerte San Francisco U20,AD Isidro Metapan U20,2.70,3.40,2.30
-07-09-25,15:00,Palestino vs Universidad de Chile,"Chile Primera Division, Women",12414,Palestino,Universidad de Chile,20.00,7.60,1.09
+07-09-25,18:00,CD Fas U20 vs CD Luis Angel Firpo,"El Salvador Primera Division, Reserves, Apertura",44296,CD Fas U20,CD Luis Angel Firpo,2.55,3.30,2.50
+07-09-25,19:00,CD Aguila U20 vs CD Cacahuatique U20,"El Salvador Primera Division, Reserves, Apertura",31340,CD Aguila U20,CD Cacahuatique U20,1.65,4.60,3.60
+07-09-25,19:00,CD Fuerte San Francisco U20 vs AD Isidro Metapan U20,"El Salvador Primera Division, Reserves, Apertura",44295,CD Fuerte San Francisco U20,AD Isidro Metapan U20,2.70,3.50,2.30
 07-09-25,18:00,Moravia vs Chorotega FC,"Costa Rica Primera Division, Women",40295,Moravia,Chorotega FC,2.80,3.40,2.35
 07-09-25,18:00,Saprissa vs Sporting FC,"Costa Rica Primera Division, Women",33245,Saprissa,Sporting FC,2.35,3.50,2.70
-07-09-25,21:15,Dimas Escazu vs LD Alajuelense,"Costa Rica Primera Division, Women",33030,Dimas Escazu,LD Alajuelense,4.50,4.25,1.60
-07-09-25,16:00,AJ Auxerre vs EA Guingamp,"France Seconde Ligue, Women",27520,AJ Auxerre,EA Guingamp,4.00,3.90,1.68
-07-09-25,16:30,Santiago City FC vs CD Concon National FC,Chile Segunda Division,28257,Santiago City FC,CD Concon National FC,3.40,3.50,1.93
-07-09-25,19:00,General Velasquez vs Puerto Montt,Chile Segunda Division,28463,General Velasquez,Puerto Montt,4.70,3.60,1.65
-07-09-25,16:30,Sassuolo Calcio vs Ternana,"Italy Serie A Cup, Women",28398,Sassuolo Calcio,Ternana,1.56,4.10,4.60
+07-09-25,21:15,Dimas Escazu vs LD Alajuelense,"Costa Rica Primera Division, Women",33030,Dimas Escazu,LD Alajuelense,4.70,4.30,1.58
+07-09-25,19:00,General Velasquez vs Puerto Montt,Chile Segunda Division,28463,General Velasquez,Puerto Montt,4.75,3.50,1.65
+07-09-25,21:00,Adet Aruba vs AD Batanecos,El Salvador Segunda Division,20595,Adet Aruba,AD Batanecos,2.35,3.30,2.85
 07-09-25,19:30,Fcf Como vs Genoa Women,"Italy Serie A Cup, Women",29383,Fcf Como,Genoa Women,1.52,4.25,4.80
-07-09-25,15:00,FK Vlasina Vlasotince vs FK Timok 1919 Zajecar,Serbia Srpska Liga,14482,FK Vlasina Vlasotince,FK Timok 1919 Zajecar,1.58,3.80,4.30
-07-09-25,17:15,SL Benfica Lisbon W vs SCU Torreense,"Portugal Supertaca, Women",24082,SL Benfica Lisbon W,SCU Torreense,1.23,5.80,8.75
 07-09-25,19:00,EC Futgol MG U20 vs America FC MG,"Brazil U20 Mineiro, 1. Divisao",11967,EC Futgol MG U20,America FC MG,4.70,3.90,1.58
 07-09-25,18:00,AL Rayyan U23 vs AL Duhail U23,Qatar U23 Olympic League,14725,AL Rayyan U23,AL Duhail U23,2.45,3.20,2.45
 07-09-25,18:00,AL Sadd U23 vs AL Gharafa U23,Qatar U23 Olympic League,24506,AL Sadd U23,AL Gharafa U23,2.45,3.20,2.45
