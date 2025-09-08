@@ -240,121 +240,122 @@ date,log_time,tournament,title,home-team,away-team,pre-match_odds_home,pre-match
 07-09-25,17:53,,Honduras Progreso vs Atletico Junior,Honduras Progreso,Atletico Junior,,,,1,0,1
 07-09-25,18:09,,Atletico Sanluqueno vs CE Sabadell FC,Atletico Sanluqueno,CE Sabadell FC,,,,0,1,1
 07-09-25,18:09,,CD Arenteiro vs Unionistas de Salamanca CF,CD Arenteiro,Unionistas de Salamanca CF,,,,0,0,0
-07-09-25,18:25,,Cultural Leonesa vs Leganes,Cultural Leonesa,Leganes,,,,0,0,0
+07-09-25,18:25,Spain LaLiga 2,Cultural Leonesa vs Leganes,Cultural Leonesa,Leganes,2.85,3.1,2.55,0,0,0
 07-09-25,18:25,,Real Murcia CF vs Juventud Torremolinos CF,Real Murcia CF,Juventud Torremolinos CF,,,,1,0,1
-07-09-25,18:25,,Olimpico Totana vs Atletico Santa Cruz,Olimpico Totana,Atletico Santa Cruz,,,,0,0,0
-07-09-25,18:25,,Atletico Saguntino vs CD Utiel,Atletico Saguntino,CD Utiel,,,,1,0,1
-07-09-25,18:25,,CF Trival Valderas Alcoron vs AD Parla,CF Trival Valderas Alcoron,AD Parla,,,,1,0,1
+07-09-25,18:25,"Spain Amateur Tercera Federacion, Group 13",Olimpico Totana vs Atletico Santa Cruz,Olimpico Totana,Atletico Santa Cruz,2.2,3.1,3.1,0,0,0
+07-09-25,18:25,"Spain Amateur Tercera Federacion, Group 6",Atletico Saguntino vs CD Utiel,Atletico Saguntino,CD Utiel,2.4,2.9,2.95,1,0,1
+07-09-25,18:25,"Spain Amateur Tercera Federacion, Group 7",CF Trival Valderas Alcoron vs AD Parla,CF Trival Valderas Alcoron,AD Parla,2.1,3.25,3.2,1,0,1
 07-09-25,18:25,,MS Tira vs Maccabi Neve Shaanan Eldad,MS Tira,Maccabi Neve Shaanan Eldad,,,,1,0,1
-07-09-25,18:25,,FC Union Berlin vs 1. FC Nuremberg,FC Union Berlin,1. FC Nuremberg,,,,1,0,1
-07-09-25,18:45,,Bollullos CF vs Club Atletico Central,Bollullos CF,Club Atletico Central,,,,0,0,0
-07-09-25,18:54,,CD Alcoyano vs Valencia CF Mestalla,CD Alcoyano,Valencia CF Mestalla,,,,0,1,1
-07-09-25,18:54,,CD Tudelano vs SD Beasain,CD Tudelano,SD Beasain,,,,0,1,1
-07-09-25,18:54,,Arosa SC vs Silva SD,Arosa SC,Silva SD,,,,1,0,1
-07-09-25,18:54,,CD San Roque de Lepe vs Coria CF,CD San Roque de Lepe,Coria CF,,,,0,0,0
-07-09-25,18:54,,UD Tomares vs Castilleja CF,UD Tomares,Castilleja CF,,,,0,0,0
-07-09-25,18:54,,CD Binissalem vs CE Santanyi,CD Binissalem,CE Santanyi,,,,1,0,1
-07-09-25,18:54,,Cp Montehermoso vs CF Jaraiz,Cp Montehermoso,CF Jaraiz,,,,0,1,1
-07-09-25,18:54,,CD Pedroneras vs CF La Solana,CD Pedroneras,CF La Solana,,,,0,1,1
-07-09-25,18:54,,CE Europa B vs UE Vilassar de Mar,CE Europa B,UE Vilassar de Mar,,,,0,1,1
-07-09-25,18:54,,FE Grama vs FC L Escala,FE Grama,FC L Escala,,,,0,1,1
-07-09-25,18:54,,Atletico Madrid C vs RCD Carabanchel,Atletico Madrid C,RCD Carabanchel,,,,1,0,1
-07-09-25,18:54,,Maccabi Ironi Ashdod FC vs Maccabi Y.,Maccabi Ironi Ashdod FC,Maccabi Y.,,,,0,1,1
-07-09-25,18:54,,Maccabi Ironi Kiryat Malakhi vs Hapoel Nir Ramat Hasharon FC,Maccabi Ironi Kiryat Malakhi,Hapoel Nir Ramat Hasharon FC,,,,0,0,0
-07-09-25,18:54,,Aurora FC vs CD Malacateco,Aurora FC,CD Malacateco,,,,1,0,1
+07-09-25,18:25,Germany Amateur Women Bundesliga,FC Union Berlin vs 1. FC Nuremberg,FC Union Berlin,1. FC Nuremberg,1.46,4.3,5.5,1,0,1
+07-09-25,18:45,"Spain Amateur Tercera Federacion, Group 10",Bollullos CF vs Club Atletico Central,Bollullos CF,Club Atletico Central,2.3,2.9,3.1,0,0,0
+07-09-25,18:54,Spain Segunda Federacion,CD Alcoyano vs Valencia CF Mestalla,CD Alcoyano,Valencia CF Mestalla,1.84,3.1,3.8,0,1,1
+07-09-25,18:54,Spain Segunda Federacion,CD Tudelano vs SD Beasain,CD Tudelano,SD Beasain,2.2,2.9,3.0,0,1,1
+07-09-25,18:54,"Spain Amateur Tercera Federacion, Group 1",Arosa SC vs Silva SD,Arosa SC,Silva SD,1.67,3.4,4.8,1,0,1
+07-09-25,18:54,"Spain Amateur Tercera Federacion, Group 10",CD San Roque de Lepe vs Coria CF,CD San Roque de Lepe,Coria CF,1.99,3.0,3.75,0,0,0
+07-09-25,18:54,"Spain Amateur Tercera Federacion, Group 10",UD Tomares vs Castilleja CF,UD Tomares,Castilleja CF,1.73,3.2,4.9,0,0,0
+07-09-25,18:54,"Spain Amateur Tercera Federacion, Group 11",CD Binissalem vs CE Santanyi,CD Binissalem,CE Santanyi,2.35,2.85,3.1,1,0,1
+07-09-25,18:54,"Spain Amateur Tercera Federacion, Group 14",Cp Montehermoso vs CF Jaraiz,Cp Montehermoso,CF Jaraiz,3.1,3.2,2.15,0,1,1
+07-09-25,18:54,"Spain Amateur Tercera Federacion, Group 18",CD Pedroneras vs CF La Solana,CD Pedroneras,CF La Solana,1.97,2.95,3.9,0,1,1
+07-09-25,18:54,"Spain Amateur Tercera Federacion, Group 5",CE Europa B vs UE Vilassar de Mar,CE Europa B,UE Vilassar de Mar,1.85,3.33,3.9,0,1,1
+07-09-25,18:54,"Spain Amateur Tercera Federacion, Group 5",FE Grama vs FC L Escala,FE Grama,FC L Escala,2.05,3.1,3.33,0,1,1
+07-09-25,18:54,"Spain Amateur Tercera Federacion, Group 7",Atletico Madrid C vs RCD Carabanchel,Atletico Madrid C,RCD Carabanchel,1.73,3.4,4.4,1,0,1
+07-09-25,18:54,Israel Liga Alef,Maccabi Ironi Ashdod FC vs Maccabi Y.,Maccabi Ironi Ashdod FC,Maccabi Y.,3.1,3.0,2.35,0,1,1
+07-09-25,18:54,Israel Liga Alef,Maccabi Ironi Kiryat Malakhi vs Hapoel Nir Ramat Hasharon FC,Maccabi Ironi Kiryat Malakhi,Hapoel Nir Ramat Hasharon FC,1.64,4.4,4.2,0,0,0
+07-09-25,18:54,Guatemala Liga Nacional. Apertura,Aurora FC vs CD Malacateco,Aurora FC,CD Malacateco,2.05,3.1,3.6,1,0,1
 07-09-25,18:54,,Monjas FC vs Palencia FC,Monjas FC,Palencia FC,,,,1,0,1
-07-09-25,18:54,,Muglaspor vs Tuzlaspor,Muglaspor,Tuzlaspor,,,,0,0,0
-07-09-25,18:54,,Morocco vs USA,Morocco,USA,,,,0,0,0
-07-09-25,18:54,,Throttur/SR U19 vs Thor/THK/Volsungur U19,Throttur/SR U19,Thor/THK/Volsungur U19,,,,0,1,1
-07-09-25,18:54,,Levante UD vs Alhama CF,Levante UD,Alhama CF,,,,0,0,0
-07-09-25,18:54,,Deportivo Nueva Concepcion vs Huehuetecos FC,Deportivo Nueva Concepcion,Huehuetecos FC,,,,1,0,1
+07-09-25,18:54,Turkiye Amateur 2. Lig,Muglaspor vs Tuzlaspor,Muglaspor,Tuzlaspor,1.66,3.4,5.0,0,0,0
+07-09-25,18:54,International Youth U20 Friendly Games,Morocco vs USA,Morocco,USA,4.0,4.3,1.68,0,0,0
+07-09-25,18:54,Iceland U19 League,Throttur/SR U19 vs Thor/THK/Volsungur U19,Throttur/SR U19,Thor/THK/Volsungur U19,4.1,4.75,1.55,0,1,1
+07-09-25,18:54,Spain Primera Division Women,Levante UD vs Alhama CF,Levante UD,Alhama CF,1.69,3.5,4.4,0,0,0
+07-09-25,18:54,Guatemala Primera Division,Deportivo Nueva Concepcion vs Huehuetecos FC,Deportivo Nueva Concepcion,Huehuetecos FC,1.5,3.5,6.8,1,0,1
 07-09-25,18:54,,AL Arabi Doha U23 vs Umm Salal U23,AL Arabi Doha U23,Umm Salal U23,,,,0,0,0
-07-09-25,18:54,,AL Rayyan U23 vs AL Duhail U23,AL Rayyan U23,AL Duhail U23,,,,1,0,1
-07-09-25,18:54,,AL Sadd U23 vs AL Gharafa U23,AL Sadd U23,AL Gharafa U23,,,,0,0,0
-07-09-25,19:16,,Gimnasia Y Esgrima Mendoza vs Gimnasia y Esgrima de Jujuy,Gimnasia Y Esgrima Mendoza,Gimnasia y Esgrima de Jujuy,,,,0,0,0
-07-09-25,19:16,,CF Motril vs CD Huetor Tajar,CF Motril,CD Huetor Tajar,,,,1,0,1
-07-09-25,19:16,,Moravia vs Chorotega FC,Moravia,Chorotega FC,,,,1,0,1
-07-09-25,19:38,,Campo Grande AC RJ vs Serrano FC RJ,Campo Grande AC RJ,Serrano FC RJ,,,,0,1,1
-07-09-25,19:50,,Cobresal vs CD Palestino,Cobresal,CD Palestino,,,,1,0,1
-07-09-25,19:50,,Costa Brava de General Pico vs Kimberley de Mar Del Plata,Costa Brava de General Pico,Kimberley de Mar Del Plata,,,,0,0,0
-07-09-25,19:50,,CD Santa Cruz vs Deportes Magallanes,CD Santa Cruz,Deportes Magallanes,,,,0,1,1
-07-09-25,19:50,,FK Vozdovac Belgrade vs FK Tekstilac Odzaci,FK Vozdovac Belgrade,FK Tekstilac Odzaci,,,,1,0,1
-07-09-25,19:50,,Independiente Rivadavia de Mendoza Reserve vs CD Godoy Cruz,Independiente Rivadavia de Mendoza Reserve,CD Godoy Cruz,,,,1,0,1
-07-09-25,19:50,,San Lorenzo de Almagro Res. vs CA Huracan,San Lorenzo de Almagro Res.,CA Huracan,,,,0,1,1
-07-09-25,19:50,,HNK Cibalia Vinkovci vs NK Opatija,HNK Cibalia Vinkovci,NK Opatija,,,,0,1,1
-07-09-25,19:50,,Comercial FC SP vs Sao Jose EC SP,Comercial FC SP,Sao Jose EC SP,,,,0,0,0
+07-09-25,18:54,Qatar U23 Olympic League,AL Rayyan U23 vs AL Duhail U23,AL Rayyan U23,AL Duhail U23,2.45,3.2,2.45,1,0,1
+07-09-25,18:54,Qatar U23 Olympic League,AL Sadd U23 vs AL Gharafa U23,AL Sadd U23,AL Gharafa U23,2.45,3.2,2.45,0,0,0
+07-09-25,19:16,Argentina Primera Nacional,Gimnasia Y Esgrima Mendoza vs Gimnasia y Esgrima de Jujuy,Gimnasia Y Esgrima Mendoza,Gimnasia y Esgrima de Jujuy,1.92,2.75,5.1,0,0,0
+07-09-25,19:16,"Spain Amateur Tercera Federacion, Group 9",CF Motril vs CD Huetor Tajar,CF Motril,CD Huetor Tajar,1.75,3.2,4.7,1,0,1
+07-09-25,19:16,"Costa Rica Primera Division, Women",Moravia vs Chorotega FC,Moravia,Chorotega FC,2.8,3.4,2.35,1,0,1
+07-09-25,19:38,"Brazil Carioca, Serie B1",Campo Grande AC RJ vs Serrano FC RJ,Campo Grande AC RJ,Serrano FC RJ,3.1,2.8,2.4,0,1,1
+07-09-25,19:50,Chile Primera Division,Cobresal vs CD Palestino,Cobresal,CD Palestino,2.55,3.33,2.6,1,0,1
+07-09-25,19:50,Argentina Torneo Federal A,Costa Brava de General Pico vs Kimberley de Mar Del Plata,Costa Brava de General Pico,Kimberley de Mar Del Plata,1.79,3.1,5.0,0,0,0
+07-09-25,19:50,Chile Primera B,CD Santa Cruz vs Deportes Magallanes,CD Santa Cruz,Deportes Magallanes,2.4,3.2,2.9,0,1,1
+07-09-25,19:50,Serbia Prva Liga,FK Vozdovac Belgrade vs FK Tekstilac Odzaci,FK Vozdovac Belgrade,FK Tekstilac Odzaci,1.44,3.7,6.0,1,0,1
+07-09-25,19:50,"Argentina Primera LPF, Reserves",Independiente Rivadavia de Mendoza Reserve vs CD Godoy Cruz,Independiente Rivadavia de Mendoza Reserve,CD Godoy Cruz,2.25,3.2,2.7,1,0,1
+07-09-25,19:50,"Argentina Primera LPF, Reserves",San Lorenzo de Almagro Res. vs CA Huracan,San Lorenzo de Almagro Res.,CA Huracan,1.98,3.1,3.33,0,1,1
+07-09-25,19:50,Croatia Prva NL,HNK Cibalia Vinkovci vs NK Opatija,HNK Cibalia Vinkovci,NK Opatija,2.25,3.0,3.0,0,1,1
+07-09-25,19:50,Brazil Copa Paulista,Comercial FC SP vs Sao Jose EC SP,Comercial FC SP,Sao Jose EC SP,3.9,2.4,2.45,0,0,0
 07-09-25,19:50,,Shabab AL Ordun vs AL Faisaly (Jor),Shabab AL Ordun,AL Faisaly (Jor),,,,0,0,0
 07-09-25,19:50,,Camboriu FC SC vs CA Tubarao SC,Camboriu FC SC,CA Tubarao SC,,,,0,0,0
-07-09-25,19:50,,EC Juventude RS vs SC Internacional RS,EC Juventude RS,SC Internacional RS,,,,0,0,0
-07-09-25,19:50,,Montaneses FC vs Jaguares FC,Montaneses FC,Jaguares FC,,,,0,0,0
-07-09-25,19:50,,CD Aguila U20 vs CD Cacahuatique U20,CD Aguila U20,CD Cacahuatique U20,,,,0,1,1
+07-09-25,19:50,"Brazil Gaucho, Women",EC Juventude RS vs SC Internacional RS,EC Juventude RS,SC Internacional RS,5.3,3.9,1.46,0,0,0
+07-09-25,19:50,Mexico Liga Premier Serie A,Montaneses FC vs Jaguares FC,Montaneses FC,Jaguares FC,1.98,3.4,3.33,0,0,0
+07-09-25,19:50,"El Salvador Primera Division, Reserves, Apertura",CD Aguila U20 vs CD Cacahuatique U20,CD Aguila U20,CD Cacahuatique U20,1.65,4.6,3.6,0,1,1
 07-09-25,19:59,,Colomba FC vs CD Chiantla,Colomba FC,CD Chiantla,,,,0,0,0
 07-09-25,19:59,,Blumenau EC SC vs Joinville EC SC,Blumenau EC SC,Joinville EC SC,,,,1,0,1
-07-09-25,19:59,,CD Fuerte San Francisco U20 vs AD Isidro Metapan U20,CD Fuerte San Francisco U20,AD Isidro Metapan U20,,,,1,0,1
+07-09-25,19:59,"El Salvador Primera Division, Reserves, Apertura",CD Fuerte San Francisco U20 vs AD Isidro Metapan U20,CD Fuerte San Francisco U20,AD Isidro Metapan U20,2.7,3.5,2.3,1,0,1
 07-09-25,19:59,,Union Espanola vs Universidad Catolica,Union Espanola,Universidad Catolica,,,,0,0,0
-07-09-25,19:59,,General Velasquez vs Puerto Montt,General Velasquez,Puerto Montt,,,,0,0,0
-07-09-25,20:17,,US Livorno 1915 vs Guidonia Montecelio 1937 FC,US Livorno 1915,Guidonia Montecelio 1937 FC,,,,0,0,0
-07-09-25,20:17,,Latina Calcio vs AZ Picerno,Latina Calcio,AZ Picerno,,,,0,1,1
+07-09-25,19:59,Chile Segunda Division,General Velasquez vs Puerto Montt,General Velasquez,Puerto Montt,4.75,3.5,1.65,0,0,0
+07-09-25,20:17,"Italy Serie C, Group B",US Livorno 1915 vs Guidonia Montecelio 1937 FC,US Livorno 1915,Guidonia Montecelio 1937 FC,1.74,3.4,4.75,0,0,0
+07-09-25,20:17,"Italy Serie C, Group C",Latina Calcio vs AZ Picerno,Latina Calcio,AZ Picerno,3.2,3.0,2.3,0,1,1
 07-09-25,20:17,,Jacioba AC AL vs EC Guarany AL,Jacioba AC AL,EC Guarany AL,,,,1,0,1
-07-09-25,20:17,,Fcf Como vs Genoa Women,Fcf Como,Genoa Women,,,,1,0,1
-07-09-25,20:26,,CA Bartolome Mitre vs Linqueno,CA Bartolome Mitre,Linqueno,,,,1,0,1
-07-09-25,20:26,,Sp. Belgrano de S. F. vs CA Sarmiento de la Banda,Sp. Belgrano de S. F.,CA Sarmiento de la Banda,,,,0,0,0
-07-09-25,20:26,,Sportivo General San Martin vs Gimnasia de Chivilcoy,Sportivo General San Martin,Gimnasia de Chivilcoy,,,,1,0,1
-07-09-25,20:26,,CA Rentistas vs Tacuarembo FC,CA Rentistas,Tacuarembo FC,,,,0,0,0
-07-09-25,20:26,,Argentino de Rosario vs CA Atlas,Argentino de Rosario,CA Atlas,,,,0,0,0
-07-09-25,20:26,,Sambenedettese vs Forli FC,Sambenedettese,Forli FC,,,,0,0,0
-07-09-25,20:26,,Asd Team Altamura vs Cavese 1919,Asd Team Altamura,Cavese 1919,,,,1,0,1
-07-09-25,20:26,,Audace Cerignola vs SIRACUSA,Audace Cerignola,SIRACUSA,,,,0,0,0
+07-09-25,20:17,"Italy Serie A Cup, Women",Fcf Como vs Genoa Women,Fcf Como,Genoa Women,1.52,4.25,4.8,1,0,1
+07-09-25,20:26,Argentina Torneo Federal A,CA Bartolome Mitre vs Linqueno,CA Bartolome Mitre,Linqueno,1.96,3.1,4.0,1,0,1
+07-09-25,20:26,Argentina Torneo Federal A,Sp. Belgrano de S. F. vs CA Sarmiento de la Banda,Sp. Belgrano de S. F.,CA Sarmiento de la Banda,1.84,3.1,4.8,0,0,0
+07-09-25,20:26,Argentina Torneo Federal A,Sportivo General San Martin vs Gimnasia de Chivilcoy,Sportivo General San Martin,Gimnasia de Chivilcoy,1.73,3.25,5.1,1,0,1
+07-09-25,20:26,Uruguay Segunda Division,CA Rentistas vs Tacuarembo FC,CA Rentistas,Tacuarembo FC,2.1,3.1,3.33,0,0,0
+07-09-25,20:26,Argentina Primera C,Argentino de Rosario vs CA Atlas,Argentino de Rosario,CA Atlas,1.58,3.8,5.75,0,0,0
+07-09-25,20:26,"Italy Serie C, Group B",Sambenedettese vs Forli FC,Sambenedettese,Forli FC,2.3,3.1,3.1,0,0,0
+07-09-25,20:26,"Italy Serie C, Group C",Asd Team Altamura vs Cavese 1919,Asd Team Altamura,Cavese 1919,2.7,3.0,2.7,1,0,1
+07-09-25,20:26,"Italy Serie C, Group C",Audace Cerignola vs SIRACUSA,Audace Cerignola,SIRACUSA,1.6,3.7,5.4,0,0,0
 07-09-25,20:26,,Magallanes Women vs Deportes Temuco Women,Magallanes Women,Deportes Temuco Women,,,,0,0,0
-07-09-25,20:26,,Santa Helena GO vs Aparecida EC GO,Santa Helena GO,Aparecida EC GO,,,,1,0,1
-07-09-25,20:36,,Luxembourg vs Slovakia,Luxembourg,Slovakia,,,,0,0,0
-07-09-25,20:45,,Sportivo Las Parejas vs Club Sportivo Ben Hur,Sportivo Las Parejas,Club Sportivo Ben Hur,,,,1,0,1
-07-09-25,20:54,,Envigado FC vs Aguilas Doradas Rionegro,Envigado FC,Aguilas Doradas Rionegro,,,,0,1,1
-07-09-25,20:54,,Huracan Las Heras vs CD Santamarina Tandil,Huracan Las Heras,CD Santamarina Tandil,,,,0,1,1
+07-09-25,20:26,"Brazil Goiano, 3. Divisao",Santa Helena GO vs Aparecida EC GO,Santa Helena GO,Aparecida EC GO,1.48,3.5,6.1,1,0,1
+07-09-25,20:36,International World Cup Qualification UEFA,Luxembourg vs Slovakia,Luxembourg,Slovakia,5.1,3.4,1.78,0,0,0
+07-09-25,20:45,Argentina Torneo Federal A,Sportivo Las Parejas vs Club Sportivo Ben Hur,Sportivo Las Parejas,Club Sportivo Ben Hur,1.79,3.25,4.6,1,0,1
+07-09-25,20:54,"Colombia Primera A, Clausura",Envigado FC vs Aguilas Doradas Rionegro,Envigado FC,Aguilas Doradas Rionegro,2.95,2.9,2.6,0,1,1
+07-09-25,20:54,Argentina Torneo Federal A,Huracan Las Heras vs CD Santamarina Tandil,Huracan Las Heras,CD Santamarina Tandil,2.1,2.95,3.8,0,1,1
 07-09-25,20:54,,Deportes Naval de Talcahuano vs Quintero Unido FC,Deportes Naval de Talcahuano,Quintero Unido FC,,,,0,1,1
-07-09-25,20:54,,CD Suchitepequez vs Deportivo Coatepeque,CD Suchitepequez,Deportivo Coatepeque,,,,0,0,0
-07-09-25,21:13,,Chicago Red Stars vs Orlando Pride,Chicago Red Stars,Orlando Pride,,,,0,0,0
-07-09-25,21:29,,Sportivo Y Biblioteca Atenas vs Cipolletti,Sportivo Y Biblioteca Atenas,Cipolletti,,,,0,0,0
-07-09-25,21:29,,Deportivo Madryn vs Club Atletico Los Andes,Deportivo Madryn,Club Atletico Los Andes,,,,0,0,0
-07-09-25,21:29,,Monagas SC B vs Bolivar SC,Monagas SC B,Bolivar SC,,,,1,0,1
-07-09-25,21:29,,Trujillanos FC vs Barquisimeto SC,Trujillanos FC,Barquisimeto SC,,,,1,0,1
-07-09-25,21:29,,Floresta EC CE vs SER Caxias do Sul,Floresta EC CE,SER Caxias do Sul,,,,0,0,0
-07-09-25,21:29,,CD Real Tomayapo vs Guabira Montero,CD Real Tomayapo,Guabira Montero,,,,1,0,1
+07-09-25,20:54,Guatemala Primera Division,CD Suchitepequez vs Deportivo Coatepeque,CD Suchitepequez,Deportivo Coatepeque,1.41,3.9,7.6,0,0,0
+07-09-25,21:13,USA National Womens Soccer League,Chicago Red Stars vs Orlando Pride,Chicago Red Stars,Orlando Pride,3.8,3.6,1.78,0,0,0
+07-09-25,21:29,Argentina Torneo Federal A,Sportivo Y Biblioteca Atenas vs Cipolletti,Sportivo Y Biblioteca Atenas,Cipolletti,2.4,2.8,3.25,0,0,0
+07-09-25,21:29,Argentina Primera Nacional,Deportivo Madryn vs Club Atletico Los Andes,Deportivo Madryn,Club Atletico Los Andes,1.63,3.3,6.2,0,0,0
+07-09-25,21:29,Venezuela Segunda Division,Monagas SC B vs Bolivar SC,Monagas SC B,Bolivar SC,2.95,3.4,2.1,1,0,1
+07-09-25,21:29,Venezuela Segunda Division,Trujillanos FC vs Barquisimeto SC,Trujillanos FC,Barquisimeto SC,1.77,2.9,5.3,1,0,1
+07-09-25,21:29,Brazil Brasileiro Serie C,Floresta EC CE vs SER Caxias do Sul,Floresta EC CE,SER Caxias do Sul,2.5,2.75,3.2,0,0,0
+07-09-25,21:29,Bolivia Copa Division Profesional,CD Real Tomayapo vs Guabira Montero,CD Real Tomayapo,Guabira Montero,2.55,3.4,2.4,1,0,1
 07-09-25,21:29,,Perez Zeledon vs LD Alajuelense,Perez Zeledon,LD Alajuelense,,,,0,1,1
-07-09-25,21:50,,Angostura FC vs Mineros de Guayana,Angostura FC,Mineros de Guayana,,,,1,0,1
-07-09-25,21:50,,Treasure Beach FC vs Molynes,Treasure Beach FC,Molynes,,,,0,0,0
-07-09-25,21:50,,Club Alianza Lima vs CD Universidad Cesar Vallejo,Club Alianza Lima,CD Universidad Cesar Vallejo,,,,0,0,0
-07-09-25,22:00,,Central Norte Salta vs Agropecuario Argentino,Central Norte Salta,Agropecuario Argentino,,,,0,0,0
-07-09-25,22:20,,Dimas Escazu vs LD Alajuelense,Dimas Escazu,LD Alajuelense,,,,0,0,0
-07-09-25,22:32,,Deportes Concepcion vs CD Cobreloa Calama,Deportes Concepcion,CD Cobreloa Calama,,,,1,0,1
-07-09-25,22:50,,Racing de Cordoba vs CA Patronato Parana,Racing de Cordoba,CA Patronato Parana,,,,0,0,0
-07-09-25,22:50,,Herrera FC vs Tauro FC,Herrera FC,Tauro FC,,,,1,0,1
-07-09-25,22:50,,CS Maritimo de la Guaira vs Deportivo Miranda,CS Maritimo de la Guaira,Deportivo Miranda,,,,0,0,0
-07-09-25,22:50,,CD Fuerte San Francisco Morazan vs AD Isidro Metapan,CD Fuerte San Francisco Morazan,AD Isidro Metapan,,,,0,0,0
-07-09-25,22:50,,Zacatecoluca FC vs Alianza FC San Salvador,Zacatecoluca FC,Alianza FC San Salvador,,,,0,1,1
+07-09-25,21:50,Venezuela Segunda Division,Angostura FC vs Mineros de Guayana,Angostura FC,Mineros de Guayana,2.95,3.1,2.25,1,0,1
+07-09-25,21:50,Jamaica Premier League,Treasure Beach FC vs Molynes,Treasure Beach FC,Molynes,2.15,3.33,3.1,0,0,0
+07-09-25,21:50,Peru Liga Femenina,Club Alianza Lima vs CD Universidad Cesar Vallejo,Club Alianza Lima,CD Universidad Cesar Vallejo,1.01,13.5,55.0,0,0,0
+07-09-25,22:00,Argentina Primera Nacional,Central Norte Salta vs Agropecuario Argentino,Central Norte Salta,Agropecuario Argentino,2.25,2.85,3.5,0,0,0
+07-09-25,22:20,"Costa Rica Primera Division, Women",Dimas Escazu vs LD Alajuelense,Dimas Escazu,LD Alajuelense,4.7,4.3,1.58,0,0,0
+07-09-25,22:32,Chile Primera B,Deportes Concepcion vs CD Cobreloa Calama,Deportes Concepcion,CD Cobreloa Calama,2.45,3.0,2.95,1,0,1
+07-09-25,22:50,Argentina Primera Nacional,Racing de Cordoba vs CA Patronato Parana,Racing de Cordoba,CA Patronato Parana,2.2,2.85,3.6,0,0,0
+07-09-25,22:50,"Panama Liga Panamena, Clausura",Herrera FC vs Tauro FC,Herrera FC,Tauro FC,4.0,2.95,1.96,1,0,1
+07-09-25,22:50,Venezuela Segunda Division,CS Maritimo de la Guaira vs Deportivo Miranda,CS Maritimo de la Guaira,Deportivo Miranda,2.0,3.2,3.5,0,0,0
+07-09-25,22:50,"El Salvador Primera Division, Apertura",CD Fuerte San Francisco Morazan vs AD Isidro Metapan,CD Fuerte San Francisco Morazan,AD Isidro Metapan,4.0,3.0,1.94,0,0,0
+07-09-25,22:50,"El Salvador Primera Division, Apertura",Zacatecoluca FC vs Alianza FC San Salvador,Zacatecoluca FC,Alianza FC San Salvador,4.5,2.85,1.91,0,1,1
 07-09-25,22:50,,Motagua Reserves vs CD Real Espana Reserves,Motagua Reserves,CD Real Espana Reserves,,,,1,0,1
-07-09-25,22:50,,Deportivo San Pedro vs Juventud Copalera,Deportivo San Pedro,Juventud Copalera,,,,1,0,1
-07-09-25,22:59,,America de Cali vs AD Cali,America de Cali,AD Cali,,,,0,0,0
-07-09-25,22:59,,Deportivo Achuapa vs CSD Xelaju MC,Deportivo Achuapa,CSD Xelaju MC,,,,1,0,1
+07-09-25,22:50,Guatemala Primera Division,Deportivo San Pedro vs Juventud Copalera,Deportivo San Pedro,Juventud Copalera,1.26,5.0,9.5,1,0,1
+07-09-25,22:59,"Colombia Primera A, Clausura",America de Cali vs AD Cali,America de Cali,AD Cali,1.7,3.33,5.4,0,0,0
+07-09-25,22:59,Guatemala Liga Nacional. Apertura,Deportivo Achuapa vs CSD Xelaju MC,Deportivo Achuapa,CSD Xelaju MC,2.5,2.8,3.1,1,0,1
 07-09-25,22:59,,Club America Salcaja vs Barillas FC,Club America Salcaja,Barillas FC,,,,1,0,1
-07-09-25,22:59,,Gotham FC vs Angel City FC,Gotham FC,Angel City FC,,,,0,1,1
-07-09-25,22:59,,Meluca FC vs CD Hondupino,Meluca FC,CD Hondupino,,,,0,0,0
-07-09-25,22:59,,Deportivo Carcha vs San Benito FC,Deportivo Carcha,San Benito FC,,,,0,0,0
-07-09-25,23:22,,Club 2 de Mayo Reserves vs Olimpia Asuncion Reserves,Club 2 de Mayo Reserves,Olimpia Asuncion Reserves,,,,0,0,0
+07-09-25,22:59,USA National Womens Soccer League,Gotham FC vs Angel City FC,Gotham FC,Angel City FC,1.67,3.5,4.6,0,1,1
+07-09-25,22:59,Honduras Liga de Ascenso,Meluca FC vs CD Hondupino,Meluca FC,CD Hondupino,2.9,3.6,2.2,0,0,0
+07-09-25,22:59,Guatemala Primera Division,Deportivo Carcha vs San Benito FC,Deportivo Carcha,San Benito FC,2.45,3.3,2.6,0,0,0
+07-09-25,23:22,"Paraguay Primera Division Reserve, Apertura",Club 2 de Mayo Reserves vs Olimpia Asuncion Reserves,Club 2 de Mayo Reserves,Olimpia Asuncion Reserves,3.9,3.6,1.77,0,0,0
 07-09-25,23:22,,Marathon Reserves vs Olimpia Reserves,Marathon Reserves,Olimpia Reserves,,,,0,0,0
-07-09-25,23:53,,Real Cartagena FC vs Barranquilla FC,Real Cartagena FC,Barranquilla FC,,,,0,0,0
-07-09-25,23:53,,CA Chaco For Ever vs Chacarita Juniors,CA Chaco For Ever,Chacarita Juniors,,,,0,0,0
-07-09-25,23:53,,Brusque FC SC vs Nautico PE,Brusque FC SC,Nautico PE,,,,0,1,1
-07-09-25,23:53,,America FC RN vs Santa Cruz FC PE,America FC RN,Santa Cruz FC PE,,,,0,0,0
-07-09-25,23:53,,Acatlan FC vs Tecos FC,Acatlan FC,Tecos FC,,,,0,0,0
-08-09-25,08:24,,Chanmari FC vs Mls FC Lawtngtlai,Chanmari FC,Mls FC Lawtngtlai,,,,1,0,1
-08-09-25,08:50,,Belarus SRL vs Scotland SRL,Belarus SRL,Scotland SRL,,,,0,0,0
-08-09-25,08:50,,Gibraltar SRL vs Faroe Islands SRL,Gibraltar SRL,Faroe Islands SRL,,,,0,0,0
-08-09-25,08:50,,Greece SRL vs Denmark SRL,Greece SRL,Denmark SRL,,,,1,0,1
-08-09-25,09:52,,Croatia SRL vs Montenegro SRL,Croatia SRL,Montenegro SRL,,,,1,0,1
-08-09-25,09:52,,Israel SRL vs Italy SRL,Israel SRL,Italy SRL,,,,0,0,0
-08-09-25,09:52,,Switzerland SRL vs Slovenia SRL,Switzerland SRL,Slovenia SRL,,,,1,0,1
+07-09-25,23:53,Colombia Primera B,Real Cartagena FC vs Barranquilla FC,Real Cartagena FC,Barranquilla FC,1.29,5.1,9.0,0,0,0
+07-09-25,23:53,Argentina Primera Nacional,CA Chaco For Ever vs Chacarita Juniors,CA Chaco For Ever,Chacarita Juniors,2.05,2.8,4.25,0,0,0
+07-09-25,23:53,Brazil Brasileiro Serie C,Brusque FC SC vs Nautico PE,Brusque FC SC,Nautico PE,2.45,2.85,3.1,0,1,1
+07-09-25,23:53,Brazil Brasileiro Serie D,America FC RN vs Santa Cruz FC PE,America FC RN,Santa Cruz FC PE,1.92,3.25,4.0,0,0,0
+07-09-25,23:53,Mexico Liga Premier Serie A,Acatlan FC vs Tecos FC,Acatlan FC,Tecos FC,2.3,3.5,2.65,0,0,0
+08-09-25,08:24,India Mizoram Premier League,Chanmari FC vs Mls FC Lawtngtlai,Chanmari FC,Mls FC Lawtngtlai,1.11,7.5,14.5,1,0,1
+08-09-25,08:50,Simulated Reality League World Cup Qualifiers SRL,Belarus SRL vs Scotland SRL,Belarus SRL,Scotland SRL,6.69,4.0,1.54,0,0,0
+08-09-25,08:50,Simulated Reality League World Cup Qualifiers SRL,Gibraltar SRL vs Faroe Islands SRL,Gibraltar SRL,Faroe Islands SRL,7.45,3.93,1.51,0,0,0
+08-09-25,08:50,Simulated Reality League World Cup Qualifiers SRL,Greece SRL vs Denmark SRL,Greece SRL,Denmark SRL,2.4,3.19,3.12,1,0,1
+08-09-25,09:52,Simulated Reality League World Cup Qualifiers SRL,Croatia SRL vs Montenegro SRL,Croatia SRL,Montenegro SRL,1.21,6.56,14.33,1,0,1
+08-09-25,09:52,Simulated Reality League World Cup Qualifiers SRL,Israel SRL vs Italy SRL,Israel SRL,Italy SRL,7.19,4.73,1.43,0,0,0
+08-09-25,09:52,Simulated Reality League World Cup Qualifiers SRL,Switzerland SRL vs Slovenia SRL,Switzerland SRL,Slovenia SRL,1.53,4.33,6.04,1,0,1
 08-09-25,10:47,,Rakhine United FC U21 vs Thitsar Arman FC U21,Rakhine United FC U21,Thitsar Arman FC U21,,,,1,0,1
 08-09-25,10:47,,Albania vs Kosovo,Albania,Kosovo,,,,0,0,0
 08-09-25,10:58,,Thai Nguyen Women vs Ha Noi I Watabe Women,Thai Nguyen Women,Ha Noi I Watabe Women,,,,0,0,0
 08-09-25,10:58,,Kachin United FC vs Myawady FC,Kachin United FC,Myawady FC,,,,0,1,1
+08-09-25,11:24,India Mizoram Premier League,Aizawl FC vs Kanan FC Aizawl,Aizawl FC,Kanan FC Aizawl,1.18,6.2,11.0,1,0,1
