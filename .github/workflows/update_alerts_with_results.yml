@@ -13,6 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: Africa/Lagos
+      ALERT_LOG_FILE: remote_alerts_log.csv
       RESULT_LOG_FILE: remote_results.csv
       FINAL_DB_FILE: remote_final_db.csv
     steps:

@@ -14,6 +14,7 @@ jobs:
     env:
       TZ: Africa/Lagos
       ALERT_LOG_FILE: remote_alerts_log.csv  # To avoid conflict with local alerts_log.csv
+      REMOTE_TODAY_FILE: remote_today.csv
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
