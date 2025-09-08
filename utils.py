@@ -572,8 +572,6 @@ def append_to_csv(data, filename):
     Returns:
         tuple: (bool, int) - Success status and number of new records appended
     """
-    import os
-    import pandas as pd
 
     if not data:
         print("❌ No data to append")
