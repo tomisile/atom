@@ -69,6 +69,7 @@ jobs:
           if [ -f "$FINAL_DB_FILE" ]; then
             git add -f "$FINAL_DB_FILE"
             git commit -m "chore: update final db file with results data from the previous day [Run ${{ github.run_number }}]" || true
+            git pull origin main
             git push origin main
           else
             echo "⚠️ $FINAL_DB_FILE not found, skipping commit"
