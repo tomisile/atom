@@ -561,6 +561,62 @@ def save_to_csv(data, filename=None):
         return False, None
 
 
+def append_to_csv(data, filename):
+    """
+    Append new data to an existing CSV file, avoiding duplicates based on 'title'
+
+    Args:
+        data (list): List of dictionaries containing new scraped data
+        filename (str): Path to the existing CSV file
+
+    Returns:
+        tuple: (bool, int) - Success status and number of new records appended
+    """
+    import os
+    import pandas as pd
+
+    if not data:
+        print("❌ No data to append")
+        return False, 0
+
+    try:
+        # Create DataFrame from new data
+        new_df = pd.DataFrame(data)
+
+        if not os.path.exists(filename):
+            # File doesn't exist, create it
+            new_df.to_csv(filename, index=False, quoting=0, escapechar='\\')
+            print(f"💾 Created {filename} with {len(new_df)} records")
+            return True, len(new_df)
+
+        # Load existing data
+        # existing_df = pd.read_csv(filename, quoting=0, escapechar='\\')
+        existing_df = pd.read_csv(filename)
+
+        # Get existing titles to check for duplicates
+        existing_titles = set(existing_df['title'].tolist())
+
+        # Filter out duplicates
+        unique_records = new_df[~new_df['title'].isin(existing_titles)]
+
+        if unique_records.empty:
+            print(f"⏭️ All {len(new_df)} records were duplicates - no new data appended")
+            return True, 0
+
+        # Append unique records to existing data
+        updated_df = pd.concat([existing_df, unique_records], ignore_index=True)
+
+        # Save updated data back to CSV
+        updated_df.to_csv(filename, index=False)
+
+        print(f"📝 Appended {len(unique_records)} new records to {filename}")
+        return True, len(unique_records)
+
+    except Exception as e:
+        print(f"❌ Error appending to {filename}: {e}")
+        return False, 0
+
+
 def update_alert_log(extracted_data):
     """
     Updates alerts_log.csv with new match data while avoiding duplicates
@@ -589,7 +645,7 @@ def update_alert_log(extracted_data):
     today_df = None
     if os.path.exists(today_csv):
         try:
-            today_df = pd.read_csv(today_csv)
+            today_df = pd.read_csv(today_csv, quoting=0, escapechar='\\')
         except Exception as e:
             print(f"⚠️ Error loading today.csv: {e}")
 
@@ -603,19 +659,34 @@ def update_alert_log(extracted_data):
             'title': match['title'],
             'home-team': match['home-team'],
             'away-team': match['away-team'],
-            'pre-match_odds_home': '',
-            'pre-match_odds_draw': '',
-            'pre-match_odds_away': '',
+            'pre-match_odds_home': '' if match.get('pre-match_odds_home', '') == '' else float(match.get('pre-match_odds_home', '')) if str(match.get('pre-match_odds_home', '')).replace('.', '').isdigit() else '',
+            'pre-match_odds_draw': '' if match.get('pre-match_odds_draw', '') == '' else float(match.get('pre-match_odds_draw', '')) if str(match.get('pre-match_odds_draw', '')).replace('.', '').isdigit() else '',
+            'pre-match_odds_away': '' if match.get('pre-match_odds_away', '') == '' else float(match.get('pre-match_odds_away', '')) if str(match.get('pre-match_odds_away', '')).replace('.', '').isdigit() else '',
             'home_ht_goals': match['home_ht_goals'],
             'away_ht_goals': match['away_ht_goals'],
-            'ht_goals': match['ht_goals']
+            'ht_goals': int(match['ht_goals'])  # Assuming you want ht_goals as integer, per previous discussion
         }
+        # new_record = {
+        #     'date': current_date,
+        #     'log_time': current_time,
+        #     'tournament': '',
+        #     'title': match['title'],
+        #     'home-team': match['home-team'],
+        #     'away-team': match['away-team'],
+        #     'pre-match_odds_home': '',
+        #     'pre-match_odds_draw': '',
+        #     'pre-match_odds_away': '',
+        #     'home_ht_goals': match['home_ht_goals'],
+        #     'away_ht_goals': match['away_ht_goals'],
+        #     'ht_goals': int(match['ht_goals'])
+        # }
 
         # Try to find matching record in today.csv
         if today_df is not None:
+            today_df['date'] = today_df['date'].astype(str).str.strip()
             matching_row = today_df[
                 (today_df['date'] == current_date) &
-                (today_df['title'] == match['title'])
+                (today_df['title'].str.strip() == match['title'].strip())
             ]
 
             if not matching_row.empty:
@@ -627,6 +698,8 @@ def update_alert_log(extracted_data):
                     'pre-match_odds_draw', '')
                 new_record['pre-match_odds_away'] = row.get(
                     'pre-match_odds_away', '')
+            else:
+                print(f"🔍 No match found for date: '{current_date}' and title: '{match['title']}'")
 
         new_records.append(new_record)
 
@@ -637,7 +710,15 @@ def update_alert_log(extracted_data):
         # Check if the CSV file exists
         if os.path.exists(csv_file):
             # Load existing data
-            existing_df = pd.read_csv(csv_file)
+            existing_df = pd.read_csv(csv_file, quoting=0, escapechar='\\', dtype={
+                'tournament': 'object',
+                'pre-match_odds_home': 'float64',
+                'pre-match_odds_draw': 'float64',
+                'pre-match_odds_away': 'float64',
+                'home_ht_goals': 'Int64',
+                'away_ht_goals': 'Int64',
+                'ht_goals': 'Int64'
+            })
 
             # Get existing titles to check for duplicates
             existing_titles = set(existing_df['title'].tolist())
@@ -662,7 +743,7 @@ def update_alert_log(extracted_data):
 
                 # Save updated data back to CSV
                 updated_df.to_csv(csv_file, index=False,
-                                  quoting=3, escapechar='\\')
+                                  quoting=0, escapechar='\\')
 
                 print(
                     f"📝 Added {len(unique_records)} new records to alerts_log.csv")
@@ -677,7 +758,7 @@ def update_alert_log(extracted_data):
 
         else:
             # File doesn't exist, create new one with headers
-            new_df.to_csv(csv_file, index=False, quoting=3, escapechar='\\')
+            new_df.to_csv(csv_file, index=False, quoting=0, escapechar='\\')
             return len(new_records)
 
     except Exception as e:
@@ -751,7 +832,7 @@ def select_date(driver, target_date):
                 dropdown_element = wait.until(
                     EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
                 )
-                print(f"✅ Found dropdown with selector: {selector}")
+                # print(f"✅ Found dropdown with selector: {selector}")
                 break
             except TimeoutException:
                 continue
@@ -1065,11 +1146,12 @@ def update_alerts_with_final_scores():
 
     # Define file paths
     alerts_log_file = os.getenv('ALERT_LOG_FILE', 'alerts_log.csv')
-    results_file = 'results.csv'
+    results_file = os.getenv('RESULT_LOG_FILE', 'results.csv')
+    output_file = os.getenv('FINAL_DB_FILE', 'final_db.csv')
 
     # Create output filename with timestamp
-    current_time = datetime.now().strftime('%d-%m-%y-%H-%M-%S')
-    output_file = f"alerts_final_{current_time}.csv"
+    # current_time = datetime.now().strftime('%d-%m-%y-%H-%M-%S')
+    # output_file = f"alerts_final_{current_time}.csv"
 
     try:
         # Load alerts_log.csv
@@ -1077,24 +1159,24 @@ def update_alerts_with_final_scores():
             print(f"❌ {alerts_log_file} not found")
             return None
 
-        alerts_df = pd.read_csv(alerts_log_file)
+        alerts_df = pd.read_csv(alerts_log_file, quoting=0, escapechar='\\')
 
         # Load results.csv
         if not os.path.exists(results_file):
             print(f"❌ {results_file} not found")
             return None
 
-        results_df = pd.read_csv(results_file)
+        results_df = pd.read_csv(results_file, quoting=0, escapechar='\\')
 
-        # Add ft_goals column to alerts_df if it doesn't exist
+        # Add these columns to alerts_df if they don't exist, in the desired order
+        if 'home_ft_goals' not in alerts_df.columns:
+            alerts_df.insert(alerts_df.columns.get_loc('ht_goals') + 1, 'home_ft_goals', '')
+        if 'away_ft_goals' not in alerts_df.columns:
+            alerts_df.insert(alerts_df.columns.get_loc('home_ft_goals') + 1, 'away_ft_goals', '')
         if 'ft_goals' not in alerts_df.columns:
-            alerts_df['ft_goals'] = ''
+            alerts_df.insert(alerts_df.columns.get_loc('away_ft_goals') + 1, 'ft_goals', '')
 
-        # Add criteria_met column if it doesn't exist
-        if 'criteria_met' not in alerts_df.columns:
-            alerts_df['criteria_met'] = 'unknown'
-
-        # Update alerts_df with ft_goals from results_df
+        # Update alerts_df with home_ft_goals, away_ft_goals, and ft_goals from results_df
         matches_found = 0
         for idx, alert_row in alerts_df.iterrows():
             # Try to find matching row in results based on team names
@@ -1106,15 +1188,32 @@ def update_alerts_with_final_scores():
 
             if not matching_result.empty:
                 result_row = matching_result.iloc[0]
-                alerts_df.at[idx, 'ft_goals'] = result_row['ft_goals']
+                alerts_df.at[idx, 'home_ft_goals'] = result_row.get('home_ft_goals')
+                alerts_df.at[idx, 'away_ft_goals'] = result_row.get('away_ft_goals')
+                alerts_df.at[idx, 'ft_goals'] = result_row.get('ft_goals')
                 matches_found += 1
 
+        # return alerts_df
         # Save the updated dataframe to new file
-        alerts_df.to_csv(output_file, index=False, quoting=3, escapechar='\\')
+        # alerts_df.to_csv(output_file, index=False, quoting=3, escapechar='\\')
+        # alerts_df.to_csv(output_file, index=False, quoting=0, escapechar='\\')
 
-        print(
-            f"📝 Created {output_file} with {matches_found} final scores updated")
-        return output_file
+        # print(
+        #     f"📝 Created {output_file} with {matches_found} final scores updated")
+        # return output_file
+        # # Ensure goal columns are Int64 to maintain integer types
+        # alerts_df['home_ft_goals'] = alerts_df['home_ft_goals'].astype('Int64')
+        # alerts_df['away_ft_goals'] = alerts_df['away_ft_goals'].astype('Int64')
+        # alerts_df['ft_goals'] = alerts_df['ft_goals'].astype('Int64')
+
+        # Append updated records to final_db.csv
+        success, num_appended = append_to_csv(alerts_df.to_dict('records'), output_file)
+        if success:
+            print(f"📝 Appended {num_appended} updated records with final scores to {output_file}")
+            return output_file
+        else:
+            print(f"❌ Failed to append updated records to {output_file}")
+            return None
 
     except Exception as e:
         print(f"❌ Error creating final scores file: {e}")
@@ -1132,7 +1231,7 @@ def backfill_tournament_and_odds():
 
     # Define file paths
     alerts_log_file = os.getenv('ALERT_LOG_FILE', 'alerts_log.csv')
-    today_csv = 'today.csv'
+    today_csv = os.getenv('REMOTE_TODAY_FILE', 'today.csv')
 
     try:
         # Load both files
@@ -1144,8 +1243,8 @@ def backfill_tournament_and_odds():
             print(f"❌ {today_csv} not found")
             return 0
 
-        alerts_df = pd.read_csv(alerts_log_file)
-        today_df = pd.read_csv(today_csv)
+        alerts_df = pd.read_csv(alerts_log_file, quoting=0, escapechar='\\')
+        today_df = pd.read_csv(today_csv, quoting=0, escapechar='\\')
 
         # Add missing columns if they don't exist
         for col in ['tournament', 'pre-match_odds_home', 'pre-match_odds_draw', 'pre-match_odds_away']:
@@ -1177,8 +1276,10 @@ def backfill_tournament_and_odds():
 
         # Save updated file
         if updates_made > 0:
+            # alerts_df.to_csv(alerts_log_file, index=False,
+            #                  quoting=3, escapechar='\\')
             alerts_df.to_csv(alerts_log_file, index=False,
-                             quoting=3, escapechar='\\')
+                             quoting=0)
             print(
                 f"📝 Backfilled {updates_made} records with tournament and odds data")
         else:

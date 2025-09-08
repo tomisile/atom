@@ -3,7 +3,7 @@
 
 from datetime import datetime, timedelta
 import os
-from utils import scrape_sb_results, save_to_csv, update_alerts_with_final_scores
+from utils import scrape_sb_results, save_to_csv, update_alerts_with_final_scores, append_to_csv
 
 # Get current date
 current_date = datetime.now()
@@ -24,4 +24,6 @@ csv_file = os.getenv('RESULT_LOG_FILE', 'results.csv')
 save_to_csv(results, csv_file)
 
 # Save to file
-# update_alerts_with_final_scores()
+# final_file = os.getenv('FINAL_LOG_FILE', 'final_db.csv')
+update_alerts_with_final_scores()
+# append_to_csv(final_db, final_file)
