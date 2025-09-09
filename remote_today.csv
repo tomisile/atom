@@ -274,170 +274,178 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 08-09-25,20:00,France vs Serbia,International Youth U21 Friendly Games,14619,France,Serbia,1.25,4.9,13.0
 08-09-25,18:00,Qatar SC U23 vs AL Ahli Doha U23,Qatar U23 Olympic League,24089,Qatar SC U23,AL Ahli Doha U23,1.98,3.25,3.2
 08-09-25,18:00,AL Sailiya U23 vs AL Shamal U23,Qatar U23 Olympic League,13380,AL Sailiya U23,AL Shamal U23,1.84,3.5,3.33
-09-09-25,17:00,Armenia vs Ireland,International World Cup Qualification UEFA,43437,Armenia,Ireland,4.30,3.50,1.88
-09-09-25,17:00,Azerbaijan vs Ukraine,International World Cup Qualification UEFA,43511,Azerbaijan,Ukraine,6.90,4.40,1.48
-09-09-25,19:45,Albania vs Latvia,International World Cup Qualification UEFA,43514,Albania,Latvia,1.38,4.50,9.50
-09-09-25,19:45,Bosnia & Herzegovina vs Austria,International World Cup Qualification UEFA,43490,Bosnia & Herzegovina,Austria,5.30,3.70,1.69
-09-09-25,19:45,Cyprus vs Romania,International World Cup Qualification UEFA,43445,Cyprus,Romania,5.70,3.90,1.61
-09-09-25,19:45,France vs Iceland,International World Cup Qualification UEFA,43489,France,Iceland,1.09,10.50,27.00
-09-09-25,19:45,Hungary vs Portugal,International World Cup Qualification UEFA,43513,Hungary,Portugal,7.30,5.00,1.41
-09-09-25,19:45,Norway vs Moldova,International World Cup Qualification UEFA,10792,Norway,Moldova,1.05,13.50,45.00
-09-09-25,19:45,Serbia vs England,International World Cup Qualification UEFA,41594,Serbia,England,4.25,3.40,1.92
-09-09-25,00:00,Ecuador vs Argentina,"International World Cup Qualification, CONMEBOL",20671,Ecuador,Argentina,3.30,2.65,2.70
-09-09-25,00:30,Bolivia vs Brazil,"International World Cup Qualification, CONMEBOL",36941,Bolivia,Brazil,3.30,3.30,2.25
-09-09-25,00:30,Chile vs Uruguay,"International World Cup Qualification, CONMEBOL",27421,Chile,Uruguay,3.40,3.25,2.25
-09-09-25,00:30,Peru vs Paraguay,"International World Cup Qualification, CONMEBOL",31827,Peru,Paraguay,2.40,2.90,3.40
-09-09-25,00:30,Venezuela vs Colombia,"International World Cup Qualification, CONMEBOL",36990,Venezuela,Colombia,2.45,3.20,3.00
-09-09-25,14:00,Kenya vs Seychelles,"International World Cup, Qualification CAF",39016,Kenya,Seychelles,1.03,14.00,47.00
-09-09-25,14:00,Namibia vs Sao Tome and Principe,"International World Cup, Qualification CAF",29743,Namibia,Sao Tome and Principe,1.18,6.50,18.00
-09-09-25,14:00,Sierra Leone vs Ethiopia,"International World Cup, Qualification CAF",28667,Sierra Leone,Ethiopia,2.05,3.20,3.90
-09-09-25,14:00,Tanzania vs Niger,"International World Cup, Qualification CAF",29738,Tanzania,Niger,1.77,3.33,5.20
-09-09-25,14:00,Zimbabwe vs Rwanda,"International World Cup, Qualification CAF",29102,Zimbabwe,Rwanda,2.80,2.90,2.80
-09-09-25,17:00,Burkina Faso vs Egypt,"International World Cup, Qualification CAF",35563,Burkina Faso,Egypt,2.95,3.25,2.40
-09-09-25,17:00,Cape Verde vs Cameroon,"International World Cup, Qualification CAF",33829,Cape Verde,Cameroon,3.25,2.80,2.50
-09-09-25,17:00,DR Congo vs Senegal,"International World Cup, Qualification CAF",35603,DR Congo,Senegal,3.60,2.90,2.30
+09-09-25,17:00,Armenia vs Ireland,International World Cup Qualification UEFA,43437,Armenia,Ireland,4.3,3.5,1.88
+09-09-25,17:00,Azerbaijan vs Ukraine,International World Cup Qualification UEFA,43511,Azerbaijan,Ukraine,6.9,4.4,1.48
+09-09-25,19:45,Albania vs Latvia,International World Cup Qualification UEFA,43514,Albania,Latvia,1.38,4.5,9.5
+09-09-25,19:45,Bosnia & Herzegovina vs Austria,International World Cup Qualification UEFA,43490,Bosnia & Herzegovina,Austria,5.3,3.7,1.69
+09-09-25,19:45,Cyprus vs Romania,International World Cup Qualification UEFA,43445,Cyprus,Romania,5.7,3.9,1.61
+09-09-25,19:45,France vs Iceland,International World Cup Qualification UEFA,43489,France,Iceland,1.09,10.5,27.0
+09-09-25,19:45,Hungary vs Portugal,International World Cup Qualification UEFA,43513,Hungary,Portugal,7.3,5.0,1.41
+09-09-25,19:45,Norway vs Moldova,International World Cup Qualification UEFA,10792,Norway,Moldova,1.05,13.5,45.0
+09-09-25,19:45,Serbia vs England,International World Cup Qualification UEFA,41594,Serbia,England,4.25,3.4,1.92
+09-09-25,00:00,Ecuador vs Argentina,"International World Cup Qualification, CONMEBOL",20671,Ecuador,Argentina,3.3,2.65,2.7
+09-09-25,00:30,Bolivia vs Brazil,"International World Cup Qualification, CONMEBOL",36941,Bolivia,Brazil,3.3,3.3,2.25
+09-09-25,00:30,Chile vs Uruguay,"International World Cup Qualification, CONMEBOL",27421,Chile,Uruguay,3.4,3.25,2.25
+09-09-25,00:30,Peru vs Paraguay,"International World Cup Qualification, CONMEBOL",31827,Peru,Paraguay,2.4,2.9,3.4
+09-09-25,00:30,Venezuela vs Colombia,"International World Cup Qualification, CONMEBOL",36990,Venezuela,Colombia,2.45,3.2,3.0
+09-09-25,14:00,Kenya vs Seychelles,"International World Cup, Qualification CAF",39016,Kenya,Seychelles,1.03,14.0,47.0
+09-09-25,14:00,Namibia vs Sao Tome and Principe,"International World Cup, Qualification CAF",29743,Namibia,Sao Tome and Principe,1.18,6.5,18.0
+09-09-25,14:00,Sierra Leone vs Ethiopia,"International World Cup, Qualification CAF",28667,Sierra Leone,Ethiopia,2.05,3.2,3.9
+09-09-25,14:00,Tanzania vs Niger,"International World Cup, Qualification CAF",29738,Tanzania,Niger,1.77,3.33,5.2
+09-09-25,14:00,Zimbabwe vs Rwanda,"International World Cup, Qualification CAF",29102,Zimbabwe,Rwanda,2.8,2.9,2.8
+09-09-25,17:00,Burkina Faso vs Egypt,"International World Cup, Qualification CAF",35563,Burkina Faso,Egypt,2.95,3.25,2.4
+09-09-25,17:00,Cape Verde vs Cameroon,"International World Cup, Qualification CAF",33829,Cape Verde,Cameroon,3.25,2.8,2.5
+09-09-25,17:00,DR Congo vs Senegal,"International World Cup, Qualification CAF",35603,DR Congo,Senegal,3.6,2.9,2.3
 09-09-25,17:00,South Africa vs Nigeria,"International World Cup, Qualification CAF",15825,South Africa,Nigeria,2.65,2.95,2.95
-09-09-25,17:00,Togo vs Sudan,"International World Cup, Qualification CAF",35614,Togo,Sudan,2.30,3.00,3.40
-09-09-25,20:00,Angola vs Mauritius,"International World Cup, Qualification CAF",35635,Angola,Mauritius,1.19,6.25,17.00
-09-09-25,20:00,Benin vs Lesotho,"International World Cup, Qualification CAF",35632,Benin,Lesotho,1.61,3.50,6.50
-09-09-25,20:00,Gabon vs Ivory Coast,"International World Cup, Qualification CAF",27603,Gabon,Ivory Coast,3.90,3.00,2.10
-09-09-25,20:00,Gambia vs Burundi,"International World Cup, Qualification CAF",27958,Gambia,Burundi,1.71,3.60,5.10
-09-09-25,20:00,Mauritania vs South Sudan,"International World Cup, Qualification CAF",20669,Mauritania,South Sudan,1.37,4.40,9.70
-09-09-25,08:00,New Zealand vs Australia,International Int. Friendly Games,20474,New Zealand,Australia,3.60,3.10,2.20
-09-09-25,17:00,Estonia vs Andorra,International Int. Friendly Games,25184,Estonia,Andorra,1.56,3.70,6.75
-09-09-25,19:45,Wales vs Canada,International Int. Friendly Games,30724,Wales,Canada,2.40,3.33,2.95
-09-09-25,20:00,Malta vs San Marino,International Int. Friendly Games,30647,Malta,San Marino,1.34,4.60,10.50
-09-09-25,00:30,USA vs Japan,International Int. Friendly Games,31815,USA,Japan,3.30,3.40,2.15
-09-09-25,12:00,Gibraltar vs Czechia,"International Youth U21 UEFA European Championship, Qualification",29870,Gibraltar,Czechia,27.00,10.00,1.01
-09-09-25,14:00,Armenia vs Poland,"International Youth U21 UEFA European Championship, Qualification",30214,Armenia,Poland,11.50,5.80,1.22
-09-09-25,15:00,Azerbaijan vs Bulgaria,"International Youth U21 UEFA European Championship, Qualification",13028,Azerbaijan,Bulgaria,4.40,3.75,1.71
-09-09-25,16:00,Netherlands vs Israel,"International Youth U21 UEFA European Championship, Qualification",13619,Netherlands,Israel,1.17,6.60,13.00
-09-09-25,17:00,Cyprus vs Finland,"International Youth U21 UEFA European Championship, Qualification",13797,Cyprus,Finland,4.00,3.75,1.77
-09-09-25,17:00,Georgia vs Northern Ireland,"International Youth U21 UEFA European Championship, Qualification",15782,Georgia,Northern Ireland,1.69,3.75,4.50
-09-09-25,17:00,Lithuania vs Hungary,"International Youth U21 UEFA European Championship, Qualification",16945,Lithuania,Hungary,5.50,4.00,1.54
-09-09-25,17:00,Moldova vs Slovakia,"International Youth U21 UEFA European Championship, Qualification",30219,Moldova,Slovakia,7.40,4.70,1.36
-09-09-25,17:00,Norway vs Slovenia,"International Youth U21 UEFA European Championship, Qualification",16703,Norway,Slovenia,1.56,4.00,5.40
-09-09-25,17:15,North Macedonia vs Italy,"International Youth U21 UEFA European Championship, Qualification",17161,North Macedonia,Italy,11.00,5.60,1.23
-09-09-25,18:00,Kosovo vs Spain,"International Youth U21 UEFA European Championship, Qualification",17377,Kosovo,Spain,11.50,6.10,1.21
-09-09-25,18:00,Malta vs Greece,"International Youth U21 UEFA European Championship, Qualification",17803,Malta,Greece,15.00,6.70,1.16
-09-09-25,18:00,Turkiye vs Croatia,"International Youth U21 UEFA European Championship, Qualification",18123,Turkiye,Croatia,2.45,3.30,2.75
-09-09-25,18:30,Luxembourg vs Faroe Islands,"International Youth U21 UEFA European Championship, Qualification",18311,Luxembourg,Faroe Islands,1.76,3.70,4.10
-09-09-25,19:00,Montenegro vs Sweden,"International Youth U21 UEFA European Championship, Qualification",18384,Montenegro,Sweden,5.10,4.10,1.57
-09-09-25,19:00,Scotland vs Portugal,"International Youth U21 UEFA European Championship, Qualification",18327,Scotland,Portugal,6.40,4.50,1.42
-09-09-25,19:30,Germany vs Latvia,"International Youth U21 UEFA European Championship, Qualification",18520,Germany,Latvia,1.04,11.50,31.00
-09-09-25,19:30,Ireland vs Andorra,"International Youth U21 UEFA European Championship, Qualification",18390,Ireland,Andorra,1.08,8.70,26.00
-09-09-25,19:30,San Marino vs Romania,"International Youth U21 UEFA European Championship, Qualification",30403,San Marino,Romania,40.00,12.50,1.02
-09-09-25,17:00,AB Gladsaxe vs B93 Copenhagen,Denmark DBU Pokalen,31291,AB Gladsaxe,B93 Copenhagen,3.00,3.70,2.10
-09-09-25,12:00,Olympic Kingsway SC vs Perth Glory FC,Australia Western Australia NPL,38112,Olympic Kingsway SC,Perth Glory FC,1.59,4.30,4.20
-09-09-25,08:00,Albania SRL vs Latvia SRL,Simulated Reality League World Cup Qualifiers SRL,26428,Albania SRL,Latvia SRL,1.38,4.54,9.50
-09-09-25,08:00,Armenia SRL vs Ireland SRL,Simulated Reality League World Cup Qualifiers SRL,24327,Armenia SRL,Ireland SRL,4.68,3.55,1.80
-09-09-25,08:00,Azerbaijan SRL vs Ukraine SRL,Simulated Reality League World Cup Qualifiers SRL,24808,Azerbaijan SRL,Ukraine SRL,6.40,4.31,1.51
+09-09-25,17:00,Togo vs Sudan,"International World Cup, Qualification CAF",35614,Togo,Sudan,2.3,3.0,3.4
+09-09-25,20:00,Angola vs Mauritius,"International World Cup, Qualification CAF",35635,Angola,Mauritius,1.19,6.25,17.0
+09-09-25,20:00,Benin vs Lesotho,"International World Cup, Qualification CAF",35632,Benin,Lesotho,1.61,3.5,6.5
+09-09-25,20:00,Gabon vs Ivory Coast,"International World Cup, Qualification CAF",27603,Gabon,Ivory Coast,3.9,3.0,2.1
+09-09-25,20:00,Gambia vs Burundi,"International World Cup, Qualification CAF",27958,Gambia,Burundi,1.71,3.6,5.1
+09-09-25,20:00,Mauritania vs South Sudan,"International World Cup, Qualification CAF",20669,Mauritania,South Sudan,1.37,4.4,9.7
+09-09-25,08:00,New Zealand vs Australia,International Int. Friendly Games,20474,New Zealand,Australia,3.6,3.1,2.2
+09-09-25,17:00,Estonia vs Andorra,International Int. Friendly Games,25184,Estonia,Andorra,1.56,3.7,6.75
+09-09-25,19:45,Wales vs Canada,International Int. Friendly Games,30724,Wales,Canada,2.4,3.33,2.95
+09-09-25,20:00,Malta vs San Marino,International Int. Friendly Games,30647,Malta,San Marino,1.34,4.6,10.5
+09-09-25,00:30,USA vs Japan,International Int. Friendly Games,31815,USA,Japan,3.3,3.4,2.15
+09-09-25,12:00,Gibraltar vs Czechia,"International Youth U21 UEFA European Championship, Qualification",29870,Gibraltar,Czechia,27.0,10.0,1.01
+09-09-25,14:00,Armenia vs Poland,"International Youth U21 UEFA European Championship, Qualification",30214,Armenia,Poland,11.5,5.8,1.22
+09-09-25,15:00,Azerbaijan vs Bulgaria,"International Youth U21 UEFA European Championship, Qualification",13028,Azerbaijan,Bulgaria,4.4,3.75,1.71
+09-09-25,16:00,Netherlands vs Israel,"International Youth U21 UEFA European Championship, Qualification",13619,Netherlands,Israel,1.17,6.6,13.0
+09-09-25,17:00,Cyprus vs Finland,"International Youth U21 UEFA European Championship, Qualification",13797,Cyprus,Finland,4.0,3.75,1.77
+09-09-25,17:00,Georgia vs Northern Ireland,"International Youth U21 UEFA European Championship, Qualification",15782,Georgia,Northern Ireland,1.69,3.75,4.5
+09-09-25,17:00,Lithuania vs Hungary,"International Youth U21 UEFA European Championship, Qualification",16945,Lithuania,Hungary,5.5,4.0,1.54
+09-09-25,17:00,Moldova vs Slovakia,"International Youth U21 UEFA European Championship, Qualification",30219,Moldova,Slovakia,7.4,4.7,1.36
+09-09-25,17:00,Norway vs Slovenia,"International Youth U21 UEFA European Championship, Qualification",16703,Norway,Slovenia,1.56,4.0,5.4
+09-09-25,17:15,North Macedonia vs Italy,"International Youth U21 UEFA European Championship, Qualification",17161,North Macedonia,Italy,11.0,5.6,1.23
+09-09-25,18:00,Kosovo vs Spain,"International Youth U21 UEFA European Championship, Qualification",17377,Kosovo,Spain,11.5,6.1,1.21
+09-09-25,18:00,Malta vs Greece,"International Youth U21 UEFA European Championship, Qualification",17803,Malta,Greece,15.0,6.7,1.16
+09-09-25,18:00,Turkiye vs Croatia,"International Youth U21 UEFA European Championship, Qualification",18123,Turkiye,Croatia,2.45,3.3,2.75
+09-09-25,18:30,Luxembourg vs Faroe Islands,"International Youth U21 UEFA European Championship, Qualification",18311,Luxembourg,Faroe Islands,1.76,3.7,4.1
+09-09-25,19:00,Montenegro vs Sweden,"International Youth U21 UEFA European Championship, Qualification",18384,Montenegro,Sweden,5.1,4.1,1.57
+09-09-25,19:00,Scotland vs Portugal,"International Youth U21 UEFA European Championship, Qualification",18327,Scotland,Portugal,6.4,4.5,1.42
+09-09-25,19:30,Germany vs Latvia,"International Youth U21 UEFA European Championship, Qualification",18520,Germany,Latvia,1.04,11.5,31.0
+09-09-25,19:30,Ireland vs Andorra,"International Youth U21 UEFA European Championship, Qualification",18390,Ireland,Andorra,1.08,8.7,26.0
+09-09-25,19:30,San Marino vs Romania,"International Youth U21 UEFA European Championship, Qualification",30403,San Marino,Romania,40.0,12.5,1.02
+09-09-25,17:00,AB Gladsaxe vs B93 Copenhagen,Denmark DBU Pokalen,31291,AB Gladsaxe,B93 Copenhagen,3.0,3.7,2.1
+09-09-25,12:00,Olympic Kingsway SC vs Perth Glory FC,Australia Western Australia NPL,38112,Olympic Kingsway SC,Perth Glory FC,1.59,4.3,4.2
+09-09-25,08:00,Albania SRL vs Latvia SRL,Simulated Reality League World Cup Qualifiers SRL,26428,Albania SRL,Latvia SRL,1.38,4.54,9.5
+09-09-25,08:00,Armenia SRL vs Ireland SRL,Simulated Reality League World Cup Qualifiers SRL,24327,Armenia SRL,Ireland SRL,4.68,3.55,1.8
+09-09-25,08:00,Azerbaijan SRL vs Ukraine SRL,Simulated Reality League World Cup Qualifiers SRL,24808,Azerbaijan SRL,Ukraine SRL,6.4,4.31,1.51
 09-09-25,08:00,Bosnia & Herzegovina SRL vs Austria SRL,Simulated Reality League World Cup Qualifiers SRL,27056,Bosnia & Herzegovina SRL,Austria SRL,4.96,3.64,1.74
 09-09-25,09:00,Cyprus SRL vs Romania SRL,Simulated Reality League World Cup Qualifiers SRL,28941,Cyprus SRL,Romania SRL,5.98,4.08,1.57
-09-09-25,09:00,France SRL vs Iceland SRL,Simulated Reality League World Cup Qualifiers SRL,28126,France SRL,Iceland SRL,1.10,10.20,25.25
+09-09-25,09:00,France SRL vs Iceland SRL,Simulated Reality League World Cup Qualifiers SRL,28126,France SRL,Iceland SRL,1.1,10.2,25.25
 09-09-25,09:00,Hungary SRL vs Portugal SRL,Simulated Reality League World Cup Qualifiers SRL,28815,Hungary SRL,Portugal SRL,6.35,4.52,1.49
-09-09-25,09:00,Norway SRL vs Moldova SRL,Simulated Reality League World Cup Qualifiers SRL,28340,Norway SRL,Moldova SRL,1.05,12.93,43.20
+09-09-25,09:00,Norway SRL vs Moldova SRL,Simulated Reality League World Cup Qualifiers SRL,28340,Norway SRL,Moldova SRL,1.05,12.93,43.2
 09-09-25,09:00,Serbia SRL vs England SRL,Simulated Reality League World Cup Qualifiers SRL,28805,Serbia SRL,England SRL,4.64,3.61,1.79
 09-09-25,12:00,Bolivia SRL vs Brazil SRL,Simulated Reality League World Cup Qualifiers SRL,29001,Bolivia SRL,Brazil SRL,3.17,3.55,2.21
 09-09-25,12:00,Chile SRL vs Uruguay SRL,Simulated Reality League World Cup Qualifiers SRL,29054,Chile SRL,Uruguay SRL,3.29,3.27,2.27
-09-09-25,12:00,Ecuador SRL vs Argentina SRL,Simulated Reality League World Cup Qualifiers SRL,28971,Ecuador SRL,Argentina SRL,3.40,2.92,2.42
+09-09-25,12:00,Ecuador SRL vs Argentina SRL,Simulated Reality League World Cup Qualifiers SRL,28971,Ecuador SRL,Argentina SRL,3.4,2.92,2.42
 09-09-25,12:00,Peru SRL vs Paraguay SRL,Simulated Reality League World Cup Qualifiers SRL,29100,Peru SRL,Paraguay SRL,2.21,3.11,3.63
 09-09-25,12:00,Venezuela SRL vs Colombia SRL,Simulated Reality League World Cup Qualifiers SRL,31926,Venezuela SRL,Colombia SRL,2.41,3.09,3.21
-09-09-25,19:45,York City FC vs Tamworth FC,England National League,26525,York City FC,Tamworth FC,1.49,4.40,5.70
-09-09-25,19:00,Tranmere Rovers FC vs Nottingham Forest U21,England EFL Trophy,10385,Tranmere Rovers FC,Nottingham Forest U21,1.72,4.00,4.25
-09-09-25,19:45,Mansfield Town vs Harrogate Town,England EFL Trophy,29884,Mansfield Town,Harrogate Town,1.69,4.10,4.25
-09-09-25,19:45,Ashton United FC vs Bamber Bridge,England Amateur Northern Premier League Premier,19510,Ashton United FC,Bamber Bridge,2.00,3.50,3.20
-09-09-25,19:45,Guiseley FC vs Prescot Cables,England Amateur Northern Premier League Premier,20512,Guiseley FC,Prescot Cables,1.91,3.33,3.60
-09-09-25,19:45,Hednesford Town vs Ilkeston Town FC,England Amateur Northern Premier League Premier,20547,Hednesford Town,Ilkeston Town FC,1.96,3.40,3.40
-09-09-25,19:45,Hyde United FC vs Leek Town FC,England Amateur Northern Premier League Premier,20602,Hyde United FC,Leek Town FC,1.86,3.60,3.50
-09-09-25,19:45,Lancaster City vs Warrington Rylands 1906 FC,England Amateur Northern Premier League Premier,20826,Lancaster City,Warrington Rylands 1906 FC,2.50,3.20,2.60
-09-09-25,19:45,Morpeth Town vs Hebburn Town,England Amateur Northern Premier League Premier,21519,Morpeth Town,Hebburn Town,2.35,3.40,2.60
-09-09-25,19:45,Warrington Town vs Rushall Olympic,England Amateur Northern Premier League Premier,21850,Warrington Town,Rushall Olympic,3.20,3.60,1.98
-09-09-25,19:45,Whitby Town vs Stockton Town,England Amateur Northern Premier League Premier,21875,Whitby Town,Stockton Town,3.10,3.40,2.05
-09-09-25,19:45,Workington AFC vs FC United of Manchester,England Amateur Northern Premier League Premier,22772,Workington AFC,FC United of Manchester,2.60,3.30,2.45
-09-09-25,18:00,Club Almirante Brown Reserves vs Atlanta Reserves,"Argentina Primera Nacional, Reserve",34826,Club Almirante Brown Reserves,Atlanta Reserves,2.55,3.00,2.65
-09-09-25,21:30,CD Independiente Juniors vs 9 de Octubre FC,Ecuador Serie B,31976,CD Independiente Juniors,9 de Octubre FC,1.79,3.00,4.10
-09-09-25,19:45,Alvechurch vs Halesowen Town FC,England Amateur Southern League Premier Central,21883,Alvechurch,Halesowen Town FC,2.20,3.40,2.85
-09-09-25,19:45,BishopÂ´s Stortford vs Leiston FC,England Amateur Southern League Premier Central,21137,BishopÂ´s Stortford,Leiston FC,1.93,3.60,3.33
-09-09-25,19:45,Bromsgrove Sporting vs Banbury United,England Amateur Southern League Premier Central,13745,Bromsgrove Sporting,Banbury United,2.85,3.50,2.15
-09-09-25,19:45,Harborough Town FC vs Quorn FC,England Amateur Southern League Premier Central,14073,Harborough Town FC,Quorn FC,1.96,3.50,3.30
-09-09-25,19:45,Kettering Town vs Spalding United,England Amateur Southern League Premier Central,20031,Kettering Town,Spalding United,2.25,3.60,2.65
-09-09-25,19:45,Real Bedford vs Bury Town FC,England Amateur Southern League Premier Central,14114,Real Bedford,Bury Town FC,2.05,3.60,3.10
-09-09-25,19:45,Royston Town vs Needham Market,England Amateur Southern League Premier Central,14885,Royston Town,Needham Market,2.55,3.50,2.40
-09-09-25,19:45,Stamford AFC vs Redditch United,England Amateur Southern League Premier Central,15208,Stamford AFC,Redditch United,2.25,3.25,2.90
-09-09-25,19:45,Stratford Town vs Barwell,England Amateur Southern League Premier Central,15227,Stratford Town,Barwell,2.00,3.50,3.20
-09-09-25,19:30,Evesham United vs Hungerford Town FC,England Amateur Southern League Premier South,15051,Evesham United,Hungerford Town FC,2.25,3.40,2.75
-09-09-25,19:45,Hanwell Town FC vs Chertsey Town,England Amateur Southern League Premier South,26199,Hanwell Town FC,Chertsey Town,2.05,3.50,3.00
-09-09-25,19:45,Plymouth Parkway vs Dorchester Town,England Amateur Southern League Premier South,32567,Plymouth Parkway,Dorchester Town,2.80,3.60,2.15
-09-09-25,19:45,Poole Town vs Farnham Town,England Amateur Southern League Premier South,32573,Poole Town,Farnham Town,2.90,3.60,2.10
-09-09-25,19:45,Uxbridge FC vs Berkhamsted FC,England Amateur Southern League Premier South,35382,Uxbridge FC,Berkhamsted FC,2.30,3.33,2.70
-09-09-25,19:45,Yate Town vs Tiverton Town,England Amateur Southern League Premier South,32710,Yate Town,Tiverton Town,2.40,3.25,2.65
-09-09-25,18:00,Rappe GOIF vs Osters IF,Sweden Svenska Cup,35216,Rappe GOIF,Osters IF,22.00,13.50,1.04
-09-09-25,12:00,Brentford U21 vs Wigan Athletic U21,England Amateur U21 Professional Development League,37352,Brentford U21,Wigan Athletic U21,1.41,5.25,5.50
-09-09-25,13:00,Charlton Athletic U21 vs Crewe Alexandra U21,England Amateur U21 Professional Development League,40864,Charlton Athletic U21,Crewe Alexandra U21,1.18,7.70,10.00
-09-09-25,13:00,Colchester United U21 vs Fleetwood Town U21,England Amateur U21 Professional Development League,40975,Colchester United U21,Fleetwood Town U21,2.20,4.10,2.65
-09-09-25,13:30,Millwall U21 vs Huddersfield Town (R),England Amateur U21 Professional Development League,41118,Millwall U21,Huddersfield Town (R),1.44,5.00,5.30
-09-09-25,14:00,Bristol City U21 vs Barnsley U21,England Amateur U21 Professional Development League,11889,Bristol City U21,Barnsley U21,1.89,4.40,3.10
-09-09-25,15:30,San Martín Burzaco Reserves vs Argentino de Merlo Reserves,"Argentina Primera B, Reserve",38671,San Martín Burzaco Reserves,Argentino de Merlo Reserves,4.60,3.80,1.61
-09-09-25,19:30,CA Claypole vs Deportivo Espanol,Argentina Primera C,37552,CA Claypole,Deportivo Espanol,2.55,2.90,2.95
-09-09-25,19:30,Deportivo Camioneros vs Canuelas FC,Argentina Primera C,32081,Deportivo Camioneros,Canuelas FC,1.55,3.80,6.20
-09-09-25,19:30,Juventud Unida San Miguel vs Central Ballester,Argentina Primera C,40742,Juventud Unida San Miguel,Central Ballester,1.65,3.50,5.60
-09-09-25,19:30,Lujan vs Deportivo Paraguayo,Argentina Primera C,44463,Lujan,Deportivo Paraguayo,1.65,3.40,6.00
-09-09-25,19:30,Burgess Hill Town vs Carshalton Athletic FC,"England Amateur Isthmian League, Pr. Div",39497,Burgess Hill Town,Carshalton Athletic FC,2.70,3.60,2.25
-09-09-25,19:45,Brentwood Town FC vs Canvey Island,"England Amateur Isthmian League, Pr. Div",36831,Brentwood Town FC,Canvey Island,1.47,4.40,5.30
-09-09-25,19:45,Cheshunt FC vs Billericay Town,"England Amateur Isthmian League, Pr. Div",35850,Cheshunt FC,Billericay Town,3.20,3.70,1.95
-09-09-25,19:45,Cray Wanderers vs Dulwich Hamlet,"England Amateur Isthmian League, Pr. Div",39499,Cray Wanderers,Dulwich Hamlet,2.20,3.40,2.85
-09-09-25,19:45,Lewes FC vs Chichester City FC,"England Amateur Isthmian League, Pr. Div",35950,Lewes FC,Chichester City FC,2.55,3.50,2.35
-09-09-25,19:45,Wingate & Finchley vs Hashtag United,"England Amateur Isthmian League, Pr. Div",36230,Wingate & Finchley,Hashtag United,2.45,3.60,2.40
-09-09-25,15:30,FK Slovan Duslo Sala vs OFK Dynamo Malzenice,Slovakia Slovensky Pohar,22043,FK Slovan Duslo Sala,OFK Dynamo Malzenice,3.25,3.50,2.05
-09-09-25,15:30,TJ Banik Kalinovo vs FC Vion Zlate Moravce - Vrable,Slovakia Slovensky Pohar,31832,TJ Banik Kalinovo,FC Vion Zlate Moravce - Vrable,10.50,5.90,1.23
-09-09-25,10:00,Oman vs Pakistan,"International Youth U23 AFC Championship, Qualification",37709,Oman,Pakistan,1.19,6.30,10.50
-09-09-25,10:00,Singapore vs Bangladesh,"International Youth U23 AFC Championship, Qualification",21132,Singapore,Bangladesh,2.10,3.33,3.10
-09-09-25,10:30,Myanmar vs Afghanistan,"International Youth U23 AFC Championship, Qualification",31654,Myanmar,Afghanistan,1.67,3.25,5.20
-09-09-25,11:00,Uzbekistan vs Palestine,"International Youth U23 AFC Championship, Qualification",37020,Uzbekistan,Palestine,1.25,5.20,9.10
-09-09-25,12:35,Australia vs China,"International Youth U23 AFC Championship, Qualification",22497,Australia,China,1.42,4.25,6.20
-09-09-25,13:00,Iraq vs Cambodia,"International Youth U23 AFC Championship, Qualification",16374,Iraq,Cambodia,1.24,5.25,9.70
-09-09-25,13:00,Vietnam vs Yemen,"International Youth U23 AFC Championship, Qualification",24144,Vietnam,Yemen,1.41,3.80,7.70
-09-09-25,13:30,Japan vs Kuwait,"International Youth U23 AFC Championship, Qualification",31673,Japan,Kuwait,1.12,6.90,15.00
-09-09-25,13:30,Republic of Korea vs Indonesia,"International Youth U23 AFC Championship, Qualification",37537,Republic of Korea,Indonesia,1.42,4.60,5.60
-09-09-25,13:30,Thailand vs Malaysia,"International Youth U23 AFC Championship, Qualification",22525,Thailand,Malaysia,1.65,4.20,4.00
-09-09-25,14:00,Philippines vs Nepal,"International Youth U23 AFC Championship, Qualification",24682,Philippines,Nepal,1.26,5.60,7.70
-09-09-25,15:00,Kyrgyzstan vs Sri Lanka,"International Youth U23 AFC Championship, Qualification",29447,Kyrgyzstan,Sri Lanka,1.03,10.00,31.00
-09-09-25,17:00,Jordan vs Turkmenistan,"International Youth U23 AFC Championship, Qualification",37761,Jordan,Turkmenistan,1.32,5.10,6.80
-09-09-25,17:00,Tajikistan vs Syria,"International Youth U23 AFC Championship, Qualification",33621,Tajikistan,Syria,2.20,3.50,2.80
-09-09-25,18:00,Qatar vs Bahrain,"International Youth U23 AFC Championship, Qualification",33638,Qatar,Bahrain,1.52,4.10,5.10
-09-09-25,18:30,United Arab Emirates vs Iran,"International Youth U23 AFC Championship, Qualification",32830,United Arab Emirates,Iran,2.35,3.60,2.50
-09-09-25,15:30,NK Gaj Mace vs NK Varazdin,Croatia Croatian Cup,38219,NK Gaj Mace,NK Varazdin,14.00,6.75,1.16
-09-09-25,15:30,NK Solin vs NK Rudes Zagreb,Croatia Croatian Cup,35038,NK Solin,NK Rudes Zagreb,3.25,3.33,2.10
-09-09-25,18:00,NK Karlovac 1919 vs NK Belisce,Croatia Croatian Cup,35040,NK Karlovac 1919,NK Belisce,1.17,6.50,13.50
-09-09-25,19:00,CA Tigre Reserve vs CA Aldosivi Reserve,"Argentina Primera LPF, Reserves",16230,CA Tigre Reserve,CA Aldosivi Reserve,1.94,3.00,3.60
-09-09-25,19:00,Deportivo Riestra Afbc Reserve vs Gimnasia de la Plata Reserve,"Argentina Primera LPF, Reserves",22758,Deportivo Riestra Afbc Reserve,Gimnasia de la Plata Reserve,2.60,2.90,2.50
-09-09-25,19:00,Estudiantes de LP Reserve vs Defensa Y Justicia Reserve,"Argentina Primera LPF, Reserves",35648,Estudiantes de LP Reserve,Defensa Y Justicia Reserve,1.44,3.80,5.70
-09-09-25,15:30,NK Hrvace vs NK Jarun Zagreb,Croatia Prva NL,17020,NK Hrvace,NK Jarun Zagreb,2.20,3.30,2.90
-09-09-25,14:30,FK Pobeda AD Prilep vs Bashkimi Kumanovo,North Macedonia Macedonia Cup,26593,FK Pobeda AD Prilep,Bashkimi Kumanovo,14.00,7.80,1.13
-09-09-25,14:00,Maroons FC vs Bul FC,Uganda Super 8,38334,Maroons FC,Bul FC,5.80,2.85,1.65
-09-09-25,17:00,Express FC vs NEC FC,Uganda Super 8,24140,Express FC,NEC FC,4.60,3.00,1.71
-09-09-25,17:00,Tampereen Ilves 2 vs HJS,"Finland Kakkonen, Group B",21337,Tampereen Ilves 2,HJS,1.72,4.25,3.80
-09-09-25,17:00,TPV Tampere vs FC Kiffen,"Finland Kakkonen, Group B",25699,TPV Tampere,FC Kiffen,1.47,5.00,5.00
-09-09-25,17:30,Willem II Tilburg U21 vs FC Groningen U21,"Netherlands U21, Divisie 1",12566,Willem II Tilburg U21,FC Groningen U21,2.30,3.60,2.55
-09-09-25,12:00,Santa Clara U23 vs Torreense U23,Portugal U23 Liga Revelacao,25134,Santa Clara U23,Torreense U23,2.70,3.30,2.20
+09-09-25,19:45,York City FC vs Tamworth FC,England National League,26525,York City FC,Tamworth FC,1.49,4.4,5.7
+09-09-25,19:00,Tranmere Rovers FC vs Nottingham Forest U21,England EFL Trophy,10385,Tranmere Rovers FC,Nottingham Forest U21,1.72,4.0,4.25
+09-09-25,19:45,Mansfield Town vs Harrogate Town,England EFL Trophy,29884,Mansfield Town,Harrogate Town,1.69,4.1,4.25
+09-09-25,19:45,Ashton United FC vs Bamber Bridge,England Amateur Northern Premier League Premier,19510,Ashton United FC,Bamber Bridge,2.0,3.5,3.2
+09-09-25,19:45,Guiseley FC vs Prescot Cables,England Amateur Northern Premier League Premier,20512,Guiseley FC,Prescot Cables,1.91,3.33,3.6
+09-09-25,19:45,Hednesford Town vs Ilkeston Town FC,England Amateur Northern Premier League Premier,20547,Hednesford Town,Ilkeston Town FC,1.96,3.4,3.4
+09-09-25,19:45,Hyde United FC vs Leek Town FC,England Amateur Northern Premier League Premier,20602,Hyde United FC,Leek Town FC,1.86,3.6,3.5
+09-09-25,19:45,Lancaster City vs Warrington Rylands 1906 FC,England Amateur Northern Premier League Premier,20826,Lancaster City,Warrington Rylands 1906 FC,2.5,3.2,2.6
+09-09-25,19:45,Morpeth Town vs Hebburn Town,England Amateur Northern Premier League Premier,21519,Morpeth Town,Hebburn Town,2.35,3.4,2.6
+09-09-25,19:45,Warrington Town vs Rushall Olympic,England Amateur Northern Premier League Premier,21850,Warrington Town,Rushall Olympic,3.2,3.6,1.98
+09-09-25,19:45,Whitby Town vs Stockton Town,England Amateur Northern Premier League Premier,21875,Whitby Town,Stockton Town,3.1,3.4,2.05
+09-09-25,19:45,Workington AFC vs FC United of Manchester,England Amateur Northern Premier League Premier,22772,Workington AFC,FC United of Manchester,2.6,3.3,2.45
+09-09-25,18:00,Club Almirante Brown Reserves vs Atlanta Reserves,"Argentina Primera Nacional, Reserve",34826,Club Almirante Brown Reserves,Atlanta Reserves,2.55,3.0,2.65
+09-09-25,21:30,CD Independiente Juniors vs 9 de Octubre FC,Ecuador Serie B,31976,CD Independiente Juniors,9 de Octubre FC,1.79,3.0,4.1
+09-09-25,19:45,Alvechurch vs Halesowen Town FC,England Amateur Southern League Premier Central,21883,Alvechurch,Halesowen Town FC,2.2,3.4,2.85
+09-09-25,19:45,BishopÂ´s Stortford vs Leiston FC,England Amateur Southern League Premier Central,21137,BishopÂ´s Stortford,Leiston FC,1.93,3.6,3.33
+09-09-25,19:45,Bromsgrove Sporting vs Banbury United,England Amateur Southern League Premier Central,13745,Bromsgrove Sporting,Banbury United,2.85,3.5,2.15
+09-09-25,19:45,Harborough Town FC vs Quorn FC,England Amateur Southern League Premier Central,14073,Harborough Town FC,Quorn FC,1.96,3.5,3.3
+09-09-25,19:45,Kettering Town vs Spalding United,England Amateur Southern League Premier Central,20031,Kettering Town,Spalding United,2.25,3.6,2.65
+09-09-25,19:45,Real Bedford vs Bury Town FC,England Amateur Southern League Premier Central,14114,Real Bedford,Bury Town FC,2.05,3.6,3.1
+09-09-25,19:45,Royston Town vs Needham Market,England Amateur Southern League Premier Central,14885,Royston Town,Needham Market,2.55,3.5,2.4
+09-09-25,19:45,Stamford AFC vs Redditch United,England Amateur Southern League Premier Central,15208,Stamford AFC,Redditch United,2.25,3.25,2.9
+09-09-25,19:45,Stratford Town vs Barwell,England Amateur Southern League Premier Central,15227,Stratford Town,Barwell,2.0,3.5,3.2
+09-09-25,19:30,Evesham United vs Hungerford Town FC,England Amateur Southern League Premier South,15051,Evesham United,Hungerford Town FC,2.25,3.4,2.75
+09-09-25,19:45,Hanwell Town FC vs Chertsey Town,England Amateur Southern League Premier South,26199,Hanwell Town FC,Chertsey Town,2.05,3.5,3.0
+09-09-25,19:45,Plymouth Parkway vs Dorchester Town,England Amateur Southern League Premier South,32567,Plymouth Parkway,Dorchester Town,2.8,3.6,2.15
+09-09-25,19:45,Poole Town vs Farnham Town,England Amateur Southern League Premier South,32573,Poole Town,Farnham Town,2.9,3.6,2.1
+09-09-25,19:45,Uxbridge FC vs Berkhamsted FC,England Amateur Southern League Premier South,35382,Uxbridge FC,Berkhamsted FC,2.3,3.33,2.7
+09-09-25,19:45,Yate Town vs Tiverton Town,England Amateur Southern League Premier South,32710,Yate Town,Tiverton Town,2.4,3.25,2.65
+09-09-25,18:00,Rappe GOIF vs Osters IF,Sweden Svenska Cup,35216,Rappe GOIF,Osters IF,22.0,13.5,1.04
+09-09-25,12:00,Brentford U21 vs Wigan Athletic U21,England Amateur U21 Professional Development League,37352,Brentford U21,Wigan Athletic U21,1.41,5.25,5.5
+09-09-25,13:00,Charlton Athletic U21 vs Crewe Alexandra U21,England Amateur U21 Professional Development League,40864,Charlton Athletic U21,Crewe Alexandra U21,1.18,7.7,10.0
+09-09-25,13:00,Colchester United U21 vs Fleetwood Town U21,England Amateur U21 Professional Development League,40975,Colchester United U21,Fleetwood Town U21,2.2,4.1,2.65
+09-09-25,13:30,Millwall U21 vs Huddersfield Town (R),England Amateur U21 Professional Development League,41118,Millwall U21,Huddersfield Town (R),1.44,5.0,5.3
+09-09-25,14:00,Bristol City U21 vs Barnsley U21,England Amateur U21 Professional Development League,11889,Bristol City U21,Barnsley U21,1.89,4.4,3.1
+09-09-25,15:30,San Martín Burzaco Reserves vs Argentino de Merlo Reserves,"Argentina Primera B, Reserve",38671,San Martín Burzaco Reserves,Argentino de Merlo Reserves,4.6,3.8,1.61
+09-09-25,19:30,CA Claypole vs Deportivo Espanol,Argentina Primera C,37552,CA Claypole,Deportivo Espanol,2.55,2.9,2.95
+09-09-25,19:30,Deportivo Camioneros vs Canuelas FC,Argentina Primera C,32081,Deportivo Camioneros,Canuelas FC,1.55,3.8,6.2
+09-09-25,19:30,Juventud Unida San Miguel vs Central Ballester,Argentina Primera C,40742,Juventud Unida San Miguel,Central Ballester,1.65,3.5,5.6
+09-09-25,19:30,Lujan vs Deportivo Paraguayo,Argentina Primera C,44463,Lujan,Deportivo Paraguayo,1.65,3.4,6.0
+09-09-25,19:30,Burgess Hill Town vs Carshalton Athletic FC,"England Amateur Isthmian League, Pr. Div",39497,Burgess Hill Town,Carshalton Athletic FC,2.7,3.6,2.25
+09-09-25,19:45,Brentwood Town FC vs Canvey Island,"England Amateur Isthmian League, Pr. Div",36831,Brentwood Town FC,Canvey Island,1.47,4.4,5.3
+09-09-25,19:45,Cheshunt FC vs Billericay Town,"England Amateur Isthmian League, Pr. Div",35850,Cheshunt FC,Billericay Town,3.2,3.7,1.95
+09-09-25,19:45,Cray Wanderers vs Dulwich Hamlet,"England Amateur Isthmian League, Pr. Div",39499,Cray Wanderers,Dulwich Hamlet,2.2,3.4,2.85
+09-09-25,19:45,Lewes FC vs Chichester City FC,"England Amateur Isthmian League, Pr. Div",35950,Lewes FC,Chichester City FC,2.55,3.5,2.35
+09-09-25,19:45,Wingate & Finchley vs Hashtag United,"England Amateur Isthmian League, Pr. Div",36230,Wingate & Finchley,Hashtag United,2.45,3.6,2.4
+09-09-25,15:30,FK Slovan Duslo Sala vs OFK Dynamo Malzenice,Slovakia Slovensky Pohar,22043,FK Slovan Duslo Sala,OFK Dynamo Malzenice,3.25,3.5,2.05
+09-09-25,15:30,TJ Banik Kalinovo vs FC Vion Zlate Moravce - Vrable,Slovakia Slovensky Pohar,31832,TJ Banik Kalinovo,FC Vion Zlate Moravce - Vrable,10.5,5.9,1.23
+09-09-25,10:00,Oman vs Pakistan,"International Youth U23 AFC Championship, Qualification",37709,Oman,Pakistan,1.19,6.3,10.5
+09-09-25,10:00,Singapore vs Bangladesh,"International Youth U23 AFC Championship, Qualification",21132,Singapore,Bangladesh,2.1,3.33,3.1
+09-09-25,10:30,Myanmar vs Afghanistan,"International Youth U23 AFC Championship, Qualification",31654,Myanmar,Afghanistan,1.67,3.25,5.2
+09-09-25,11:00,Uzbekistan vs Palestine,"International Youth U23 AFC Championship, Qualification",37020,Uzbekistan,Palestine,1.25,5.2,9.1
+09-09-25,12:35,Australia vs China,"International Youth U23 AFC Championship, Qualification",22497,Australia,China,1.42,4.25,6.2
+09-09-25,13:00,Iraq vs Cambodia,"International Youth U23 AFC Championship, Qualification",16374,Iraq,Cambodia,1.24,5.25,9.7
+09-09-25,13:00,Vietnam vs Yemen,"International Youth U23 AFC Championship, Qualification",24144,Vietnam,Yemen,1.41,3.8,7.7
+09-09-25,13:30,Japan vs Kuwait,"International Youth U23 AFC Championship, Qualification",31673,Japan,Kuwait,1.12,6.9,15.0
+09-09-25,13:30,Republic of Korea vs Indonesia,"International Youth U23 AFC Championship, Qualification",37537,Republic of Korea,Indonesia,1.42,4.6,5.6
+09-09-25,13:30,Thailand vs Malaysia,"International Youth U23 AFC Championship, Qualification",22525,Thailand,Malaysia,1.65,4.2,4.0
+09-09-25,14:00,Philippines vs Nepal,"International Youth U23 AFC Championship, Qualification",24682,Philippines,Nepal,1.26,5.6,7.7
+09-09-25,15:00,Kyrgyzstan vs Sri Lanka,"International Youth U23 AFC Championship, Qualification",29447,Kyrgyzstan,Sri Lanka,1.03,10.0,31.0
+09-09-25,17:00,Jordan vs Turkmenistan,"International Youth U23 AFC Championship, Qualification",37761,Jordan,Turkmenistan,1.32,5.1,6.8
+09-09-25,17:00,Tajikistan vs Syria,"International Youth U23 AFC Championship, Qualification",33621,Tajikistan,Syria,2.2,3.5,2.8
+09-09-25,18:00,Qatar vs Bahrain,"International Youth U23 AFC Championship, Qualification",33638,Qatar,Bahrain,1.52,4.1,5.1
+09-09-25,18:30,United Arab Emirates vs Iran,"International Youth U23 AFC Championship, Qualification",32830,United Arab Emirates,Iran,2.35,3.6,2.5
+09-09-25,15:30,NK Gaj Mace vs NK Varazdin,Croatia Croatian Cup,38219,NK Gaj Mace,NK Varazdin,14.0,6.75,1.16
+09-09-25,15:30,NK Solin vs NK Rudes Zagreb,Croatia Croatian Cup,35038,NK Solin,NK Rudes Zagreb,3.25,3.33,2.1
+09-09-25,18:00,NK Karlovac 1919 vs NK Belisce,Croatia Croatian Cup,35040,NK Karlovac 1919,NK Belisce,1.17,6.5,13.5
+09-09-25,19:00,CA Tigre Reserve vs CA Aldosivi Reserve,"Argentina Primera LPF, Reserves",16230,CA Tigre Reserve,CA Aldosivi Reserve,1.94,3.0,3.6
+09-09-25,19:00,Deportivo Riestra Afbc Reserve vs Gimnasia de la Plata Reserve,"Argentina Primera LPF, Reserves",22758,Deportivo Riestra Afbc Reserve,Gimnasia de la Plata Reserve,2.6,2.9,2.5
+09-09-25,19:00,Estudiantes de LP Reserve vs Defensa Y Justicia Reserve,"Argentina Primera LPF, Reserves",35648,Estudiantes de LP Reserve,Defensa Y Justicia Reserve,1.44,3.8,5.7
+09-09-25,15:30,NK Hrvace vs NK Jarun Zagreb,Croatia Prva NL,17020,NK Hrvace,NK Jarun Zagreb,2.2,3.3,2.9
+09-09-25,14:30,FK Pobeda AD Prilep vs Bashkimi Kumanovo,North Macedonia Macedonia Cup,26593,FK Pobeda AD Prilep,Bashkimi Kumanovo,14.0,7.8,1.13
+09-09-25,14:00,Maroons FC vs Bul FC,Uganda Super 8,38334,Maroons FC,Bul FC,5.8,2.85,1.65
+09-09-25,17:00,Express FC vs NEC FC,Uganda Super 8,24140,Express FC,NEC FC,4.6,3.0,1.71
+09-09-25,17:00,Tampereen Ilves 2 vs HJS,"Finland Kakkonen, Group B",21337,Tampereen Ilves 2,HJS,1.72,4.25,3.8
+09-09-25,17:00,TPV Tampere vs FC Kiffen,"Finland Kakkonen, Group B",25699,TPV Tampere,FC Kiffen,1.47,5.0,5.0
+09-09-25,17:30,Willem II Tilburg U21 vs FC Groningen U21,"Netherlands U21, Divisie 1",12566,Willem II Tilburg U21,FC Groningen U21,2.3,3.6,2.55
+09-09-25,12:00,Santa Clara U23 vs Torreense U23,Portugal U23 Liga Revelacao,25134,Santa Clara U23,Torreense U23,2.7,3.3,2.2
 09-09-25,16:00,Rio Ave vs FC Vizela U23,Portugal U23 Liga Revelacao,13001,Rio Ave,FC Vizela U23,,,
-09-09-25,12:30,Poland vs Portugal,International Youth U20 Friendly Games,28542,Poland,Portugal,3.00,3.70,2.10
-09-09-25,17:30,Germany vs Italy,International Youth U20 Friendly Games,25865,Germany,Italy,2.15,3.50,3.10
-09-09-25,09:00,Spain vs Ukraine,International Youth U19 Friendly Games,31623,Spain,Ukraine,1.21,6.40,10.50
-09-09-25,09:45,Italy vs Czechia,International Youth U19 Friendly Games,37418,Italy,Czechia,1.75,3.80,4.10
-09-09-25,10:00,Bulgaria vs Slovakia,International Youth U19 Friendly Games,19157,Bulgaria,Slovakia,3.20,3.40,2.10
-09-09-25,10:00,Poland vs Azerbaijan,International Youth U19 Friendly Games,39089,Poland,Azerbaijan,1.52,4.25,5.30
-09-09-25,11:30,England vs Netherlands,International Youth U19 Friendly Games,31820,England,Netherlands,2.10,3.60,3.10
-09-09-25,13:00,Perth SC vs Balcatta FC,"Australia Western Australia NPL, Women",29523,Perth SC,Balcatta FC,1.77,4.10,3.10
-09-09-25,00:00,Brusque FC SC vs Santa Catarina SC,Brazil Copa Santa Catarina,25920,Brusque FC SC,Santa Catarina SC,1.97,3.20,3.60
-09-09-25,19:00,CA Bella Vista vs Central Espanol FC,Uruguay Copa Uruguay,14823,CA Bella Vista,Central Espanol FC,3.00,2.75,2.65
-09-09-25,14:00,Banha vs Diamond FC,Egypt Egypt Second Division B,32430,Banha,Diamond FC,2.55,2.95,2.70
-09-09-25,14:00,El Shams vs Al Nasr Egypt,Egypt Egypt Second Division B,35379,El Shams,Al Nasr Egypt,3.10,3.00,2.25
-09-09-25,14:00,Mustaqbal Sport vs Gomhoryet Shebin,Egypt Egypt Second Division B,30193,Mustaqbal Sport,Gomhoryet Shebin,2.85,2.85,2.50
-09-09-25,16:00,Korsnas FF vs Seinaajoen Sisu,Finland Kolmonen,10960,Korsnas FF,Seinaajoen Sisu,2.25,4.10,2.45
-09-09-25,07:30,"Saikhamakawn FC vs Sys FC, Lunglei",India Mizoram Premier League,24545,Saikhamakawn FC,"Sys FC, Lunglei",2.00,3.70,3.00
-09-09-25,10:30,Dinthar FC vs Mizoram Police FC,India Mizoram Premier League,35047,Dinthar FC,Mizoram Police FC,2.40,3.50,2.50
-09-09-25,19:00,Boreham Wood FC vs West Bromwich Albion FC U21,England National League Cup,36294,Boreham Wood FC,West Bromwich Albion FC U21,1.69,4.00,4.40
-09-09-25,19:00,FC Halifax Town vs Middlesbrough U21,England National League Cup,16467,FC Halifax Town,Middlesbrough U21,2.25,3.70,2.80
-09-09-25,19:00,KSV Roeselare vs KVC Houtvenne,Belgium Nationale 1 VV,31202,KSV Roeselare,KVC Houtvenne,2.65,3.50,2.15
+09-09-25,12:30,Poland vs Portugal,International Youth U20 Friendly Games,28542,Poland,Portugal,3.0,3.7,2.1
+09-09-25,17:30,Germany vs Italy,International Youth U20 Friendly Games,25865,Germany,Italy,2.15,3.5,3.1
+09-09-25,09:00,Spain vs Ukraine,International Youth U19 Friendly Games,31623,Spain,Ukraine,1.21,6.4,10.5
+09-09-25,09:45,Italy vs Czechia,International Youth U19 Friendly Games,37418,Italy,Czechia,1.75,3.8,4.1
+09-09-25,10:00,Bulgaria vs Slovakia,International Youth U19 Friendly Games,19157,Bulgaria,Slovakia,3.2,3.4,2.1
+09-09-25,10:00,Poland vs Azerbaijan,International Youth U19 Friendly Games,39089,Poland,Azerbaijan,1.52,4.25,5.3
+09-09-25,11:30,England vs Netherlands,International Youth U19 Friendly Games,31820,England,Netherlands,2.1,3.6,3.1
+09-09-25,13:00,Perth SC vs Balcatta FC,"Australia Western Australia NPL, Women",29523,Perth SC,Balcatta FC,1.77,4.1,3.1
+09-09-25,00:00,Brusque FC SC vs Santa Catarina SC,Brazil Copa Santa Catarina,25920,Brusque FC SC,Santa Catarina SC,1.97,3.2,3.6
+09-09-25,19:00,CA Bella Vista vs Central Espanol FC,Uruguay Copa Uruguay,14823,CA Bella Vista,Central Espanol FC,3.0,2.75,2.65
+09-09-25,14:00,Banha vs Diamond FC,Egypt Egypt Second Division B,32430,Banha,Diamond FC,2.55,2.95,2.7
+09-09-25,14:00,El Shams vs Al Nasr Egypt,Egypt Egypt Second Division B,35379,El Shams,Al Nasr Egypt,3.1,3.0,2.25
+09-09-25,14:00,Mustaqbal Sport vs Gomhoryet Shebin,Egypt Egypt Second Division B,30193,Mustaqbal Sport,Gomhoryet Shebin,2.85,2.85,2.5
+09-09-25,16:00,Korsnas FF vs Seinaajoen Sisu,Finland Kolmonen,10960,Korsnas FF,Seinaajoen Sisu,2.25,4.1,2.45
+09-09-25,07:30,"Saikhamakawn FC vs Sys FC, Lunglei",India Mizoram Premier League,24545,Saikhamakawn FC,"Sys FC, Lunglei",2.0,3.7,3.0
+09-09-25,10:30,Dinthar FC vs Mizoram Police FC,India Mizoram Premier League,35047,Dinthar FC,Mizoram Police FC,2.4,3.5,2.5
+09-09-25,19:00,Boreham Wood FC vs West Bromwich Albion FC U21,England National League Cup,36294,Boreham Wood FC,West Bromwich Albion FC U21,1.69,4.0,4.4
+09-09-25,19:00,FC Halifax Town vs Middlesbrough U21,England National League Cup,16467,FC Halifax Town,Middlesbrough U21,2.25,3.7,2.8
+09-09-25,19:00,KSV Roeselare vs KVC Houtvenne,Belgium Nationale 1 VV,31202,KSV Roeselare,KVC Houtvenne,2.65,3.5,2.15
+09-09-25,13:45,Sri Lanka vs Maldives,International Int. Friendly Games,31813,Sri Lanka,Maldives,2.30,3.50,2.95
+09-09-25,19:30,Egypt vs Tunisia,International Int. Friendly Games,40468,Egypt,Tunisia,2.05,3.20,3.90
+09-09-25,17:45,Hapoel Bnei Bi'ina vs Bnei Hagolan VeHaGalil,Israel State Cup,21945,Hapoel Bnei Bi'ina,Bnei Hagolan VeHaGalil,1.97,3.60,3.40
+09-09-25,19:00,CA Sarmiento de Junin vs Ferro Carril Oeste,"Argentina Primera LPF, Reserves",29122,CA Sarmiento de Junin,Ferro Carril Oeste,2.05,2.95,3.30
+09-09-25,19:00,Colon de Santa Fe Reserve vs CA Barracas Central Reserve,"Argentina Primera LPF, Reserves",22156,Colon de Santa Fe Reserve,CA Barracas Central Reserve,1.86,3.10,3.70
+09-09-25,18:00,FC Memmingen vs FV Illertissen,Germany Amateur Regionalliga Bavaria,38506,FC Memmingen,FV Illertissen,3.40,3.50,1.92
+09-09-25,16:00,Croatia vs Germany,International Youth U19 Friendly Games,23311,Croatia,Germany,2.80,3.80,2.20
+09-09-25,23:00,Figueirense FC SC vs Avai FC SC,Brazil Copa Santa Catarina,31457,Figueirense FC SC,Avai FC SC,1.85,3.30,3.90
