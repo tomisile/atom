@@ -597,15 +597,25 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 10-09-25,09:45,Selangor FC vs PDRM FC,Malaysia U20 President Cup,18482,Selangor FC,PDRM FC,1.19,5.5,9.1
 10-09-25,00:00,Rhode Island FC vs Sacramento Republic FC,USA USL Cup,32037,Rhode Island FC,Sacramento Republic FC,2.8,2.75,2.8
 10-09-25,00:30,Hartford Athletic vs Greenville Triumph SC,USA USL Cup,33305,Hartford Athletic,Greenville Triumph SC,1.87,3.6,3.8
-10-09-25,16:00,Vejgaard BK vs Esbjerg FB,Denmark DBU Pokalen,37626,Vejgaard BK,Esbjerg FB,11.50,6.50,1.19
-10-09-25,14:30,Pro Vercelli 1892 vs Calcio Lecco 1912,Italy Coppa Italia Primavera,37687,Pro Vercelli 1892,Calcio Lecco 1912,1.74,3.80,4.10
+10-09-25,16:00,Vejgaard BK vs Esbjerg FB,Denmark DBU Pokalen,37626,Vejgaard BK,Esbjerg FB,11.5,6.5,1.19
+10-09-25,14:30,Pro Vercelli 1892 vs Calcio Lecco 1912,Italy Coppa Italia Primavera,37687,Pro Vercelli 1892,Calcio Lecco 1912,1.74,3.8,4.1
 10-09-25,14:00,Arsenal de Sarandi Reserves vs Almagro Reserves,"Argentina Primera Nacional, Reserve",23014,Arsenal de Sarandi Reserves,Almagro Reserves,,,
-10-09-25,18:00,Eskilstuna United DFF vs Djurgardens IF DFF,Sweden Svenska Cup Women,24117,Eskilstuna United DFF,Djurgardens IF DFF,6.70,5.90,1.28
-10-09-25,18:00,GrIFK/Akatemia vs FC Finnkurd,Finland Kolmonen,26046,GrIFK/Akatemia,FC Finnkurd,1.79,4.10,3.33
-10-09-25,15:00,HB KOEGE W vs FC Farul Constanta,"International Clubs UEFA Europa Cup, Women",15808,HB KOEGE W,FC Farul Constanta,1.06,11.50,33.00
-10-09-25,17:00,FC Nordsjaelland vs Kuopion Palloseura,"International Clubs UEFA Europa Cup, Women",20441,FC Nordsjaelland,Kuopion Palloseura,1.51,4.90,5.20
-10-09-25,17:00,Rosenborg BK Kvinner vs PSV Eindhoven,"International Clubs UEFA Europa Cup, Women",21159,Rosenborg BK Kvinner,PSV Eindhoven,2.85,3.50,2.35
-10-09-25,17:00,ZNK SFK 2000 Sarajevo vs Fomget Genclik Ve Spor,"International Clubs UEFA Europa Cup, Women",26075,ZNK SFK 2000 Sarajevo,Fomget Genclik Ve Spor,7.00,5.30,1.37
-10-09-25,18:00,Grasshopper Zurich vs BIIK Kazygurt Shymkent,"International Clubs UEFA Europa Cup, Women",18927,Grasshopper Zurich,BIIK Kazygurt Shymkent,1.26,6.20,9.80
-10-09-25,19:00,Inter Milano vs Hibernian LFC,"International Clubs UEFA Europa Cup, Women",36199,Inter Milano,Hibernian LFC,1.11,9.10,21.00
-10-09-25,19:35,Glasgow City LFC vs Athlone Town FC,"International Clubs UEFA Europa Cup, Women",41964,Glasgow City LFC,Athlone Town FC,1.30,5.70,8.70
+10-09-25,18:00,Eskilstuna United DFF vs Djurgardens IF DFF,Sweden Svenska Cup Women,24117,Eskilstuna United DFF,Djurgardens IF DFF,6.7,5.9,1.28
+10-09-25,18:00,GrIFK/Akatemia vs FC Finnkurd,Finland Kolmonen,26046,GrIFK/Akatemia,FC Finnkurd,1.79,4.1,3.33
+10-09-25,15:00,HB KOEGE W vs FC Farul Constanta,"International Clubs UEFA Europa Cup, Women",15808,HB KOEGE W,FC Farul Constanta,1.06,11.5,33.0
+10-09-25,17:00,FC Nordsjaelland vs Kuopion Palloseura,"International Clubs UEFA Europa Cup, Women",20441,FC Nordsjaelland,Kuopion Palloseura,1.51,4.9,5.2
+10-09-25,17:00,Rosenborg BK Kvinner vs PSV Eindhoven,"International Clubs UEFA Europa Cup, Women",21159,Rosenborg BK Kvinner,PSV Eindhoven,2.85,3.5,2.35
+10-09-25,17:00,ZNK SFK 2000 Sarajevo vs Fomget Genclik Ve Spor,"International Clubs UEFA Europa Cup, Women",26075,ZNK SFK 2000 Sarajevo,Fomget Genclik Ve Spor,7.0,5.3,1.37
+10-09-25,18:00,Grasshopper Zurich vs BIIK Kazygurt Shymkent,"International Clubs UEFA Europa Cup, Women",18927,Grasshopper Zurich,BIIK Kazygurt Shymkent,1.26,6.2,9.8
+10-09-25,19:00,Inter Milano vs Hibernian LFC,"International Clubs UEFA Europa Cup, Women",36199,Inter Milano,Hibernian LFC,1.11,9.1,21.0
+10-09-25,19:35,Glasgow City LFC vs Athlone Town FC,"International Clubs UEFA Europa Cup, Women",41964,Glasgow City LFC,Athlone Town FC,1.3,5.7,8.7
+10-09-25,15:30,FK Internacional Podgorica vs FK Lovcen,Montenegro 2. CFL,39196,FK Internacional Podgorica,FK Lovcen,5.25,4.20,1.49
+10-09-25,15:30,FK Rudar Pljevlja vs FK Berane,Montenegro 2. CFL,31016,FK Rudar Pljevlja,FK Berane,1.78,3.50,3.90
+10-09-25,17:00,FK Iskra Danilovgrad vs FK Kom,Montenegro 2. CFL,42040,FK Iskra Danilovgrad,FK Kom,1.85,3.33,3.90
+10-09-25,15:30,Besat Kermanshah vs SaiPa FC,Iran Azadegan League,39828,Besat Kermanshah,SaiPa FC,3.75,2.90,2.05
+10-09-25,16:15,FC Nassaji Mazandaran vs Sanat Naft Abadan FC,Iran Azadegan League,40338,FC Nassaji Mazandaran,Sanat Naft Abadan FC,2.05,2.90,3.75
+10-09-25,18:30,Sport Extremadura CD vs Cacereno Femenino,Spain Copa de SM La Reina,16638,Sport Extremadura CD,Cacereno Femenino,6.30,5.10,1.34
+10-09-25,16:30,HJK Helsinki vs PK-35 Vantaa,"Finland Kansallinen Liiga, Women",32101,HJK Helsinki,PK-35 Vantaa,1.01,10.50,21.00
+10-09-25,22:00,CD Suchitepequez vs Deportivo Nueva Concepcion,Guatemala Primera Division,12506,CD Suchitepequez,Deportivo Nueva Concepcion,1.40,3.90,7.60
+10-09-25,19:00,Leicester City U21 vs Juventus Turin U21,International Youth U21 Premier League International Cup,36188,Leicester City U21,Juventus Turin U21,2.65,3.60,2.35
+10-09-25,19:00,Wolverhampton Wanderers U21 vs Real Madrid U21,International Youth U21 Premier League International Cup,36117,Wolverhampton Wanderers U21,Real Madrid U21,3.40,3.80,1.90
