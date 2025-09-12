@@ -730,4 +730,393 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 11-09-25,16:30,Shenavar Sazi Qeshm vs Sanat Mes Kerman FC,Iran Azadegan League,38056,Shenavar Sazi Qeshm,Sanat Mes Kerman FC,3.25,2.85,2.3
 11-09-25,13:30,Moik Baku vs Shahdagh-Samur Gusar,Azerbaijan First Division,13856,Moik Baku,Shahdagh-Samur Gusar,1.81,3.7,3.3
 11-09-25,18:00,Angouleme Charente FC vs US Avranches,France National 2,39358,Angouleme Charente FC,US Avranches,1.84,3.2,4.1
-11-09-25,15:00,FC Urartu Yerevan 2 vs Andranik,Armenia First League,38350,FC Urartu Yerevan 2,Andranik,3.10,3.75,1.84
+11-09-25,15:00,FC Urartu Yerevan 2 vs Andranik,Armenia First League,38350,FC Urartu Yerevan 2,Andranik,3.1,3.75,1.84
+12-09-25,20:00,Sevilla vs Elche CF,Spain LaLiga,33209,Sevilla,Elche CF,2.07,3.43,4.06
+12-09-25,19:30,Bayer Leverkusen vs Eintracht Frankfurt,Germany Bundesliga,36756,Bayer Leverkusen,Eintracht Frankfurt,2.28,3.93,3.05
+12-09-25,19:45,Marseille vs Lorient,France Ligue 1,32318,Marseille,Lorient,1.41,5.61,7.68
+12-09-25,20:00,Ipswich Town vs Sheffield United,England Championship,15185,Ipswich Town,Sheffield United,1.87,3.81,4.29
+12-09-25,18:00,Bodoe/Glimt vs Kristiansund BK,Norway Eliteserien,27910,Bodoe/Glimt,Kristiansund BK,1.19,8.79,13.01
+12-09-25,20:15,Alverca Futebol vs CD Tondela,Portugal Liga Portugal,28502,Alverca Futebol,CD Tondela,2.49,3.30,3.08
+12-09-25,20:15,Benfica vs Santa Clara Azores,Portugal Liga Portugal,31005,Benfica,Santa Clara Azores,1.37,5.11,9.33
+12-09-25,17:30,Arminia Bielefeld vs 1. FC Magdeburg,Germany 2. Bundesliga,29037,Arminia Bielefeld,1. FC Magdeburg,2.25,3.75,2.95
+12-09-25,17:30,Paderborn vs Bochum,Germany 2. Bundesliga,25287,Paderborn,Bochum,1.87,3.90,3.90
+12-09-25,19:30,Las Palmas vs Real Sociedad San Sebastian B,Spain LaLiga 2,26233,Las Palmas,Real Sociedad San Sebastian B,1.48,4.20,6.70
+12-09-25,19:30,US Avellino vs Monza,Italy Serie B,38156,US Avellino,Monza,3.30,3.20,2.25
+12-09-25,19:00,Amiens vs SC Bastia,France Ligue 2,30395,Amiens,SC Bastia,3.40,3.40,2.10
+12-09-25,19:00,Le Mans FC vs Rodez Aveyron,France Ligue 2,28023,Le Mans FC,Rodez Aveyron,2.10,3.60,3.30
+12-09-25,19:00,Pau FC vs Red Star FC,France Ligue 2,28102,Pau FC,Red Star FC,2.50,3.25,2.80
+12-09-25,19:00,Troyes vs Nancy-Lorraine,France Ligue 2,27430,Troyes,Nancy-Lorraine,2.10,3.20,3.75
+12-09-25,19:00,US Boulogne vs Stade Lavallois MFC,France Ligue 2,31376,US Boulogne,Stade Lavallois MFC,2.95,3.20,2.45
+12-09-25,11:00,Machida Zelvia vs Yokohama FC,Japan J.League,14712,Machida Zelvia,Yokohama FC,1.60,4.09,6.22
+12-09-25,11:00,Sanfrecce Hiroshima vs Kyoto Sanga FC,Japan J.League,13617,Sanfrecce Hiroshima,Kyoto Sanga FC,1.91,3.82,4.07
+12-09-25,11:00,Vissel Kobe vs Kashiwa Reysol,Japan J.League,36486,Vissel Kobe,Kashiwa Reysol,2.25,3.38,3.45
+12-09-25,11:00,Shanghai Port FC vs Yunnan Yukun,China Chinese Super League,36842,Shanghai Port FC,Yunnan Yukun,1.27,6.75,9.00
+12-09-25,12:35,Chengdu Rongcheng vs Changchun Yatai,China Chinese Super League,36867,Chengdu Rongcheng,Changchun Yatai,1.14,8.50,19.00
+12-09-25,12:35,Henan vs Beijing Guoan,China Chinese Super League,13280,Henan,Beijing Guoan,2.65,3.90,2.40
+12-09-25,13:00,Shanghai Shenhua FC vs Shandong Taishan FC,China Chinese Super League,37356,Shanghai Shenhua FC,Shandong Taishan FC,1.47,4.80,6.10
+12-09-25,20:00,Folkestone Invicta vs Maidstone United FC,"England FA Cup, Qualification",38740,Folkestone Invicta,Maidstone United FC,3.10,3.30,2.10
+12-09-25,13:30,FC Oleksandriya vs LNZ Cherkasy,Ukraine Premier League,39054,FC Oleksandriya,LNZ Cherkasy,3.30,3.10,2.25
+12-09-25,16:00,Veres Rivne vs FK Kudrivka,Ukraine Premier League,14772,Veres Rivne,FK Kudrivka,2.00,3.50,3.50
+12-09-25,17:00,FK Rubin Kazan vs FC Dynamo-Makhachkala,Russia Premier League,31899,FK Rubin Kazan,FC Dynamo-Makhachkala,2.05,3.25,3.80
+12-09-25,22:00,Yaracuyanos FC vs Academia Anzoategui FC,Venezuela Primera Division,43595,Yaracuyanos FC,Academia Anzoategui FC,3.40,3.00,2.10
+12-09-25,00:00,Metropolitanos FC vs Estudiantes de Merida,Venezuela Primera Division,43230,Metropolitanos FC,Estudiantes de Merida,2.40,3.10,2.80
+12-09-25,18:30,Deportivo Riestra AFBC vs CA Central Cordoba SE,Argentina Primera LPF,40741,Deportivo Riestra AFBC,CA Central Cordoba SE,2.50,2.75,3.25
+12-09-25,23:00,CA Huracan vs Velez Sarsfield,Argentina Primera LPF,22648,CA Huracan,Velez Sarsfield,2.50,2.65,3.50
+12-09-25,23:00,Racing Club Avellaneda vs CA San Lorenzo de Almagro,Argentina Primera LPF,19835,Racing Club Avellaneda,CA San Lorenzo de Almagro,1.92,3.10,4.50
+12-09-25,19:45,Standard Liege vs Yellow-Red KV Mechelen,Belgium Pro League,41007,Standard Liege,Yellow-Red KV Mechelen,2.42,3.39,3.01
+12-09-25,18:00,SonderjyskE vs Randers FC,Denmark Superliga,36241,SonderjyskE,Randers FC,2.30,3.70,2.95
+12-09-25,23:00,Volta Redonda FC RJ vs Criciuma EC SC,Brazil Brasileiro Serie B,27775,Volta Redonda FC RJ,Criciuma EC SC,2.50,3.00,3.10
+12-09-25,19:45,Partick Thistle FC vs Airdrieonians FC,Scotland Championship,25002,Partick Thistle FC,Airdrieonians FC,1.65,3.90,5.00
+12-09-25,19:00,NK Slaven Belupo vs NK Istra 1961,Croatia HNL,36187,NK Slaven Belupo,NK Istra 1961,2.30,3.33,2.95
+12-09-25,15:00,Petrojet FC vs National Bank of Egypt SC,Egypt Premier League,31698,Petrojet FC,National Bank of Egypt SC,4.20,3.10,2.05
+12-09-25,18:00,Pharco FC vs Al Ittihad Al Sakandary,Egypt Premier League,14563,Pharco FC,Al Ittihad Al Sakandary,3.75,2.75,2.40
+12-09-25,18:00,Zed FC vs Ismaily SC,Egypt Premier League,14551,Zed FC,Ismaily SC,1.89,3.00,5.25
+12-09-25,00:00,Aguilas Doradas Rionegro vs Independiente Medellin,"Colombia Primera A, Clausura",33663,Aguilas Doradas Rionegro,Independiente Medellin,3.60,3.00,2.15
+12-09-25,22:00,Coquimbo Unido vs Nublense,Chile Primera Division,12871,Coquimbo Unido,Nublense,1.75,3.40,4.75
+12-09-25,00:30,Deportes Union La Calera vs CD Everton Vina del Mar,Chile Primera Division,12956,Deportes Union La Calera,CD Everton Vina del Mar,2.90,3.20,2.40
+12-09-25,16:25,Al-Ittifaq FC vs Al Ahli Saudi FC,Saudi Arabia Saudi Pro League,39558,Al-Ittifaq FC,Al Ahli Saudi FC,5.50,4.60,1.53
+12-09-25,16:35,Al-Shabab FC (SA) vs Al-Hazm,Saudi Arabia Saudi Pro League,17724,Al-Shabab FC (SA),Al-Hazm,1.52,4.70,5.60
+12-09-25,19:00,Al-Ittihad FC vs Al-Fateh SC,Saudi Arabia Saudi Pro League,21608,Al-Ittihad FC,Al-Fateh SC,1.41,5.50,6.30
+12-09-25,19:00,FC Universitatea Cluj vs Rapid Bucuresti 1923,Romania Superliga,41987,FC Universitatea Cluj,Rapid Bucuresti 1923,2.80,3.20,2.60
+12-09-25,18:30,FC Stade Nyonnais vs Stade Lausanne Ouchy,Switzerland Challenge League,14688,FC Stade Nyonnais,Stade Lausanne Ouchy,4.50,4.20,1.64
+12-09-25,19:15,Etoile Carouge FC vs Yverdon-Sport,Switzerland Challenge League,42375,Etoile Carouge FC,Yverdon-Sport,3.60,3.60,1.96
+12-09-25,19:15,Neuchatel Xamax vs FC Wil 1900,Switzerland Challenge League,42371,Neuchatel Xamax,FC Wil 1900,1.98,3.70,3.40
+12-09-25,19:00,KSC Lokeren Temse vs Lierse Kempenzonen,Belgium Challenger Pro League,31704,KSC Lokeren Temse,Lierse Kempenzonen,2.15,3.40,3.10
+12-09-25,19:00,RSC Anderlecht Futures vs K Beerschot VA,Belgium Challenger Pro League,34512,RSC Anderlecht Futures,K Beerschot VA,3.90,3.75,1.79
+12-09-25,15:30,PFK Beroe Stara Zagora vs POFC Botev Vratsa,Bulgaria Parva Liga,25028,PFK Beroe Stara Zagora,POFC Botev Vratsa,2.15,3.25,3.40
+12-09-25,17:45,Botev Plovdiv vs PFC Montana 1921,Bulgaria Parva Liga,25110,Botev Plovdiv,PFC Montana 1921,1.50,4.00,6.50
+12-09-25,19:30,ACD Ospitaletto vs US Pergolettese Crema,"Italy Serie C, Group A",43084,ACD Ospitaletto,US Pergolettese Crema,2.80,3.10,2.55
+12-09-25,19:30,FC Arzignano Valchiampo vs AS Giana Erminio,"Italy Serie C, Group A",40531,FC Arzignano Valchiampo,AS Giana Erminio,2.50,3.10,2.80
+12-09-25,23:00,Lexington SC vs Orange County SC,USA USL Championship,28056,Lexington SC,Orange County SC,1.99,3.50,3.50
+12-09-25,00:00,North Carolina FC vs El Paso Locomotive FC,USA USL Championship,25411,North Carolina FC,El Paso Locomotive FC,2.15,3.40,3.10
+12-09-25,11:30,Leverkusen SRL vs Eintracht SRL,Simulated Reality League Bundesliga SRL,40133,Leverkusen SRL,Eintracht SRL,2.28,3.84,2.85
+12-09-25,19:00,Almere City FC vs Jong PSV Eindhoven,Netherlands Eerste Divisie,40767,Almere City FC,Jong PSV Eindhoven,1.46,4.90,5.80
+12-09-25,19:00,De Graafschap vs Willem II Tilburg,Netherlands Eerste Divisie,41217,De Graafschap,Willem II Tilburg,2.05,3.80,3.20
+12-09-25,19:00,FC Den Bosch vs FC Dordrecht,Netherlands Eerste Divisie,41220,FC Den Bosch,FC Dordrecht,2.50,3.60,2.60
+12-09-25,19:00,FC Eindhoven vs ADO Den Haag,Netherlands Eerste Divisie,41222,FC Eindhoven,ADO Den Haag,3.70,3.75,1.91
+12-09-25,19:00,FC Emmen vs TOP Oss,Netherlands Eerste Divisie,41224,FC Emmen,TOP Oss,1.61,4.20,5.00
+12-09-25,19:00,Jong AZ Alkmaar vs Vitesse Arnhem,Netherlands Eerste Divisie,26216,Jong AZ Alkmaar,Vitesse Arnhem,1.26,6.40,9.30
+12-09-25,19:00,Jong FC Utrecht vs RKC Waalwijk,Netherlands Eerste Divisie,41247,Jong FC Utrecht,RKC Waalwijk,3.50,3.90,1.94
+12-09-25,19:00,MVV Maastricht vs SC Cambuur,Netherlands Eerste Divisie,41229,MVV Maastricht,SC Cambuur,4.60,4.10,1.68
+12-09-25,19:00,Roda JC Kerkrade vs Jong Ajax Amsterdam,Netherlands Eerste Divisie,41235,Roda JC Kerkrade,Jong Ajax Amsterdam,1.60,4.25,5.10
+12-09-25,19:30,Drogheda United FC vs Shamrock Rovers,Ireland FAI Cup,27506,Drogheda United FC,Shamrock Rovers,5.00,3.33,1.73
+12-09-25,19:45,Finn Harps FC vs Cork City FC,Ireland FAI Cup,25882,Finn Harps FC,Cork City FC,3.50,3.10,2.15
+12-09-25,19:45,Kerry FC vs Sligo Rovers FC,Ireland FAI Cup,31527,Kerry FC,Sligo Rovers FC,4.80,3.75,1.65
+12-09-25,09:00,Sevilla SRL vs CF Elche SRL,Simulated Reality League LaLiga SRL,38327,Sevilla SRL,CF Elche SRL,2.02,3.34,3.94
+12-09-25,11:00,Marseille SRL vs FC Lorient SRL,Simulated Reality League Ligue 1 SRL,39349,Marseille SRL,FC Lorient SRL,1.34,5.56,7.92
+12-09-25,11:00,Ural Ekaterinburg vs FC Krasnodar,"Russia MFL, Division A",38206,Ural Ekaterinburg,FC Krasnodar,8.50,6.10,1.18
+12-09-25,13:00,FK Nizhny Novgorod vs Dinamo Moscow,"Russia MFL, Division A",41038,FK Nizhny Novgorod,Dinamo Moscow,5.00,3.25,1.60
+12-09-25,13:00,Rubin Kazan vs Football Academy Of Konoplev,"Russia MFL, Division A",41044,Rubin Kazan,Football Academy Of Konoplev,1.88,3.00,3.70
+12-09-25,13:00,Samara Kryliya Sovetov vs CSKA Moscow,"Russia MFL, Division A",41082,Samara Kryliya Sovetov,CSKA Moscow,4.75,4.20,1.47
+12-09-25,15:00,FK Zenit St. Petersburg vs FC Akhmat Grozny,"Russia MFL, Division A",41090,FK Zenit St. Petersburg,FC Akhmat Grozny,1.14,6.20,10.50
+12-09-25,15:00,Lokomotiv Moscow vs FC Fakel Voronezh Youth,"Russia MFL, Division A",42018,Lokomotiv Moscow,FC Fakel Voronezh Youth,1.30,4.60,6.90
+12-09-25,15:00,PFK Sochi vs FK Rostov,"Russia MFL, Division A",41945,PFK Sochi,FK Rostov,2.50,3.00,2.50
+12-09-25,17:00,FC Baltika Kaliningrad vs FK Spartak Moscow,"Russia MFL, Division A",41648,FC Baltika Kaliningrad,FK Spartak Moscow,10.00,4.70,1.22
+12-09-25,18:00,New England Revolution II vs Toronto FC II,USA MLS Next Pro,40564,New England Revolution II,Toronto FC II,1.65,4.10,4.30
+12-09-25,00:00,Crown Legacy FC vs Chattanooga FC,USA MLS Next Pro,43931,Crown Legacy FC,Chattanooga FC,1.79,3.90,3.80
+12-09-25,18:30,Dijon vs FC Villefranche-Beaujolais,France National,39569,Dijon,FC Villefranche-Beaujolais,1.60,3.75,5.70
+12-09-25,18:30,FC Versailles 78 vs US Concarneau,France National,39687,FC Versailles 78,US Concarneau,2.15,3.25,3.40
+12-09-25,18:30,LB Chateauroux vs Stade Briochin,France National,28395,LB Chateauroux,Stade Briochin,2.25,3.10,3.30
+12-09-25,18:30,Le Puy Foot 43 Auvergne vs FC Rouen,France National,28401,Le Puy Foot 43 Auvergne,FC Rouen,2.40,3.20,3.00
+12-09-25,18:30,Quevilly-Rouen Metropole vs Aubagne FC,France National,39593,Quevilly-Rouen Metropole,Aubagne FC,2.45,3.10,2.90
+12-09-25,18:30,Sochaux-Montbeliard vs SM Caen,France National,45138,Sochaux-Montbeliard,SM Caen,1.93,3.40,3.80
+12-09-25,18:30,US Orleans vs Football Bourg-En-Bresse Peronnas 01,France National,39574,US Orleans,Football Bourg-En-Bresse Peronnas 01,1.81,3.50,4.30
+12-09-25,18:30,Valenciennes FC vs Paris 13 Atletico,France National,39624,Valenciennes FC,Paris 13 Atletico,1.97,3.25,3.90
+12-09-25,10:30,Central Coast Mariners Academy vs SD Raiders FC,Australia NSW NPL 1,23231,Central Coast Mariners Academy,SD Raiders FC,2.10,3.80,2.80
+12-09-25,11:00,North Eastern Metrostars SC vs Croydon FC,Australia South Australia NPL,15090,North Eastern Metrostars SC,Croydon FC,1.65,3.90,4.20
+12-09-25,00:00,Charlotte Independence vs FC Naples,USA USL League One,43764,Charlotte Independence,FC Naples,2.10,3.60,3.10
+12-09-25,18:00,B93 Copenhagen vs Aarhus Fremad,Denmark 1. Division,16710,B93 Copenhagen,Aarhus Fremad,2.70,3.70,2.40
+12-09-25,16:30,La Viena FC vs Maleyat Kafr El Zayat,Egypt 2. Division A,35621,La Viena FC,Maleyat Kafr El Zayat,1.82,3.00,4.50
+12-09-25,18:30,Telecom Egypt vs Aswan FC,Egypt 2. Division A,40368,Telecom Egypt,Aswan FC,2.90,2.45,2.85
+12-09-25,16:25,Al-Jabil vs Jeddah Club,Saudi Arabia Division 1,30256,Al-Jabil,Jeddah Club,2.20,2.90,3.30
+12-09-25,16:50,Al Bukiryah vs Al-Orobah,Saudi Arabia Division 1,30260,Al Bukiryah,Al-Orobah,2.35,3.10,2.90
+12-09-25,18:40,AL Adalh FC vs Al-Raed Club,Saudi Arabia Division 1,29088,AL Adalh FC,Al-Raed Club,3.60,3.30,1.93
+12-09-25,18:00,FC Roskilde vs AB Gladsaxe,Denmark 2nd Division,34991,FC Roskilde,AB Gladsaxe,2.45,3.60,2.40
+12-09-25,19:00,UTC de Cajamarca vs Ayacucho FC,Peru Liga 1,13074,UTC de Cajamarca,Ayacucho FC,2.15,3.20,3.50
+12-09-25,21:15,Sport Huancayo vs Los Chankas CYC,Peru Liga 1,17232,Sport Huancayo,Los Chankas CYC,1.57,4.00,5.40
+12-09-25,20:00,Santiago Morning vs Universidad de Concepcion,Chile Primera B,26497,Santiago Morning,Universidad de Concepcion,2.80,3.00,2.55
+12-09-25,09:30,Persib Bandung vs Persebaya Surabaya,Indonesia Super League,17542,Persib Bandung,Persebaya Surabaya,1.55,3.90,5.70
+12-09-25,09:30,Persik Kediri vs Malut United,Indonesia Super League,28711,Persik Kediri,Malut United,2.30,3.40,2.80
+12-09-25,13:00,Madura United vs Bhayangkara Presisi Indonesia FC,Indonesia Super League,28343,Madura United,Bhayangkara Presisi Indonesia FC,2.60,3.33,2.55
+12-09-25,15:00,Esenler Erokspor vs Hatayspor Antakya,Turkiye 1. Lig,40736,Esenler Erokspor,Hatayspor Antakya,1.79,3.80,4.00
+12-09-25,18:00,BB Bodrumspor vs Adana Demirspor,Turkiye 1. Lig,40942,BB Bodrumspor,Adana Demirspor,1.02,14.00,57.00
+12-09-25,14:40,Al Dhafra SSC vs Dibba,United Arab Emirates Arabian Gulf League,19522,Al Dhafra SSC,Dibba,2.50,3.60,2.55
+12-09-25,17:15,Ajman Club vs AL Bataeh (UAE),United Arab Emirates Arabian Gulf League,23417,Ajman Club,AL Bataeh (UAE),2.10,3.50,3.20
+12-09-25,16:00,Ittihad Tanger vs Hassania Union Sport Agadir,Morocco Botola Pro D1,41717,Ittihad Tanger,Hassania Union Sport Agadir,2.40,2.70,3.60
+12-09-25,18:00,Olympique Club de Safi vs Union Touarga,Morocco Botola Pro D1,41718,Olympique Club de Safi,Union Touarga,1.99,3.10,4.10
+12-09-25,18:00,Olympique Dcheira vs Rs Berkane,Morocco Botola Pro D1,23307,Olympique Dcheira,Rs Berkane,5.60,3.25,1.72
+12-09-25,20:00,Wydad AC vs Kawkab Athletic Club of Marrakech,Morocco Botola Pro D1,42145,Wydad AC,Kawkab Athletic Club of Marrakech,1.49,4.00,6.60
+12-09-25,17:00,KS Lechia Gdansk vs GKS Katowice,Poland Ekstraklasa,30971,KS Lechia Gdansk,GKS Katowice,2.20,3.75,2.95
+12-09-25,19:30,KKS Lech Poznan vs Zaglebie Lubin,Poland Ekstraklasa,11267,KKS Lech Poznan,Zaglebie Lubin,1.54,4.40,5.50
+12-09-25,17:00,JK Tallinna Kalev vs FC Tallinn,Estonia Esiliiga,37895,JK Tallinna Kalev,FC Tallinn,2.45,3.90,2.25
+12-09-25,11:00,FC Podillya Khmelnytskyi vs Probiy Gorodenka,Ukraine Persha Liga,25601,FC Podillya Khmelnytskyi,Probiy Gorodenka,2.35,3.10,2.60
+12-09-25,19:45,Bohemians Dublin FC vs Derry City FC,Ireland Premier Division,41261,Bohemians Dublin FC,Derry City FC,2.20,3.10,3.50
+12-09-25,19:00,Norwich City U21 vs Colchester United U21,England Amateur Premier League Cup,12862,Norwich City U21,Colchester United U21,1.36,5.30,6.40
+12-09-25,19:00,Reading U21 vs Bournemouth U21,England Amateur Premier League Cup,14193,Reading U21,Bournemouth U21,3.70,5.20,1.63
+12-09-25,18:15,Hercules de Alicante CF vs CF Algeciras,Spain Primera Federacion,24546,Hercules de Alicante CF,CF Algeciras,1.78,3.25,4.30
+12-09-25,20:30,Barakaldo CF vs Arenas Club Getxo,Spain Primera Federacion,43443,Barakaldo CF,Arenas Club Getxo,2.05,3.10,3.50
+12-09-25,15:00,FK Usce Novi Beograd vs FK Fap,Serbia Prva Liga,12460,FK Usce Novi Beograd,FK Fap,2.20,2.80,3.20
+12-09-25,15:00,OFK Vrsac vs Gfk Dubocica,Serbia Prva Liga,45156,OFK Vrsac,Gfk Dubocica,1.83,3.00,4.00
+12-09-25,17:00,GKS Tychy vs KS Polonia Bytom SA,Poland 1. Liga,35773,GKS Tychy,KS Polonia Bytom SA,2.30,3.40,2.85
+12-09-25,19:30,Chrobry Glogow vs Pogon Siedlce,Poland 1. Liga,35837,Chrobry Glogow,Pogon Siedlce,2.20,3.25,3.10
+12-09-25,15:00,Skanstes SK vs Riga FC II,Latvia 1.Liga,37634,Skanstes SK,Riga FC II,1.45,4.30,5.60
+12-09-25,17:00,Austria Lustenau vs SK Sturm Graz II,Austria 2. Liga,36860,Austria Lustenau,SK Sturm Graz II,1.56,4.40,5.00
+12-09-25,17:00,Kapfenberger SV vs FC Hertha Wels,Austria 2. Liga,37625,Kapfenberger SV,FC Hertha Wels,1.99,3.90,3.20
+12-09-25,17:00,SKN St Polten vs SV Stripfing,Austria 2. Liga,37306,SKN St Polten,SV Stripfing,1.56,4.30,5.10
+12-09-25,17:00,SKU Amstetten vs Rapid Wien II,Austria 2. Liga,37923,SKU Amstetten,Rapid Wien II,1.53,4.40,5.20
+12-09-25,19:30,FAC Wien vs SK Austria Klagenfurt,Austria 2. Liga,38119,FAC Wien,SK Austria Klagenfurt,2.20,3.40,3.10
+12-09-25,13:00,FC Bekasi City vs Psps Pekanbaru,Indonesia Championship,23358,FC Bekasi City,Psps Pekanbaru,2.35,3.00,2.90
+12-09-25,18:30,Sollentuna FK vs FC Arlanda,"Sweden Ettan, Norra",25906,Sollentuna FK,FC Arlanda,2.70,3.70,2.30
+12-09-25,18:00,Skovde AIK vs FC Trollhattan,"Sweden Ettan, Sodra",16738,Skovde AIK,FC Trollhattan,2.80,3.60,2.25
+12-09-25,17:00,1.SK Prostejov vs SK Hanacka Slavia Kromeriz,Czechia FNL,33181,1.SK Prostejov,SK Hanacka Slavia Kromeriz,1.81,3.75,3.80
+12-09-25,17:00,FC Vysocina Jihlava vs SK Slavia Prague B,Czechia FNL,32405,FC Vysocina Jihlava,SK Slavia Prague B,2.15,3.60,3.00
+12-09-25,17:00,FK Pribram vs FC Vlasim,Czechia FNL,33492,FK Pribram,FC Vlasim,2.35,3.70,2.60
+12-09-25,17:00,SK Dynamo Ceske Budejovice vs FC Silon Taborsko,Czechia FNL,33355,SK Dynamo Ceske Budejovice,FC Silon Taborsko,2.90,3.50,2.25
+12-09-25,20:00,Varzim SC vs Uniao SC Paredes,Portugal Liga Portugal 3,14018,Varzim SC,Uniao SC Paredes,2.25,3.10,3.00
+12-09-25,12:30,Geylang International FC vs Albirex Niigata Singapore FC,Singapore Premier League,27031,Geylang International FC,Albirex Niigata Singapore FC,1.80,4.50,3.30
+12-09-25,19:45,Glentoran FC vs Linfield FC,Northern Ireland Premiership,26538,Glentoran FC,Linfield FC,3.00,3.25,2.30
+12-09-25,21:00,UD Villa Santa Brigida vs UD Las Palmas C,"Spain Amateur Tercera Federacion, Group 12",21553,UD Villa Santa Brigida,UD Las Palmas C,2.50,2.95,2.75
+12-09-25,18:30,Pena Sport FC vs CD Pamplona,"Spain Amateur Tercera Federacion, Group 15",23153,Pena Sport FC,CD Pamplona,1.72,3.40,4.40
+12-09-25,19:00,CD Huarte vs FC Bidezarra,"Spain Amateur Tercera Federacion, Group 15",43704,CD Huarte,FC Bidezarra,1.66,3.40,4.90
+12-09-25,16:30,Ekenas Idrottsforening vs SalPa,Finland Ykkosliiga,29043,Ekenas Idrottsforening,SalPa,1.42,4.90,6.10
+12-09-25,16:30,PK-35 Helsinki vs KaPa Kapylan Pallo,Finland Ykkosliiga,28913,PK-35 Helsinki,KaPa Kapylan Pallo,1.83,4.00,3.60
+12-09-25,17:00,Torpedo Moscow vs FC Volga Ulyanovsk,Russia 1. Liga,16218,Torpedo Moscow,FC Volga Ulyanovsk,1.72,3.60,4.80
+12-09-25,16:00,FK Pohronie Ziar Nad Hronom Dolna Zdana vs FC Petrzalka,Slovakia 2. Liga,41139,FK Pohronie Ziar Nad Hronom Dolna Zdana,FC Petrzalka,2.20,3.50,2.80
+12-09-25,18:30,IF Haga vs Vanersborgs FK,"Sweden Division 2, Norra Gotaland",40775,IF Haga,Vanersborgs FK,2.25,3.60,2.70
+12-09-25,18:00,IK Franke vs FC Jarfalla,"Sweden Division 2, Norra Svealand",40770,IK Franke,FC Jarfalla,3.75,3.80,1.75
+12-09-25,18:00,Kristianstad FC vs IFK Karlshamn,"Sweden Division 2, Sodra Gotaland",41114,Kristianstad FC,IFK Karlshamn,1.34,4.80,6.80
+12-09-25,18:00,Linero IF vs FBK Balkan,"Sweden Division 2, Sodra Gotaland",29882,Linero IF,FBK Balkan,1.74,3.75,3.90
+12-09-25,18:00,Rappe GOIF vs Nosaby IF,"Sweden Division 2, Sodra Gotaland",25496,Rappe GOIF,Nosaby IF,1.80,3.70,3.60
+12-09-25,18:15,IFK Hassleholm vs Solvesborgs GoIF,"Sweden Division 2, Sodra Gotaland",44037,IFK Hassleholm,Solvesborgs GoIF,2.85,3.75,2.10
+12-09-25,18:00,Landvetter IS vs Tvaakers IF,"Sweden Division 2, Vastra Gotaland",39433,Landvetter IS,Tvaakers IF,4.00,4.20,1.63
+12-09-25,18:30,IF Boljan Falkenberg vs Lindome GIF,"Sweden Division 2, Vastra Gotaland",33025,IF Boljan Falkenberg,Lindome GIF,4.25,4.30,1.59
+12-09-25,20:30,CA Tembetary Ypane vs Sportivo Ameliano,"Paraguay Division de Honor, Clausura",36373,CA Tembetary Ypane,Sportivo Ameliano,3.50,3.10,2.10
+12-09-25,23:00,CS 2 de Mayo vs Club Guarani Asuncion,"Paraguay Division de Honor, Clausura",28790,CS 2 de Mayo,Club Guarani Asuncion,2.95,3.10,2.35
+12-09-25,15:00,Sokol Kleczew vs Podhale Nowy Targ,Poland II Liga,28812,Sokol Kleczew,Podhale Nowy Targ,2.75,3.60,2.30
+12-09-25,16:00,LKS Lodz II vs Olimpia Grudziadz,Poland II Liga,16950,LKS Lodz II,Olimpia Grudziadz,3.90,3.50,1.84
+12-09-25,17:00,Unia Skierniewice vs KS Hutnik Krakow SSA,Poland II Liga,20673,Unia Skierniewice,KS Hutnik Krakow SSA,1.83,3.75,3.75
+12-09-25,15:30,Zabkovia Zabki vs LKS 1926 Lomza,"Poland III Liga, Group 1",24689,Zabkovia Zabki,LKS 1926 Lomza,2.40,3.75,2.40
+12-09-25,18:26,Lechia Tomaszow Mazowiecki vs Bron Radom,"Poland III Liga, Group 1",21765,Lechia Tomaszow Mazowiecki,Bron Radom,1.95,3.70,3.10
+12-09-25,16:00,MKS Notec Czarnkow vs MKS Viktoria Wrzesnia,"Poland III Liga, Group 2",24421,MKS Notec Czarnkow,MKS Viktoria Wrzesnia,1.67,3.90,4.20
+12-09-25,17:00,Zawisza Bydgoszcz vs Pogon Nowe Skalmierzyce,"Poland III Liga, Group 2",25106,Zawisza Bydgoszcz,Pogon Nowe Skalmierzyce,1.41,4.75,5.50
+12-09-25,18:00,Polonia Sroda Wielkopolska vs KS Lipno Steszew,"Poland III Liga, Group 2",39011,Polonia Sroda Wielkopolska,KS Lipno Steszew,1.51,4.30,4.80
+12-09-25,17:00,Karkonosze Jelenia Gora vs Zaglebie Lubin II,"Poland III Liga, Group 3",24452,Karkonosze Jelenia Gora,Zaglebie Lubin II,2.55,3.70,2.25
+12-09-25,18:00,KS Polonia Nysa vs MKS Stal Jasien,"Poland III Liga, Group 3",35334,KS Polonia Nysa,MKS Stal Jasien,1.67,3.80,4.10
+12-09-25,19:30,Kilbarrack United vs Killester Donnycarney F.C,"Ireland Leinster Senior League, Senior Division",39195,Kilbarrack United,Killester Donnycarney F.C,2.00,3.60,3.10
+12-09-25,19:45,St. Mochtas vs Wayside Celtic,"Ireland Leinster Senior League, Senior Division",43747,St. Mochtas,Wayside Celtic,1.43,4.50,5.60
+12-09-25,20:00,St. Francis FC vs Ballymun United,"Ireland Leinster Senior League, Senior Division",43751,St. Francis FC,Ballymun United,1.74,4.00,3.60
+12-09-25,16:00,CSM Ceahlaul Piatra Neamt vs FC Bihor Oradea,Romania Liga 2,29327,CSM Ceahlaul Piatra Neamt,FC Bihor Oradea,2.95,3.20,2.25
+12-09-25,14:00,Gandzasar Kapan FC vs FC Van Charentsavan,Armenia Premier League,41314,Gandzasar Kapan FC,FC Van Charentsavan,3.33,3.33,2.05
+12-09-25,16:00,FC Shirak Gyumri vs Ararat Yerevan FC,Armenia Premier League,41670,FC Shirak Gyumri,Ararat Yerevan FC,2.25,3.40,2.95
+12-09-25,00:00,Dynamo Puerto FC vs CS Maritimo de la Guaira,Venezuela Segunda Division,10926,Dynamo Puerto FC,CS Maritimo de la Guaira,2.35,3.10,2.85
+12-09-25,16:00,Al Shahaniya vs Al Sadd SC,Qatar Stars League,39531,Al Shahaniya,Al Sadd SC,12.50,7.30,1.17
+12-09-25,18:00,Al Duhail SC vs Umm-Salal SC,Qatar Stars League,31312,Al Duhail SC,Umm-Salal SC,1.41,5.20,6.00
+12-09-25,18:00,Al Gharafa SC vs Al-Sailiya SC,Qatar Stars League,18199,Al Gharafa SC,Al-Sailiya SC,1.43,4.90,6.10
+12-09-25,18:15,FK Arsenal Dzerzhinsk vs FC Slavia Mozyr,Belarus Vysshaya Liga,37890,FK Arsenal Dzerzhinsk,FC Slavia Mozyr,4.00,3.30,1.94
+12-09-25,14:30,Shkendija Tetovo vs Bashkimi Kumanovo,North Macedonia 1. MFL,45319,Shkendija Tetovo,Bashkimi Kumanovo,1.37,4.40,7.00
+12-09-25,18:00,FK Vardar Skopje vs FK Makedonija Gjorce Petrov,North Macedonia 1. MFL,45320,FK Vardar Skopje,FK Makedonija Gjorce Petrov,1.38,4.20,7.40
+12-09-25,19:00,NK Rudar Velenje vs Triglav Kranj,Slovenia 2. Liga,39306,NK Rudar Velenje,Triglav Kranj,3.80,3.60,1.77
+12-09-25,19:15,Krka Novo Mesto vs NK Brinje Grosuplje,Slovenia 2. Liga,28420,Krka Novo Mesto,NK Brinje Grosuplje,6.30,4.40,1.40
+12-09-25,18:00,Jahn Regensburg vs Rot-Weiss Essen,Germany 3. Liga,34203,Jahn Regensburg,Rot-Weiss Essen,3.20,3.60,2.15
+12-09-25,10:00,Shimshon Tel Aviv vs Sport Club Dimona,Israel Liga Alef,26452,Shimshon Tel Aviv,Sport Club Dimona,2.60,3.10,2.70
+12-09-25,10:15,FC Jerusalem vs FC Beitar Yavne,Israel Liga Alef,37366,FC Jerusalem,FC Beitar Yavne,1.71,3.90,4.20
+12-09-25,11:40,Maccabi Y. vs AS Nordia Jerusalem,Israel Liga Alef,43826,Maccabi Y.,AS Nordia Jerusalem,2.05,3.50,3.30
+12-09-25,11:45,FC Kfar Saba vs Maccabi Ironi Ashdod FC,Israel Liga Alef,37462,FC Kfar Saba,Maccabi Ironi Ashdod FC,2.45,3.20,2.80
+12-09-25,11:50,Hapoel Karmiel FC vs Hapoel Beit Shean Mesilot,Israel Liga Alef,37470,Hapoel Karmiel FC,Hapoel Beit Shean Mesilot,1.70,3.75,4.40
+12-09-25,12:00,Baqa Al-Gharbiyye vs Maccabi Kiryat Ata-Bialik,Israel Liga Alef,37569,Baqa Al-Gharbiyye,Maccabi Kiryat Ata-Bialik,2.20,3.30,3.10
+12-09-25,12:00,Maccabi Achi Nazareth FC vs Hapoel Tirat Hacarmel,Israel Liga Alef,28705,Maccabi Achi Nazareth FC,Hapoel Tirat Hacarmel,2.00,3.30,3.60
+12-09-25,12:00,Tzeirey Um El Fahem vs MS Tira,Israel Liga Alef,37896,Tzeirey Um El Fahem,MS Tira,2.35,3.25,2.85
+12-09-25,12:15,FC Tzeirey Tira vs Maccabi Ironi Kiryat Malakhi,Israel Liga Alef,37643,FC Tzeirey Tira,Maccabi Ironi Kiryat Malakhi,3.60,3.20,2.05
+12-09-25,12:40,Maccabi Nujeidat Ahmad vs Hapoel Migdal Haemeq,Israel Liga Alef,45214,Maccabi Nujeidat Ahmad,Hapoel Migdal Haemeq,5.70,4.10,1.51
+12-09-25,12:45,Maccabi Ironi Kiryat Gat vs FC Holon Yirmiyahu,Israel Liga Alef,37725,Maccabi Ironi Kiryat Gat,FC Holon Yirmiyahu,2.10,3.30,3.40
+12-09-25,22:00,AD Carmelita vs Futbol Consultants Desamparados,"Costa Rica Liga de Ascenso, Apertura",26204,AD Carmelita,Futbol Consultants Desamparados,2.30,3.40,2.85
+12-09-25,22:00,Deportivo Mixco vs CD Marquense,Guatemala Liga Nacional. Apertura,11499,Deportivo Mixco,CD Marquense,1.28,5.00,10.50
+12-09-25,22:00,San Francisco FC B vs CD Bocas FC,Panama Liga Prom,11097,San Francisco FC B,CD Bocas FC,2.30,3.50,2.60
+12-09-25,14:30,FC Belshina Bobruisk vs FC Lida,Belarus Pervaya Liga,45298,FC Belshina Bobruisk,FC Lida,1.95,3.20,4.00
+12-09-25,20:00,FK Radnik Bijeljina vs FK Sloga Doboj,Bosnia & Herzegovina Premijer Liga,35076,FK Radnik Bijeljina,FK Sloga Doboj,1.90,3.33,3.90
+12-09-25,15:30,NK Rudes Zagreb vs NK Dubrava Zagreb,Croatia Prva NL,14538,NK Rudes Zagreb,NK Dubrava Zagreb,1.78,3.25,4.40
+12-09-25,11:00,K. Khanh Hoa vs Hoa Binh FC,Vietnam Vietnam Cup,21106,K. Khanh Hoa,Hoa Binh FC,2.15,2.90,3.50
+12-09-25,17:00,Doxa Katokopias vs Nea Salamina Famagusta,Cyprus 2nd Division,18222,Doxa Katokopias,Nea Salamina Famagusta,3.00,3.25,2.00
+12-09-25,17:00,M E A P Nisou vs PAEEK Kyrenia,Cyprus 2nd Division,18714,M E A P Nisou,PAEEK Kyrenia,2.65,3.25,2.25
+12-09-25,17:00,FK Suduva Marijampole vs FK Panevezys,Lithuania A Lyga,44311,FK Suduva Marijampole,FK Panevezys,1.92,3.50,3.70
+12-09-25,18:00,Dziugas vs Dfk Dainava Alytus,Lithuania A Lyga,44312,Dziugas,Dfk Dainava Alytus,1.70,3.60,4.70
+12-09-25,18:00,JK Tabasalu vs Maardu Linnameeskond,Estonia Esiliiga B,16197,JK Tabasalu,Maardu Linnameeskond,9.80,7.20,1.16
+12-09-25,19:30,Deportivo Santani vs Resistencia SC,Paraguay Segunda Division,40791,Deportivo Santani,Resistencia SC,2.10,3.30,3.10
+12-09-25,23:00,Sportivo San Lorenzo vs Tacuary Asuncion,Paraguay Segunda Division,44888,Sportivo San Lorenzo,Tacuary Asuncion,2.05,3.25,3.25
+12-09-25,13:00,Buriram United vs Prachuap FC,Thailand Thai League 1,36587,Buriram United,Prachuap FC,1.17,7.40,13.00
+12-09-25,13:00,Uthai Thani FC vs BG Pathum United,Thailand Thai League 1,37029,Uthai Thani FC,BG Pathum United,3.00,3.60,2.15
+12-09-25,13:00,Mahasarakham United FC vs Phrae United,Thailand Thai League 2,13751,Mahasarakham United FC,Phrae United,2.05,3.70,2.90
+12-09-25,16:00,FK Ekranas vs FK Transinvest,Lithuania 1 Lyga,40912,FK Ekranas,FK Transinvest,11.50,6.30,1.17
+12-09-25,16:00,Kedainiai Nevezis vs FK Babrungas Plunge,Lithuania 1 Lyga,34756,Kedainiai Nevezis,FK Babrungas Plunge,3.90,4.10,1.67
+12-09-25,17:00,Hegelmann Litauen B vs FA Siauliai B,Lithuania 1 Lyga,33359,Hegelmann Litauen B,FA Siauliai B,1.98,4.00,2.90
+12-09-25,18:00,Baltijos Futbolo Akademija vs Vilnius FK Zalgiris B,Lithuania 1 Lyga,42448,Baltijos Futbolo Akademija,Vilnius FK Zalgiris B,1.68,3.80,4.10
+12-09-25,20:00,FC Universitario de Vinto vs CD Real Tomayapo,Bolivia Division Profesional,20772,FC Universitario de Vinto,CD Real Tomayapo,1.76,3.75,4.10
+12-09-25,18:00,FC Tatabanya vs Soroksar SC,Hungary Magyar Kupa,20467,FC Tatabanya,Soroksar SC,3.90,3.80,1.78
+12-09-25,12:00,Club Atletico Tembetary Reserves vs Sportivo Ameliano Reserves,"Paraguay Primera Division Reserve, Clausura",43928,Club Atletico Tembetary Reserves,Sportivo Ameliano Reserves,3.40,3.20,2.05
+12-09-25,15:00,Al-Khaldiya SC vs Aali,Bahrain Premier League,41545,Al-Khaldiya SC,Aali,1.32,5.10,8.10
+12-09-25,15:00,Al-Muharraq SC vs Al-Ahli SC Manama,Bahrain Premier League,41462,Al-Muharraq SC,Al-Ahli SC Manama,1.58,3.60,6.00
+12-09-25,23:30,Uniao Sao Joao EC SP vs EC Primavera SP,Brazil Copa Paulista,45152,Uniao Sao Joao EC SP,EC Primavera SP,2.45,3.50,2.60
+12-09-25,16:00,Ben Aknoun vs Paradou AC,Algeria Ligue 1,26896,Ben Aknoun,Paradou AC,2.25,2.95,3.40
+12-09-25,16:00,Olympique Akbou vs MC Alger,Algeria Ligue 1,42060,Olympique Akbou,MC Alger,3.40,2.60,2.45
+12-09-25,19:00,MC Oran vs JS Kabylie,Algeria Ligue 1,35417,MC Oran,JS Kabylie,2.35,2.85,3.30
+12-09-25,20:00,Hearts of Oak vs Hohoe United FC,Ghana Premier League,43252,Hearts of Oak,Hohoe United FC,1.39,3.80,8.60
+12-09-25,19:45,Cobh Ramblers vs Treaty United,Ireland First Division,38150,Cobh Ramblers,Treaty United,1.41,4.60,6.50
+12-09-25,19:45,Dundalk FC vs Bray Wanderers AFC,Ireland First Division,38279,Dundalk FC,Bray Wanderers AFC,1.53,4.20,5.30
+12-09-25,19:45,University College Dublin vs Longford Town FC,Ireland First Division,38570,University College Dublin,Longford Town FC,1.62,3.90,4.80
+12-09-25,19:30,Calcio Foggia vs Latina Calcio,"Italy Serie C, Group C",17856,Calcio Foggia,Latina Calcio,2.20,3.10,3.25
+12-09-25,19:30,Potenza Calcio vs Crotone,"Italy Serie C, Group C",17865,Potenza Calcio,Crotone,2.95,3.30,2.30
+12-09-25,19:30,SS Monopoli vs Audace Cerignola,"Italy Serie C, Group C",39731,SS Monopoli,Audace Cerignola,2.70,3.20,2.55
+12-09-25,17:00,Mochudi Centre Chiefs vs Santa Green FC,Botswana Premier League,43521,Mochudi Centre Chiefs,Santa Green FC,1.57,3.40,5.00
+12-09-25,17:00,SC Villa vs Kampala Capital City Authority FC,Uganda Super 8,39766,SC Villa,Kampala Capital City Authority FC,2.60,2.95,2.45
+12-09-25,14:00,Gorilla FC vs AS Muhanga,Rwanda Premier League,28595,Gorilla FC,AS Muhanga,1.92,2.95,3.70
+12-09-25,16:00,AL Salt vs Al-Ahly Amman,Jordan Jordan League,25336,AL Salt,Al-Ahly Amman,1.95,3.33,3.75
+12-09-25,18:30,AL Jazeera Club Amman vs Al Wehdat,Jordan Jordan League,25758,AL Jazeera Club Amman,Al Wehdat,4.90,3.80,1.63
+12-09-25,18:00,FC Memmingen vs TSV Buchbach,Germany Amateur Regionalliga Bavaria,41367,FC Memmingen,TSV Buchbach,2.75,3.60,2.20
+12-09-25,18:00,Hankofen-Hailing vs Bayern Munich II,Germany Amateur Regionalliga Bavaria,41421,Hankofen-Hailing,Bayern Munich II,6.40,4.80,1.36
+12-09-25,18:00,SpVgg Ansbach vs FC Augsburg II,Germany Amateur Regionalliga Bavaria,41403,SpVgg Ansbach,FC Augsburg II,2.05,3.75,2.90
+12-09-25,18:00,SpVgg Unterhaching vs TSV Aubstadt,Germany Amateur Regionalliga Bavaria,32030,SpVgg Unterhaching,TSV Aubstadt,1.56,4.00,4.75
+12-09-25,18:00,Wacker Burghausen vs Viktoria Aschaffenburg,Germany Amateur Regionalliga Bavaria,41288,Wacker Burghausen,Viktoria Aschaffenburg,1.42,4.40,5.90
+12-09-25,17:30,Atus Velden vs SK Treibach,Austria Amateur Regionalliga Centre,37936,Atus Velden,SK Treibach,1.60,4.00,3.90
+12-09-25,18:00,Deutschlandsberger SC vs LASK Amateure OO,Austria Amateur Regionalliga Centre,39033,Deutschlandsberger SC,LASK Amateure OO,3.70,4.25,1.61
+12-09-25,18:00,FC Gleisdorf 09 vs SV Lafnitz,Austria Amateur Regionalliga Centre,38016,FC Gleisdorf 09,SV Lafnitz,,,
+12-09-25,18:00,SC Kalsdorf vs SV Ried II,Austria Amateur Regionalliga Centre,37986,SC Kalsdorf,SV Ried II,1.02,8.75,27.00
+12-09-25,18:00,SPG Wallern/ASV St. Marienkirchen vs Wolfsberger AC (A),Austria Amateur Regionalliga Centre,27956,SPG Wallern/ASV St. Marienkirchen,Wolfsberger AC (A),2.35,3.50,2.35
+12-09-25,18:30,Blau-Weiss Lohne vs VfB Oldenburg,Germany Amateur Regionalliga North,30704,Blau-Weiss Lohne,VfB Oldenburg,6.70,5.10,1.33
+12-09-25,18:30,SC Weiche Flensburg 08 vs SV Drochtersen/Assel,Germany Amateur Regionalliga North,13463,SC Weiche Flensburg 08,SV Drochtersen/Assel,3.60,3.70,1.82
+12-09-25,17:00,Hallescher FC vs BSG Chemie Leipzig,Germany Amateur Regionalliga Northeast,40693,Hallescher FC,BSG Chemie Leipzig,1.25,5.40,9.00
+12-09-25,18:00,FC Magdeburg II vs Greifswalder FC,Germany Amateur Regionalliga Northeast,22045,FC Magdeburg II,Greifswalder FC,2.05,3.50,3.10
+12-09-25,18:00,Hertha BSC II vs BFC Dynamo,Germany Amateur Regionalliga Northeast,28738,Hertha BSC II,BFC Dynamo,2.05,3.70,2.95
+12-09-25,18:00,VSG Altglienicke vs FSV Zwickau,Germany Amateur Regionalliga Northeast,40818,VSG Altglienicke,FSV Zwickau,1.91,3.40,3.50
+12-09-25,18:00,SC Neusiedl am See 1919 vs SV Donau,Austria Amateur Regionalliga Ost,42546,SC Neusiedl am See 1919,SV Donau,2.50,3.40,2.30
+12-09-25,18:10,Favoritner AC vs SC/ESV Parndorf 1919,Austria Amateur Regionalliga Ost,42572,Favoritner AC,SC/ESV Parndorf 1919,4.00,3.90,1.60
+12-09-25,18:30,Kremser SC vs Wiener Sport-Club,Austria Amateur Regionalliga Ost,42624,Kremser SC,Wiener Sport-Club,1.86,3.80,3.00
+12-09-25,18:00,SG Sonnenhof Grossaspach vs Offenbacher FC Kickers 1901,Germany Amateur Regionalliga Southwest,37130,SG Sonnenhof Grossaspach,Offenbacher FC Kickers 1901,1.91,3.90,3.10
+12-09-25,18:00,SC Schwaz vs SVG Reichenau,Austria Amateur Regionalliga West,39236,SC Schwaz,SVG Reichenau,,,
+12-09-25,18:30,1. FC Bocholt vs Sportfreunde Siegen 1899,Germany Amateur Regionalliga West,27998,1. FC Bocholt,Sportfreunde Siegen 1899,2.05,3.60,2.95
+12-09-25,18:30,VfL Sportfreunde Lotte 1929 vs SC Paderborn 07 II,Germany Amateur Regionalliga West,30374,VfL Sportfreunde Lotte 1929,SC Paderborn 07 II,1.66,3.90,4.20
+12-09-25,18:30,SPVG Frechen 20 vs TUS BW Konigsdorf,Germany Amateur Mittelrheinliga,37151,SPVG Frechen 20,TUS BW Konigsdorf,2.25,3.90,2.50
+12-09-25,18:30,Tura Harksheide vs Niendorfer TSV 1919,Germany Amateur Oberliga Hamburg,11223,Tura Harksheide,Niendorfer TSV 1919,3.10,4.50,1.81
+12-09-25,18:30,SpVgg Erkenschwick vs TSG 1881 Sprockhovel,Germany Amateur Oberliga Westfalen,31830,SpVgg Erkenschwick,TSG 1881 Sprockhovel,2.10,4.20,2.60
+12-09-25,14:45,FK Kapaz vs Araz Nakhchivan PFK,Azerbaijan Premier League,20551,FK Kapaz,Araz Nakhchivan PFK,4.30,3.60,1.76
+12-09-25,17:00,Qarabag vs Zira FK,Azerbaijan Premier League,20554,Qarabag,Zira FK,1.54,3.80,6.10
+12-09-25,17:15,Floriana FC vs Gzira United FC,Malta Premier League,12049,Floriana FC,Gzira United FC,1.75,3.40,4.20
+12-09-25,19:30,Valletta FC vs Marsaxlokk FC,Malta Premier League,14612,Valletta FC,Marsaxlokk FC,2.75,3.33,2.30
+12-09-25,18:40,Al Arabi vs Al Shabab Kuwait,Kuwait Premier League,15522,Al Arabi,Al Shabab Kuwait,1.37,5.10,6.60
+12-09-25,15:30,Tractor Sport Club vs Aluminium Arak,Iran Pro League,40380,Tractor Sport Club,Aluminium Arak,1.43,3.90,7.00
+12-09-25,16:30,Gol Gohar Sirjan FC vs Sepahan SC,Iran Pro League,40229,Gol Gohar Sirjan FC,Sepahan SC,4.10,2.95,1.93
+12-09-25,16:30,Kheybar Khorramabad FC vs Fajr Sepasi FC,Iran Pro League,32417,Kheybar Khorramabad FC,Fajr Sepasi FC,2.10,2.90,3.60
+12-09-25,17:30,Esteghlal Khuzestan FC vs Esteghlal FC,Iran Pro League,40385,Esteghlal Khuzestan FC,Esteghlal FC,3.80,3.00,1.97
+12-09-25,20:15,San Marino Academy vs SP La Fiorita,San Marino Campionato Sammarinese,42632,San Marino Academy,SP La Fiorita,28.00,7.50,1.04
+12-09-25,20:15,SS Virtus vs SS Folgore Falciano Calcio,San Marino Campionato Sammarinese,38977,SS Virtus,SS Folgore Falciano Calcio,1.42,3.90,5.75
+12-09-25,13:30,Safa vs Simal,Azerbaijan First Division,33440,Safa,Simal,1.39,4.10,5.80
+12-09-25,16:00,Sabail FK vs Energetik Mingechevir,Azerbaijan First Division,37995,Sabail FK,Energetik Mingechevir,1.85,3.25,3.60
+12-09-25,13:30,FC Fratria Varna vs FC Yantra Gabrovo,Bulgaria Vtora Liga,30916,FC Fratria Varna,FC Yantra Gabrovo,1.72,3.33,4.60
+12-09-25,18:00,SC Eltersdorf vs TSV Kornburg,Germany Amateur Bayernliga North,45220,SC Eltersdorf,TSV Kornburg,1.86,3.60,3.50
+12-09-25,18:00,TSV 1860 Munich II vs Turkspor Augsburg,Germany Amateur Bayernliga South,39618,TSV 1860 Munich II,Turkspor Augsburg,1.66,4.10,4.00
+12-09-25,18:00,TSV Landsberg am Lech vs TSV 1874 Kottern,Germany Amateur Bayernliga South,40508,TSV Landsberg am Lech,TSV 1874 Kottern,1.53,4.50,4.40
+12-09-25,18:30,FC Oberneuland vs FC Union 60 Bremen,Germany Amateur Bremen Liga,38332,FC Oberneuland,FC Union 60 Bremen,2.45,4.30,2.20
+12-09-25,18:30,OSC Bremerhaven vs SV Hemelingen,Germany Amateur Bremen Liga,43708,OSC Bremerhaven,SV Hemelingen,1.91,4.60,2.80
+12-09-25,15:00,FK Kukesi vs KF Lushnja,Albania Kategoria e Pare,22202,FK Kukesi,KF Lushnja,2.55,3.50,2.40
+12-09-25,18:00,Skenderbeu Korce vs KF Iliria Fushe-Kruje,Albania Kategoria e Pare,16202,Skenderbeu Korce,KF Iliria Fushe-Kruje,1.42,3.90,7.40
+12-09-25,11:00,Altay Vko vs SD Family FC,Kazakhstan Pervaya Liga,43254,Altay Vko,SD Family FC,1.33,4.80,7.20
+12-09-25,13:00,FK Kaspii Aktau vs FC Irtysh Pavlodar,Kazakhstan Pervaya Liga,41489,FK Kaspii Aktau,FC Irtysh Pavlodar,2.60,3.50,2.30
+12-09-25,14:00,FC Taraz vs FK Ekibastuz,Kazakhstan Pervaya Liga,30354,FC Taraz,FK Ekibastuz,2.10,4.10,2.60
+12-09-25,19:00,SC Bettembourg vs The Belval Belvaux,Luxembourg Promotion d'Honneur,14279,SC Bettembourg,The Belval Belvaux,1.46,4.40,5.30
+12-09-25,14:30,PFC Sogdiana vs AGMK FC,Uzbekistan Superliga,19326,PFC Sogdiana,AGMK FC,2.10,3.33,3.00
+12-09-25,15:30,Navbahor vs FK Termez Surkhon,Uzbekistan Superliga,22279,Navbahor,FK Termez Surkhon,1.74,3.40,4.40
+12-09-25,06:30,MFAR Students Union FC vs South United,India Bangalore Super Division,44913,MFAR Students Union FC,South United,3.60,3.70,1.82
+12-09-25,09:00,Kodagu FC vs Sporting Club Bengaluru,India Bangalore Super Division,29625,Kodagu FC,Sporting Club Bengaluru,1.73,3.70,4.00
+12-09-25,19:30,Caerau Ely FC vs Llantwit Major,Wales Cymru Championship South,44141,Caerau Ely FC,Llantwit Major,1.73,3.80,4.20
+12-09-25,19:30,Carmarthen Town vs Treowen Stars,Wales Cymru Championship South,37075,Carmarthen Town,Treowen Stars,1.41,4.50,6.70
+12-09-25,19:30,Pontypridd Town vs Newport City FC,Wales Cymru Championship South,37084,Pontypridd Town,Newport City FC,3.75,3.90,1.80
+12-09-25,19:30,Trefelin BGC vs Ammanford,Wales Cymru Championship South,43714,Trefelin BGC,Ammanford,1.81,3.90,3.70
+12-09-25,19:45,Cambrian United vs Afan Lido,Wales Cymru Championship South,44173,Cambrian United,Afan Lido,1.43,4.75,5.90
+12-09-25,19:45,Buckley Town vs Holyhead Hotspur,"Wales Cymru Championship, North",38435,Buckley Town,Holyhead Hotspur,1.46,4.90,5.25
+12-09-25,19:45,Denbigh Town vs Flint Mountain,"Wales Cymru Championship, North",43804,Denbigh Town,Flint Mountain,1.30,5.75,7.40
+12-09-25,19:45,Penrhyncoch vs Guilsfield FC,"Wales Cymru Championship, North",43869,Penrhyncoch,Guilsfield FC,3.10,4.00,1.97
+12-09-25,19:45,Ruthin Town vs Llandudno FC,"Wales Cymru Championship, North",43960,Ruthin Town,Llandudno FC,8.20,5.70,1.28
+12-09-25,10:00,Hantharwady United vs Dagon Port FC,Myanmar National League,33868,Hantharwady United,Dagon Port FC,1.56,4.40,4.30
+12-09-25,10:30,Sagaing United vs Yarmanya United,Myanmar National League,44637,Sagaing United,Yarmanya United,1.37,5.25,5.60
+12-09-25,13:00,BFF Academy FC vs Transport United FC,Bhutan Premier League,13560,BFF Academy FC,Transport United FC,2.35,3.90,2.40
+12-09-25,19:00,Jeugd Lommel SK vs RAAL La Louviere,Belgium U21 Pro League,40293,Jeugd Lommel SK,RAAL La Louviere,2.90,4.00,2.05
+12-09-25,19:00,Jeugd Patro Eisden Maasmechelen vs RFC Seraing,Belgium U21 Pro League,40764,Jeugd Patro Eisden Maasmechelen,RFC Seraing,2.05,4.00,2.90
+12-09-25,19:00,K Beerschot VA vs Waasland Beveren,Belgium U21 Pro League,19938,K Beerschot VA,Waasland Beveren,2.95,4.40,1.96
+12-09-25,19:00,Lierse Kempenzonen vs KV Kortrijk,Belgium U21 Pro League,21860,Lierse Kempenzonen,KV Kortrijk,4.80,4.50,1.54
+12-09-25,19:00,RFC Liege vs ROC Charleroi-Marchienne,Belgium U21 Pro League,40929,RFC Liege,ROC Charleroi-Marchienne,2.80,4.00,2.10
+12-09-25,19:30,KVC Westerlo vs RWD Molenbeek Youth,Belgium U21 Pro League,39839,KVC Westerlo,RWD Molenbeek Youth,2.20,3.75,2.85
+12-09-25,12:00,Estoril Praia U23 vs Sporting Cp U23,Portugal U23 Liga Revelacao,40608,Estoril Praia U23,Sporting Cp U23,2.40,3.30,2.45
+12-09-25,14:00,EC Sao Bernardo SP vs AA Internacional Limeira SP,Brazil U20 Paulista,42106,EC Sao Bernardo SP,AA Internacional Limeira SP,1.46,4.00,6.00
+12-09-25,19:00,Ferroviaria SP vs Mirassol FC SP,Brazil U20 Paulista,41732,Ferroviaria SP,Mirassol FC SP,1.99,3.60,3.10
+12-09-25,19:00,Gremio Novorizontino vs Botafogo FC SP,Brazil U20 Paulista,43259,Gremio Novorizontino,Botafogo FC SP,1.50,4.25,5.00
+12-09-25,19:00,Ibrachina FC SP vs Gremio Osasco Audax EC SP,Brazil U20 Paulista,41724,Ibrachina FC SP,Gremio Osasco Audax EC SP,1.66,4.00,4.00
+12-09-25,19:00,Ituano FC SP vs AD Sao Caetano SP,Brazil U20 Paulista,41722,Ituano FC SP,AD Sao Caetano SP,1.51,4.30,4.80
+12-09-25,19:00,RB Bragantino SP vs SE Itapirense SP,Brazil U20 Paulista,34973,RB Bragantino SP,SE Itapirense SP,1.20,6.25,9.40
+12-09-25,19:00,Santos FC SP vs AA Portuguesa SP,Brazil U20 Paulista,31463,Santos FC SP,AA Portuguesa SP,1.35,4.70,6.70
+12-09-25,19:00,Sao Paulo FC SP vs Maua FC SP U20,Brazil U20 Paulista,27973,Sao Paulo FC SP,Maua FC SP U20,1.20,5.80,10.50
+12-09-25,19:00,SC Corinthians SP vs EC XV de Novembro Piracicaba SP,Brazil U20 Paulista,19972,SC Corinthians SP,EC XV de Novembro Piracicaba SP,1.59,4.00,4.50
+12-09-25,19:00,SE Palmeiras SP vs Sertaozinho FC SP,Brazil U20 Paulista,42198,SE Palmeiras SP,Sertaozinho FC SP,1.10,7.70,16.00
+12-09-25,19:00,Uniao Suzano AC SP vs EC XV de Novembro de Jau SP,Brazil U20 Paulista,32812,Uniao Suzano AC SP,EC XV de Novembro de Jau SP,2.80,3.40,2.25
+12-09-25,19:00,FH Hafnarfjordur vs Vikingur Reykjavik,"Iceland Besta deild, Women",35972,FH Hafnarfjordur,Vikingur Reykjavik,1.69,4.50,3.50
+12-09-25,19:00,Stjarnan vs Fram,"Iceland Besta deild, Women",36069,Stjarnan,Fram,1.38,4.75,6.10
+12-09-25,19:00,Thor/KA vs Throttur Reykjavik,"Iceland Besta deild, Women",36315,Thor/KA,Throttur Reykjavik,2.50,4.10,2.20
+12-09-25,15:00,San Lorenzo de Almagro vs CA River Plate (Arg),"Argentina Primera Division, Women",43818,San Lorenzo de Almagro,CA River Plate (Arg),2.45,3.10,2.70
+12-09-25,19:00,Racing Club vs Gimnasia Y Esgrima La Plata,"Argentina Primera Division, Women",33371,Racing Club,Gimnasia Y Esgrima La Plata,1.98,3.20,3.50
+12-09-25,17:30,SC Freiburg vs 1 FC Cologne,Germany Amateur Women Bundesliga,12412,SC Freiburg,1 FC Cologne,1.70,3.75,4.00
+12-09-25,14:00,Pecsi MFC vs Haladas Viktoria Szombathely,"Hungary NB I, Women",41540,Pecsi MFC,Haladas Viktoria Szombathely,1.67,4.00,3.60
+12-09-25,19:30,Manchester City WFC vs Brighton and Hove Albion WFC,England Amateur Super League Women,40126,Manchester City WFC,Brighton and Hove Albion WFC,1.28,5.30,7.80
+12-09-25,19:30,West Ham United FC Women vs Arsenal WFC,England Amateur Super League Women,39829,West Ham United FC Women,Arsenal WFC,9.90,5.90,1.20
+12-09-25,19:45,Derry City Ladies vs Lisburn Rangers,"Northern Ireland Premiership, Women",18271,Derry City Ladies,Lisburn Rangers,3.90,4.80,1.58
+12-09-25,17:00,NK Sencur vs NK Ziri,Slovenia 3. SNL,38035,NK Sencur,NK Ziri,1.47,4.30,5.30
+12-09-25,18:30,NK Korotan vs NK Carda,Slovenia 3. SNL,38885,NK Korotan,NK Carda,2.00,3.75,2.95
+12-09-25,00:00,Serra FC ES vs Linhares FC ES,"Brazil Capixaba, Serie B",42369,Serra FC ES,Linhares FC ES,1.28,5.00,6.80
+12-09-25,18:00,Tarup-Paarup IF vs Esbjerg FB 2,Denmark Amateur Danmarksserien,44883,Tarup-Paarup IF,Esbjerg FB 2,2.20,3.70,2.45
+12-09-25,18:15,VB 1968 vs Goerslev IF,Denmark Amateur Danmarksserien,44884,VB 1968,Goerslev IF,3.20,3.80,1.79
+12-09-25,15:30,FS Trebic vs Zdar Nad Sazavou,Czechia Divize D,18059,FS Trebic,Zdar Nad Sazavou,3.33,4.10,1.70
+12-09-25,15:30,NK Kustosija Zagreb vs NK Jadran LP,Croatia Druga NL,42072,NK Kustosija Zagreb,NK Jadran LP,1.88,3.33,3.33
+12-09-25,17:30,KAC 1909 vs SVG Bleiburg,Austria Amateur Karntner Liga,43395,KAC 1909,SVG Bleiburg,4.00,4.10,1.65
+12-09-25,17:30,SV Donau Klagenfurt vs ATSV Wolfsberg,Austria Amateur Karntner Liga,24519,SV Donau Klagenfurt,ATSV Wolfsberg,2.60,3.60,2.30
+12-09-25,16:00,Gnistan Ogeli vs Valtti,Finland Kolmonen,25311,Gnistan Ogeli,Valtti,12.50,7.50,1.09
+12-09-25,16:00,Ponnistajat vs EsPa,Finland Kolmonen,41843,Ponnistajat,EsPa,23.00,11.00,
+12-09-25,16:00,Vg-62 Naantali vs Masku,Finland Kolmonen,42314,Vg-62 Naantali,Masku,2.15,4.30,2.50
+12-09-25,17:00,FC Jyvaskyla Blackbird vs Holstin Dynamo,Finland Kolmonen,41845,FC Jyvaskyla Blackbird,Holstin Dynamo,1.01,13.50,30.00
+12-09-25,17:00,FC Kiisto vs Seinaajoen Sisu,Finland Kolmonen,42439,FC Kiisto,Seinaajoen Sisu,1.17,7.10,9.60
+12-09-25,17:00,LPS Laajasalon vs HJK / Kantsu,Finland Kolmonen,32756,LPS Laajasalon,HJK / Kantsu,1.55,4.60,4.20
+12-09-25,18:00,AC Estudiantes vs Tervakosken Pato,Finland Kolmonen,42066,AC Estudiantes,Tervakosken Pato,1.30,5.50,6.80
+12-09-25,18:00,FC Espoo vs Esbo Bollklubb,Finland Kolmonen,42440,FC Espoo,Esbo Bollklubb,8.25,6.70,1.21
+12-09-25,15:00,ACS LPS Hd Clinceni vs CSM Alexandria,Romania Liga 3,45155,ACS LPS Hd Clinceni,CSM Alexandria,3.60,3.60,1.75
+12-09-25,15:00,ACS Medias 2022 vs Csm Targu Jiu,Romania Liga 3,43713,ACS Medias 2022,Csm Targu Jiu,1.43,4.00,5.50
+12-09-25,15:00,ACS Petrolul 52 2 vs CS Blejoi,Romania Liga 3,39448,ACS Petrolul 52 2,CS Blejoi,2.70,3.40,2.15
+12-09-25,15:00,ACS Vointa 2024 Crevedia vs Csm Flacara Moreni,Romania Liga 3,44164,ACS Vointa 2024 Crevedia,Csm Flacara Moreni,3.00,3.50,1.97
+12-09-25,15:00,AFC 1919 Dacia Unirea Braila vs Acs Victoria Traian,Romania Liga 3,13775,AFC 1919 Dacia Unirea Braila,Acs Victoria Traian,2.05,3.25,2.95
+12-09-25,15:00,AFC Odorheiu Secuiesc vs FC Cetate Suceava,Romania Liga 3,26642,AFC Odorheiu Secuiesc,FC Cetate Suceava,1.80,3.90,3.50
+12-09-25,15:00,CS Timisul Sag vs CSC Ghiroda SI Giarmata Vii,Romania Liga 3,36640,CS Timisul Sag,CSC Ghiroda SI Giarmata Vii,5.50,4.00,1.43
+12-09-25,15:00,SC FC Voluntari II vs Fotbal Club FCSB 2,Romania Liga 3,34861,SC FC Voluntari II,Fotbal Club FCSB 2,2.30,3.50,2.45
+12-09-25,23:00,Atletico Hidalgo vs CF Correcaminos Uat II,Mexico Liga Premier Serie A,38938,Atletico Hidalgo,CF Correcaminos Uat II,2.15,3.20,3.10
+12-09-25,23:00,Canoneros Marina vs Inter Playa Del Carmen,Mexico Liga Premier Serie A,39142,Canoneros Marina,Inter Playa Del Carmen,2.90,3.25,2.25
+12-09-25,10:30,Saikhamakawn FC vs Mizoram Police FC,India Mizoram Premier League,28132,Saikhamakawn FC,Mizoram Police FC,2.15,3.20,3.10
+12-09-25,18:00,Cannes vs Istres FC,France National 2,30026,Cannes,Istres FC,1.67,3.40,4.80
+12-09-25,18:00,La Roche Vendee Football vs Aviron Bayonnais FC,France National 2,39864,La Roche Vendee Football,Aviron Bayonnais FC,1.73,3.40,4.30
+12-09-25,18:30,US Creteil-Lusitanos vs RC Grasse,France National 2,43366,US Creteil-Lusitanos,RC Grasse,2.00,3.20,3.50
+12-09-25,19:00,AS Saint Priest vs Andrezieux-Boutheon FC,France National 2,40786,AS Saint Priest,Andrezieux-Boutheon FC,2.20,3.20,3.10
+12-09-25,18:00,1. Wiener Neustadter SC vs SKN St Polten Juniors,"Austria Amateur Niederosterreich, 1. Landesliga",23608,1. Wiener Neustadter SC,SKN St Polten Juniors,1.56,4.00,4.25
+12-09-25,17:00,Union Mondsee vs Ufc Stampfl-Bau Ostermiething,"Austria Amateur Oberosterreich, OO Liga",22819,Union Mondsee,Ufc Stampfl-Bau Ostermiething,1.74,4.10,3.60
+12-09-25,19:00,Audax Italiano vs Deportes Recoleta,"Chile Primera Division, Women",45178,Audax Italiano,Deportes Recoleta,4.60,4.00,1.59
+12-09-25,19:00,CD Everton Vina Del Mar vs Coquimbo Unido,"Chile Primera Division, Women",45158,CD Everton Vina Del Mar,Coquimbo Unido,15.50,6.40,1.14
+12-09-25,19:00,Universidad de Chile vs Universidad de Concepcion,"Chile Primera Division, Women",43791,Universidad de Chile,Universidad de Concepcion,1.05,9.30,24.00
+12-09-25,16:30,San Antonio Unido vs CD Trasandino de Los Andes,Chile Segunda Division,39294,San Antonio Unido,CD Trasandino de Los Andes,3.60,3.50,1.86
+12-09-25,18:00,TUS Bad Waltersdorf vs SV Allerheiligen,"Austria Amateur Steiermark, Landesliga",23442,TUS Bad Waltersdorf,SV Allerheiligen,2.45,4.00,2.30
+12-09-25,12:00,Fehervar FC vs Illes Akademia,Hungary U19 National,40726,Fehervar FC,Illes Akademia,1.67,4.10,3.90
+12-09-25,14:00,Hapoel Petah Tikva Nahum vs Beitar Jerusalem U19,Israel U19 Premier League,45215,Hapoel Petah Tikva Nahum,Beitar Jerusalem U19,2.15,4.00,2.45
+12-09-25,14:00,Nova Iguacu FC RJ vs AA Portuguesa RJ,"Brazil U20 Carioca, Serie A",38987,Nova Iguacu FC RJ,AA Portuguesa RJ,1.89,3.40,3.60
+12-09-25,19:00,Boavista RJ vs Sampaio Correa FE RJ,"Brazil U20 Carioca, Serie A",43952,Boavista RJ,Sampaio Correa FE RJ,1.78,3.75,3.70
+12-09-25,14:35,AL Ain FC vs AL Urooba,United Arab Emirates U21 League,29613,AL Ain FC,AL Urooba,1.66,3.90,4.10
+12-09-25,14:35,Emirates Club RAK vs AL Sharjah,United Arab Emirates U21 League,32485,Emirates Club RAK,AL Sharjah,1.64,3.90,4.25
+12-09-25,14:40,Al-Jazira Club U21 vs Al-Wasl U21,United Arab Emirates U21 League,18764,Al-Jazira Club U21,Al-Wasl U21,1.35,4.90,6.50
+12-09-25,16:00,Necaxa U21 vs FC Juarez U21,Mexico U21 Liga MX,20030,Necaxa U21,FC Juarez U21,2.15,3.10,2.90
+12-09-25,17:00,Mazatlan FC U21 vs Universidad Nacional U21,Mexico U21 Liga MX,22007,Mazatlan FC U21,Universidad Nacional U21,2.80,3.10,2.25
+12-09-25,14:40,AL Wahda FC vs AL Ittihad Kalba,United Arab Emirates U23 Pro League,27063,AL Wahda FC,AL Ittihad Kalba,1.39,4.50,6.30
+12-09-25,14:40,Baniyas vs Shabab AL Ahli Dubai Club,United Arab Emirates U23 Pro League,21950,Baniyas,Shabab AL Ahli Dubai Club,3.60,3.70,1.82
+12-09-25,14:40,Sharjah FC vs Khorfakkan,United Arab Emirates U23 Pro League,17739,Sharjah FC,Khorfakkan,1.92,3.70,3.25
+12-09-25,00:00,DC Power FC vs Lexington SC,"USA USL Super League, Women",20805,DC Power FC,Lexington SC,2.20,3.30,2.70
+12-09-25,17:00,SC Red Star Penzing vs SV Schwechat,Austria Amateur Wiener Stadtliga,42502,SC Red Star Penzing,SV Schwechat,2.00,3.75,3.00
+12-09-25,17:00,FC Jazz vs Atlantis FC,Finland Ykkonen,25907,FC Jazz,Atlantis FC,1.88,3.90,3.20
