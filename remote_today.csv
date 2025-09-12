@@ -1120,26 +1120,28 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 12-09-25,00:00,DC Power FC vs Lexington SC,"USA USL Super League, Women",20805,DC Power FC,Lexington SC,2.2,3.3,2.7
 12-09-25,17:00,SC Red Star Penzing vs SV Schwechat,Austria Amateur Wiener Stadtliga,42502,SC Red Star Penzing,SV Schwechat,2.0,3.75,3.0
 12-09-25,17:00,FC Jazz vs Atlantis FC,Finland Ykkonen,25907,FC Jazz,Atlantis FC,1.88,3.9,3.2
-12-09-25,19:00,Kimberley de Mar Del Plata vs Ciudad de Bolivar,Argentina Torneo Federal A,33996,Kimberley de Mar Del Plata,Ciudad de Bolivar,3.30,2.90,2.30
-12-09-25,14:30,Dayrout vs Proxy SC,Egypt 2. Division A,42757,Dayrout,Proxy SC,3.40,2.95,2.15
-12-09-25,19:00,Sheffield United U21 vs Derby County U21,England Amateur Premier League Cup,15099,Sheffield United U21,Derby County U21,1.60,5.10,3.80
-12-09-25,17:00,CD Roda vs CF Villarreal C,"Spain Amateur Tercera Federacion, Group 6",27354,CD Roda,CF Villarreal C,3.40,3.10,2.05
-12-09-25,15:00,KS Gornik Polkowice vs Warta Gorzow Wielkopolski,"Poland III Liga, Group 3",24167,KS Gornik Polkowice,Warta Gorzow Wielkopolski,1.50,4.25,5.00
-12-09-25,15:30,Wislanie Jaskowice vs FKS Stal Krasnik,"Poland III Liga, Group 4",34732,Wislanie Jaskowice,FKS Stal Krasnik,1.89,3.60,3.40
-12-09-25,22:00,Academia Mario Mendez vs CA Independiente B,Panama Liga Prom,30036,Academia Mario Mendez,CA Independiente B,4.50,3.70,1.65
-12-09-25,00:00,Club Deportivo del Este vs Champions FC Academy,Panama Liga Prom,31234,Club Deportivo del Este,Champions FC Academy,1.87,3.40,3.60
-12-09-25,18:15,IF Floeya vs Skjervoey,Norway 3rd Division Group 1,39867,IF Floeya,Skjervoey,1.23,6.60,7.40
-12-09-25,18:00,ASKO Oedt vs USV St. Anna am Aigen,Austria Amateur Regionalliga Centre,31776,ASKO Oedt,USV St. Anna am Aigen,1.27,4.90,7.10
-12-09-25,18:00,SV Gloggnitz vs TWL Elektra,Austria Amateur Regionalliga Ost,39260,SV Gloggnitz,TWL Elektra,1.53,4.00,4.40
-12-09-25,18:00,FC Kufstein vs TSV St. Johann,Austria Amateur Regionalliga West,39245,FC Kufstein,TSV St. Johann,2.00,3.50,2.95
-12-09-25,16:25,Al Jahra vs Al-Fahaheel,Kuwait Premier League,15481,Al Jahra,Al-Fahaheel,3.40,3.80,1.90
-12-09-25,19:00,FC Barcelona W vs Cdef Logrono,Spain Primera Division Women,40205,FC Barcelona W,Cdef Logrono,1.01,15.50,22.00
-12-09-25,18:00,Horsens FS vs BK Marienlyst,Denmark Amateur Danmarksserien,39258,Horsens FS,BK Marienlyst,4.70,4.60,1.43
-12-09-25,15:30,FC Vratimov vs FC Irp Cesky Tesin,Czechia Divize F,27477,FC Vratimov,FC Irp Cesky Tesin,1.37,4.90,6.10
-12-09-25,18:00,SC St. Veit vs SK Austria Klagenfurt Amateure,Austria Amateur Karntner Liga,42121,SC St. Veit,SK Austria Klagenfurt Amateure,1.88,3.75,3.30
-12-09-25,18:00,SV Dellach/Gail vs ATUS Ferlach,Austria Amateur Karntner Liga,42097,SV Dellach/Gail,ATUS Ferlach,1.74,3.90,3.75
-12-09-25,18:00,SV Spittal/Drau vs VST Voelkermarkt,Austria Amateur Karntner Liga,42120,SV Spittal/Drau,VST Voelkermarkt,5.00,4.40,1.49
-12-09-25,15:00,Csl Stefanestii de Jos vs ACS Kids Tampa Brasov,Romania Liga 3,12022,Csl Stefanestii de Jos,ACS Kids Tampa Brasov,2.15,3.60,2.60
-12-09-25,17:00,Epinal vs Entente Feignies Aulnoye,France National 2,26869,Epinal,Entente Feignies Aulnoye,2.30,3.00,3.00
-12-09-25,19:00,Stade Poitevin FC vs Les Herbiers,France National 2,39916,Stade Poitevin FC,Les Herbiers,3.50,3.20,2.00
-12-09-25,18:00,Fehring 1947 vs SV Tillmitsch,"Austria Amateur Steiermark, Landesliga",42123,Fehring 1947,SV Tillmitsch,2.60,3.50,2.35
+12-09-25,19:00,Kimberley de Mar Del Plata vs Ciudad de Bolivar,Argentina Torneo Federal A,33996,Kimberley de Mar Del Plata,Ciudad de Bolivar,3.3,2.9,2.3
+12-09-25,14:30,Dayrout vs Proxy SC,Egypt 2. Division A,42757,Dayrout,Proxy SC,3.4,2.95,2.15
+12-09-25,19:00,Sheffield United U21 vs Derby County U21,England Amateur Premier League Cup,15099,Sheffield United U21,Derby County U21,1.6,5.1,3.8
+12-09-25,17:00,CD Roda vs CF Villarreal C,"Spain Amateur Tercera Federacion, Group 6",27354,CD Roda,CF Villarreal C,3.4,3.1,2.05
+12-09-25,15:00,KS Gornik Polkowice vs Warta Gorzow Wielkopolski,"Poland III Liga, Group 3",24167,KS Gornik Polkowice,Warta Gorzow Wielkopolski,1.5,4.25,5.0
+12-09-25,15:30,Wislanie Jaskowice vs FKS Stal Krasnik,"Poland III Liga, Group 4",34732,Wislanie Jaskowice,FKS Stal Krasnik,1.89,3.6,3.4
+12-09-25,22:00,Academia Mario Mendez vs CA Independiente B,Panama Liga Prom,30036,Academia Mario Mendez,CA Independiente B,4.5,3.7,1.65
+12-09-25,00:00,Club Deportivo del Este vs Champions FC Academy,Panama Liga Prom,31234,Club Deportivo del Este,Champions FC Academy,1.87,3.4,3.6
+12-09-25,18:15,IF Floeya vs Skjervoey,Norway 3rd Division Group 1,39867,IF Floeya,Skjervoey,1.23,6.6,7.4
+12-09-25,18:00,ASKO Oedt vs USV St. Anna am Aigen,Austria Amateur Regionalliga Centre,31776,ASKO Oedt,USV St. Anna am Aigen,1.27,4.9,7.1
+12-09-25,18:00,SV Gloggnitz vs TWL Elektra,Austria Amateur Regionalliga Ost,39260,SV Gloggnitz,TWL Elektra,1.53,4.0,4.4
+12-09-25,18:00,FC Kufstein vs TSV St. Johann,Austria Amateur Regionalliga West,39245,FC Kufstein,TSV St. Johann,2.0,3.5,2.95
+12-09-25,16:25,Al Jahra vs Al-Fahaheel,Kuwait Premier League,15481,Al Jahra,Al-Fahaheel,3.4,3.8,1.9
+12-09-25,19:00,FC Barcelona W vs Cdef Logrono,Spain Primera Division Women,40205,FC Barcelona W,Cdef Logrono,1.01,15.5,22.0
+12-09-25,18:00,Horsens FS vs BK Marienlyst,Denmark Amateur Danmarksserien,39258,Horsens FS,BK Marienlyst,4.7,4.6,1.43
+12-09-25,15:30,FC Vratimov vs FC Irp Cesky Tesin,Czechia Divize F,27477,FC Vratimov,FC Irp Cesky Tesin,1.37,4.9,6.1
+12-09-25,18:00,SC St. Veit vs SK Austria Klagenfurt Amateure,Austria Amateur Karntner Liga,42121,SC St. Veit,SK Austria Klagenfurt Amateure,1.88,3.75,3.3
+12-09-25,18:00,SV Dellach/Gail vs ATUS Ferlach,Austria Amateur Karntner Liga,42097,SV Dellach/Gail,ATUS Ferlach,1.74,3.9,3.75
+12-09-25,18:00,SV Spittal/Drau vs VST Voelkermarkt,Austria Amateur Karntner Liga,42120,SV Spittal/Drau,VST Voelkermarkt,5.0,4.4,1.49
+12-09-25,15:00,Csl Stefanestii de Jos vs ACS Kids Tampa Brasov,Romania Liga 3,12022,Csl Stefanestii de Jos,ACS Kids Tampa Brasov,2.15,3.6,2.6
+12-09-25,17:00,Epinal vs Entente Feignies Aulnoye,France National 2,26869,Epinal,Entente Feignies Aulnoye,2.3,3.0,3.0
+12-09-25,19:00,Stade Poitevin FC vs Les Herbiers,France National 2,39916,Stade Poitevin FC,Les Herbiers,3.5,3.2,2.0
+12-09-25,18:00,Fehring 1947 vs SV Tillmitsch,"Austria Amateur Steiermark, Landesliga",42123,Fehring 1947,SV Tillmitsch,2.6,3.5,2.35
+12-09-25,18:00,ATSV Erlangen vs SpVgg SV Weiden,Germany Amateur Bayernliga North,45714,ATSV Erlangen,SpVgg SV Weiden,1.62,4.40,3.90
+12-09-25,18:30,FC Sportfreunde Schwaig 1913 vs Schalding-Heining Passau,Germany Amateur Bayernliga South,45477,FC Sportfreunde Schwaig 1913,Schalding-Heining Passau,2.10,3.90,2.75
