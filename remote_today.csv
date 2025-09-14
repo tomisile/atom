@@ -3347,56 +3347,75 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 14-09-25,09:30,SK Slovan HAC vs FC 1980 Wien,Austria Amateur Wiener Stadtliga,31350,SK Slovan HAC,FC 1980 Wien,3.3,4.4,1.77
 14-09-25,09:30,WAF Vorwarts Brigittenau vs Simmeringer SC,Austria Amateur Wiener Stadtliga,33509,WAF Vorwarts Brigittenau,Simmeringer SC,1.52,5.5,3.9
 14-09-25,15:00,FC Inter Turku 2 vs Espoon Palloseura,Finland Ykkonen,42573,FC Inter Turku 2,Espoon Palloseura,1.44,4.8,5.0
-14-09-25,13:00,Bayern Munich II vs Borussia Monchengladbach,"Germany Amateur 2. Bundesliga, Women",37019,Bayern Munich II,Borussia Monchengladbach,2.60,3.40,2.35
-14-09-25,13:00,SG 99 Andernach vs FC Ingolstadt 04,"Germany Amateur 2. Bundesliga, Women",36031,SG 99 Andernach,FC Ingolstadt 04,4.60,4.00,1.58
-14-09-25,12:00,Holbaek B&I vs FA 2000,Denmark 3rd Division,43759,Holbaek B&I,FA 2000,1.49,4.20,5.25
-14-09-25,13:30,SV Ried vs TSV Hartberg,Austria Bundesliga,38370,SV Ried,TSV Hartberg,2.65,3.90,2.35
-14-09-25,15:00,CD Ribeira Brava vs GD Braganca,Portugal Campeonato de Portugal,12837,CD Ribeira Brava,GD Braganca,4.40,3.20,1.79
-14-09-25,15:00,Gd Resende vs SC Beira Mar,Portugal Campeonato de Portugal,16633,Gd Resende,SC Beira Mar,2.65,2.80,2.75
-14-09-25,15:00,Tartu JK Welco vs Tallinna FC Flora U21,Estonia Esiliiga,42463,Tartu JK Welco,Tallinna FC Flora U21,2.05,4.40,2.60
-14-09-25,15:00,POT Iraklis vs Asteras Tripolis B,Greece Super League 2,31550,POT Iraklis,Asteras Tripolis B,1.34,4.20,8.60
-14-09-25,16:30,UD Barbadas vs Racing Club Villalbes,"Spain Amateur Tercera Federacion, Group 1",18135,UD Barbadas,Racing Club Villalbes,3.00,2.75,2.45
-14-09-25,17:00,UD Collerense vs CD Binissalem,"Spain Amateur Tercera Federacion, Group 11",18353,UD Collerense,CD Binissalem,2.30,2.95,3.10
-14-09-25,11:30,CD Azuaga vs AD Llerenense,"Spain Amateur Tercera Federacion, Group 14",16329,CD Azuaga,AD Llerenense,2.05,3.25,3.30
-14-09-25,17:30,CD Berceo vs CD Varea,"Spain Amateur Tercera Federacion, Group 16",18625,CD Berceo,CD Varea,3.33,3.40,1.95
-14-09-25,16:00,CD Binefar vs CF Epila,"Spain Amateur Tercera Federacion, Group 17",18069,CD Binefar,CF Epila,2.50,2.95,2.75
-14-09-25,17:00,CD Huracan de Balazote vs CD Marchamalo,"Spain Amateur Tercera Federacion, Group 18",18370,CD Huracan de Balazote,CD Marchamalo,2.05,3.00,3.60
-14-09-25,18:00,CP Villarrobledo vs Calvo Sotelo Puertollano,"Spain Amateur Tercera Federacion, Group 18",10091,CP Villarrobledo,Calvo Sotelo Puertollano,2.95,3.10,2.25
-14-09-25,16:00,CD Mosconia vs Caudal Deportivo,"Spain Amateur Tercera Federacion, Group 2",16440,CD Mosconia,Caudal Deportivo,2.90,2.75,2.55
-14-09-25,17:30,CD Colindres vs SD Atletico Albericia,"Spain Amateur Tercera Federacion, Group 3",18579,CD Colindres,SD Atletico Albericia,4.30,3.40,1.75
-14-09-25,18:00,UD Sanse vs Las Rozas CF,"Spain Amateur Tercera Federacion, Group 7",32817,UD Sanse,Las Rozas CF,2.35,3.25,2.70
-14-09-25,18:30,CD Martos vs Udc Torredonjimeno,"Spain Amateur Tercera Federacion, Group 9",13010,CD Martos,Udc Torredonjimeno,2.30,3.00,3.00
-14-09-25,15:00,Umecit II vs Chorrillo FC,Panama Liga Prom,12273,Umecit II,Chorrillo FC,2.50,3.00,2.75
-14-09-25,12:30,FC Bate Borisov 2 vs FC Gomel 2,Belarus Pervaya Liga,21079,FC Bate Borisov 2,FC Gomel 2,1.34,4.90,7.60
-14-09-25,10:30,Tallinna JK Legion vs FC Nomme United,Estonia Esiliiga B,34016,Tallinna JK Legion,FC Nomme United,2.45,4.00,2.25
+14-09-25,13:00,Bayern Munich II vs Borussia Monchengladbach,"Germany Amateur 2. Bundesliga, Women",37019,Bayern Munich II,Borussia Monchengladbach,2.6,3.4,2.35
+14-09-25,13:00,SG 99 Andernach vs FC Ingolstadt 04,"Germany Amateur 2. Bundesliga, Women",36031,SG 99 Andernach,FC Ingolstadt 04,4.6,4.0,1.58
+14-09-25,12:00,Holbaek B&I vs FA 2000,Denmark 3rd Division,43759,Holbaek B&I,FA 2000,1.49,4.2,5.25
+14-09-25,13:30,SV Ried vs TSV Hartberg,Austria Bundesliga,38370,SV Ried,TSV Hartberg,2.65,3.9,2.35
+14-09-25,15:00,CD Ribeira Brava vs GD Braganca,Portugal Campeonato de Portugal,12837,CD Ribeira Brava,GD Braganca,4.4,3.2,1.79
+14-09-25,15:00,Gd Resende vs SC Beira Mar,Portugal Campeonato de Portugal,16633,Gd Resende,SC Beira Mar,2.65,2.8,2.75
+14-09-25,15:00,Tartu JK Welco vs Tallinna FC Flora U21,Estonia Esiliiga,42463,Tartu JK Welco,Tallinna FC Flora U21,2.05,4.4,2.6
+14-09-25,15:00,POT Iraklis vs Asteras Tripolis B,Greece Super League 2,31550,POT Iraklis,Asteras Tripolis B,1.34,4.2,8.6
+14-09-25,16:30,UD Barbadas vs Racing Club Villalbes,"Spain Amateur Tercera Federacion, Group 1",18135,UD Barbadas,Racing Club Villalbes,3.0,2.75,2.45
+14-09-25,17:00,UD Collerense vs CD Binissalem,"Spain Amateur Tercera Federacion, Group 11",18353,UD Collerense,CD Binissalem,2.3,2.95,3.1
+14-09-25,11:30,CD Azuaga vs AD Llerenense,"Spain Amateur Tercera Federacion, Group 14",16329,CD Azuaga,AD Llerenense,2.05,3.25,3.3
+14-09-25,17:30,CD Berceo vs CD Varea,"Spain Amateur Tercera Federacion, Group 16",18625,CD Berceo,CD Varea,3.33,3.4,1.95
+14-09-25,16:00,CD Binefar vs CF Epila,"Spain Amateur Tercera Federacion, Group 17",18069,CD Binefar,CF Epila,2.5,2.95,2.75
+14-09-25,17:00,CD Huracan de Balazote vs CD Marchamalo,"Spain Amateur Tercera Federacion, Group 18",18370,CD Huracan de Balazote,CD Marchamalo,2.05,3.0,3.6
+14-09-25,18:00,CP Villarrobledo vs Calvo Sotelo Puertollano,"Spain Amateur Tercera Federacion, Group 18",10091,CP Villarrobledo,Calvo Sotelo Puertollano,2.95,3.1,2.25
+14-09-25,16:00,CD Mosconia vs Caudal Deportivo,"Spain Amateur Tercera Federacion, Group 2",16440,CD Mosconia,Caudal Deportivo,2.9,2.75,2.55
+14-09-25,17:30,CD Colindres vs SD Atletico Albericia,"Spain Amateur Tercera Federacion, Group 3",18579,CD Colindres,SD Atletico Albericia,4.3,3.4,1.75
+14-09-25,18:00,UD Sanse vs Las Rozas CF,"Spain Amateur Tercera Federacion, Group 7",32817,UD Sanse,Las Rozas CF,2.35,3.25,2.7
+14-09-25,18:30,CD Martos vs Udc Torredonjimeno,"Spain Amateur Tercera Federacion, Group 9",13010,CD Martos,Udc Torredonjimeno,2.3,3.0,3.0
+14-09-25,15:00,Umecit II vs Chorrillo FC,Panama Liga Prom,12273,Umecit II,Chorrillo FC,2.5,3.0,2.75
+14-09-25,12:30,FC Bate Borisov 2 vs FC Gomel 2,Belarus Pervaya Liga,21079,FC Bate Borisov 2,FC Gomel 2,1.34,4.9,7.6
+14-09-25,10:30,Tallinna JK Legion vs FC Nomme United,Estonia Esiliiga B,34016,Tallinna JK Legion,FC Nomme United,2.45,4.0,2.25
 14-09-25,16:00,Karela United FC vs Aduana Stars,Ghana Premier League,10621,Karela United FC,Aduana Stars,2.25,2.35,4.25
-14-09-25,14:00,Maroons FC vs Kampala Capital City Authority FC,Uganda Super 8,36009,Maroons FC,Kampala Capital City Authority FC,3.90,3.10,1.81
-14-09-25,15:00,Bursa Nilufer FK vs Etimesgut Belediyespor,"Turkiye Amateur 3. Lig, Group 1",30814,Bursa Nilufer FK,Etimesgut Belediyespor,2.40,3.10,2.60
-14-09-25,11:30,Ht 16 Hamburg vs FC Teutonia Ottensen 1905,Germany Amateur Oberliga Hamburg,33672,Ht 16 Hamburg,FC Teutonia Ottensen 1905,5.40,5.10,1.39
-14-09-25,13:00,SV Meppen II vs Heeslinger SC,Germany Amateur Oberliga Niedersachsen,13902,SV Meppen II,Heeslinger SC,2.55,3.90,2.25
-14-09-25,12:00,SV Lichtenberg 47 vs SV Sparta Lichtenberg,Germany Amateur Oberliga NOFV North,23504,SV Lichtenberg 47,SV Sparta Lichtenberg,1.51,4.75,4.40
-14-09-25,13:00,Hansa Rostock II vs BSV Eintracht Mahlsdorf,Germany Amateur Oberliga NOFV North,24581,Hansa Rostock II,BSV Eintracht Mahlsdorf,2.20,4.70,2.35
-14-09-25,13:00,SD Croatia Berlin vs SV Siedenbollentin,Germany Amateur Oberliga NOFV North,18742,SD Croatia Berlin,SV Siedenbollentin,7.90,5.70,1.25
-14-09-25,13:00,TSG Neustrelitz vs FSV Optik Rathenow,Germany Amateur Oberliga NOFV North,27150,TSG Neustrelitz,FSV Optik Rathenow,1.36,5.00,6.10
-14-09-25,13:00,1. FC Lok Stendal vs VfL Halle 1896,Germany Amateur Oberliga NOFV South,26961,1. FC Lok Stendal,VfL Halle 1896,8.10,6.25,1.23
-14-09-25,13:00,VFB 1921 Krieschow vs VFC Plauen,Germany Amateur Oberliga NOFV South,20145,VFB 1921 Krieschow,VFC Plauen,1.86,4.30,3.00
-14-09-25,15:30,FK Lovcen vs FK Rudar Pljevlja,Montenegro 2. CFL,29436,FK Lovcen,FK Rudar Pljevlja,2.60,2.95,2.65
-14-09-25,12:00,TS Woltmershausen vs TV Eiche Horn,Germany Amateur Bremen Liga,16466,TS Woltmershausen,TV Eiche Horn,11.00,6.20,1.18
-14-09-25,12:15,Atsv Sebaldsbruck vs KSV Vatan Sport,Germany Amateur Bremen Liga,23199,Atsv Sebaldsbruck,KSV Vatan Sport,6.00,5.10,1.36
-14-09-25,11:00,FK Tauras B vs FK Silute,Lithuania II Lyga,27225,FK Tauras B,FK Silute,1.89,3.70,3.33
-14-09-25,12:00,FC Dziugas B vs FC Neptunas B,Lithuania II Lyga,21361,FC Dziugas B,FC Neptunas B,4.50,4.20,1.56
-14-09-25,12:00,FK Banga B vs FKS Ukmerge,Lithuania II Lyga,31356,FK Banga B,FKS Ukmerge,1.46,4.40,5.25
-14-09-25,15:00,NK TOSK Tesanj vs NK Jedinstvo Bihac,"Bosnia & Herzegovina Prva Liga, Fed BiH",27464,NK TOSK Tesanj,NK Jedinstvo Bihac,1.74,3.25,4.60
-14-09-25,18:30,NK Gosk Gabela vs FK Sloboda Tuzla,"Bosnia & Herzegovina Prva Liga, Fed BiH",37078,NK Gosk Gabela,FK Sloboda Tuzla,1.71,3.40,4.40
-14-09-25,12:00,SF Grei vs Odds BK 2,Norway 3rd Division Group 6,44631,SF Grei,Odds BK 2,2.05,3.80,2.85
-14-09-25,12:00,GIF Sundsvall vs IK Sirius,Sweden Amateur U19 Allsvenskan,26091,GIF Sundsvall,IK Sirius,3.75,3.70,1.69
-14-09-25,15:00,Academico Viseu U19 vs OS Belenenses,Portugal U19 Campeonato Nacional,15101,Academico Viseu U19,OS Belenenses,2.00,3.40,2.90
+14-09-25,14:00,Maroons FC vs Kampala Capital City Authority FC,Uganda Super 8,36009,Maroons FC,Kampala Capital City Authority FC,3.9,3.1,1.81
+14-09-25,15:00,Bursa Nilufer FK vs Etimesgut Belediyespor,"Turkiye Amateur 3. Lig, Group 1",30814,Bursa Nilufer FK,Etimesgut Belediyespor,2.4,3.1,2.6
+14-09-25,11:30,Ht 16 Hamburg vs FC Teutonia Ottensen 1905,Germany Amateur Oberliga Hamburg,33672,Ht 16 Hamburg,FC Teutonia Ottensen 1905,5.4,5.1,1.39
+14-09-25,13:00,SV Meppen II vs Heeslinger SC,Germany Amateur Oberliga Niedersachsen,13902,SV Meppen II,Heeslinger SC,2.55,3.9,2.25
+14-09-25,12:00,SV Lichtenberg 47 vs SV Sparta Lichtenberg,Germany Amateur Oberliga NOFV North,23504,SV Lichtenberg 47,SV Sparta Lichtenberg,1.51,4.75,4.4
+14-09-25,13:00,Hansa Rostock II vs BSV Eintracht Mahlsdorf,Germany Amateur Oberliga NOFV North,24581,Hansa Rostock II,BSV Eintracht Mahlsdorf,2.2,4.7,2.35
+14-09-25,13:00,SD Croatia Berlin vs SV Siedenbollentin,Germany Amateur Oberliga NOFV North,18742,SD Croatia Berlin,SV Siedenbollentin,7.9,5.7,1.25
+14-09-25,13:00,TSG Neustrelitz vs FSV Optik Rathenow,Germany Amateur Oberliga NOFV North,27150,TSG Neustrelitz,FSV Optik Rathenow,1.36,5.0,6.1
+14-09-25,13:00,1. FC Lok Stendal vs VfL Halle 1896,Germany Amateur Oberliga NOFV South,26961,1. FC Lok Stendal,VfL Halle 1896,8.1,6.25,1.23
+14-09-25,13:00,VFB 1921 Krieschow vs VFC Plauen,Germany Amateur Oberliga NOFV South,20145,VFB 1921 Krieschow,VFC Plauen,1.86,4.3,3.0
+14-09-25,15:30,FK Lovcen vs FK Rudar Pljevlja,Montenegro 2. CFL,29436,FK Lovcen,FK Rudar Pljevlja,2.6,2.95,2.65
+14-09-25,12:00,TS Woltmershausen vs TV Eiche Horn,Germany Amateur Bremen Liga,16466,TS Woltmershausen,TV Eiche Horn,11.0,6.2,1.18
+14-09-25,12:15,Atsv Sebaldsbruck vs KSV Vatan Sport,Germany Amateur Bremen Liga,23199,Atsv Sebaldsbruck,KSV Vatan Sport,6.0,5.1,1.36
+14-09-25,11:00,FK Tauras B vs FK Silute,Lithuania II Lyga,27225,FK Tauras B,FK Silute,1.89,3.7,3.33
+14-09-25,12:00,FC Dziugas B vs FC Neptunas B,Lithuania II Lyga,21361,FC Dziugas B,FC Neptunas B,4.5,4.2,1.56
+14-09-25,12:00,FK Banga B vs FKS Ukmerge,Lithuania II Lyga,31356,FK Banga B,FKS Ukmerge,1.46,4.4,5.25
+14-09-25,15:00,NK TOSK Tesanj vs NK Jedinstvo Bihac,"Bosnia & Herzegovina Prva Liga, Fed BiH",27464,NK TOSK Tesanj,NK Jedinstvo Bihac,1.74,3.25,4.6
+14-09-25,18:30,NK Gosk Gabela vs FK Sloboda Tuzla,"Bosnia & Herzegovina Prva Liga, Fed BiH",37078,NK Gosk Gabela,FK Sloboda Tuzla,1.71,3.4,4.4
+14-09-25,12:00,SF Grei vs Odds BK 2,Norway 3rd Division Group 6,44631,SF Grei,Odds BK 2,2.05,3.8,2.85
+14-09-25,12:00,GIF Sundsvall vs IK Sirius,Sweden Amateur U19 Allsvenskan,26091,GIF Sundsvall,IK Sirius,3.75,3.7,1.69
+14-09-25,15:00,Academico Viseu U19 vs OS Belenenses,Portugal U19 Campeonato Nacional,15101,Academico Viseu U19,OS Belenenses,2.0,3.4,2.9
 14-09-25,15:00,FC Alverca vs Santa Clara Sad U19,Portugal U19 Campeonato Nacional,11241,FC Alverca,Santa Clara Sad U19,2.65,3.25,2.25
-14-09-25,15:00,FC Vizela vs Pacos Ferreira,Portugal U19 Campeonato Nacional,16402,FC Vizela,Pacos Ferreira,1.99,3.50,2.95
-14-09-25,12:30,SK Sturm Graz vs FK Austria Wien,"Austria Amateur Bundesliga, Women",13321,SK Sturm Graz,FK Austria Wien,4.40,4.00,1.61
-14-09-25,13:00,Young Boys Bern vs Servette Geneva W,"Switzerland Super League, Women",15956,Young Boys Bern,Servette Geneva W,3.60,3.70,1.87
-14-09-25,13:00,Arna-Bjornar vs Haugesund,"Norway 1st Division, Women",22956,Arna-Bjornar,Haugesund,3.90,3.50,1.80
-14-09-25,17:30,SCU Torreense vs Valadares Gaia FC,"Portugal Campeonato Nacional, Women",43845,SCU Torreense,Valadares Gaia FC,1.53,4.10,4.90
-14-09-25,10:30,Tartu JK Tammeka vs JK Tabasalu,Estonia Meistriliiga Women,32379,Tartu JK Tammeka,JK Tabasalu,4.75,4.90,1.40
-14-09-25,20:00,AE Evangelica GO vs Santa Helena GO,"Brazil Goiano, 3. Divisao",17768,AE Evangelica GO,Santa Helena GO,2.15,3.20,2.90
-14-09-25,11:00,CA Osasuna vs Deportivo Alaves,Spain U19 Division de Honor Juvenil,14636,CA Osasuna,Deportivo Alaves,2.10,3.33,3.00
+14-09-25,15:00,FC Vizela vs Pacos Ferreira,Portugal U19 Campeonato Nacional,16402,FC Vizela,Pacos Ferreira,1.99,3.5,2.95
+14-09-25,12:30,SK Sturm Graz vs FK Austria Wien,"Austria Amateur Bundesliga, Women",13321,SK Sturm Graz,FK Austria Wien,4.4,4.0,1.61
+14-09-25,13:00,Young Boys Bern vs Servette Geneva W,"Switzerland Super League, Women",15956,Young Boys Bern,Servette Geneva W,3.6,3.7,1.87
+14-09-25,13:00,Arna-Bjornar vs Haugesund,"Norway 1st Division, Women",22956,Arna-Bjornar,Haugesund,3.9,3.5,1.8
+14-09-25,17:30,SCU Torreense vs Valadares Gaia FC,"Portugal Campeonato Nacional, Women",43845,SCU Torreense,Valadares Gaia FC,1.53,4.1,4.9
+14-09-25,10:30,Tartu JK Tammeka vs JK Tabasalu,Estonia Meistriliiga Women,32379,Tartu JK Tammeka,JK Tabasalu,4.75,4.9,1.4
+14-09-25,20:00,AE Evangelica GO vs Santa Helena GO,"Brazil Goiano, 3. Divisao",17768,AE Evangelica GO,Santa Helena GO,2.15,3.2,2.9
+14-09-25,11:00,CA Osasuna vs Deportivo Alaves,Spain U19 Division de Honor Juvenil,14636,CA Osasuna,Deportivo Alaves,2.1,3.33,3.0
+14-09-25,16:00,Plateau United vs Remo Stars,Nigeria Premier League,17617,Plateau United,Remo Stars,1.87,2.65,5.25
+14-09-25,19:00,Deportivo Rincon vs Costa Brava de General Pico,Argentina Torneo Federal A,30777,Deportivo Rincon,Costa Brava de General Pico,1.87,3.00,4.75
+14-09-25,15:00,Ahlafors IF vs Tidaholms GoIf,"Sweden Division 2, Norra Gotaland",43824,Ahlafors IF,Tidaholms GoIf,1.49,3.90,5.90
+14-09-25,15:00,Umeaa FC Akademi vs IFK Luleaa,"Sweden Division 2, Norrland",18794,Umeaa FC Akademi,IFK Luleaa,4.60,4.20,1.60
+14-09-25,15:00,Academia Costa Del Este vs CD Plaza Amador,Panama Liga Prom,12338,Academia Costa Del Este,CD Plaza Amador,1.90,4.40,2.90
+14-09-25,18:00,FK Belasica Strumica vs FK Detonit Plackovica,North Macedonia 2. MFL,18136,FK Belasica Strumica,FK Detonit Plackovica,1.50,4.20,5.20
+14-09-25,16:30,AFAD Djekanou vs Club Omnisports de Korhogo,Ivory Coast Ligue 1,12269,AFAD Djekanou,Club Omnisports de Korhogo,1.93,3.10,3.80
+14-09-25,16:00,Basake Holy Stars vs Eleven Wonders FC,Ghana Premier League,33635,Basake Holy Stars,Eleven Wonders FC,1.79,3.00,4.75
+14-09-25,15:00,F91 Dudelange vs FC Rodange 91,Luxembourg Division Nationale,34725,F91 Dudelange,FC Rodange 91,1.24,5.80,9.80
+14-09-25,14:30,VfL Vichttal vs 1. FC Duren,Germany Amateur Mittelrheinliga,18444,VfL Vichttal,1. FC Duren,2.70,4.70,1.93
+14-09-25,17:30,SG Wattenscheid 09 vs SG Finnentrop/Bamenohl,Germany Amateur Oberliga Westfalen,35992,SG Wattenscheid 09,SG Finnentrop/Bamenohl,1.56,4.50,4.25
+14-09-25,15:00,FK Igalo 1929 vs FK Internacional Podgorica,Montenegro 2. CFL,33153,FK Igalo 1929,FK Internacional Podgorica,1.37,4.60,6.70
+14-09-25,15:00,FK Iskra Danilovgrad vs OFK Grbalj,Montenegro 2. CFL,30316,FK Iskra Danilovgrad,OFK Grbalj,1.91,3.30,3.70
+14-09-25,15:30,FK Kom vs FK Berane,Montenegro 2. CFL,17312,FK Kom,FK Berane,4.00,3.40,1.81
+14-09-25,17:00,FK Podgorica vs FK Otrant-Olympic Ulcinj,Montenegro 2. CFL,22171,FK Podgorica,FK Otrant-Olympic Ulcinj,3.70,3.60,1.82
+14-09-25,16:00,AL Naft vs Al-Qasim SC,Iraq Stars League,16557,AL Naft,Al-Qasim SC,2.35,2.90,3.00
+14-09-25,15:00,SSK Bilovec vs Pusta Polom,Czechia Divize F,20711,SSK Bilovec,Pusta Polom,1.48,5.00,4.50
+14-09-25,18:00,CD Platense vs CD Fas U20,"El Salvador Primera Division, Reserves, Apertura",18050,CD Platense,CD Fas U20,4.80,4.50,1.50
+14-09-25,17:00,Gimnastic Manresa CF vs CF Damm,Spain U19 Division de Honor Juvenil,20719,Gimnastic Manresa CF,CF Damm,3.80,3.80,1.74
