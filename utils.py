@@ -1292,21 +1292,21 @@ def filter_recent_matches():
         format='%d-%m-%y %H:%M'
     )
 
-    # Current time and 5 minutes ago
+    # Current time and 10 minutes ago
     current_time = datetime.now()
-    five_minutes_ago = current_time - timedelta(minutes=15)
+    ten_minutes_ago = current_time - timedelta(minutes=10)
 
-    # Keep only rows from *today* and within the last 5 minutes
+    # Keep only rows from *today* and within the last 10 minutes
     today = current_time.date()
     mask = (df['log_datetime'].dt.date == today) & \
-           (df['log_datetime'] >= five_minutes_ago) & \
+           (df['log_datetime'] >= ten_minutes_ago) & \
            (df['log_datetime'] <= current_time)
 
     recent_matches = df[mask].copy()
 
     # Filter for matches logged within the last 5 minutes
     # recent_matches = df[df['log_datetime'] >= last_5_min].copy()
-    print(f"Found {len(recent_matches)} matches logged within the last 15 minutes")
+    print(f"Found {len(recent_matches)} matches logged within the last 10 minutes")
     
     if len(recent_matches) == 0:
         print("No recent matches found. Exiting.")
@@ -1379,7 +1379,7 @@ def filter_recent_matches():
     if len(matching_titles) == 0:
         print("\nNo matches found that meet the filter threshold.")
     else:
-        print(f"\nFound {len(matching_titles)} matches meeting filter criteria:")
+        print(f"\nFound {len(matching_titles)} event(s) meeting filter criteria:")
         print("=" * 10)
         
         for i, match in enumerate(matching_titles, 1):
