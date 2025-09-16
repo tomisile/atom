@@ -240,8 +240,8 @@ main() {
     truncated_output=$(truncate_output "$python_output" 3000)
     
     # Check if output contains 👀 or 💡 emoji
-    if [[ $python_output == *"👀"* || $python_output == *"💡"* ]]; then
-        log_message "Output contains 👀 or 💡 emoji, sending to Slack"
+    if [[ $python_output == *"criteria"* || $python_output == *"Scenario B"* ]]; then
+        log_message "Output contains keyword, sending to Slack"
         # Send to Slack based on success/failure
         if [[ $python_exit_code -eq 0 ]]; then
             if send_to_slack "$truncated_output" "true"; then
@@ -261,7 +261,7 @@ main() {
             exit 1
         fi
     else
-        log_message "Output does not contain 👀 emoji, skipping Slack notification"
+        log_message "Output does not contain keyboard, skipping Slack notification"
     fi
     
     log_message "=== Python to Slack Script Completed ==="
