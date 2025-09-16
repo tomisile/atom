@@ -11,7 +11,7 @@ import os
 import random
 from urllib.parse import urljoin
 import csv
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -21,15 +21,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from webdriver_manager.chrome import ChromeDriverManager
-
-# # SoccerData imports (install with: pip install soccerdata)
-# try:
-#     import soccerdata as sd
-#     SOCCERDATA_AVAILABLE = True
-#     # print("✅ SoccerData library available")
-# except ImportError:
-#     SOCCERDATA_AVAILABLE = False
-#     # print("⚠️ SoccerData library not installed. Run: pip install soccerdata")
 
 
 def get_random_headers():
@@ -255,7 +246,7 @@ def scrape_sb_live():
                     }
                     extracted_data.append(match_data)
                     zero_goal_matches += 1
-                    print(f"| 👀 0aHT: {home_team} vs {away_team} |")
+                    # print(f"| 👀 0aHT: {home_team} vs {away_team} |")
                     # # Check if in watchlist
                     # if title in watchlist_titles:
                     #     print(f"👀⭐ Watchlist event: {home_team} vs {away_team}")
@@ -274,7 +265,7 @@ def scrape_sb_live():
                     }
                     extracted_data.append(new_match_data)
                     one_goal_matches += 1
-                    print(f"| 💡 1aHT: {home_team} vs {away_team} |")
+                    # print(f"| 💡 1aHT: {home_team} vs {away_team} |")
 
             except Exception as e:
                 print(f"⚠️ Error processing match: {e}")
@@ -374,20 +365,6 @@ def scrape_sb_today():
             except Exception as e1:
                 print(f"⚠️ Parser failed on page {page_count + 1}: {e1}")
                 break
-            # except Exception as e1:
-            #     print(f"⚠️ html.parser failed: {e1}")
-            #     try:
-            #         # Fallback to lxml if available
-            #         soup = BeautifulSoup(page_source, 'lxml')
-            #     except Exception as e2:
-            #         print(f"⚠️ lxml parser failed: {e2}")
-            #         # Last resort - use html5lib if available
-            #         try:
-            #             soup = BeautifulSoup(page_source, 'html5lib')
-            #         except Exception as e3:
-            #             print(f"❌ All parsers failed. html5lib error: {e3}")
-            #             driver.quit()
-            #             return []
 
             # Find all matches with the correct class structure
             matches = soup.find_all(
@@ -1288,3 +1265,184 @@ def backfill_tournament_and_odds():
     except Exception as e:
         print(f"❌ Error backfilling data: {e}")
         return 0
+
+
+def filter_recent_matches():
+    """
+    Read CSV file, identify matches logged within the last 5 minutes,
+    apply scenario A and B filters, and print matching titles.
+    
+    Parameters:
+    csv_file_path (str): Path to the CSV file
+    """
+    # Define file paths
+    csv_file_path = os.getenv('ALERT_LOG_FILE', 'alerts_log.csv')
+
+    # Read the CSV file
+    try:
+        df = pd.read_csv(csv_file_path)
+        print(f"Loaded {len(df)} total matches from CSV")
+    except Exception as e:
+        print(f"Error reading CSV file: {e}")
+        return
+    
+    # Parse datetime from the two columns
+    df['log_datetime'] = pd.to_datetime(
+        df['date'] + ' ' + df['log_time'],
+        format='%d-%m-%y %H:%M'
+    )
+
+    # Current time and 5 minutes ago
+    current_time = datetime.now()
+    five_minutes_ago = current_time - timedelta(minutes=15)
+
+    # Keep only rows from *today* and within the last 5 minutes
+    today = current_time.date()
+    mask = (df['log_datetime'].dt.date == today) & \
+           (df['log_datetime'] >= five_minutes_ago) & \
+           (df['log_datetime'] <= current_time)
+
+    recent_matches = df[mask].copy()
+
+    # Filter for matches logged within the last 5 minutes
+    # recent_matches = df[df['log_datetime'] >= last_5_min].copy()
+    print(f"Found {len(recent_matches)} matches logged within the last 15 minutes")
+    
+    if len(recent_matches) == 0:
+        print("No recent matches found. Exiting.")
+        return
+    
+    # Apply the cleaning filters from your EDA
+    df_clean = recent_matches.copy()
+    
+    # 1. Remove tournaments containing "simulated" or "women"
+    df_clean = df_clean[~df_clean['tournament'].str.contains('simulated|women', case=False, na=False)]
+    
+    # 2. Drop rows missing pre-match odds data
+    df_clean = df_clean.dropna(subset=['pre-match_odds_home', 'pre-match_odds_draw', 'pre-match_odds_away'])
+    
+    # 3. Convert odds columns to numeric
+    df_clean['pre-match_odds_home'] = pd.to_numeric(df_clean['pre-match_odds_home'], errors='coerce')
+    df_clean['pre-match_odds_draw'] = pd.to_numeric(df_clean['pre-match_odds_draw'], errors='coerce')
+    df_clean['pre-match_odds_away'] = pd.to_numeric(df_clean['pre-match_odds_away'], errors='coerce')
+    
+    # 4. Drop any rows with missing values in these columns
+    df_clean = df_clean.dropna(subset=['pre-match_odds_home', 'pre-match_odds_draw', 'pre-match_odds_away'])
+    
+    print(f"After cleaning: {len(df_clean)} matches remain")
+    
+    if len(df_clean) == 0:
+        print("No matches remain after cleaning filters.")
+        return
+    
+    # Initialize results list
+    matching_titles = []
+    
+    # SCENARIO A: 0-0 at halftime with strong favorite filter
+    scenario_a = df_clean[df_clean['ht_goals'] == 0].copy()
+    if len(scenario_a) > 0:
+        # Apply filter: either team is a strong favorite (odds <= 1.6)
+        filtered_a = scenario_a[
+            (scenario_a['pre-match_odds_home'] <= 1.6) | 
+            (scenario_a['pre-match_odds_away'] <= 1.6)
+        ]
+        
+        for _, match in filtered_a.iterrows():
+            matching_titles.append({
+                'title': match['title'],
+                'filter': 'Scenario A (0-0 at HT, strong favorite)',
+                'tournament': match['tournament'],
+                'log_time': match['log_datetime'].strftime('%H:%M'),
+                'home_odds': match['pre-match_odds_home'],
+                'draw_odds': match['pre-match_odds_draw'],
+                'away_odds': match['pre-match_odds_away']
+            })
+    
+    # SCENARIO B: 1 goal at halftime with high draw odds filter
+    scenario_b = df_clean[df_clean['ht_goals'] == 1].copy()
+    if len(scenario_b) > 0:
+        # Apply filter: draw odds >= 3.8
+        filtered_b = scenario_b[scenario_b['pre-match_odds_draw'] >= 3.8]
+        
+        for _, match in filtered_b.iterrows():
+            matching_titles.append({
+                'title': match['title'],
+                'filter': 'Scenario B (1 goal at HT, high draw odds)',
+                'tournament': match['tournament'],
+                'log_time': match['log_datetime'].strftime('%H:%M'),
+                'home_odds': match['pre-match_odds_home'],
+                'draw_odds': match['pre-match_odds_draw'],
+                'away_odds': match['pre-match_odds_away']
+            })
+    
+    # Print results
+    if len(matching_titles) == 0:
+        print("\nNo matches found that meet the filter criteria.")
+    else:
+        print(f"\nFound {len(matching_titles)} matches meeting filter criteria:")
+        print("=" * 10)
+        
+        for i, match in enumerate(matching_titles, 1):
+            print(f"{i}. {match['title']}")
+            print(f"   Filter: {match['filter']}")
+            print(f"   Tournament: {match['tournament']}")
+            print(f"   Log Time: {match['log_time']}")
+            print(f"   Odds - Home: {match['home_odds']}, Draw: {match['draw_odds']}, Away: {match['away_odds']}")
+            print("-" * 10)
+    
+    return matching_titles
+
+
+def backfill_tournament_averages(main_csv_path, averages_csv_path):
+    """
+    Extends a CSV file with tournament averages by matching tournament names.
+    
+    Args:
+        main_csv_path (str): Path to the main CSV file to be extended
+        averages_csv_path (str): Path to the CSV file containing tournament averages
+    
+    Returns:
+        None: Overwrites the main CSV file with the extended data
+    """
+    
+    try:
+        # Read the main CSV file
+        main_df = pd.read_csv(main_csv_path)
+        
+        # Read the tournament averages CSV file  
+        averages_df = pd.read_csv(averages_csv_path)
+        
+        # Create a dictionary for quick lookup of tournament averages
+        tournament_avg_dict = dict(zip(averages_df['tournament'], averages_df['tournament_average']))
+        
+        # If tournament_averages column doesn't exist, create it
+        if 'tournament_averages' not in main_df.columns:
+            main_df['tournament_averages'] = None
+        
+        # Only fill missing values, preserve existing ones
+        mask = main_df['tournament_averages'].isna()
+        main_df.loc[mask, 'tournament_averages'] = main_df.loc[mask, 'tournament'].map(tournament_avg_dict)
+        
+        # Save back to the original file, overwriting it
+        main_df.to_csv(main_csv_path, index=False)
+        
+        # Print summary statistics
+        total_rows = len(main_df)
+        matched_rows = main_df['tournament_averages'].notna().sum()
+        unmatched_rows = main_df['tournament_averages'].isna().sum()
+        
+        print(f"Safe backfill complete!")
+        print(f"Total rows processed: {total_rows}")
+        print(f"Rows with tournament averages: {matched_rows}")
+        print(f"Rows still missing tournament averages: {unmatched_rows}")
+        
+        if unmatched_rows > 0:
+            unmatched_tournaments = main_df[main_df['tournament_averages'].isna()]['tournament'].unique()
+            print(f"Tournaments without averages: {list(unmatched_tournaments)}")
+    
+    except FileNotFoundError as e:
+        print(f"Error: Could not find file - {e}")
+    except KeyError as e:
+        print(f"Error: Expected column not found - {e}")
+    except Exception as e:
+        print(f"Error: {e}")

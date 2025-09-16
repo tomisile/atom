@@ -2,7 +2,8 @@
 
 
 from datetime import datetime
-from utils import scrape_sb_live, update_alert_log, backfill_tournament_and_odds
+import os
+from utils import scrape_sb_live, update_alert_log, backfill_tournament_and_odds, filter_recent_matches
 
 
 # Scrape fresh data
@@ -12,3 +13,5 @@ matches_data = scrape_sb_live()
 update_alert_log(matches_data)
 
 backfill_tournament_and_odds()
+
+filter_recent_matches()
