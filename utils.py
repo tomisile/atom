@@ -1377,7 +1377,7 @@ def filter_recent_matches():
     
     # Print results
     if len(matching_titles) == 0:
-        print("\nNo matches found that meet the filter criteria.")
+        print("\nNo matches found that meet the filter threshold.")
     else:
         print(f"\nFound {len(matching_titles)} matches meeting filter criteria:")
         print("=" * 10)
