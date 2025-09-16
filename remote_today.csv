@@ -3733,20 +3733,22 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 16-09-25,19:00,Woking FC vs Southampton U21,England National League Cup,22924,Woking FC,Southampton U21,2.65,3.5,2.45
 16-09-25,19:30,Brackley Town FC vs Manchester United U21,England National League Cup,24960,Brackley Town FC,Manchester United U21,2.05,3.75,3.2
 16-09-25,19:45,Tamworth FC vs Everton U21,England National League Cup,27715,Tamworth FC,Everton U21,2.05,3.75,3.2
-16-09-25,19:45,Chichester City FC vs Whitstable Town,"England FA Cup, Qualification",29626,Chichester City FC,Whitstable Town,1.43,5.75,4.40
+16-09-25,19:45,Chichester City FC vs Whitstable Town,"England FA Cup, Qualification",29626,Chichester City FC,Whitstable Town,1.43,5.75,4.4
 16-09-25,23:30,Los Chankas CYC vs Alianza Lima,Peru Liga 1,25361,Los Chankas CYC,Alianza Lima,,,
-16-09-25,19:00,CA Puerto Nuevo vs Club El Porvenir,Argentina Primera C,39166,CA Puerto Nuevo,Club El Porvenir,3.80,3.50,1.92
-16-09-25,19:45,Ards FC vs Queens University,Northern Ireland Championship,26742,Ards FC,Queens University,1.94,3.70,3.20
-16-09-25,19:45,Armagh City FC vs Newington FC,Northern Ireland Championship,26769,Armagh City FC,Newington FC,1.92,3.80,3.20
-16-09-25,19:45,Harland And Wolff Welders vs Warrenpoint Town FC,Northern Ireland Championship,26785,Harland And Wolff Welders,Warrenpoint Town FC,1.38,4.60,6.40
-16-09-25,19:45,Institute FC vs Ballinamallard United,Northern Ireland Championship,26853,Institute FC,Ballinamallard United,2.35,3.70,2.50
-16-09-25,19:45,Limavady United FC vs Dundela FC,Northern Ireland Championship,13881,Limavady United FC,Dundela FC,1.61,4.00,4.40
-16-09-25,18:00,BFC Dynamo vs Greifswalder FC,Germany Amateur Regionalliga Northeast,42810,BFC Dynamo,Greifswalder FC,2.30,3.40,2.70
-16-09-25,18:00,BSG Chemie Leipzig vs FC Rot-Weiss Erfurt,Germany Amateur Regionalliga Northeast,43738,BSG Chemie Leipzig,FC Rot-Weiss Erfurt,4.75,4.00,1.56
-16-09-25,18:00,FC Eilenburg vs SV Babelsberg,Germany Amateur Regionalliga Northeast,43736,FC Eilenburg,SV Babelsberg,3.10,3.33,2.10
-16-09-25,18:00,FSV Luckenwalde vs FC Hertha 03 Z.,Germany Amateur Regionalliga Northeast,43737,FSV Luckenwalde,FC Hertha 03 Z.,1.68,3.90,4.10
-16-09-25,18:00,FSV Zwickau vs FC Magdeburg II,Germany Amateur Regionalliga Northeast,42679,FSV Zwickau,FC Magdeburg II,2.40,3.25,2.65
-16-09-25,18:00,VSG Altglienicke vs ZFC Meuselwitz,Germany Amateur Regionalliga Northeast,43735,VSG Altglienicke,ZFC Meuselwitz,1.66,3.75,4.30
-16-09-25,18:30,Borussia Dortmund II vs FC Gutersloh 2000,Germany Amateur Regionalliga West,32834,Borussia Dortmund II,FC Gutersloh 2000,2.70,3.40,2.30
-16-09-25,18:30,Fortuna Cologne vs 1. FC Bocholt,Germany Amateur Regionalliga West,38448,Fortuna Cologne,1. FC Bocholt,2.25,3.50,2.70
-16-09-25,18:30,SC Wiedenbruck vs VfL Bochum II,Germany Amateur Regionalliga West,39962,SC Wiedenbruck,VfL Bochum II,2.40,3.40,2.60
+16-09-25,19:00,CA Puerto Nuevo vs Club El Porvenir,Argentina Primera C,39166,CA Puerto Nuevo,Club El Porvenir,3.8,3.5,1.92
+16-09-25,19:45,Ards FC vs Queens University,Northern Ireland Championship,26742,Ards FC,Queens University,1.94,3.7,3.2
+16-09-25,19:45,Armagh City FC vs Newington FC,Northern Ireland Championship,26769,Armagh City FC,Newington FC,1.92,3.8,3.2
+16-09-25,19:45,Harland And Wolff Welders vs Warrenpoint Town FC,Northern Ireland Championship,26785,Harland And Wolff Welders,Warrenpoint Town FC,1.38,4.6,6.4
+16-09-25,19:45,Institute FC vs Ballinamallard United,Northern Ireland Championship,26853,Institute FC,Ballinamallard United,2.35,3.7,2.5
+16-09-25,19:45,Limavady United FC vs Dundela FC,Northern Ireland Championship,13881,Limavady United FC,Dundela FC,1.61,4.0,4.4
+16-09-25,18:00,BFC Dynamo vs Greifswalder FC,Germany Amateur Regionalliga Northeast,42810,BFC Dynamo,Greifswalder FC,2.3,3.4,2.7
+16-09-25,18:00,BSG Chemie Leipzig vs FC Rot-Weiss Erfurt,Germany Amateur Regionalliga Northeast,43738,BSG Chemie Leipzig,FC Rot-Weiss Erfurt,4.75,4.0,1.56
+16-09-25,18:00,FC Eilenburg vs SV Babelsberg,Germany Amateur Regionalliga Northeast,43736,FC Eilenburg,SV Babelsberg,3.1,3.33,2.1
+16-09-25,18:00,FSV Luckenwalde vs FC Hertha 03 Z.,Germany Amateur Regionalliga Northeast,43737,FSV Luckenwalde,FC Hertha 03 Z.,1.68,3.9,4.1
+16-09-25,18:00,FSV Zwickau vs FC Magdeburg II,Germany Amateur Regionalliga Northeast,42679,FSV Zwickau,FC Magdeburg II,2.4,3.25,2.65
+16-09-25,18:00,VSG Altglienicke vs ZFC Meuselwitz,Germany Amateur Regionalliga Northeast,43735,VSG Altglienicke,ZFC Meuselwitz,1.66,3.75,4.3
+16-09-25,18:30,Borussia Dortmund II vs FC Gutersloh 2000,Germany Amateur Regionalliga West,32834,Borussia Dortmund II,FC Gutersloh 2000,2.7,3.4,2.3
+16-09-25,18:30,Fortuna Cologne vs 1. FC Bocholt,Germany Amateur Regionalliga West,38448,Fortuna Cologne,1. FC Bocholt,2.25,3.5,2.7
+16-09-25,18:30,SC Wiedenbruck vs VfL Bochum II,Germany Amateur Regionalliga West,39962,SC Wiedenbruck,VfL Bochum II,2.4,3.4,2.6
+16-09-25,15:00,Young Africans SC vs Simba SC,Tanzania Community Shield,20816,Young Africans SC,Simba SC,1.98,3.50,3.20
+16-09-25,17:00,KPV/Akatemia vs SJK-J,Finland Kolmonen,31531,KPV/Akatemia,SJK-J,1.53,4.70,4.30
