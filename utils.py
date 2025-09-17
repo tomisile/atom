@@ -1315,8 +1315,8 @@ def filter_recent_matches():
     # Apply the cleaning filters from your EDA
     df_clean = recent_matches.copy()
     
-    # 1. Remove tournaments containing "simulated" or "women"
-    df_clean = df_clean[~df_clean['tournament'].str.contains('simulated|women', case=False, na=False)]
+    # 1. Remove tournaments containing "simulated"
+    df_clean = df_clean[~df_clean['tournament'].str.contains('simulated', case=False, na=False)]
     
     # 2. Drop rows missing pre-match odds data
     df_clean = df_clean.dropna(subset=['pre-match_odds_home', 'pre-match_odds_draw', 'pre-match_odds_away'])
@@ -1329,7 +1329,7 @@ def filter_recent_matches():
     # 4. Drop any rows with missing values in these columns
     df_clean = df_clean.dropna(subset=['pre-match_odds_home', 'pre-match_odds_draw', 'pre-match_odds_away'])
     
-    print(f"After cleaning: {len(df_clean)} matches remain")
+    # print(f"After cleaning: {len(df_clean)} matches remain")
     
     if len(df_clean) == 0:
         print("No matches remain after cleaning filters.")
@@ -1340,6 +1340,7 @@ def filter_recent_matches():
     
     # SCENARIO A: 0-0 at halftime with strong favorite filter
     scenario_a = df_clean[df_clean['ht_goals'] == 0].copy()
+    scenario_a = scenario_a[~scenario_a['tournament'].str.contains('women|croatia|ghana|oman|friendly|liga alef|guatemala', case=False, na=False)]
     if len(scenario_a) > 0:
         # Apply filter: either team is a strong favorite (odds <= 1.6)
         filtered_a = scenario_a[
@@ -1350,7 +1351,7 @@ def filter_recent_matches():
         for _, match in filtered_a.iterrows():
             matching_titles.append({
                 'title': match['title'],
-                'filter': 'Scenario A (0-0 at HT, strong favorite)',
+                'filter': 'Scenario 🅰️ (0-0 at HT, strong favorite)',
                 'tournament': match['tournament'],
                 'log_time': match['log_datetime'].strftime('%H:%M'),
                 'home_odds': match['pre-match_odds_home'],
@@ -1360,6 +1361,7 @@ def filter_recent_matches():
     
     # SCENARIO B: 1 goal at halftime with high draw odds filter
     scenario_b = df_clean[df_clean['ht_goals'] == 1].copy()
+    scenario_b = scenario_b[~scenario_b['tournament'].str.contains('argentina|india|russia|croatia|egypt|friendly|portugal', case=False, na=False)]
     if len(scenario_b) > 0:
         # Apply filter: draw odds >= 3.8
         filtered_b = scenario_b[scenario_b['pre-match_odds_draw'] >= 3.8]
@@ -1367,7 +1369,7 @@ def filter_recent_matches():
         for _, match in filtered_b.iterrows():
             matching_titles.append({
                 'title': match['title'],
-                'filter': 'Scenario B (1 goal at HT, high draw odds)',
+                'filter': 'Scenario 🇧 (1 goal at HT, high draw odds)',
                 'tournament': match['tournament'],
                 'log_time': match['log_datetime'].strftime('%H:%M'),
                 'home_odds': match['pre-match_odds_home'],
@@ -1383,7 +1385,7 @@ def filter_recent_matches():
         print("=" * 10)
         
         for i, match in enumerate(matching_titles, 1):
-            print(f"{i}. {match['title']}")
+            print(f"\n{i}. {match['title']}")
             print(f"   Filter: {match['filter']}")
             print(f"   Tournament: {match['tournament']}")
             print(f"   Log Time: {match['log_time']}")
