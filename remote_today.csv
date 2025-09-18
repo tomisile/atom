@@ -4136,13 +4136,22 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 18-09-25,17:00,Fomget Genclik Ve Spor vs ZNK SFK 2000 Sarajevo,"International Clubs UEFA Europa Cup, Women",25575,Fomget Genclik Ve Spor,ZNK SFK 2000 Sarajevo,1.34,4.75,10.0
 18-09-25,00:00,DC Power FC vs Brooklyn FC,"USA USL Super League, Women",11473,DC Power FC,Brooklyn FC,2.85,3.1,2.2
 18-09-25,17:00,Tampere United vs Oulun Luistinseura,Finland Ykkonen,44102,Tampere United,Oulun Luistinseura,2.9,3.6,2.1
-18-09-25,15:00,Giresunspor vs 52 Orduspor FK,Turkiye Turkiye Kupasi,40153,Giresunspor,52 Orduspor FK,3.40,3.40,2.05
-18-09-25,15:30,Nomme Kalju FC U21 vs Tallinna FC Flora U21,Estonia Esiliiga,44335,Nomme Kalju FC U21,Tallinna FC Flora U21,2.15,4.25,2.50
-18-09-25,13:00,FC Bentonit vs Andranik,Armenia Armenian Cup,39070,FC Bentonit,Andranik,5.20,4.50,1.46
-18-09-25,00:00,Atletico Ottawa vs Vancouver Langley FC,Canada Canadian Championship,39459,Atletico Ottawa,Vancouver Langley FC,2.30,3.33,2.70
-18-09-25,19:00,Hapoel Tirat Hacarmel vs Ironi Nesher,Israel Liga Alef,37685,Hapoel Tirat Hacarmel,Ironi Nesher,2.40,4.00,2.40
-18-09-25,23:00,SV Robinhood vs Univ. Organizacion y Metodo FC,International Clubs CONCACAF Caribbean Cup,36066,SV Robinhood,Univ. Organizacion y Metodo FC,2.45,3.10,2.65
-18-09-25,20:00,Ferroviaria SP vs EC Vitoria BA,"Brazil Copa do Brasil, Women",38833,Ferroviaria SP,EC Vitoria BA,1.22,5.50,10.00
-18-09-25,22:00,SC Internacional RS vs Fluminense FC RJ,"Brazil Copa do Brasil, Women",38237,SC Internacional RS,Fluminense FC RJ,1.95,3.33,3.50
-18-09-25,14:30,SYS FC vs Saikhamakawn FC,India Mizoram Premier League,14356,SYS FC,Saikhamakawn FC,6.50,5.00,1.34
-18-09-25,17:30,AL Shamal U23 vs AL Gharafa U23,Qatar U23 Olympic League,16185,AL Shamal U23,AL Gharafa U23,1.92,3.10,3.40
+18-09-25,15:00,Giresunspor vs 52 Orduspor FK,Turkiye Turkiye Kupasi,40153,Giresunspor,52 Orduspor FK,3.4,3.4,2.05
+18-09-25,15:30,Nomme Kalju FC U21 vs Tallinna FC Flora U21,Estonia Esiliiga,44335,Nomme Kalju FC U21,Tallinna FC Flora U21,2.15,4.25,2.5
+18-09-25,13:00,FC Bentonit vs Andranik,Armenia Armenian Cup,39070,FC Bentonit,Andranik,5.2,4.5,1.46
+18-09-25,00:00,Atletico Ottawa vs Vancouver Langley FC,Canada Canadian Championship,39459,Atletico Ottawa,Vancouver Langley FC,2.3,3.33,2.7
+18-09-25,19:00,Hapoel Tirat Hacarmel vs Ironi Nesher,Israel Liga Alef,37685,Hapoel Tirat Hacarmel,Ironi Nesher,2.4,4.0,2.4
+18-09-25,23:00,SV Robinhood vs Univ. Organizacion y Metodo FC,International Clubs CONCACAF Caribbean Cup,36066,SV Robinhood,Univ. Organizacion y Metodo FC,2.45,3.1,2.65
+18-09-25,20:00,Ferroviaria SP vs EC Vitoria BA,"Brazil Copa do Brasil, Women",38833,Ferroviaria SP,EC Vitoria BA,1.22,5.5,10.0
+18-09-25,22:00,SC Internacional RS vs Fluminense FC RJ,"Brazil Copa do Brasil, Women",38237,SC Internacional RS,Fluminense FC RJ,1.95,3.33,3.5
+18-09-25,14:30,SYS FC vs Saikhamakawn FC,India Mizoram Premier League,14356,SYS FC,Saikhamakawn FC,6.5,5.0,1.34
+18-09-25,17:30,AL Shamal U23 vs AL Gharafa U23,Qatar U23 Olympic League,16185,AL Shamal U23,AL Gharafa U23,1.92,3.1,3.4
+18-09-25,00:15,UPNFM Choluteca vs CD Marathon San Pedro Sula,"Honduras Liga Nacional, Apertura",40639,UPNFM Choluteca,CD Marathon San Pedro Sula,3.60,3.50,1.93
+18-09-25,23:00,9 de Octubre FC vs CD El Nacional,Ecuador Copa Ecuador,22975,9 de Octubre FC,CD El Nacional,2.85,3.40,2.30
+18-09-25,17:30,Gicumbi FC vs Apr FC,Rwanda Premier League,10981,Gicumbi FC,Apr FC,6.20,3.40,1.49
+18-09-25,16:30,Navad Urmia FC vs Damash Gilan FC,Iran Azadegan League,14519,Navad Urmia FC,Damash Gilan FC,2.15,2.90,3.40
+18-09-25,16:30,Palayesh Naft Bandar Abbas FC vs Havadar SC,Iran Azadegan League,37968,Palayesh Naft Bandar Abbas FC,Havadar SC,2.65,2.80,2.75
+18-09-25,17:05,AS Tel Aviv University vs Hapoel Katamon Jerusalem,"Israel Liga Al, Women",20453,AS Tel Aviv University,Hapoel Katamon Jerusalem,3.10,3.70,1.86
+18-09-25,17:15,Hapoel Raanana vs Maccabi Holon FC,"Israel Liga Al, Women",29342,Hapoel Raanana,Maccabi Holon FC,2.25,3.50,2.45
+18-09-25,17:30,AL Duhail U23 vs AL Arabi Doha U23,Qatar U23 Olympic League,33735,AL Duhail U23,AL Arabi Doha U23,1.81,3.33,3.60
+18-09-25,17:30,AL Wakrah SC U23 vs AL Sadd U23,Qatar U23 Olympic League,13379,AL Wakrah SC U23,AL Sadd U23,2.30,3.10,2.70
