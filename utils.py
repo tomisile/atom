@@ -1338,20 +1338,22 @@ def filter_recent_matches():
     # Initialize results list
     matching_titles = []
     
-    # SCENARIO A: 0-0 at halftime with strong favorite filter
+    # SCENARIO A: 0-0 at halftime with strong favorite filter and exclude some tournaments
     scenario_a = df_clean[df_clean['ht_goals'] == 0].copy()
-    scenario_a = scenario_a[~scenario_a['tournament'].str.contains('women|croatia|ghana|oman|friendly|liga alef|guatemala', case=False, na=False)]
+    keywords_a = 'women|juniori|ghana|oman|friendly|liga alef|guatemala|egypt|portugal|spain amateur|segunda|india|peru|bolivia'
+    scenario_a = scenario_a[~scenario_a['tournament'].str.contains(keywords_a, case=False, na=False)]
     if len(scenario_a) > 0:
         # Apply filter: either team is a strong favorite (odds <= 1.6)
-        filtered_a = scenario_a[
-            (scenario_a['pre-match_odds_home'] <= 1.6) | 
-            (scenario_a['pre-match_odds_away'] <= 1.6)
-        ]
+        # filtered_a = scenario_a[
+        #     (scenario_a['pre-match_odds_home'] <= 1.6) | 
+        #     (scenario_a['pre-match_odds_away'] <= 1.6)
+        # ]
+        filtered_a = scenario_a[scenario_a['pre-match_odds_draw'] >= 3.9]
         
         for _, match in filtered_a.iterrows():
             matching_titles.append({
                 'title': match['title'],
-                'filter': 'Scenario 🅰️ (0-0 at HT, strong favorite)',
+                'filter': 'Scenario 🅰️ (0aHT + HDO)',
                 'tournament': match['tournament'],
                 'log_time': match['log_datetime'].strftime('%H:%M'),
                 'home_odds': match['pre-match_odds_home'],
@@ -1359,17 +1361,39 @@ def filter_recent_matches():
                 'away_odds': match['pre-match_odds_away']
             })
     
-    # SCENARIO B: 1 goal at halftime with high draw odds filter
+    # SCENARIO B: 1 goal at halftime with high draw odds filter and exclude some tournaments
     scenario_b = df_clean[df_clean['ht_goals'] == 1].copy()
-    scenario_b = scenario_b[~scenario_b['tournament'].str.contains('argentina|india|russia|croatia|egypt|friendly|portugal', case=False, na=False)]
+    keywords_b = 'argentina|reserves|india|juniori|egypt|friendly|portugal|spain amateur|oman|segunda|peru|bolivia|malta'
+    scenario_b = scenario_b[~scenario_b['tournament'].str.contains(keywords_b, case=False, na=False)]
     if len(scenario_b) > 0:
-        # Apply filter: draw odds >= 3.8
-        filtered_b = scenario_b[scenario_b['pre-match_odds_draw'] >= 3.8]
+        # Apply filter: draw odds >= 4.7
+        filtered_b = scenario_b[scenario_b['pre-match_odds_draw'] >= 4.7]
         
         for _, match in filtered_b.iterrows():
             matching_titles.append({
                 'title': match['title'],
-                'filter': 'Scenario 🇧 (1 goal at HT, high draw odds)',
+                'filter': 'Scenario 🇧 (1aHT + HDO)',
+                'tournament': match['tournament'],
+                'log_time': match['log_datetime'].strftime('%H:%M'),
+                'home_odds': match['pre-match_odds_home'],
+                'draw_odds': match['pre-match_odds_draw'],
+                'away_odds': match['pre-match_odds_away']
+            })
+
+    # SCENARIO C: high-scoring tournaments
+    green_leagues = "finland|netherlands|sweden|germany 3. liga|saudi arabia|japan"
+    scenario_c = df_clean[df_clean['tournament'].str.contains(green_leagues, case=False, na=False)].copy()
+    if len(scenario_c) > 0:
+        # Apply filter: draw odds >= 3.8 combined with 0 HT goals condition:
+        filtered_c = scenario_c[
+            (scenario_c['pre-match_odds_draw'] >= 3.8) &
+            (scenario_c['ht_goals'] == 0)
+        ]
+        
+        for _, match in filtered_c.iterrows():
+            matching_titles.append({
+                'title': match['title'],
+                'filter': 'Scenario 🇨 (GL + 0aHT + HDO)',
                 'tournament': match['tournament'],
                 'log_time': match['log_datetime'].strftime('%H:%M'),
                 'home_odds': match['pre-match_odds_home'],
