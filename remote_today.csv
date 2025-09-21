@@ -6590,48 +6590,59 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 21-09-25,11:00,FC Copenhagen vs Esbjerg,Denmark U19 Ligaen,24043,FC Copenhagen,Esbjerg,1.48,4.75,4.6
 21-09-25,19:00,AA Portuguesa RJ vs Fluminense FC RJ,"Brazil U20 Carioca, Serie A",29718,AA Portuguesa RJ,Fluminense FC RJ,6.9,4.1,1.41
 21-09-25,11:00,Pori Akatemia YJ vs FC Inter Turku,Finland U20 SM,38287,Pori Akatemia YJ,FC Inter Turku,1.51,4.7,4.4
-21-09-25,21:15,Union Comercio vs FC San Marcos,Peru Liga 2,40403,Union Comercio,FC San Marcos,1.21,5.70,10.00
-21-09-25,23:00,AD Carmelita vs Limon Black Star,"Costa Rica Liga de Ascenso, Apertura",40412,AD Carmelita,Limon Black Star,2.00,3.40,3.50
-21-09-25,15:00,Umecit II vs Alianza FC II,Panama Liga Prom,37428,Umecit II,Alianza FC II,2.00,3.20,3.40
-21-09-25,14:30,Gamle Oslo FK vs Harstad,Norway 3rd Division Group 1,20395,Gamle Oslo FK,Harstad,1.47,4.90,4.70
-21-09-25,15:30,Esteghlal FC vs Paykan FC,Iran Pro League,18313,Esteghlal FC,Paykan FC,1.49,3.60,6.70
-21-09-25,18:00,KF Teuta vs Vllaznia Shkoder,Albania Kategoria Superiore,13384,KF Teuta,Vllaznia Shkoder,3.10,3.20,2.25
-21-09-25,14:30,NK Bratstvo Gracanica vs NK Celik Zenica,"Bosnia & Herzegovina Prva Liga, Fed BiH",14837,NK Bratstvo Gracanica,NK Celik Zenica,2.15,3.20,3.20
-21-09-25,14:30,NK Stupcanica Olovo vs FK Radnik Hadzici,"Bosnia & Herzegovina Prva Liga, Fed BiH",20846,NK Stupcanica Olovo,FK Radnik Hadzici,1.63,3.60,4.80
-21-09-25,16:00,Universidad San Antonio Abad vs Club Alianza Lima,Peru Liga Femenina,41445,Universidad San Antonio Abad,Club Alianza Lima,25.00,9.70,1.07
-21-09-25,15:00,Sao Paulo FC SP vs Red Bull Bragantino SP,"Brazil Paulista, Women",28847,Sao Paulo FC SP,Red Bull Bragantino SP,1.56,3.40,5.20
-21-09-25,15:00,FK Pardubice vs Dukla Prague,"Czechia 2. Liga, Women",41239,FK Pardubice,Dukla Prague,1.24,5.50,7.00
-21-09-25,14:30,FTC Filakovo vs MFK Dolny Kubin,Slovakia 3. Liga,33880,FTC Filakovo,MFK Dolny Kubin,1.23,5.50,7.40
-21-09-25,15:00,Bad Sauerbrunn vs ASV Neudorf/Parndorf II,Austria Amateur Burgenlandliga,27236,Bad Sauerbrunn,ASV Neudorf/Parndorf II,1.41,4.70,5.70
-21-09-25,15:00,SV Eberau vs SC Oberpullendorf,Austria Amateur Burgenlandliga,27451,SV Eberau,SC Oberpullendorf,2.35,3.50,2.60
-21-09-25,18:45,Friburguense AC RJ vs Serrano FC RJ,"Brazil Carioca, Serie B1",27448,Friburguense AC RJ,Serrano FC RJ,2.50,2.85,2.80
-21-09-25,19:00,Joinville EC SC vs Carlos Renaux SC,Brazil Copa Santa Catarina,34521,Joinville EC SC,Carlos Renaux SC,1.93,3.25,3.70
-21-09-25,14:30,FC Chotebor vs FC Slovan Havlickuv Brod,Czechia Divize D,23199,FC Chotebor,FC Slovan Havlickuv Brod,4.30,3.75,1.58
-21-09-25,14:30,SK Tatran Zdirec Nad Doubravou vs FS Trebic,Czechia Divize D,18234,SK Tatran Zdirec Nad Doubravou,FS Trebic,2.00,3.50,2.85
-21-09-25,14:30,FK Kozlovice vs Sfk Elko Holesov,Czechia Divize E,41238,FK Kozlovice,Sfk Elko Holesov,1.25,5.20,7.25
-21-09-25,22:00,CD Parrillas One vs CD Brasilia,Honduras Liga de Ascenso,20677,CD Parrillas One,CD Brasilia,2.10,3.20,3.40
-21-09-25,15:00,BFC Siofok vs Pecsi MFC,Hungary NB III,12025,BFC Siofok,Pecsi MFC,3.90,3.60,1.68
-21-09-25,15:00,Bicskei Tc vs ETO Akademia,Hungary NB III,19348,Bicskei Tc,ETO Akademia,1.87,3.60,3.20
+21-09-25,21:15,Union Comercio vs FC San Marcos,Peru Liga 2,40403,Union Comercio,FC San Marcos,1.21,5.7,10.0
+21-09-25,23:00,AD Carmelita vs Limon Black Star,"Costa Rica Liga de Ascenso, Apertura",40412,AD Carmelita,Limon Black Star,2.0,3.4,3.5
+21-09-25,15:00,Umecit II vs Alianza FC II,Panama Liga Prom,37428,Umecit II,Alianza FC II,2.0,3.2,3.4
+21-09-25,14:30,Gamle Oslo FK vs Harstad,Norway 3rd Division Group 1,20395,Gamle Oslo FK,Harstad,1.47,4.9,4.7
+21-09-25,15:30,Esteghlal FC vs Paykan FC,Iran Pro League,18313,Esteghlal FC,Paykan FC,1.49,3.6,6.7
+21-09-25,18:00,KF Teuta vs Vllaznia Shkoder,Albania Kategoria Superiore,13384,KF Teuta,Vllaznia Shkoder,3.1,3.2,2.25
+21-09-25,14:30,NK Bratstvo Gracanica vs NK Celik Zenica,"Bosnia & Herzegovina Prva Liga, Fed BiH",14837,NK Bratstvo Gracanica,NK Celik Zenica,2.15,3.2,3.2
+21-09-25,14:30,NK Stupcanica Olovo vs FK Radnik Hadzici,"Bosnia & Herzegovina Prva Liga, Fed BiH",20846,NK Stupcanica Olovo,FK Radnik Hadzici,1.63,3.6,4.8
+21-09-25,16:00,Universidad San Antonio Abad vs Club Alianza Lima,Peru Liga Femenina,41445,Universidad San Antonio Abad,Club Alianza Lima,25.0,9.7,1.07
+21-09-25,15:00,Sao Paulo FC SP vs Red Bull Bragantino SP,"Brazil Paulista, Women",28847,Sao Paulo FC SP,Red Bull Bragantino SP,1.56,3.4,5.2
+21-09-25,15:00,FK Pardubice vs Dukla Prague,"Czechia 2. Liga, Women",41239,FK Pardubice,Dukla Prague,1.24,5.5,7.0
+21-09-25,14:30,FTC Filakovo vs MFK Dolny Kubin,Slovakia 3. Liga,33880,FTC Filakovo,MFK Dolny Kubin,1.23,5.5,7.4
+21-09-25,15:00,Bad Sauerbrunn vs ASV Neudorf/Parndorf II,Austria Amateur Burgenlandliga,27236,Bad Sauerbrunn,ASV Neudorf/Parndorf II,1.41,4.7,5.7
+21-09-25,15:00,SV Eberau vs SC Oberpullendorf,Austria Amateur Burgenlandliga,27451,SV Eberau,SC Oberpullendorf,2.35,3.5,2.6
+21-09-25,18:45,Friburguense AC RJ vs Serrano FC RJ,"Brazil Carioca, Serie B1",27448,Friburguense AC RJ,Serrano FC RJ,2.5,2.85,2.8
+21-09-25,19:00,Joinville EC SC vs Carlos Renaux SC,Brazil Copa Santa Catarina,34521,Joinville EC SC,Carlos Renaux SC,1.93,3.25,3.7
+21-09-25,14:30,FC Chotebor vs FC Slovan Havlickuv Brod,Czechia Divize D,23199,FC Chotebor,FC Slovan Havlickuv Brod,4.3,3.75,1.58
+21-09-25,14:30,SK Tatran Zdirec Nad Doubravou vs FS Trebic,Czechia Divize D,18234,SK Tatran Zdirec Nad Doubravou,FS Trebic,2.0,3.5,2.85
+21-09-25,14:30,FK Kozlovice vs Sfk Elko Holesov,Czechia Divize E,41238,FK Kozlovice,Sfk Elko Holesov,1.25,5.2,7.25
+21-09-25,22:00,CD Parrillas One vs CD Brasilia,Honduras Liga de Ascenso,20677,CD Parrillas One,CD Brasilia,2.1,3.2,3.4
+21-09-25,15:00,BFC Siofok vs Pecsi MFC,Hungary NB III,12025,BFC Siofok,Pecsi MFC,3.9,3.6,1.68
+21-09-25,15:00,Bicskei Tc vs ETO Akademia,Hungary NB III,19348,Bicskei Tc,ETO Akademia,1.87,3.6,3.2
 21-09-25,15:00,Budaorsi SC vs Puskas Akademia FC II,Hungary NB III,ID:,Budaorsi SC,Puskas Akademia FC II,2.75,3.25,2.15
-21-09-25,15:00,Cigand SE vs Debreceni Eac,Hungary NB III,18063,Cigand SE,Debreceni Eac,1.94,3.40,3.10
-21-09-25,15:00,Dabas FC vs Csepel SC,Hungary NB III,10779,Dabas FC,Csepel SC,1.94,3.50,3.10
-21-09-25,15:00,Dunaharaszti MTK vs III Keruleti Tve,Hungary NB III,22299,Dunaharaszti MTK,III Keruleti Tve,2.65,3.60,2.10
-21-09-25,15:00,FC Hatvan vs Fuzesabony SC Eross Ut,Hungary NB III,15557,FC Hatvan,Fuzesabony SC Eross Ut,2.15,3.50,2.70
-21-09-25,15:00,Gyulai FC vs BKV Elore,Hungary NB III,14765,Gyulai FC,BKV Elore,1.32,4.80,6.10
-21-09-25,15:00,Kaposvari Rakoczi FC vs Szekszardi UFC,Hungary NB III,13109,Kaposvari Rakoczi FC,Szekszardi UFC,1.33,4.70,6.00
-21-09-25,15:00,Martfui Lse vs Hodmezovasarhelyi FC,Hungary NB III,26327,Martfui Lse,Hodmezovasarhelyi FC,4.25,4.10,1.53
-21-09-25,15:00,Pte Peac vs Paksi FC II,Hungary NB III,10893,Pte Peac,Paksi FC II,4.40,3.90,1.55
-21-09-25,15:00,Putnok VSE vs Ozd-Sajovolgye,Hungary NB III,14187,Putnok VSE,Ozd-Sajovolgye,1.39,4.50,5.40
-21-09-25,15:00,Tarpa SC vs Nyiregyhaza Spartacus FC II,Hungary NB III,12005,Tarpa SC,Nyiregyhaza Spartacus FC II,1.61,3.90,4.00
-21-09-25,15:00,Tiszaujvaros vs Senyo Carnifex FC,Hungary NB III,23387,Tiszaujvaros,Senyo Carnifex FC,1.66,3.70,3.90
-21-09-25,15:30,Dundee United Wfc vs Stirling University,"Scotland Premier League 2, Women",18024,Dundee United Wfc,Stirling University,1.10,7.10,13.00
-21-09-25,18:00,Deportivo Nueva Concepcion vs Deportivo Gomerano,Guatemala Primera Division,16840,Deportivo Nueva Concepcion,Deportivo Gomerano,1.65,3.60,4.60
-21-09-25,22:00,Deportivo Carcha vs Csd Chiquimulilla,Guatemala Primera Division,11780,Deportivo Carcha,Csd Chiquimulilla,4.10,3.33,1.79
-21-09-25,14:30,FK Vlasina Vlasotince vs Trstenik PPT,Serbia Srpska Liga,16297,FK Vlasina Vlasotince,Trstenik PPT,1.35,4.70,5.80
-21-09-25,14:30,OFK Brzi Brod vs FK Radnicki Pirot,Serbia Srpska Liga,17996,OFK Brzi Brod,FK Radnicki Pirot,4.60,4.00,1.50
-21-09-25,15:00,FK Polimlje vs FK Napredak Markovac,Serbia Srpska Liga,15053,FK Polimlje,FK Napredak Markovac,2.30,3.10,2.70
-21-09-25,15:00,FK Takovo vs FK Zlatibor Cajetina,Serbia Srpska Liga,11764,FK Takovo,FK Zlatibor Cajetina,2.30,3.10,2.70
-21-09-25,15:00,CE Sabadell FC U19 vs SD Huesca,Spain U19 Division de Honor Juvenil,15609,CE Sabadell FC U19,SD Huesca,2.95,3.80,2.00
-21-09-25,17:00,CF Valencia vs Patacona CF,Spain U19 Division de Honor Juvenil,15784,CF Valencia,Patacona CF,1.09,8.70,14.00
-21-09-25,17:00,Efb Pinatar U19 vs Hercules CF,Spain U19 Division de Honor Juvenil,17749,Efb Pinatar U19,Hercules CF,2.35,3.40,2.60
-21-09-25,17:00,UD Maracena vs Cadiz CF,Spain U19 Division de Honor Juvenil,15346,UD Maracena,Cadiz CF,2.25,3.40,2.75
+21-09-25,15:00,Cigand SE vs Debreceni Eac,Hungary NB III,18063,Cigand SE,Debreceni Eac,1.94,3.4,3.1
+21-09-25,15:00,Dabas FC vs Csepel SC,Hungary NB III,10779,Dabas FC,Csepel SC,1.94,3.5,3.1
+21-09-25,15:00,Dunaharaszti MTK vs III Keruleti Tve,Hungary NB III,22299,Dunaharaszti MTK,III Keruleti Tve,2.65,3.6,2.1
+21-09-25,15:00,FC Hatvan vs Fuzesabony SC Eross Ut,Hungary NB III,15557,FC Hatvan,Fuzesabony SC Eross Ut,2.15,3.5,2.7
+21-09-25,15:00,Gyulai FC vs BKV Elore,Hungary NB III,14765,Gyulai FC,BKV Elore,1.32,4.8,6.1
+21-09-25,15:00,Kaposvari Rakoczi FC vs Szekszardi UFC,Hungary NB III,13109,Kaposvari Rakoczi FC,Szekszardi UFC,1.33,4.7,6.0
+21-09-25,15:00,Martfui Lse vs Hodmezovasarhelyi FC,Hungary NB III,26327,Martfui Lse,Hodmezovasarhelyi FC,4.25,4.1,1.53
+21-09-25,15:00,Pte Peac vs Paksi FC II,Hungary NB III,10893,Pte Peac,Paksi FC II,4.4,3.9,1.55
+21-09-25,15:00,Putnok VSE vs Ozd-Sajovolgye,Hungary NB III,14187,Putnok VSE,Ozd-Sajovolgye,1.39,4.5,5.4
+21-09-25,15:00,Tarpa SC vs Nyiregyhaza Spartacus FC II,Hungary NB III,12005,Tarpa SC,Nyiregyhaza Spartacus FC II,1.61,3.9,4.0
+21-09-25,15:00,Tiszaujvaros vs Senyo Carnifex FC,Hungary NB III,23387,Tiszaujvaros,Senyo Carnifex FC,1.66,3.7,3.9
+21-09-25,15:30,Dundee United Wfc vs Stirling University,"Scotland Premier League 2, Women",18024,Dundee United Wfc,Stirling University,1.1,7.1,13.0
+21-09-25,18:00,Deportivo Nueva Concepcion vs Deportivo Gomerano,Guatemala Primera Division,16840,Deportivo Nueva Concepcion,Deportivo Gomerano,1.65,3.6,4.6
+21-09-25,22:00,Deportivo Carcha vs Csd Chiquimulilla,Guatemala Primera Division,11780,Deportivo Carcha,Csd Chiquimulilla,4.1,3.33,1.79
+21-09-25,14:30,FK Vlasina Vlasotince vs Trstenik PPT,Serbia Srpska Liga,16297,FK Vlasina Vlasotince,Trstenik PPT,1.35,4.7,5.8
+21-09-25,14:30,OFK Brzi Brod vs FK Radnicki Pirot,Serbia Srpska Liga,17996,OFK Brzi Brod,FK Radnicki Pirot,4.6,4.0,1.5
+21-09-25,15:00,FK Polimlje vs FK Napredak Markovac,Serbia Srpska Liga,15053,FK Polimlje,FK Napredak Markovac,2.3,3.1,2.7
+21-09-25,15:00,FK Takovo vs FK Zlatibor Cajetina,Serbia Srpska Liga,11764,FK Takovo,FK Zlatibor Cajetina,2.3,3.1,2.7
+21-09-25,15:00,CE Sabadell FC U19 vs SD Huesca,Spain U19 Division de Honor Juvenil,15609,CE Sabadell FC U19,SD Huesca,2.95,3.8,2.0
+21-09-25,17:00,CF Valencia vs Patacona CF,Spain U19 Division de Honor Juvenil,15784,CF Valencia,Patacona CF,1.09,8.7,14.0
+21-09-25,17:00,Efb Pinatar U19 vs Hercules CF,Spain U19 Division de Honor Juvenil,17749,Efb Pinatar U19,Hercules CF,2.35,3.4,2.6
+21-09-25,17:00,UD Maracena vs Cadiz CF,Spain U19 Division de Honor Juvenil,15346,UD Maracena,Cadiz CF,2.25,3.4,2.75
+21-09-25,17:30,Jerez CF vs Moralo CP,"Spain Amateur Tercera Federacion, Group 14",10885,Jerez CF,Moralo CP,1.94,3.40,3.40
+21-09-25,20:30,Atletico El Vigia vs TFC Guanare,Venezuela Segunda Division,11465,Atletico El Vigia,TFC Guanare,2.15,3.30,3.00
+21-09-25,20:30,Monagas SC B vs Deportivo Miranda,Venezuela Segunda Division,33047,Monagas SC B,Deportivo Miranda,5.30,3.70,1.57
+21-09-25,20:30,Trujillanos FC vs Urena SC,Venezuela Segunda Division,33048,Trujillanos FC,Urena SC,1.38,4.40,6.70
+21-09-25,21:00,Aragua FC vs Angostura FC,Venezuela Segunda Division,16405,Aragua FC,Angostura FC,1.72,3.50,4.30
+21-09-25,21:00,AD Cariari Pococi vs Futbol Consultants Desamparados,"Costa Rica Liga de Ascenso, Apertura",16220,AD Cariari Pococi,Futbol Consultants Desamparados,2.35,3.20,2.85
+21-09-25,22:00,HYH Sebaco FC vs Indigenas de Matagalpa FC,Nicaragua Primera Division,26206,HYH Sebaco FC,Indigenas de Matagalpa FC,1.77,3.70,4.20
+21-09-25,19:00,Figueirense FC SC vs Barra FC SC,Brazil Copa Santa Catarina,36739,Figueirense FC SC,Barra FC SC,1.16,6.50,12.00
+21-09-25,20:00,Pires Do Rio vs Guanabara City GO,"Brazil Goiano, 3. Divisao",24458,Pires Do Rio,Guanabara City GO,2.70,3.30,2.20
+21-09-25,19:00,Montaneses FC vs Canoneros Marina,Mexico Liga Premier Serie A,31641,Montaneses FC,Canoneros Marina,1.86,3.50,3.60
+21-09-25,18:00,CD Hercules U20 vs CD Fuerte San Francisco U20,"El Salvador Primera Division, Reserves, Apertura",28098,CD Hercules U20,CD Fuerte San Francisco U20,2.65,3.40,2.30
