@@ -6635,14 +6635,20 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 21-09-25,17:00,CF Valencia vs Patacona CF,Spain U19 Division de Honor Juvenil,15784,CF Valencia,Patacona CF,1.09,8.7,14.0
 21-09-25,17:00,Efb Pinatar U19 vs Hercules CF,Spain U19 Division de Honor Juvenil,17749,Efb Pinatar U19,Hercules CF,2.35,3.4,2.6
 21-09-25,17:00,UD Maracena vs Cadiz CF,Spain U19 Division de Honor Juvenil,15346,UD Maracena,Cadiz CF,2.25,3.4,2.75
-21-09-25,17:30,Jerez CF vs Moralo CP,"Spain Amateur Tercera Federacion, Group 14",10885,Jerez CF,Moralo CP,1.94,3.40,3.40
-21-09-25,20:30,Atletico El Vigia vs TFC Guanare,Venezuela Segunda Division,11465,Atletico El Vigia,TFC Guanare,2.15,3.30,3.00
-21-09-25,20:30,Monagas SC B vs Deportivo Miranda,Venezuela Segunda Division,33047,Monagas SC B,Deportivo Miranda,5.30,3.70,1.57
-21-09-25,20:30,Trujillanos FC vs Urena SC,Venezuela Segunda Division,33048,Trujillanos FC,Urena SC,1.38,4.40,6.70
-21-09-25,21:00,Aragua FC vs Angostura FC,Venezuela Segunda Division,16405,Aragua FC,Angostura FC,1.72,3.50,4.30
-21-09-25,21:00,AD Cariari Pococi vs Futbol Consultants Desamparados,"Costa Rica Liga de Ascenso, Apertura",16220,AD Cariari Pococi,Futbol Consultants Desamparados,2.35,3.20,2.85
-21-09-25,22:00,HYH Sebaco FC vs Indigenas de Matagalpa FC,Nicaragua Primera Division,26206,HYH Sebaco FC,Indigenas de Matagalpa FC,1.77,3.70,4.20
-21-09-25,19:00,Figueirense FC SC vs Barra FC SC,Brazil Copa Santa Catarina,36739,Figueirense FC SC,Barra FC SC,1.16,6.50,12.00
-21-09-25,20:00,Pires Do Rio vs Guanabara City GO,"Brazil Goiano, 3. Divisao",24458,Pires Do Rio,Guanabara City GO,2.70,3.30,2.20
-21-09-25,19:00,Montaneses FC vs Canoneros Marina,Mexico Liga Premier Serie A,31641,Montaneses FC,Canoneros Marina,1.86,3.50,3.60
-21-09-25,18:00,CD Hercules U20 vs CD Fuerte San Francisco U20,"El Salvador Primera Division, Reserves, Apertura",28098,CD Hercules U20,CD Fuerte San Francisco U20,2.65,3.40,2.30
+21-09-25,17:30,Jerez CF vs Moralo CP,"Spain Amateur Tercera Federacion, Group 14",10885,Jerez CF,Moralo CP,1.94,3.4,3.4
+21-09-25,20:30,Atletico El Vigia vs TFC Guanare,Venezuela Segunda Division,11465,Atletico El Vigia,TFC Guanare,2.15,3.3,3.0
+21-09-25,20:30,Monagas SC B vs Deportivo Miranda,Venezuela Segunda Division,33047,Monagas SC B,Deportivo Miranda,5.3,3.7,1.57
+21-09-25,20:30,Trujillanos FC vs Urena SC,Venezuela Segunda Division,33048,Trujillanos FC,Urena SC,1.38,4.4,6.7
+21-09-25,21:00,Aragua FC vs Angostura FC,Venezuela Segunda Division,16405,Aragua FC,Angostura FC,1.72,3.5,4.3
+21-09-25,21:00,AD Cariari Pococi vs Futbol Consultants Desamparados,"Costa Rica Liga de Ascenso, Apertura",16220,AD Cariari Pococi,Futbol Consultants Desamparados,2.35,3.2,2.85
+21-09-25,22:00,HYH Sebaco FC vs Indigenas de Matagalpa FC,Nicaragua Primera Division,26206,HYH Sebaco FC,Indigenas de Matagalpa FC,1.77,3.7,4.2
+21-09-25,19:00,Figueirense FC SC vs Barra FC SC,Brazil Copa Santa Catarina,36739,Figueirense FC SC,Barra FC SC,1.16,6.5,12.0
+21-09-25,20:00,Pires Do Rio vs Guanabara City GO,"Brazil Goiano, 3. Divisao",24458,Pires Do Rio,Guanabara City GO,2.7,3.3,2.2
+21-09-25,19:00,Montaneses FC vs Canoneros Marina,Mexico Liga Premier Serie A,31641,Montaneses FC,Canoneros Marina,1.86,3.5,3.6
+21-09-25,18:00,CD Hercules U20 vs CD Fuerte San Francisco U20,"El Salvador Primera Division, Reserves, Apertura",28098,CD Hercules U20,CD Fuerte San Francisco U20,2.65,3.4,2.3
+21-09-25,20:00,Pitbulls Santa Barbara FC vs CS Uruguay de Coronado,"Costa Rica Liga de Ascenso, Apertura",10207,Pitbulls Santa Barbara FC,CS Uruguay de Coronado,1.92,3.50,3.60
+21-09-25,21:30,Cavaliers FC vs Treasure Beach FC,Jamaica Premier League,38389,Cavaliers FC,Treasure Beach FC,1.44,4.30,6.50
+21-09-25,23:00,Acatlan FC vs Tigres de Alica FC,Mexico Liga Premier Serie A,14000,Acatlan FC,Tigres de Alica FC,3.20,3.70,1.95
+21-09-25,23:00,Cdm FC vs Artesanos Metepec FC,Mexico Liga Premier Serie B,14108,Cdm FC,Artesanos Metepec FC,2.20,3.20,3.10
+21-09-25,22:00,Deportivo San Pedro vs Chichicasteco FC,Guatemala Primera Division,11302,Deportivo San Pedro,Chichicasteco FC,1.30,5.00,7.60
+21-09-25,21:00,Inter Formando Un Atleta U20 vs Alianza FC U20,"El Salvador Primera Division, Reserves, Apertura",15922,Inter Formando Un Atleta U20,Alianza FC U20,5.20,5.10,1.41
