@@ -6774,19 +6774,22 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 22-09-25,10:30,Chanmari FC vs Mizoram Police FC,India Mizoram Premier League,28055,Chanmari FC,Mizoram Police FC,1.61,3.8,4.6
 22-09-25,14:30,Ajman vs Sharjah FC,United Arab Emirates U23 Pro League,21340,Ajman,Sharjah FC,2.45,3.2,2.65
 22-09-25,14:30,AL Wasl vs AL Bataeh,United Arab Emirates U23 Pro League,21383,AL Wasl,AL Bataeh,1.07,9.1,17.5
-22-09-25,10:30,Diamond Harbour FC vs Calcutta Customs,India Calcutta Premier Div.,24622,Diamond Harbour FC,Calcutta Customs,1.54,3.90,5.10
-22-09-25,19:30,AL Adalh FC vs Al Hilal SFC,Saudi Arabia Kings Cup,24928,AL Adalh FC,Al Hilal SFC,11.50,7.00,1.19
-22-09-25,12:00,SSC Napoli U20 vs US Cremonese,Italy Primavera 1,17683,SSC Napoli U20,US Cremonese,2.30,3.50,2.65
-22-09-25,15:30,Sporting Ben Arous vs OC Kerkennah,Tunisia Ligue 2,10429,Sporting Ben Arous,OC Kerkennah,2.45,2.90,2.90
-22-09-25,14:30,FK Akademija Pandev vs FK Arsimi 1973,North Macedonia 1. MFL,11887,FK Akademija Pandev,FK Arsimi 1973,2.55,3.25,2.50
-22-09-25,14:30,FK Sileks Kratovo vs FC Struga Trim Lum,North Macedonia 1. MFL,12091,FK Sileks Kratovo,FC Struga Trim Lum,2.35,3.20,2.75
-22-09-25,19:00,Club Oriental de La Paz Reserves vs Nacional de Montevideo Reserves,"Uruguay Tercera Division, Reserves",26519,Club Oriental de La Paz Reserves,Nacional de Montevideo Reserves,6.60,4.25,1.40
-22-09-25,19:00,Danubio Reserves vs CA Boston River Reserves,"Uruguay Tercera Division, Reserves",26619,Danubio Reserves,CA Boston River Reserves,3.20,3.20,2.10
-22-09-25,19:00,Miramar Misiones Reserves vs Club Atletico Penarol Reserves,"Uruguay Tercera Division, Reserves",26550,Miramar Misiones Reserves,Club Atletico Penarol Reserves,2.85,3.20,2.30
-22-09-25,19:00,Montevideo City Torque Reserves vs Atletico River Plate Reserves,"Uruguay Tercera Division, Reserves",26594,Montevideo City Torque Reserves,Atletico River Plate Reserves,2.10,3.33,3.10
+22-09-25,10:30,Diamond Harbour FC vs Calcutta Customs,India Calcutta Premier Div.,24622,Diamond Harbour FC,Calcutta Customs,1.54,3.9,5.1
+22-09-25,19:30,AL Adalh FC vs Al Hilal SFC,Saudi Arabia Kings Cup,24928,AL Adalh FC,Al Hilal SFC,11.5,7.0,1.19
+22-09-25,12:00,SSC Napoli U20 vs US Cremonese,Italy Primavera 1,17683,SSC Napoli U20,US Cremonese,2.3,3.5,2.65
+22-09-25,15:30,Sporting Ben Arous vs OC Kerkennah,Tunisia Ligue 2,10429,Sporting Ben Arous,OC Kerkennah,2.45,2.9,2.9
+22-09-25,14:30,FK Akademija Pandev vs FK Arsimi 1973,North Macedonia 1. MFL,11887,FK Akademija Pandev,FK Arsimi 1973,2.55,3.25,2.5
+22-09-25,14:30,FK Sileks Kratovo vs FC Struga Trim Lum,North Macedonia 1. MFL,12091,FK Sileks Kratovo,FC Struga Trim Lum,2.35,3.2,2.75
+22-09-25,19:00,Club Oriental de La Paz Reserves vs Nacional de Montevideo Reserves,"Uruguay Tercera Division, Reserves",26519,Club Oriental de La Paz Reserves,Nacional de Montevideo Reserves,6.6,4.25,1.4
+22-09-25,19:00,Danubio Reserves vs CA Boston River Reserves,"Uruguay Tercera Division, Reserves",26619,Danubio Reserves,CA Boston River Reserves,3.2,3.2,2.1
+22-09-25,19:00,Miramar Misiones Reserves vs Club Atletico Penarol Reserves,"Uruguay Tercera Division, Reserves",26550,Miramar Misiones Reserves,Club Atletico Penarol Reserves,2.85,3.2,2.3
+22-09-25,19:00,Montevideo City Torque Reserves vs Atletico River Plate Reserves,"Uruguay Tercera Division, Reserves",26594,Montevideo City Torque Reserves,Atletico River Plate Reserves,2.1,3.33,3.1
 22-09-25,19:00,Montevideo Wanderers Reserves vs Liverpool Montevideo Reserves,"Uruguay Tercera Division, Reserves",26531,Montevideo Wanderers Reserves,Liverpool Montevideo Reserves,2.05,3.25,3.33
-22-09-25,18:30,Stroemsgodset 2 vs Ullensaker/Kisa 2,Norway 3rd Division Group 3,19523,Stroemsgodset 2,Ullensaker/Kisa 2,1.15,7.80,9.80
-22-09-25,19:00,Kongsvinger IL Fotball 2 vs Lorenskog IF,Norway 3rd Division Group 3,21018,Kongsvinger IL Fotball 2,Lorenskog IF,5.20,5.30,1.39
-22-09-25,18:00,FK Viltis Vilnius vs FK Banga B,Lithuania II Lyga,14719,FK Viltis Vilnius,FK Banga B,4.50,4.75,1.50
-22-09-25,16:00,Odds BK 2 vs Stabaek Fotball 2,Norway 3rd Division Group 6,16836,Odds BK 2,Stabaek Fotball 2,1.54,4.70,4.25
-22-09-25,17:00,Fomget Genclik Ve Spor vs Trabzonspor AS,"Turkiye Super Lig, Women",18763,Fomget Genclik Ve Spor,Trabzonspor AS,1.20,5.40,9.10
+22-09-25,18:30,Stroemsgodset 2 vs Ullensaker/Kisa 2,Norway 3rd Division Group 3,19523,Stroemsgodset 2,Ullensaker/Kisa 2,1.15,7.8,9.8
+22-09-25,19:00,Kongsvinger IL Fotball 2 vs Lorenskog IF,Norway 3rd Division Group 3,21018,Kongsvinger IL Fotball 2,Lorenskog IF,5.2,5.3,1.39
+22-09-25,18:00,FK Viltis Vilnius vs FK Banga B,Lithuania II Lyga,14719,FK Viltis Vilnius,FK Banga B,4.5,4.75,1.5
+22-09-25,16:00,Odds BK 2 vs Stabaek Fotball 2,Norway 3rd Division Group 6,16836,Odds BK 2,Stabaek Fotball 2,1.54,4.7,4.25
+22-09-25,17:00,Fomget Genclik Ve Spor vs Trabzonspor AS,"Turkiye Super Lig, Women",18763,Fomget Genclik Ve Spor,Trabzonspor AS,1.2,5.4,9.1
+22-09-25,16:00,Al Arabi Doha SC vs AL Waab,Qatar QSL Cup,20845,Al Arabi Doha SC,AL Waab,1.96,3.80,3.10
+22-09-25,19:00,Americano RJ vs America FC RJ,"Brazil U20 Carioca, Serie A2",22774,Americano RJ,America FC RJ,2.70,3.10,2.30
+22-09-25,18:15,PPJ vs Atlantis FC,Finland U20 SM,17281,PPJ,Atlantis FC,2.05,4.40,2.60
