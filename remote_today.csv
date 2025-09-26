@@ -7922,26 +7922,33 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 26-09-25,17:00,PK Keski-Uusimaa vs FC Inter Turku 2,Finland Ykkonen,18021,PK Keski-Uusimaa,FC Inter Turku 2,2.8,3.8,2.1
 26-09-25,17:30,Mikkelin Palloilijat vs JJK Jyvaskyla,Finland Ykkonen,18037,Mikkelin Palloilijat,JJK Jyvaskyla,1.29,5.25,7.3
 26-09-25,18:00,FC Jazz vs Espoon Palloseura,Finland Ykkonen,23220,FC Jazz,Espoon Palloseura,1.69,4.0,3.9
-26-09-25,19:30,Deportivo Paraguayo vs Club Mercedes,Argentina Primera C,46886,Deportivo Paraguayo,Club Mercedes,2.20,2.85,3.60
-26-09-25,19:30,Kilbarrack United vs Tolka Rovers,"Ireland Leinster Senior League, Senior Division",39018,Kilbarrack United,Tolka Rovers,1.66,3.75,4.30
-26-09-25,22:00,San Francisco FC B vs La Familia FC,Panama Liga Prom,46989,San Francisco FC B,La Familia FC,1.50,3.80,5.80
-26-09-25,18:00,Hearts of Oak vs Eleven Wonders FC,Ghana Premier League,25059,Hearts of Oak,Eleven Wonders FC,1.45,3.30,9.60
-26-09-25,18:00,SPG Wallern/ASV St. Marienkirchen vs USV St. Anna am Aigen,Austria Amateur Regionalliga Centre,43283,SPG Wallern/ASV St. Marienkirchen,USV St. Anna am Aigen,1.49,4.40,4.30
-26-09-25,18:00,SV Lafnitz vs LASK Amateure OO,Austria Amateur Regionalliga Centre,43291,SV Lafnitz,LASK Amateure OO,2.90,2.65,2.40
-26-09-25,18:00,Union Gurten vs SK Treibach,Austria Amateur Regionalliga Centre,34629,Union Gurten,SK Treibach,1.24,5.10,7.60
-26-09-25,18:30,Wacker Innsbruck vs SK Bischofshofen,Austria Amateur Regionalliga West,18100,Wacker Innsbruck,SK Bischofshofen,1.33,4.70,6.10
-26-09-25,15:00,Besa Kavaje vs KF Lushnja,Albania Kategoria e Pare,39377,Besa Kavaje,KF Lushnja,1.49,3.70,6.50
-26-09-25,12:00,FK Kaspii Aktau vs Aktobe Reserve,Kazakhstan Pervaya Liga,16755,FK Kaspii Aktau,Aktobe Reserve,1.12,7.25,15.00
-26-09-25,14:00,FC Taraz vs Kairat-Zhastar,Kazakhstan Pervaya Liga,21057,FC Taraz,Kairat-Zhastar,3.00,4.10,1.93
-26-09-25,11:00,FC Karpaty LVIV vs FC Dynamo Kiev,Ukraine U19,47206,FC Karpaty LVIV,FC Dynamo Kiev,4.40,3.90,1.63
-26-09-25,11:00,FC Oleksandria vs SC Poltava U19,Ukraine U19,26242,FC Oleksandria,SC Poltava U19,1.46,4.25,5.50
-26-09-25,16:15,Luks Sportowa Czworka Radom vs RESOVIA RZESZOW,"Poland 1. Liga, Women",39701,Luks Sportowa Czworka Radom,RESOVIA RZESZOW,3.80,3.90,1.73
-26-09-25,18:30,ASV Neudorf/Parndorf II vs ASV SIEGENDORF,Austria Amateur Burgenlandliga,40756,ASV Neudorf/Parndorf II,ASV SIEGENDORF,2.00,3.60,3.00
-26-09-25,18:00,SC St. Veit vs FC Lendorf,Austria Amateur Karntner Liga,43294,SC St. Veit,FC Lendorf,1.64,4.10,4.10
-26-09-25,16:30,Abo IFK Turku vs Masku,Finland Kolmonen,11019,Abo IFK Turku,Masku,1.26,6.00,7.30
-26-09-25,14:00,Rukinzo FC vs Royal Vision 2026,Burundi Ligue A,45342,Rukinzo FC,Royal Vision 2026,1.60,4.00,3.90
-26-09-25,19:00,Rosario SE vs Olimpico EC SE,"Brazil Sergipano, Serie A2",37892,Rosario SE,Olimpico EC SE,5.80,4.10,1.40
-26-09-25,18:00,ASK Koflach vs SV Allerheiligen,"Austria Amateur Steiermark, Landesliga",43325,ASK Koflach,SV Allerheiligen,2.35,3.90,2.40
-26-09-25,18:00,TUS Bad Waltersdorf vs SV Lebring,"Austria Amateur Steiermark, Landesliga",43333,TUS Bad Waltersdorf,SV Lebring,2.20,3.90,2.55
-26-09-25,12:00,HNK Rijeka vs NK Mladost Zdralovi,Croatia U19 Prva NL Juniori,34967,HNK Rijeka,NK Mladost Zdralovi,1.30,5.10,6.10
-26-09-25,14:00,Athletic Club MG U20 vs Boston City FC MG U20,"Brazil U20 Mineiro, 1. Divisao",16061,Athletic Club MG U20,Boston City FC MG U20,2.30,3.20,2.85
+26-09-25,19:30,Deportivo Paraguayo vs Club Mercedes,Argentina Primera C,46886,Deportivo Paraguayo,Club Mercedes,2.2,2.85,3.6
+26-09-25,19:30,Kilbarrack United vs Tolka Rovers,"Ireland Leinster Senior League, Senior Division",39018,Kilbarrack United,Tolka Rovers,1.66,3.75,4.3
+26-09-25,22:00,San Francisco FC B vs La Familia FC,Panama Liga Prom,46989,San Francisco FC B,La Familia FC,1.5,3.8,5.8
+26-09-25,18:00,Hearts of Oak vs Eleven Wonders FC,Ghana Premier League,25059,Hearts of Oak,Eleven Wonders FC,1.45,3.3,9.6
+26-09-25,18:00,SPG Wallern/ASV St. Marienkirchen vs USV St. Anna am Aigen,Austria Amateur Regionalliga Centre,43283,SPG Wallern/ASV St. Marienkirchen,USV St. Anna am Aigen,1.49,4.4,4.3
+26-09-25,18:00,SV Lafnitz vs LASK Amateure OO,Austria Amateur Regionalliga Centre,43291,SV Lafnitz,LASK Amateure OO,2.9,2.65,2.4
+26-09-25,18:00,Union Gurten vs SK Treibach,Austria Amateur Regionalliga Centre,34629,Union Gurten,SK Treibach,1.24,5.1,7.6
+26-09-25,18:30,Wacker Innsbruck vs SK Bischofshofen,Austria Amateur Regionalliga West,18100,Wacker Innsbruck,SK Bischofshofen,1.33,4.7,6.1
+26-09-25,15:00,Besa Kavaje vs KF Lushnja,Albania Kategoria e Pare,39377,Besa Kavaje,KF Lushnja,1.49,3.7,6.5
+26-09-25,12:00,FK Kaspii Aktau vs Aktobe Reserve,Kazakhstan Pervaya Liga,16755,FK Kaspii Aktau,Aktobe Reserve,1.12,7.25,15.0
+26-09-25,14:00,FC Taraz vs Kairat-Zhastar,Kazakhstan Pervaya Liga,21057,FC Taraz,Kairat-Zhastar,3.0,4.1,1.93
+26-09-25,11:00,FC Karpaty LVIV vs FC Dynamo Kiev,Ukraine U19,47206,FC Karpaty LVIV,FC Dynamo Kiev,4.4,3.9,1.63
+26-09-25,11:00,FC Oleksandria vs SC Poltava U19,Ukraine U19,26242,FC Oleksandria,SC Poltava U19,1.46,4.25,5.5
+26-09-25,16:15,Luks Sportowa Czworka Radom vs RESOVIA RZESZOW,"Poland 1. Liga, Women",39701,Luks Sportowa Czworka Radom,RESOVIA RZESZOW,3.8,3.9,1.73
+26-09-25,18:30,ASV Neudorf/Parndorf II vs ASV SIEGENDORF,Austria Amateur Burgenlandliga,40756,ASV Neudorf/Parndorf II,ASV SIEGENDORF,2.0,3.6,3.0
+26-09-25,18:00,SC St. Veit vs FC Lendorf,Austria Amateur Karntner Liga,43294,SC St. Veit,FC Lendorf,1.64,4.1,4.1
+26-09-25,16:30,Abo IFK Turku vs Masku,Finland Kolmonen,11019,Abo IFK Turku,Masku,1.26,6.0,7.3
+26-09-25,14:00,Rukinzo FC vs Royal Vision 2026,Burundi Ligue A,45342,Rukinzo FC,Royal Vision 2026,1.6,4.0,3.9
+26-09-25,19:00,Rosario SE vs Olimpico EC SE,"Brazil Sergipano, Serie A2",37892,Rosario SE,Olimpico EC SE,5.8,4.1,1.4
+26-09-25,18:00,ASK Koflach vs SV Allerheiligen,"Austria Amateur Steiermark, Landesliga",43325,ASK Koflach,SV Allerheiligen,2.35,3.9,2.4
+26-09-25,18:00,TUS Bad Waltersdorf vs SV Lebring,"Austria Amateur Steiermark, Landesliga",43333,TUS Bad Waltersdorf,SV Lebring,2.2,3.9,2.55
+26-09-25,12:00,HNK Rijeka vs NK Mladost Zdralovi,Croatia U19 Prva NL Juniori,34967,HNK Rijeka,NK Mladost Zdralovi,1.3,5.1,6.1
+26-09-25,14:00,Athletic Club MG U20 vs Boston City FC MG U20,"Brazil U20 Mineiro, 1. Divisao",16061,Athletic Club MG U20,Boston City FC MG U20,2.3,3.2,2.85
+26-09-25,15:00,CD Plaza Amador vs Umecit II,Panama Liga Prom,19360,CD Plaza Amador,Umecit II,1.82,4.00,3.33
+26-09-25,17:30,TUS Dassendorf 1948 vs FC Turkiye Wilhelmsburg,Germany Amateur Oberliga Hamburg,12307,TUS Dassendorf 1948,FC Turkiye Wilhelmsburg,1.16,6.50,12.00
+26-09-25,18:30,SV Eutin 08 vs SV Preussen 09 Reinfeld,Germany Amateur Oberliga Schleswig-Holstein,10468,SV Eutin 08,SV Preussen 09 Reinfeld,1.18,6.40,10.50
+26-09-25,18:30,FK Austria Wien vs FC Salzburg Frauen,"Austria Amateur Bundesliga, Women",43882,FK Austria Wien,FC Salzburg Frauen,1.30,4.90,7.90
+26-09-25,19:45,Cliftonville LFC vs Linfield Ladies,"Northern Ireland Premiership, Women",47355,Cliftonville LFC,Linfield Ladies,1.58,3.50,4.75
+26-09-25,19:00,America FC RJ vs AD Cabofriense RJ,"Brazil U20 Carioca, Serie A2",45208,America FC RJ,AD Cabofriense RJ,2.10,3.10,3.00
+26-09-25,19:00,Audax Rio EC RJ vs Araruama FC RJ,"Brazil U20 Carioca, Serie A2",44116,Audax Rio EC RJ,Araruama FC RJ,1.55,4.10,4.20
