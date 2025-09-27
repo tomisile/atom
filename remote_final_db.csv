@@ -4114,117 +4114,333 @@ date,log_time,tournament,title,home-team,away-team,pre-match_odds_home,pre-match
 24-09-25,23:54,International Clubs CONMEBOL Sudamericana,Atletico Mineiro MG vs Club Bolivar,Atletico Mineiro MG,Club Bolivar,1.34,5.4,8.4,0,0,0,1.0,0.0,1.0
 24-09-25,23:54,"Argentina Primera LPF, Reserves",CA Talleres de Cordoba Reserve vs Ferro Carril Oeste,CA Talleres de Cordoba Reserve,Ferro Carril Oeste,1.68,3.3,4.3,1,0,1,2.0,0.0,2.0
 25-09-25,00:12,,Boca Juniors vs Newells Old Boys,Boca Juniors,Newells Old Boys,,,,0,0,0,2.0,0.0,2.0
-25-09-25,07:59,,Kopana FC vs Soccer Saga,Kopana FC,Soccer Saga,,,,0,0,0,2,0,2
-25-09-25,08:54,,Tianjin Jinmen Tiger vs Henan,Tianjin Jinmen Tiger,Henan,,,,0,0,0,1,0,1
-25-09-25,09:55,Simulated Reality League LaLiga SRL,Real Oviedo Srl vs Barcelona SRL,Real Oviedo Srl,Barcelona SRL,10.65,6.58,1.24,0,1,1,1,3,4
-25-09-25,09:55,India Bangalore Super Division,Bharat FC vs Parikrma FC,Bharat FC,Parikrma FC,5.9,3.6,1.53,1,0,1,2,0,2
-25-09-25,10:34,Indonesia Super League,Bhayangkara Presisi Indonesia FC vs Malut United,Bhayangkara Presisi Indonesia FC,Malut United,2.7,3.25,2.5,0,1,1,0,1,1
-25-09-25,10:45,Malaysia U20 President Cup,Negeri Sembilan U20 vs PDRM U20,Negeri Sembilan U20,PDRM U20,1.48,3.7,5.5,0,0,0,1,1,2
-25-09-25,10:54,,Myawadi FC Women vs Ayeyawady United FC Women,Myawadi FC Women,Ayeyawady United FC Women,,,,0,1,1,0,2,2
-25-09-25,12:32,Simulated Reality League UEFA Europa League SRL,GO Ahead Eagles Srl vs Fcsb SRL,GO Ahead Eagles Srl,Fcsb SRL,2.01,3.78,3.46,0,0,0,0,0,0
-25-09-25,12:32,,Iron Born FC II vs ROQS FC,Iron Born FC II,ROQS FC,,,,0,0,0,0,1,1
-25-09-25,12:52,Kazakhstan Pervaya Liga,Akademia Ontustyk vs Shakhtar Karagandy,Akademia Ontustyk,Shakhtar Karagandy,4.6,4.6,1.51,0,1,1,0,2,2
-25-09-25,14:00,Greece Greece Cup,Iraklis Thessaloniki vs GS Ilioupoli,Iraklis Thessaloniki,GS Ilioupoli,1.24,5.5,12.0,1,0,1,1,0,1
-25-09-25,14:00,"Italy Serie D, Group B",AC Chievo Verona vs S.S.D. Virtus Ciseranobergamo,AC Chievo Verona,S.S.D. Virtus Ciseranobergamo,1.62,3.7,4.75,0,0,0,1,0,1
-25-09-25,14:00,Indonesia Super League,PSBS Biak vs Madura United,PSBS Biak,Madura United,2.95,3.4,2.25,0,0,0,0,0,0
-25-09-25,14:00,Poland Puchar Polski,Avia Swidnik vs Ruch Chorzow,Avia Swidnik,Ruch Chorzow,3.6,3.75,1.87,0,1,1,3,1,4
-25-09-25,14:51,Simulated Reality League UEFA Europa League SRL,Aston Villa SRL vs Bologna SRL,Aston Villa SRL,Bologna SRL,1.83,3.56,4.52,0,0,0,0,1,1
-25-09-25,14:51,Simulated Reality League UEFA Europa League SRL,BSC Young Boys SRL vs Panathinaikos SRL,BSC Young Boys SRL,Panathinaikos SRL,2.29,3.55,3.01,0,0,0,1,1,2
-25-09-25,14:51,Simulated Reality League UEFA Europa League SRL,Rangers SRL vs GENK SRL,Rangers SRL,GENK SRL,2.48,3.6,2.71,0,1,1,1,1,2
-25-09-25,14:51,Simulated Reality League UEFA Europa League SRL,Salzburg SRL vs Porto SRL,Salzburg SRL,Porto SRL,3.53,3.63,2.03,0,0,0,2,1,3
-25-09-25,14:51,Simulated Reality League UEFA Europa League SRL,Utrecht SRL vs Lyon SRL,Utrecht SRL,Lyon SRL,3.22,3.58,2.17,1,0,1,2,2,4
-25-09-25,14:51,Simulated Reality League UEFA Europa League SRL,VFB Stuttgart SRL vs Celta SRL,VFB Stuttgart SRL,Celta SRL,1.96,3.82,3.58,0,0,0,2,1,3
-25-09-25,14:51,Egypt 2. Division A,Telecom Egypt vs Dayrout,Telecom Egypt,Dayrout,2.4,2.85,3.0,1,0,1,2,1,3
-25-09-25,14:51,Kosovo Superliga,Ballkani vs KF Drita,Ballkani,KF Drita,2.15,3.25,3.0,1,0,1,2,0,2
-25-09-25,14:51,Kosovo Superliga,SC Gjilani vs KF Drenica Skenderaj,SC Gjilani,KF Drenica Skenderaj,1.75,3.33,4.4,0,0,0,0,1,1
-25-09-25,14:51,Uzbekistan Cup,Pakhtakor vs PFK Dinamo Samarqand,Pakhtakor,PFK Dinamo Samarqand,1.61,3.6,5.0,0,0,0,4,2,6
-25-09-25,14:51,Egypt Egypt Second Division B,Tel Bani Swaif vs MS Tamea,Tel Bani Swaif,MS Tamea,2.0,3.0,3.7,0,0,0,0,0,0
-25-09-25,14:51,,AL Ahly Amman U19 vs Al-Faisaly U19,AL Ahly Amman U19,Al-Faisaly U19,,,,0,0,0,0,1,1
-25-09-25,15:00,Egypt 2. Division A,Baladiyyat AL Mehalla vs El Entag El Harby,Baladiyyat AL Mehalla,El Entag El Harby,2.85,2.95,2.45,0,0,0,1,1,2
-25-09-25,15:00,Oman Omani League,Sur SC vs Samail SC,Sur SC,Samail SC,2.5,2.9,2.8,0,0,0,0,0,0
-25-09-25,15:00,,Club El Porvenir Reserves vs Claypole Reserves,Club El Porvenir Reserves,Claypole Reserves,,,,0,1,1,0,3,3
-25-09-25,15:47,Simulated Reality League Copa Libertadores SRL,Sao Paulo FC SP SRL vs LDU Quito SRL,Sao Paulo FC SP SRL,LDU Quito SRL,1.4,4.37,9.49,1,0,1,2,0,2
-25-09-25,15:47,Turkiye 1. Lig,Sivasspor vs Adana Demirspor,Sivasspor,Adana Demirspor,1.11,8.7,19.5,1,0,1,5,0,5
-25-09-25,15:58,Russia Russian Cup,FC Amkal Moscow vs FC Yenisey Krasnoyarsk,FC Amkal Moscow,FC Yenisey Krasnoyarsk,3.2,3.4,2.1,0,0,0,1,2,3
-25-09-25,15:58,,CA Talleres de Remedios Reserve vs CA San Miguel II,CA Talleres de Remedios Reserve,CA San Miguel II,,,,0,0,0,2,0,2
-25-09-25,15:58,,Defensores Unidos Reserve vs Temperley Reserve,Defensores Unidos Reserve,Temperley Reserve,,,,0,1,1,1,3,4
-25-09-25,16:24,Bulgaria Parva Liga,Botev Plovdiv vs FC CSKA 1948,Botev Plovdiv,FC CSKA 1948,3.1,3.33,2.2,0,1,1,1,2,3
-25-09-25,16:40,,Taqah U21 vs Al-Ittihad Club Salalah U21,Taqah U21,Al-Ittihad Club Salalah U21,,,,0,1,1,2,1,3
-25-09-25,16:50,Armenia Premier League,FC Ararat-Armenia vs FC Alashkert Yerevan,FC Ararat-Armenia,FC Alashkert Yerevan,1.86,3.33,4.1,1,0,1,2,1,3
-25-09-25,16:50,Norway 3rd Division Group 5,FK Haugesund 2 vs SK Djerv 1919,FK Haugesund 2,SK Djerv 1919,2.25,3.8,2.5,0,1,1,0,3,3
-25-09-25,16:50,Iraq Stars League,AL Naft vs AL Talaba,AL Naft,AL Talaba,2.7,3.1,2.45,0,0,0,0,0,0
-25-09-25,16:50,,ZFK Spartak Subotica vs ZFK Crvena Zvezda,ZFK Spartak Subotica,ZFK Crvena Zvezda,,,,0,0,0,1,0,1
-25-09-25,16:50,,FC Juarez vs Puebla FC,FC Juarez,Puebla FC,,,,0,0,0,0,3,3
-25-09-25,16:59,Saudi Arabia Saudi Pro League,Al-Khaleej Club vs Al-Taawoun FC,Al-Khaleej Club,Al-Taawoun FC,2.4,3.5,2.85,0,0,0,0,1,1
-25-09-25,16:59,Iraq Stars League,Diyala FC vs Zakho FC,Diyala FC,Zakho FC,4.6,2.9,1.86,1,0,1,2,1,3
-25-09-25,16:59,,CA General Lamadrid Reserve vs CA Lugano Reserve,CA General Lamadrid Reserve,CA Lugano Reserve,,,,0,0,0,1,1,2
-25-09-25,17:49,Estonia Esiliiga,Tartu JK Tammeka U21 vs Tallinna FC Flora U21,Tartu JK Tammeka U21,Tallinna FC Flora U21,8.4,7.6,1.18,0,1,1,0,1,1
-25-09-25,17:49,Norway NM Cup,Odds BK vs Bodoe/Glimt,Odds BK,Bodoe/Glimt,14.0,6.9,1.2,0,0,0,1,3,4
-25-09-25,17:49,Latvia Virsliga,FK Rigas Futbola Skola vs Riga FC,FK Rigas Futbola Skola,Riga FC,2.8,3.33,2.35,0,0,0,0,0,0
-25-09-25,17:49,Oman Omani League,Al Nahda vs Saham,Al Nahda,Saham,1.41,4.0,7.25,0,0,0,1,0,1
-25-09-25,17:49,"Norway Toppserien, Women",Kolbotn vs Stabaek Fotball,Kolbotn,Stabaek Fotball,4.4,3.9,1.62,0,0,0,1,0,1
-25-09-25,17:49,"Israel Liga Al, Women",Maccabi Kishronot Hadera vs Hapoel Raanana,Maccabi Kishronot Hadera,Hapoel Raanana,1.27,4.9,7.0,0,1,1,0,2,2
-25-09-25,17:49,,Al-Hussein Irbid vs AL Arabi U19,Al-Hussein Irbid,AL Arabi U19,,,,0,0,0,0,0,0
-25-09-25,17:58,,Mitre Santiago Del Estero Reserve vs CA San Telmo Reserve,Mitre Santiago Del Estero Reserve,CA San Telmo Reserve,,,,1,0,1,1,1,2
-25-09-25,17:58,Bahrain Premier League,Al Hidd vs Al Riffa,Al Hidd,Al Riffa,5.4,4.1,1.54,0,0,0,0,0,0
-25-09-25,17:58,Bahrain Premier League,Sitra Club vs Al-Najma Manama,Sitra Club,Al-Najma Manama,1.78,3.6,4.2,0,0,0,0,0,0
-25-09-25,17:58,,Mazatlan FC vs Pumas Unam,Mazatlan FC,Pumas Unam,,,,0,1,1,0,4,4
-25-09-25,17:58,,Hapoel Katamon Jerusalem vs Hapoel Nir Ramat Hasharon,Hapoel Katamon Jerusalem,Hapoel Nir Ramat Hasharon,,,,1,0,1,6,0,6
-25-09-25,17:58,,Mazatlan FC vs Club Santos Laguna,Mazatlan FC,Club Santos Laguna,,,,0,0,0,4,3,7
-25-09-25,18:19,"Italy Serie C, Group A",AC Trento vs US Pergolettese Crema,AC Trento,US Pergolettese Crema,2.05,3.25,3.5,0,0,0,0,0,0
-25-09-25,18:19,"Italy Serie C, Group A",FC Arzignano Valchiampo vs Alcione Milano,FC Arzignano Valchiampo,Alcione Milano,1.94,3.2,4.0,0,1,1,1,3,4
-25-09-25,18:19,United Arab Emirates Arabian Gulf League,Al Wasl FC vs Sharjah FC,Al Wasl FC,Sharjah FC,2.05,3.4,3.4,0,1,1,2,1,3
-25-09-25,18:19,,SFC Shturmi Sartichala vs FC Kolkheti Khobi,SFC Shturmi Sartichala,FC Kolkheti Khobi,,,,1,0,1,2,0,2
-25-09-25,18:19,Norway Amateur U19 Leagues,Bærum SK U19 vs Ullensaker/Kisa U19,Bærum SK U19,Ullensaker/Kisa U19,2.1,4.2,2.6,0,1,1,0,2,2
-25-09-25,18:19,Norway Amateur U19 Leagues,Ullern U19 vs Grorud U19,Ullern U19,Grorud U19,2.1,4.1,2.65,1,0,1,4,0,4
-25-09-25,18:36,International Clubs UEFA Europa League,Go Ahead Eagles vs Fotbal Club FCSB,Go Ahead Eagles,Fotbal Club FCSB,1.92,4.0,4.0,0,1,1,0,1,1
-25-09-25,18:36,International Clubs UEFA Europa League,Lille vs SK Brann,Lille,SK Brann,1.53,4.82,6.26,0,0,0,2,1,3
-25-09-25,18:36,Russia Russian Cup,FC Kamaz Naberezhnye Chelny vs Spartak Kostroma,FC Kamaz Naberezhnye Chelny,Spartak Kostroma,2.8,2.9,2.65,0,0,0,5,4,9
-25-09-25,18:36,"Israel Liga Al, Women",Maccabi Holon FC vs AS Tel Aviv University,Maccabi Holon FC,AS Tel Aviv University,8.1,4.7,1.26,1,0,1,1,2,3
-25-09-25,18:36,Finland Kolmonen,FC Lasten vs FC Haka J,FC Lasten,FC Haka J,2.4,3.75,2.4,0,1,1,1,3,4
-25-09-25,18:45,Sweden Superettan,Sandvikens IF vs Helsingborgs IF,Sandvikens IF,Helsingborgs IF,2.35,3.25,3.1,0,1,1,0,1,1
-25-09-25,18:54,Denmark DBU Pokalen,Kolding IF vs Nordsjaelland,Kolding IF,Nordsjaelland,4.6,4.2,1.6,0,0,0,0,2,2
-25-09-25,18:54,Sweden Superettan,Trelleborgs FF vs Orgryte IS,Trelleborgs FF,Orgryte IS,3.6,3.9,1.9,0,0,0,0,2,2
-25-09-25,18:54,Sweden Superettan,Umea FC vs Vasteras SK,Umea FC,Vasteras SK,6.1,4.7,1.46,0,1,1,1,2,3
-25-09-25,18:54,Turkiye 1. Lig,Amed Sportif Faaliyetler vs Sariyer SK,Amed Sportif Faaliyetler,Sariyer SK,1.4,4.8,6.8,0,0,0,2,0,2
-25-09-25,18:54,,CA Los Andes Reserve vs Agropecuario Reserves,CA Los Andes Reserve,Agropecuario Reserves,,,,0,1,1,2,1,3
-25-09-25,18:54,Poland Puchar Polski,RKS Radomiak Radom vs Zaglebie Lubin,RKS Radomiak Radom,Zaglebie Lubin,2.6,3.33,2.5,0,1,1,0,2,2
-25-09-25,18:54,Qatar Stars League,Al Sadd SC vs Al Duhail SC,Al Sadd SC,Al Duhail SC,2.5,3.9,2.45,0,0,0,0,0,0
-25-09-25,18:54,Austria Amateur Regionalliga Centre,SC Kalsdorf vs Atus Velden,SC Kalsdorf,Atus Velden,1.65,4.0,3.6,0,0,0,1,0,1
-25-09-25,18:54,,FC Tbilisi 2025 vs Gardabani,FC Tbilisi 2025,Gardabani,,,,0,0,0,4,0,4
-25-09-25,18:54,Germany Amateur Women Bundesliga,RB Leipzig vs Hamburger SV,RB Leipzig,Hamburger SV,1.65,4.1,4.1,0,0,0,0,1,1
-25-09-25,18:54,,SE Palmeiras SP vs Ferroviaria SP,SE Palmeiras SP,Ferroviaria SP,,,,1,0,1,1,1,2
-25-09-25,19:45,"Argentina Primera LPF, Reserves",Argentinos Juniors Reserve vs CA Central Cordoba SE Reserve,Argentinos Juniors Reserve,CA Central Cordoba SE Reserve,1.77,2.8,4.9,0,0,0,2,0,2
-25-09-25,19:45,"Argentina Primera LPF, Reserves",CA Lanus vs San Lorenzo de Almagro Res.,CA Lanus,San Lorenzo de Almagro Res.,2.45,2.8,2.75,0,0,0,1,2,3
-25-09-25,19:56,Belgium Challenger Pro League,Jeugd KAA Gent B vs Lierse Kempenzonen,Jeugd KAA Gent B,Lierse Kempenzonen,2.3,3.4,2.85,0,0,0,0,0,0
-25-09-25,19:56,"Argentina Primera LPF, Reserves",Racing Club Reserve vs Independiente Rivadavia de Mendoza Reserve,Racing Club Reserve,Independiente Rivadavia de Mendoza Reserve,1.59,3.6,4.4,1,0,1,1,0,1
-25-09-25,19:56,"Argentina Primera LPF, Reserves",San Martin de San Juan Reserve vs Instituto AC Cordoba Reserves,San Martin de San Juan Reserve,Instituto AC Cordoba Reserves,2.95,2.95,2.2,0,0,0,0,0,0
-25-09-25,19:56,"Iceland Besta deild, Women",Breidablik Kopavogur W vs Stjarnan,Breidablik Kopavogur W,Stjarnan,1.09,10.5,17.0,1,0,1,1,2,3
-25-09-25,19:56,"Iceland Besta deild, Women",Throttur Reykjavik vs Vikingur Reykjavik,Throttur Reykjavik,Vikingur Reykjavik,1.92,4.25,3.2,1,0,1,3,2,5
-25-09-25,19:56,,Figueirense FC SC vs EC Sao Jose RS,Figueirense FC SC,EC Sao Jose RS,,,,0,0,0,1,3,4
-25-09-25,20:14,Kosovo Superliga,FC Prishtina vs KF Prishtina E Re,FC Prishtina,KF Prishtina E Re,1.84,3.5,3.7,1,0,1,2,0,2
-25-09-25,20:14,,Nordstrand U19 vs Skeid U19,Nordstrand U19,Skeid U19,,,,0,1,1,0,1,1
-25-09-25,20:14,,Sprint-Jeløy U19 vs Valerenga U19,Sprint-Jeløy U19,Valerenga U19,,,,1,0,1,1,2,3
-25-09-25,20:26,Poland Puchar Polski,MKS Arka Gdynia vs LKP Motor Lublin,MKS Arka Gdynia,LKP Motor Lublin,2.35,3.2,2.9,0,0,0,1,0,1
-25-09-25,20:37,"Italy Serie C, Group A",Inter Milano U23 vs Triestina Calcio 1918,Inter Milano U23,Triestina Calcio 1918,2.15,3.1,3.5,1,0,1,2,0,2
-25-09-25,20:37,"Italy Serie C, Group A",Union Brescia vs Novara Calcio,Union Brescia,Novara Calcio,1.72,3.4,4.8,0,1,1,1,1,2
+25-09-25,07:59,,Kopana FC vs Soccer Saga,Kopana FC,Soccer Saga,,,,0,0,0,2.0,0.0,2.0
+25-09-25,08:54,,Tianjin Jinmen Tiger vs Henan,Tianjin Jinmen Tiger,Henan,,,,0,0,0,1.0,0.0,1.0
+25-09-25,09:55,Simulated Reality League LaLiga SRL,Real Oviedo Srl vs Barcelona SRL,Real Oviedo Srl,Barcelona SRL,10.65,6.58,1.24,0,1,1,1.0,3.0,4.0
+25-09-25,09:55,India Bangalore Super Division,Bharat FC vs Parikrma FC,Bharat FC,Parikrma FC,5.9,3.6,1.53,1,0,1,2.0,0.0,2.0
+25-09-25,10:34,Indonesia Super League,Bhayangkara Presisi Indonesia FC vs Malut United,Bhayangkara Presisi Indonesia FC,Malut United,2.7,3.25,2.5,0,1,1,0.0,1.0,1.0
+25-09-25,10:45,Malaysia U20 President Cup,Negeri Sembilan U20 vs PDRM U20,Negeri Sembilan U20,PDRM U20,1.48,3.7,5.5,0,0,0,1.0,1.0,2.0
+25-09-25,10:54,,Myawadi FC Women vs Ayeyawady United FC Women,Myawadi FC Women,Ayeyawady United FC Women,,,,0,1,1,0.0,2.0,2.0
+25-09-25,12:32,Simulated Reality League UEFA Europa League SRL,GO Ahead Eagles Srl vs Fcsb SRL,GO Ahead Eagles Srl,Fcsb SRL,2.01,3.78,3.46,0,0,0,0.0,0.0,0.0
+25-09-25,12:32,,Iron Born FC II vs ROQS FC,Iron Born FC II,ROQS FC,,,,0,0,0,0.0,1.0,1.0
+25-09-25,12:52,Kazakhstan Pervaya Liga,Akademia Ontustyk vs Shakhtar Karagandy,Akademia Ontustyk,Shakhtar Karagandy,4.6,4.6,1.51,0,1,1,0.0,2.0,2.0
+25-09-25,14:00,Greece Greece Cup,Iraklis Thessaloniki vs GS Ilioupoli,Iraklis Thessaloniki,GS Ilioupoli,1.24,5.5,12.0,1,0,1,1.0,0.0,1.0
+25-09-25,14:00,"Italy Serie D, Group B",AC Chievo Verona vs S.S.D. Virtus Ciseranobergamo,AC Chievo Verona,S.S.D. Virtus Ciseranobergamo,1.62,3.7,4.75,0,0,0,1.0,0.0,1.0
+25-09-25,14:00,Indonesia Super League,PSBS Biak vs Madura United,PSBS Biak,Madura United,2.95,3.4,2.25,0,0,0,0.0,0.0,0.0
+25-09-25,14:00,Poland Puchar Polski,Avia Swidnik vs Ruch Chorzow,Avia Swidnik,Ruch Chorzow,3.6,3.75,1.87,0,1,1,3.0,1.0,4.0
+25-09-25,14:51,Simulated Reality League UEFA Europa League SRL,Aston Villa SRL vs Bologna SRL,Aston Villa SRL,Bologna SRL,1.83,3.56,4.52,0,0,0,0.0,1.0,1.0
+25-09-25,14:51,Simulated Reality League UEFA Europa League SRL,BSC Young Boys SRL vs Panathinaikos SRL,BSC Young Boys SRL,Panathinaikos SRL,2.29,3.55,3.01,0,0,0,1.0,1.0,2.0
+25-09-25,14:51,Simulated Reality League UEFA Europa League SRL,Rangers SRL vs GENK SRL,Rangers SRL,GENK SRL,2.48,3.6,2.71,0,1,1,1.0,1.0,2.0
+25-09-25,14:51,Simulated Reality League UEFA Europa League SRL,Salzburg SRL vs Porto SRL,Salzburg SRL,Porto SRL,3.53,3.63,2.03,0,0,0,2.0,1.0,3.0
+25-09-25,14:51,Simulated Reality League UEFA Europa League SRL,Utrecht SRL vs Lyon SRL,Utrecht SRL,Lyon SRL,3.22,3.58,2.17,1,0,1,2.0,2.0,4.0
+25-09-25,14:51,Simulated Reality League UEFA Europa League SRL,VFB Stuttgart SRL vs Celta SRL,VFB Stuttgart SRL,Celta SRL,1.96,3.82,3.58,0,0,0,2.0,1.0,3.0
+25-09-25,14:51,Egypt 2. Division A,Telecom Egypt vs Dayrout,Telecom Egypt,Dayrout,2.4,2.85,3.0,1,0,1,2.0,1.0,3.0
+25-09-25,14:51,Kosovo Superliga,Ballkani vs KF Drita,Ballkani,KF Drita,2.15,3.25,3.0,1,0,1,2.0,0.0,2.0
+25-09-25,14:51,Kosovo Superliga,SC Gjilani vs KF Drenica Skenderaj,SC Gjilani,KF Drenica Skenderaj,1.75,3.33,4.4,0,0,0,0.0,1.0,1.0
+25-09-25,14:51,Uzbekistan Cup,Pakhtakor vs PFK Dinamo Samarqand,Pakhtakor,PFK Dinamo Samarqand,1.61,3.6,5.0,0,0,0,4.0,2.0,6.0
+25-09-25,14:51,Egypt Egypt Second Division B,Tel Bani Swaif vs MS Tamea,Tel Bani Swaif,MS Tamea,2.0,3.0,3.7,0,0,0,0.0,0.0,0.0
+25-09-25,14:51,,AL Ahly Amman U19 vs Al-Faisaly U19,AL Ahly Amman U19,Al-Faisaly U19,,,,0,0,0,0.0,1.0,1.0
+25-09-25,15:00,Egypt 2. Division A,Baladiyyat AL Mehalla vs El Entag El Harby,Baladiyyat AL Mehalla,El Entag El Harby,2.85,2.95,2.45,0,0,0,1.0,1.0,2.0
+25-09-25,15:00,Oman Omani League,Sur SC vs Samail SC,Sur SC,Samail SC,2.5,2.9,2.8,0,0,0,0.0,0.0,0.0
+25-09-25,15:00,,Club El Porvenir Reserves vs Claypole Reserves,Club El Porvenir Reserves,Claypole Reserves,,,,0,1,1,0.0,3.0,3.0
+25-09-25,15:47,Simulated Reality League Copa Libertadores SRL,Sao Paulo FC SP SRL vs LDU Quito SRL,Sao Paulo FC SP SRL,LDU Quito SRL,1.4,4.37,9.49,1,0,1,2.0,0.0,2.0
+25-09-25,15:47,Turkiye 1. Lig,Sivasspor vs Adana Demirspor,Sivasspor,Adana Demirspor,1.11,8.7,19.5,1,0,1,5.0,0.0,5.0
+25-09-25,15:58,Russia Russian Cup,FC Amkal Moscow vs FC Yenisey Krasnoyarsk,FC Amkal Moscow,FC Yenisey Krasnoyarsk,3.2,3.4,2.1,0,0,0,1.0,2.0,3.0
+25-09-25,15:58,,CA Talleres de Remedios Reserve vs CA San Miguel II,CA Talleres de Remedios Reserve,CA San Miguel II,,,,0,0,0,2.0,0.0,2.0
+25-09-25,15:58,,Defensores Unidos Reserve vs Temperley Reserve,Defensores Unidos Reserve,Temperley Reserve,,,,0,1,1,1.0,3.0,4.0
+25-09-25,16:24,Bulgaria Parva Liga,Botev Plovdiv vs FC CSKA 1948,Botev Plovdiv,FC CSKA 1948,3.1,3.33,2.2,0,1,1,1.0,2.0,3.0
+25-09-25,16:40,,Taqah U21 vs Al-Ittihad Club Salalah U21,Taqah U21,Al-Ittihad Club Salalah U21,,,,0,1,1,2.0,1.0,3.0
+25-09-25,16:50,Armenia Premier League,FC Ararat-Armenia vs FC Alashkert Yerevan,FC Ararat-Armenia,FC Alashkert Yerevan,1.86,3.33,4.1,1,0,1,2.0,1.0,3.0
+25-09-25,16:50,Norway 3rd Division Group 5,FK Haugesund 2 vs SK Djerv 1919,FK Haugesund 2,SK Djerv 1919,2.25,3.8,2.5,0,1,1,0.0,3.0,3.0
+25-09-25,16:50,Iraq Stars League,AL Naft vs AL Talaba,AL Naft,AL Talaba,2.7,3.1,2.45,0,0,0,0.0,0.0,0.0
+25-09-25,16:50,,ZFK Spartak Subotica vs ZFK Crvena Zvezda,ZFK Spartak Subotica,ZFK Crvena Zvezda,,,,0,0,0,1.0,0.0,1.0
+25-09-25,16:50,,FC Juarez vs Puebla FC,FC Juarez,Puebla FC,,,,0,0,0,0.0,3.0,3.0
+25-09-25,16:59,Saudi Arabia Saudi Pro League,Al-Khaleej Club vs Al-Taawoun FC,Al-Khaleej Club,Al-Taawoun FC,2.4,3.5,2.85,0,0,0,0.0,1.0,1.0
+25-09-25,16:59,Iraq Stars League,Diyala FC vs Zakho FC,Diyala FC,Zakho FC,4.6,2.9,1.86,1,0,1,2.0,1.0,3.0
+25-09-25,16:59,,CA General Lamadrid Reserve vs CA Lugano Reserve,CA General Lamadrid Reserve,CA Lugano Reserve,,,,0,0,0,1.0,1.0,2.0
+25-09-25,17:49,Estonia Esiliiga,Tartu JK Tammeka U21 vs Tallinna FC Flora U21,Tartu JK Tammeka U21,Tallinna FC Flora U21,8.4,7.6,1.18,0,1,1,0.0,1.0,1.0
+25-09-25,17:49,Norway NM Cup,Odds BK vs Bodoe/Glimt,Odds BK,Bodoe/Glimt,14.0,6.9,1.2,0,0,0,1.0,3.0,4.0
+25-09-25,17:49,Latvia Virsliga,FK Rigas Futbola Skola vs Riga FC,FK Rigas Futbola Skola,Riga FC,2.8,3.33,2.35,0,0,0,0.0,0.0,0.0
+25-09-25,17:49,Oman Omani League,Al Nahda vs Saham,Al Nahda,Saham,1.41,4.0,7.25,0,0,0,1.0,0.0,1.0
+25-09-25,17:49,"Norway Toppserien, Women",Kolbotn vs Stabaek Fotball,Kolbotn,Stabaek Fotball,4.4,3.9,1.62,0,0,0,1.0,0.0,1.0
+25-09-25,17:49,"Israel Liga Al, Women",Maccabi Kishronot Hadera vs Hapoel Raanana,Maccabi Kishronot Hadera,Hapoel Raanana,1.27,4.9,7.0,0,1,1,0.0,2.0,2.0
+25-09-25,17:49,,Al-Hussein Irbid vs AL Arabi U19,Al-Hussein Irbid,AL Arabi U19,,,,0,0,0,0.0,0.0,0.0
+25-09-25,17:58,,Mitre Santiago Del Estero Reserve vs CA San Telmo Reserve,Mitre Santiago Del Estero Reserve,CA San Telmo Reserve,,,,1,0,1,1.0,1.0,2.0
+25-09-25,17:58,Bahrain Premier League,Al Hidd vs Al Riffa,Al Hidd,Al Riffa,5.4,4.1,1.54,0,0,0,0.0,0.0,0.0
+25-09-25,17:58,Bahrain Premier League,Sitra Club vs Al-Najma Manama,Sitra Club,Al-Najma Manama,1.78,3.6,4.2,0,0,0,0.0,0.0,0.0
+25-09-25,17:58,,Mazatlan FC vs Pumas Unam,Mazatlan FC,Pumas Unam,,,,0,1,1,0.0,4.0,4.0
+25-09-25,17:58,,Hapoel Katamon Jerusalem vs Hapoel Nir Ramat Hasharon,Hapoel Katamon Jerusalem,Hapoel Nir Ramat Hasharon,,,,1,0,1,6.0,0.0,6.0
+25-09-25,17:58,,Mazatlan FC vs Club Santos Laguna,Mazatlan FC,Club Santos Laguna,,,,0,0,0,4.0,3.0,7.0
+25-09-25,18:19,"Italy Serie C, Group A",AC Trento vs US Pergolettese Crema,AC Trento,US Pergolettese Crema,2.05,3.25,3.5,0,0,0,0.0,0.0,0.0
+25-09-25,18:19,"Italy Serie C, Group A",FC Arzignano Valchiampo vs Alcione Milano,FC Arzignano Valchiampo,Alcione Milano,1.94,3.2,4.0,0,1,1,1.0,3.0,4.0
+25-09-25,18:19,United Arab Emirates Arabian Gulf League,Al Wasl FC vs Sharjah FC,Al Wasl FC,Sharjah FC,2.05,3.4,3.4,0,1,1,2.0,1.0,3.0
+25-09-25,18:19,,SFC Shturmi Sartichala vs FC Kolkheti Khobi,SFC Shturmi Sartichala,FC Kolkheti Khobi,,,,1,0,1,2.0,0.0,2.0
+25-09-25,18:19,Norway Amateur U19 Leagues,Bærum SK U19 vs Ullensaker/Kisa U19,Bærum SK U19,Ullensaker/Kisa U19,2.1,4.2,2.6,0,1,1,0.0,2.0,2.0
+25-09-25,18:19,Norway Amateur U19 Leagues,Ullern U19 vs Grorud U19,Ullern U19,Grorud U19,2.1,4.1,2.65,1,0,1,4.0,0.0,4.0
+25-09-25,18:36,International Clubs UEFA Europa League,Go Ahead Eagles vs Fotbal Club FCSB,Go Ahead Eagles,Fotbal Club FCSB,1.92,4.0,4.0,0,1,1,0.0,1.0,1.0
+25-09-25,18:36,International Clubs UEFA Europa League,Lille vs SK Brann,Lille,SK Brann,1.53,4.82,6.26,0,0,0,2.0,1.0,3.0
+25-09-25,18:36,Russia Russian Cup,FC Kamaz Naberezhnye Chelny vs Spartak Kostroma,FC Kamaz Naberezhnye Chelny,Spartak Kostroma,2.8,2.9,2.65,0,0,0,5.0,4.0,9.0
+25-09-25,18:36,"Israel Liga Al, Women",Maccabi Holon FC vs AS Tel Aviv University,Maccabi Holon FC,AS Tel Aviv University,8.1,4.7,1.26,1,0,1,1.0,2.0,3.0
+25-09-25,18:36,Finland Kolmonen,FC Lasten vs FC Haka J,FC Lasten,FC Haka J,2.4,3.75,2.4,0,1,1,1.0,3.0,4.0
+25-09-25,18:45,Sweden Superettan,Sandvikens IF vs Helsingborgs IF,Sandvikens IF,Helsingborgs IF,2.35,3.25,3.1,0,1,1,0.0,1.0,1.0
+25-09-25,18:54,Denmark DBU Pokalen,Kolding IF vs Nordsjaelland,Kolding IF,Nordsjaelland,4.6,4.2,1.6,0,0,0,0.0,2.0,2.0
+25-09-25,18:54,Sweden Superettan,Trelleborgs FF vs Orgryte IS,Trelleborgs FF,Orgryte IS,3.6,3.9,1.9,0,0,0,0.0,2.0,2.0
+25-09-25,18:54,Sweden Superettan,Umea FC vs Vasteras SK,Umea FC,Vasteras SK,6.1,4.7,1.46,0,1,1,1.0,2.0,3.0
+25-09-25,18:54,Turkiye 1. Lig,Amed Sportif Faaliyetler vs Sariyer SK,Amed Sportif Faaliyetler,Sariyer SK,1.4,4.8,6.8,0,0,0,2.0,0.0,2.0
+25-09-25,18:54,,CA Los Andes Reserve vs Agropecuario Reserves,CA Los Andes Reserve,Agropecuario Reserves,,,,0,1,1,2.0,1.0,3.0
+25-09-25,18:54,Poland Puchar Polski,RKS Radomiak Radom vs Zaglebie Lubin,RKS Radomiak Radom,Zaglebie Lubin,2.6,3.33,2.5,0,1,1,0.0,2.0,2.0
+25-09-25,18:54,Qatar Stars League,Al Sadd SC vs Al Duhail SC,Al Sadd SC,Al Duhail SC,2.5,3.9,2.45,0,0,0,0.0,0.0,0.0
+25-09-25,18:54,Austria Amateur Regionalliga Centre,SC Kalsdorf vs Atus Velden,SC Kalsdorf,Atus Velden,1.65,4.0,3.6,0,0,0,1.0,0.0,1.0
+25-09-25,18:54,,FC Tbilisi 2025 vs Gardabani,FC Tbilisi 2025,Gardabani,,,,0,0,0,4.0,0.0,4.0
+25-09-25,18:54,Germany Amateur Women Bundesliga,RB Leipzig vs Hamburger SV,RB Leipzig,Hamburger SV,1.65,4.1,4.1,0,0,0,0.0,1.0,1.0
+25-09-25,18:54,,SE Palmeiras SP vs Ferroviaria SP,SE Palmeiras SP,Ferroviaria SP,,,,1,0,1,1.0,1.0,2.0
+25-09-25,19:45,"Argentina Primera LPF, Reserves",Argentinos Juniors Reserve vs CA Central Cordoba SE Reserve,Argentinos Juniors Reserve,CA Central Cordoba SE Reserve,1.77,2.8,4.9,0,0,0,2.0,0.0,2.0
+25-09-25,19:45,"Argentina Primera LPF, Reserves",CA Lanus vs San Lorenzo de Almagro Res.,CA Lanus,San Lorenzo de Almagro Res.,2.45,2.8,2.75,0,0,0,1.0,2.0,3.0
+25-09-25,19:56,Belgium Challenger Pro League,Jeugd KAA Gent B vs Lierse Kempenzonen,Jeugd KAA Gent B,Lierse Kempenzonen,2.3,3.4,2.85,0,0,0,0.0,0.0,0.0
+25-09-25,19:56,"Argentina Primera LPF, Reserves",Racing Club Reserve vs Independiente Rivadavia de Mendoza Reserve,Racing Club Reserve,Independiente Rivadavia de Mendoza Reserve,1.59,3.6,4.4,1,0,1,1.0,0.0,1.0
+25-09-25,19:56,"Argentina Primera LPF, Reserves",San Martin de San Juan Reserve vs Instituto AC Cordoba Reserves,San Martin de San Juan Reserve,Instituto AC Cordoba Reserves,2.95,2.95,2.2,0,0,0,0.0,0.0,0.0
+25-09-25,19:56,"Iceland Besta deild, Women",Breidablik Kopavogur W vs Stjarnan,Breidablik Kopavogur W,Stjarnan,1.09,10.5,17.0,1,0,1,1.0,2.0,3.0
+25-09-25,19:56,"Iceland Besta deild, Women",Throttur Reykjavik vs Vikingur Reykjavik,Throttur Reykjavik,Vikingur Reykjavik,1.92,4.25,3.2,1,0,1,3.0,2.0,5.0
+25-09-25,19:56,,Figueirense FC SC vs EC Sao Jose RS,Figueirense FC SC,EC Sao Jose RS,,,,0,0,0,1.0,3.0,4.0
+25-09-25,20:14,Kosovo Superliga,FC Prishtina vs KF Prishtina E Re,FC Prishtina,KF Prishtina E Re,1.84,3.5,3.7,1,0,1,2.0,0.0,2.0
+25-09-25,20:14,,Nordstrand U19 vs Skeid U19,Nordstrand U19,Skeid U19,,,,0,1,1,0.0,1.0,1.0
+25-09-25,20:14,,Sprint-Jeløy U19 vs Valerenga U19,Sprint-Jeløy U19,Valerenga U19,,,,1,0,1,1.0,2.0,3.0
+25-09-25,20:26,Poland Puchar Polski,MKS Arka Gdynia vs LKP Motor Lublin,MKS Arka Gdynia,LKP Motor Lublin,2.35,3.2,2.9,0,0,0,1.0,0.0,1.0
+25-09-25,20:37,"Italy Serie C, Group A",Inter Milano U23 vs Triestina Calcio 1918,Inter Milano U23,Triestina Calcio 1918,2.15,3.1,3.5,1,0,1,2.0,0.0,2.0
+25-09-25,20:37,"Italy Serie C, Group A",Union Brescia vs Novara Calcio,Union Brescia,Novara Calcio,1.72,3.4,4.8,0,1,1,1.0,1.0,2.0
 25-09-25,20:37,"Ireland Leinster Senior League, Senior Division",St Mochtas FC vs Bangor Celtic FC,St Mochtas FC,Bangor Celtic FC,2.15,3.5,2.85,0,1,1,,,
-25-09-25,20:49,International Clubs UEFA Europa League,Aston Villa vs Bologna,Aston Villa,Bologna,1.87,3.69,4.7,1,0,1,1,0,1
-25-09-25,20:49,International Clubs UEFA Europa League,Salzburg vs Porto,Salzburg,Porto,3.76,3.78,2.04,0,0,0,0,1,1
-25-09-25,20:49,International Clubs UEFA Europa League,Stuttgart vs Celta,Stuttgart,Celta,1.97,3.99,3.82,0,0,0,2,1,3
-25-09-25,20:49,International Clubs UEFA Europa League,FC Utrecht vs Lyon,FC Utrecht,Lyon,3.11,3.71,2.33,0,0,0,0,1,1
-25-09-25,20:49,International Clubs UEFA Europa League,Ferencvarosi Budapest vs Viktoria Plzen,Ferencvarosi Budapest,Viktoria Plzen,2.38,3.63,3.09,0,1,1,1,1,2
-25-09-25,20:49,Italy Coppa Italia,FC Torino vs SC Pisa,FC Torino,SC Pisa,1.77,3.4,5.0,1,0,1,1,0,1
-25-09-25,20:49,,Coleraine vs Larne Olympic,Coleraine,Larne Olympic,,,,0,0,0,0,0,0
-25-09-25,20:58,International Clubs UEFA Europa League,Rangers vs KRC Genk,Rangers,KRC Genk,2.48,3.74,2.86,0,0,0,0,1,1
-25-09-25,21:25,Spain LaLiga,Real Oviedo vs Barcelona,Real Oviedo,Barcelona,11.59,7.16,1.26,1,0,1,1,3,4
-25-09-25,22:18,Ecuador Serie B,Club Leones Del Norte vs 9 de Octubre FC,Club Leones Del Norte,9 de Octubre FC,1.52,3.4,5.7,0,0,0,0,0,0
-25-09-25,22:32,,Gualaceo SC vs San Antonio FC,Gualaceo SC,San Antonio FC,,,,1,0,1,2,2,4
-25-09-25,22:32,Ecuador Serie B,Vargas Torres vs Chacaritas FC,Vargas Torres,Chacaritas FC,1.32,4.1,7.5,0,0,0,0,0,0
-25-09-25,22:50,,SD Atlético Nacional Reserves vs Herrera FC U20,SD Atlético Nacional Reserves,Herrera FC U20,,,,1,0,1,2,0,2
-25-09-25,23:21,Paraguay Copa Paraguay,Club River Plate Asuncion vs Resistencia SC,Club River Plate Asuncion,Resistencia SC,2.25,3.6,2.8,0,1,1,4,3,7
-25-09-25,23:21,Bolivia Division Profesional,Academia del Balompie Boliviano vs FC Universitario de Vinto,Academia del Balompie Boliviano,FC Universitario de Vinto,1.74,3.7,4.3,1,0,1,2,0,2
-25-09-25,23:21,,Firpo Women vs Zacatecoluca FC Women,Firpo Women,Zacatecoluca FC Women,,,,0,0,0,0,0,0
-25-09-25,23:44,,Club Leon vs Atletico San Luis,Club Leon,Atletico San Luis,,,,0,0,0,3,5,8
-25-09-25,23:44,,Queretaro vs Club America,Queretaro,Club America,,,,0,1,1,0,2,2
-25-09-25,23:54,International Clubs CONMEBOL Libertadores,Sao Paulo FC SP vs LDU Quito,Sao Paulo FC SP,LDU Quito,1.38,4.4,9.4,0,1,1,0,1,1
+25-09-25,20:49,International Clubs UEFA Europa League,Aston Villa vs Bologna,Aston Villa,Bologna,1.87,3.69,4.7,1,0,1,1.0,0.0,1.0
+25-09-25,20:49,International Clubs UEFA Europa League,Salzburg vs Porto,Salzburg,Porto,3.76,3.78,2.04,0,0,0,0.0,1.0,1.0
+25-09-25,20:49,International Clubs UEFA Europa League,Stuttgart vs Celta,Stuttgart,Celta,1.97,3.99,3.82,0,0,0,2.0,1.0,3.0
+25-09-25,20:49,International Clubs UEFA Europa League,FC Utrecht vs Lyon,FC Utrecht,Lyon,3.11,3.71,2.33,0,0,0,0.0,1.0,1.0
+25-09-25,20:49,International Clubs UEFA Europa League,Ferencvarosi Budapest vs Viktoria Plzen,Ferencvarosi Budapest,Viktoria Plzen,2.38,3.63,3.09,0,1,1,1.0,1.0,2.0
+25-09-25,20:49,Italy Coppa Italia,FC Torino vs SC Pisa,FC Torino,SC Pisa,1.77,3.4,5.0,1,0,1,1.0,0.0,1.0
+25-09-25,20:49,,Coleraine vs Larne Olympic,Coleraine,Larne Olympic,,,,0,0,0,0.0,0.0,0.0
+25-09-25,20:58,International Clubs UEFA Europa League,Rangers vs KRC Genk,Rangers,KRC Genk,2.48,3.74,2.86,0,0,0,0.0,1.0,1.0
+25-09-25,21:25,Spain LaLiga,Real Oviedo vs Barcelona,Real Oviedo,Barcelona,11.59,7.16,1.26,1,0,1,1.0,3.0,4.0
+25-09-25,22:18,Ecuador Serie B,Club Leones Del Norte vs 9 de Octubre FC,Club Leones Del Norte,9 de Octubre FC,1.52,3.4,5.7,0,0,0,0.0,0.0,0.0
+25-09-25,22:32,,Gualaceo SC vs San Antonio FC,Gualaceo SC,San Antonio FC,,,,1,0,1,2.0,2.0,4.0
+25-09-25,22:32,Ecuador Serie B,Vargas Torres vs Chacaritas FC,Vargas Torres,Chacaritas FC,1.32,4.1,7.5,0,0,0,0.0,0.0,0.0
+25-09-25,22:50,,SD Atlético Nacional Reserves vs Herrera FC U20,SD Atlético Nacional Reserves,Herrera FC U20,,,,1,0,1,2.0,0.0,2.0
+25-09-25,23:21,Paraguay Copa Paraguay,Club River Plate Asuncion vs Resistencia SC,Club River Plate Asuncion,Resistencia SC,2.25,3.6,2.8,0,1,1,4.0,3.0,7.0
+25-09-25,23:21,Bolivia Division Profesional,Academia del Balompie Boliviano vs FC Universitario de Vinto,Academia del Balompie Boliviano,FC Universitario de Vinto,1.74,3.7,4.3,1,0,1,2.0,0.0,2.0
+25-09-25,23:21,,Firpo Women vs Zacatecoluca FC Women,Firpo Women,Zacatecoluca FC Women,,,,0,0,0,0.0,0.0,0.0
+25-09-25,23:44,,Club Leon vs Atletico San Luis,Club Leon,Atletico San Luis,,,,0,0,0,3.0,5.0,8.0
+25-09-25,23:44,,Queretaro vs Club America,Queretaro,Club America,,,,0,1,1,0.0,2.0,2.0
+25-09-25,23:54,International Clubs CONMEBOL Libertadores,Sao Paulo FC SP vs LDU Quito,Sao Paulo FC SP,LDU Quito,1.38,4.4,9.4,0,1,1,0.0,1.0,1.0
+26-09-25,07:23,India Bangalore Super Division,Sporting Club Bengaluru vs FC Agniputhra,Sporting Club Bengaluru,FC Agniputhra,3.25,3.33,2.05,1,0,1,1,0,1
+26-09-25,08:53,Simulated Reality League Turkey Super Lig SRL,Alanyaspor SRL vs Galatasaray SRL,Alanyaspor SRL,Galatasaray SRL,7.24,5.17,1.39,0,0,0,0,3,3
+26-09-25,09:53,Simulated Reality League LaLiga SRL,Girona FC SRL vs Espanyol SRL,Girona FC SRL,Espanyol SRL,2.41,3.36,2.96,0,1,1,1,1,2
+26-09-25,09:53,,Maccabi Kiryat Ata-Bialik vs Maccabi Nujeidat Ahmad,Maccabi Kiryat Ata-Bialik,Maccabi Nujeidat Ahmad,,,,0,0,0,2,0,2
+26-09-25,09:53,,SC Tirat Carmel Gal Kobi vs Hapoel Daliyat Al Karmel,SC Tirat Carmel Gal Kobi,Hapoel Daliyat Al Karmel,,,,0,0,0,2,1,3
+26-09-25,09:53,India Bangalore Super Division,Kickstart FC vs Kodagu FC,Kickstart FC,Kodagu FC,2.1,3.2,3.2,1,0,1,2,2,4
+26-09-25,10:13,,Aso Chlef U20 vs Mcb Oued Sly U20,Aso Chlef U20,Mcb Oued Sly U20,,,,1,0,1,1,0,1
+26-09-25,10:32,Indonesia Super League,Semen Padang FC vs Bali United FC,Semen Padang FC,Bali United FC,3.1,3.4,2.15,0,1,1,1,3,4
+26-09-25,10:32,,M.S. Tzeirei Kafr Manda vs Maccabi Bnei Abu Snan,M.S. Tzeirei Kafr Manda,Maccabi Bnei Abu Snan,,,,0,0,0,2,1,3
+26-09-25,10:53,Israel Liga Alef,FC Jerusalem vs Hapoel Herzelia FC,FC Jerusalem,Hapoel Herzelia FC,2.2,3.4,3.0,0,0,0,1,0,1
+26-09-25,10:53,Vietnam V-League 2,Long An FC vs CS. Dong Thap,Long An FC,CS. Dong Thap,2.6,2.55,3.1,0,0,0,1,0,1
+26-09-25,10:53,,Rahmatganj MFS vs Abahani Limited Dhaka,Rahmatganj MFS,Abahani Limited Dhaka,,,,0,0,0,0,0,0
+26-09-25,10:53,,Ugyen Academy vs Tensung FC,Ugyen Academy,Tensung FC,,,,0,0,0,3,0,3
+26-09-25,10:53,,Thitsar Arman FC U21 vs ISPE FC U21,Thitsar Arman FC U21,ISPE FC U21,,,,0,1,1,0,2,2
+26-09-25,10:53,,Yangon United FC vs Dagon Star United FC,Yangon United FC,Dagon Star United FC,,,,1,0,1,1,0,1
+26-09-25,10:53,,Than Khoang San Viet Nam vs Tng Thai Nguyen,Than Khoang San Viet Nam,Tng Thai Nguyen,,,,1,0,1,2,1,3
+26-09-25,11:46,Simulated Reality League Ligue 1 SRL,Strasbourg SRL vs Marseille SRL,Strasbourg SRL,Marseille SRL,3.49,3.64,2.05,0,0,0,0,2,2
+26-09-25,11:58,,Sawmer SC vs Mylliem SC,Sawmer SC,Mylliem SC,,,,1,0,1,,,
+26-09-25,11:58,,Strogino Moscow vs FC Rodina Youth,Strogino Moscow,FC Rodina Youth,,,,0,0,0,1,0,1
+26-09-25,12:18,,Churchill Brothers Reserves vs Guardian Angel SC,Churchill Brothers Reserves,Guardian Angel SC,,,,0,1,1,0,2,2
+26-09-25,12:18,India Bangalore Super Division,South United vs Bangalore City FC,South United,Bangalore City FC,3.1,3.1,2.2,0,1,1,2,1,3
+26-09-25,12:41,Israel Liga Alef,Tzeirey Um El Fahem vs Hapoel Migdal Haemeq,Tzeirey Um El Fahem,Hapoel Migdal Haemeq,2.35,3.1,2.95,0,0,0,0,0,0
+26-09-25,12:50,Israel Liga Alef,Hapoel Karmiel FC vs Hapoel Umm AL Fahm,Hapoel Karmiel FC,Hapoel Umm AL Fahm,1.88,3.7,3.6,1,0,1,1,0,1
+26-09-25,12:50,Uzbekistan Pro Liga,Lokomotiv Tashkent vs Pfk Aral,Lokomotiv Tashkent,Pfk Aral,1.81,3.7,3.6,0,0,0,1,0,1
+26-09-25,12:50,Czechia U19 1. Liga,Sparta Prague vs FK Mlada Boleslav,Sparta Prague,FK Mlada Boleslav,1.32,5.25,6.5,0,0,0,0,0,0
+26-09-25,12:50,Croatia U19 Prva NL Juniori,HNK Rijeka vs NK Mladost Zdralovi,HNK Rijeka,NK Mladost Zdralovi,1.3,5.1,6.1,1,0,1,1,0,1
+26-09-25,13:00,,Shor Zenit St Petersburg vs Kirovets-Voskhozhdeniye Youth,Shor Zenit St Petersburg,Kirovets-Voskhozhdeniye Youth,,,,1,0,1,3,0,3
+26-09-25,13:53,China Chinese Super League,Shanghai Port FC vs Wuhan Three Towns FC,Shanghai Port FC,Wuhan Three Towns FC,1.23,7.0,10.5,1,0,1,3,2,5
+26-09-25,13:53,"Russia MFL, Division A",Lokomotiv Moscow vs CSKA Moscow,Lokomotiv Moscow,CSKA Moscow,2.15,3.0,3.0,0,0,0,0,0,0
+26-09-25,13:53,"Russia MFL, Division A",PFK Sochi vs FC Fakel Voronezh Youth,PFK Sochi,FC Fakel Voronezh Youth,1.87,3.1,3.7,0,0,0,1,1,2
+26-09-25,13:53,"Russia MFL, Division A",Rubin Kazan vs Samara Kryliya Sovetov,Rubin Kazan,Samara Kryliya Sovetov,1.52,3.8,4.75,0,0,0,0,1,1
+26-09-25,13:53,Indonesia Super League,Dewa United vs Persebaya Surabaya,Dewa United,Persebaya Surabaya,1.87,3.6,3.8,0,0,0,1,1,2
+26-09-25,13:53,,Hapoel Bnei Arrara Ara vs M.K. Kabbir,Hapoel Bnei Arrara Ara,M.K. Kabbir,,,,0,0,0,0,0,0
+26-09-25,13:53,Thailand Thai League 1,Sukhothai FC vs Chiangrai United,Sukhothai FC,Chiangrai United,2.35,3.4,2.9,0,0,0,1,1,2
+26-09-25,13:53,Kenya Premier League,Kenya Commercial Bank vs Mathare United FC,Kenya Commercial Bank,Mathare United FC,1.6,3.25,6.8,0,1,1,,,
+26-09-25,13:53,,FC Master Saturn vs Chertanovo Moscow,FC Master Saturn,Chertanovo Moscow,,,,1,0,1,2,4,6
+26-09-25,13:53,,Samail U21 vs Bidiyah U21,Samail U21,Bidiyah U21,,,,0,0,0,1,1,2
+26-09-25,14:22,Lebanon Premier League,Al Ahed FC vs Racing Beirut,Al Ahed FC,Racing Beirut,1.2,5.9,10.0,1,0,1,3,0,3
+26-09-25,14:22,,Hamarkameratene NAC vs Odd BK,Hamarkameratene NAC,Odd BK,,,,0,0,0,0,2,2
+26-09-25,14:51,International Clubs CAF Confederations Cup,AS Fanalamanga vs Ferroviario de Maputo,AS Fanalamanga,Ferroviario de Maputo,3.25,3.2,2.1,1,0,1,1,2,3
+26-09-25,14:51,Egypt 2. Division A,La Viena FC vs Proxy SC,La Viena FC,Proxy SC,2.55,2.55,3.2,0,0,0,2,3,5
+26-09-25,14:51,Latvia Virsliga,FK Metta / Lu vs Grobinas SC,FK Metta / Lu,Grobinas SC,3.25,3.5,2.1,0,1,1,0,1,1
+26-09-25,14:51,Israel Liga Alef,Maccabi Achi Nazareth FC vs Hapoel Ironi Arraba,Maccabi Achi Nazareth FC,Hapoel Ironi Arraba,2.55,3.8,2.35,1,0,1,3,0,3
+26-09-25,14:51,Uganda Premier League,Bul FC vs URA FC,Bul FC,URA FC,1.85,3.2,4.1,0,0,0,0,0,0
+26-09-25,14:51,,Gadafi FC vs Buhimba United Saints FC,Gadafi FC,Buhimba United Saints FC,,,,0,1,1,0,1,1
+26-09-25,14:51,Uganda Premier League,Uganda Police FC vs Mbarara FC,Uganda Police FC,Mbarara FC,1.74,3.25,4.5,1,0,1,1,1,2
+26-09-25,14:51,South Africa Championship,Gomora United vs Baroka FC,Gomora United,Baroka FC,2.6,2.75,2.85,0,0,0,2,1,3
+26-09-25,14:51,South Africa Championship,Highbury FC vs The Bees FC,Highbury FC,The Bees FC,2.35,3.0,2.9,0,1,1,1,1,2
+26-09-25,14:51,,FC Zimbru Chisinau 2 vs FC Floresti,FC Zimbru Chisinau 2,FC Floresti,,,,0,0,0,0,0,0
+26-09-25,14:51,Kosovo Liga e Pare,KF Tefik Canga vs KF 2 Korriku,KF Tefik Canga,KF 2 Korriku,1.25,5.0,7.8,0,0,0,2,0,2
+26-09-25,14:51,Turkiye Amateur U19 PAF Ligi,Aytemiz Alanyaspor vs Galatasaray SK,Aytemiz Alanyaspor,Galatasaray SK,3.4,3.9,1.72,0,1,1,1,2,3
+26-09-25,14:51,,Mustaqbal Sport vs Helwan Public Club,Mustaqbal Sport,Helwan Public Club,,,,0,0,0,0,0,0
+26-09-25,14:51,Burundi Ligue A,Rukinzo FC vs Royal Vision 2026,Rukinzo FC,Royal Vision 2026,1.6,4.0,3.9,0,1,1,1,2,3
+26-09-25,14:51,Serbia U19 League,FK Novi Pazar vs FK Crvena Zvezda,FK Novi Pazar,FK Crvena Zvezda,8.75,5.7,1.19,1,0,1,1,4,5
+26-09-25,14:51,"Brazil U20 Carioca, Serie A",Nova Iguacu FC RJ vs Bangu AC RJ,Nova Iguacu FC RJ,Bangu AC RJ,1.96,3.3,3.5,0,0,0,0,1,1
+26-09-25,15:00,Egypt 2. Division A,El Terasanah vs Aswan FC,El Terasanah,Aswan FC,2.25,2.5,3.9,0,0,0,1,0,1
+26-09-25,15:00,Egypt 2. Division A,Tanta FC vs FC Masar,Tanta FC,FC Masar,2.1,2.95,3.6,0,0,0,0,2,2
+26-09-25,15:00,Zambia Super League,Konkola Blades vs Nkana FC,Konkola Blades,Nkana FC,2.5,2.95,2.9,0,0,0,0,0,0
+26-09-25,15:00,Zambia Super League,Mufulira Wanderers vs Kansanshi Dynamos,Mufulira Wanderers,Kansanshi Dynamos,1.97,2.9,4.4,0,0,0,0,0,0
+26-09-25,15:00,Zambia Super League,Mutondo Stars vs Nkwazi,Mutondo Stars,Nkwazi,2.75,2.5,3.2,1,0,1,1,0,1
+26-09-25,15:00,"Brazil U20 Carioca, Serie A",CR Vasco da Gama RJ vs AA Portuguesa RJ,CR Vasco da Gama RJ,AA Portuguesa RJ,1.15,6.3,13.5,1,0,1,1,0,1
+26-09-25,15:24,United Arab Emirates Arabian Gulf League,Baniyas Club vs Ajman Club,Baniyas Club,Ajman Club,3.1,3.4,2.15,0,0,0,0,1,1
+26-09-25,15:24,United Arab Emirates Arabian Gulf League,Al Dhafra SSC vs AL Bataeh (UAE),Al Dhafra SSC,AL Bataeh (UAE),2.55,3.5,2.5,0,1,1,3,1,4
+26-09-25,15:24,Iran Pro League,Gol Gohar Sirjan FC vs Foolad Khuzestan FC,Gol Gohar Sirjan FC,Foolad Khuzestan FC,2.35,2.9,3.0,0,0,0,0,0,0
+26-09-25,15:24,United Arab Emirates U23 Pro League,AL Ain FC vs Shabab AL Ahli Dubai Club,AL Ain FC,Shabab AL Ahli Dubai Club,1.62,3.8,4.5,0,0,0,0,2,2
+26-09-25,15:24,United Arab Emirates U23 Pro League,Sharjah FC vs AL Wasl,Sharjah FC,AL Wasl,2.35,3.3,2.7,0,1,1,2,2,4
+26-09-25,15:38,Croatia Prva NL,NK Dubrava Zagreb vs NK Sesvete,NK Dubrava Zagreb,NK Sesvete,2.6,2.9,2.75,0,1,1,0,2,2
+26-09-25,15:38,Bahrain Premier League,Al-Khaldiya SC vs Al-Shabbab,Al-Khaldiya SC,Al-Shabbab,1.35,4.6,8.3,0,0,0,0,1,1
+26-09-25,15:38,,AL Ahly U19 vs AL Wakrah SC U19,AL Ahly U19,AL Wakrah SC U19,,,,0,1,1,2,2,4
+26-09-25,15:38,,AL Mesaimeer U19 vs Umm-Salal SC U19,AL Mesaimeer U19,Umm-Salal SC U19,,,,0,0,0,1,1,2
+26-09-25,15:50,Bahrain Premier League,Al-Muharraq SC vs Malkiya Club,Al-Muharraq SC,Malkiya Club,1.38,4.25,8.5,0,1,1,1,1,2
+26-09-25,15:50,Uzbekistan Superliga,FC Andijon vs AGMK FC,FC Andijon,AGMK FC,2.95,3.25,2.2,1,0,1,1,0,1
+26-09-25,15:50,Croatia Druga NL,NK Kustosija Zagreb vs NK Radnik Krizevci,NK Kustosija Zagreb,NK Radnik Krizevci,1.57,3.8,4.3,0,1,1,1,1,2
+26-09-25,15:50,Romania Liga 3,Acso Filiasi vs ACS Axi Adunatii Copaceni,Acso Filiasi,ACS Axi Adunatii Copaceni,3.5,3.2,1.87,0,0,0,1,0,1
+26-09-25,15:50,Romania Liga 3,CSC Ghiroda SI Giarmata Vii vs Universitatea Alba Iulia,CSC Ghiroda SI Giarmata Vii,Universitatea Alba Iulia,1.25,5.4,7.0,1,0,1,2,0,2
+26-09-25,15:50,Romania Liga 3,Csl Nanov vs AFC Progresul 1944 Spartac,Csl Nanov,AFC Progresul 1944 Spartac,3.1,3.33,1.99,1,0,1,1,2,3
+26-09-25,15:50,Romania Liga 3,Csm Flacara Moreni vs Cso Teleajenul Valeni de Munte,Csm Flacara Moreni,Cso Teleajenul Valeni de Munte,1.55,3.8,4.5,1,0,1,,,
+26-09-25,15:50,Romania Liga 3,Sanatatea Cluj vs CS Bihorul Beius,Sanatatea Cluj,CS Bihorul Beius,1.22,5.1,8.75,0,0,0,1,1,2
+26-09-25,15:50,,Scm Zalau vs Acad Viitorul Cluj,Scm Zalau,Acad Viitorul Cluj,,,,1,0,1,2,1,3
+26-09-25,15:50,,PFC Levski Sofia II vs FC Pirin Razlog,PFC Levski Sofia II,FC Pirin Razlog,,,,0,0,0,0,1,1
+26-09-25,15:59,Portugal U19 Campeonato Nacional,Sporting CP vs SL Benfica,Sporting CP,SL Benfica,5.2,4.1,1.44,0,1,1,0,1,1
+26-09-25,16:24,Italy Primavera 1,Bologna FC vs Atalanta BC,Bologna FC,Atalanta BC,2.35,3.33,2.65,1,0,1,1,2,3
+26-09-25,16:49,Ukraine Premier League,FK Kudrivka vs FC Epitsentr Dunaivtsi,FK Kudrivka,FC Epitsentr Dunaivtsi,2.3,3.33,3.0,0,1,1,2,1,3
+26-09-25,16:49,Romania Superliga,AFC Hermannstadt vs ACS Champions FC Arges,AFC Hermannstadt,ACS Champions FC Arges,2.3,3.1,3.25,0,0,0,0,1,1
+26-09-25,16:49,Finland Veikkausliiga,Vaasan Palloseura vs FC Haka Valkeakoski,Vaasan Palloseura,FC Haka Valkeakoski,2.15,3.6,3.0,1,0,1,1,0,1
+26-09-25,16:49,Slovakia 2. Liga,FK Pohronie Ziar Nad Hronom Dolna Zdana vs FK Inter Bratislava,FK Pohronie Ziar Nad Hronom Dolna Zdana,FK Inter Bratislava,2.1,3.75,2.8,1,0,1,1,0,1
+26-09-25,16:49,Armenia Premier League,FC Shirak Gyumri vs FC Urartu Yerevan,FC Shirak Gyumri,FC Urartu Yerevan,5.1,3.9,1.59,0,0,0,0,1,1
+26-09-25,16:49,Lithuania 1 Lyga,Be1 Nfa vs Baltijos Futbolo Akademija,Be1 Nfa,Baltijos Futbolo Akademija,2.9,3.9,1.99,0,0,0,0,0,0
+26-09-25,16:49,Algeria Ligue 2,Js Bordj Menaiel vs USM Annaba,Js Bordj Menaiel,USM Annaba,3.25,3.0,2.2,0,0,0,1,1,2
+26-09-25,16:49,Algeria Ligue 2,NC Magra vs US Chaouia,NC Magra,US Chaouia,1.67,3.25,5.1,0,0,0,0,1,1
+26-09-25,16:49,Algeria Ligue 2,Nrb Beni Oulbene vs AS Khroub,Nrb Beni Oulbene,AS Khroub,2.35,2.8,3.2,1,0,1,2,1,3
+26-09-25,16:49,,Attram de Visser vs Accra Lions,Attram de Visser,Accra Lions,,,,0,1,1,1,1,2
+26-09-25,16:49,Azerbaijan Premier League,Qarabag vs Gabala FK,Qarabag,Gabala FK,1.22,5.8,11.0,1,0,1,2,0,2
+26-09-25,16:49,Iraq Stars League,AL Nafit Maysan vs Al-Garaf,AL Nafit Maysan,Al-Garaf,3.0,3.0,2.25,0,0,0,0,1,1
+26-09-25,16:49,Iraq Stars League,Al-Qasim SC vs Amanat Baghdad SC,Al-Qasim SC,Amanat Baghdad SC,2.5,2.9,2.8,0,0,0,0,1,1
+26-09-25,16:49,,CS Hilal Temara Rabat vs SC Casablanca,CS Hilal Temara Rabat,SC Casablanca,,,,1,0,1,1,2,3
+26-09-25,16:49,,FC Chayka Peschanokopskoye Youth vs Shinnik Youth,FC Chayka Peschanokopskoye Youth,Shinnik Youth,,,,1,0,1,3,0,3
+26-09-25,16:49,Mexico U21 Liga MX,Puebla U21 vs Guadalajara U21,Puebla U21,Guadalajara U21,2.15,3.2,2.85,0,0,0,1,1,2
+26-09-25,16:58,,Fursan Hispania FC vs Madenat FC,Fursan Hispania FC,Madenat FC,,,,0,0,0,0,0,0
+26-09-25,16:58,Qatar Stars League,AL Wakrah SC vs Umm-Salal SC,AL Wakrah SC,Umm-Salal SC,1.86,3.8,3.7,0,0,0,3,2,5
+26-09-25,16:58,Lithuania 1 Lyga,FK Ekranas vs FK Babrungas Plunge,FK Ekranas,FK Babrungas Plunge,4.7,4.0,1.58,0,0,0,0,2,2
+26-09-25,16:58,Algeria Ligue 2,CA Batna vs MSP Batna,CA Batna,MSP Batna,1.81,3.1,4.5,0,0,0,1,0,1
+26-09-25,16:58,Algeria Ligue 2,MO Bejaia vs CR Beni Thour,MO Bejaia,CR Beni Thour,1.31,3.9,12.0,1,0,1,3,0,3
+26-09-25,16:58,Algeria Ligue 2,MO Constantine vs Ib Khemis El Khechna,MO Constantine,Ib Khemis El Khechna,1.43,3.75,7.5,0,0,0,2,0,2
+26-09-25,16:58,Algeria Ligue 2,NA Hussein Dey vs JSM Tiaret,NA Hussein Dey,JSM Tiaret,1.62,3.25,5.7,0,0,0,0,2,2
+26-09-25,16:58,Algeria Ligue 2,Bechar Djedid vs ASM Oran,Bechar Djedid,ASM Oran,1.8,3.2,4.4,0,0,0,0,1,1
+26-09-25,16:58,Iran Pro League,Zob Ahan Isfahan FC vs Aluminium Arak,Zob Ahan Isfahan FC,Aluminium Arak,2.3,2.9,3.2,0,1,1,0,1,1
+26-09-25,16:58,Mexico U21 Liga MX,FC Juarez U21 vs Club Leon U21,FC Juarez U21,Club Leon U21,1.91,3.2,3.5,0,1,1,1,2,3
+26-09-25,17:27,Slovenia PrvaLiga,Aluminij Kidricevo vs NK Radomlje,Aluminij Kidricevo,NK Radomlje,2.25,3.5,2.95,1,0,1,2,1,3
+26-09-25,17:27,Belarus Vysshaya Liga,FK Arsenal Dzerzhinsk vs FC Minsk,FK Arsenal Dzerzhinsk,FC Minsk,2.3,3.2,3.1,1,0,1,1,1,2
+26-09-25,17:27,Lithuania A Lyga,FK Banga Gargzdai vs Dziugas,FK Banga Gargzdai,Dziugas,2.9,3.1,2.4,0,0,0,0,1,1
+26-09-25,17:27,Iran Pro League,Shams Azar Qazvin vs Esteghlal FC,Shams Azar Qazvin,Esteghlal FC,3.9,3.2,1.88,0,0,0,1,1,2
+26-09-25,17:27,,Deuxplateaux FC vs AS Tanda,Deuxplateaux FC,AS Tanda,,,,1,0,1,1,0,1
+26-09-25,17:27,,Williamsville AC vs CO Bouafle,Williamsville AC,CO Bouafle,,,,0,0,0,0,0,0
+26-09-25,17:47,"Russia MFL, Division A",FC Baltika Kaliningrad vs FC Krasnodar,FC Baltika Kaliningrad,FC Krasnodar,12.5,7.1,1.1,0,1,1,0,2,2
+26-09-25,17:47,Latvia 1.Liga,FK Tukums 2000/Tss II vs FK Beitar / Riga Mariners,FK Tukums 2000/Tss II,FK Beitar / Riga Mariners,8.2,5.8,1.24,0,1,1,0,4,4
+26-09-25,17:47,Austria 2. Liga,FAC Wien vs Rapid Wien II,FAC Wien,Rapid Wien II,1.56,4.25,5.2,0,1,1,0,1,1
+26-09-25,17:47,Austria 2. Liga,FC Liefering vs SV Stripfing,FC Liefering,SV Stripfing,2.25,3.7,2.85,0,0,0,0,0,0
+26-09-25,17:47,Austria 2. Liga,SK Austria Klagenfurt vs FC Hertha Wels,SK Austria Klagenfurt,FC Hertha Wels,1.87,3.7,3.8,1,0,1,2,0,2
+26-09-25,17:47,Austria 2. Liga,SKN St Polten vs SK Sturm Graz II,SKN St Polten,SK Sturm Graz II,1.33,5.6,7.2,1,0,1,4,0,4
+26-09-25,17:47,Czechia FNL,1.SK Prostejov vs FC Vlasim,1.SK Prostejov,FC Vlasim,2.25,3.33,3.0,0,0,0,1,1,2
+26-09-25,17:47,Bosnia & Herzegovina Premijer Liga,FK Radnik Bijeljina vs NK Siroki Brijeg,FK Radnik Bijeljina,NK Siroki Brijeg,1.99,3.3,3.6,0,0,0,0,0,0
+26-09-25,17:47,Lithuania 1 Lyga,FA Siauliai B vs FK Jonava,FA Siauliai B,FK Jonava,3.75,3.8,1.76,0,1,1,0,3,3
+26-09-25,17:47,Lithuania 1 Lyga,Hegelmann Litauen B vs Vilnius FK Zalgiris B,Hegelmann Litauen B,Vilnius FK Zalgiris B,2.9,3.6,2.1,0,1,1,1,1,2
+26-09-25,17:47,Oman Omani League,Dhofar SCSC vs AL Nasr SC (OMA),Dhofar SCSC,AL Nasr SC (OMA),3.2,2.95,2.25,0,0,0,1,1,2
+26-09-25,17:47,,Apollon Ladies Limassol vs Omonia Nicosia,Apollon Ladies Limassol,Omonia Nicosia,,,,0,1,1,2,0,0
+26-09-25,17:47,,AL Gharafa U19 vs Qatar SC U19,AL Gharafa U19,Qatar SC U19,,,,0,0,0,0,0,0
+26-09-25,17:47,,AL Khor vs AL Duhail U19,AL Khor,AL Duhail U19,,,,0,0,0,5,0,5
+26-09-25,17:58,Estonia Premium Liiga,Tartu JK Tammeka vs FC Kuressaare,Tartu JK Tammeka,FC Kuressaare,2.1,3.8,2.9,0,0,0,0,1,1
+26-09-25,17:58,Cyprus 1st Division,Aris Limassol FC vs Ethnikos Achnas FC,Aris Limassol FC,Ethnikos Achnas FC,1.29,5.5,8.9,1,0,1,3,0,3
+26-09-25,17:58,Poland II Liga,Warta Poznan vs ZKS Stal Stalowa Wola,Warta Poznan,ZKS Stal Stalowa Wola,2.3,3.4,2.85,1,0,1,3,1,4
+26-09-25,17:58,,Amman vs Orthodox,Amman,Orthodox,,,,0,0,0,1,0,1
+26-09-25,17:58,,Halcones Zuniga Soccer Club vs Arietes FC,Halcones Zuniga Soccer Club,Arietes FC,,,,0,0,0,1,0,1
+26-09-25,17:58,Austria Amateur Wiener Stadtliga,SC Red Star Penzing vs LAC Inter,SC Red Star Penzing,LAC Inter,2.05,3.6,3.0,1,0,1,2,2,4
+26-09-25,18:19,Germany 2. Bundesliga,Darmstadt vs Dynamo Dresden,Darmstadt,Dynamo Dresden,1.8,4.2,3.9,1,0,1,2,0,2
+26-09-25,18:19,Germany 2. Bundesliga,Schalke vs Greuther Furth,Schalke,Greuther Furth,1.85,4.0,3.9,0,0,0,1,0,1
+26-09-25,18:19,Italy Primavera 1,Inter Milano vs Juventus Turin,Inter Milano,Juventus Turin,1.6,4.0,4.5,1,0,1,1,3,4
+26-09-25,18:19,United Arab Emirates Arabian Gulf League,Al-Nasr Dubai CSC vs Dibba,Al-Nasr Dubai CSC,Dibba,1.6,4.0,4.9,1,0,1,1,1,2
+26-09-25,18:19,Croatia Prva NL,NK Karlovac 1919 vs NK Opatija,NK Karlovac 1919,NK Opatija,1.56,3.7,5.25,1,0,1,1,1,2
+26-09-25,18:19,,C.H. Futbol Club vs Deportivo Independiente Mexiquense,C.H. Futbol Club,Deportivo Independiente Mexiquense,,,,0,1,1,8,9,17
+26-09-25,18:35,Jordan Jordan League,Ramtha SC vs AL Jazeera Club Amman,Ramtha SC,AL Jazeera Club Amman,1.79,3.33,4.6,0,0,0,2,0,2
+26-09-25,18:35,,Héroes De Zaci FC CDMX vs FC Politecnico,Héroes De Zaci FC CDMX,FC Politecnico,,,,0,1,1,0,1,1
+26-09-25,18:53,Turkiye Super Lig,Alanyaspor vs Galatasaray Istanbul,Alanyaspor,Galatasaray Istanbul,7.22,5.21,1.43,0,1,1,0,1,1
+26-09-25,18:53,Bulgaria Parva Liga,PFC Lokomotiv Plovdiv vs PFC Levski Sofia,PFC Lokomotiv Plovdiv,PFC Levski Sofia,5.3,3.5,1.67,1,0,1,1,0,1
+26-09-25,18:53,Portugal Liga Portugal 2,FC Vizela vs Leixoes SC,FC Vizela,Leixoes SC,1.84,3.33,4.4,0,0,0,2,0,2
+26-09-25,18:53,"Sweden Ettan, Norra",United IK Nordic vs Vasalunds IF,United IK Nordic,Vasalunds IF,2.5,3.4,2.55,0,0,0,4,1,5
+26-09-25,18:53,"Sweden Ettan, Sodra",Lunds BK vs FC Rosengaard 1917,Lunds BK,FC Rosengaard 1917,2.2,3.5,2.9,0,0,0,1,0,1
+26-09-25,18:53,"Sweden Division 2, Sodra Gotaland",Rappe GOIF vs FK Karlskrona,Rappe GOIF,FK Karlskrona,2.95,3.7,2.05,0,1,1,0,2,2
+26-09-25,18:53,"Sweden Division 2, Vastra Gotaland",IF Boljan Falkenberg vs Varbergs GIF FK,IF Boljan Falkenberg,Varbergs GIF FK,1.85,3.9,3.33,0,0,0,0,0,0
+26-09-25,18:53,"Poland III Liga, Group 3",KS Polonia Nysa vs GKS Pniowek Pawlowice,KS Polonia Nysa,GKS Pniowek Pawlowice,1.95,3.5,3.3,1,0,1,1,1,2
+26-09-25,18:53,Qatar Stars League,Al Shahaniya vs Al Ahli Doha SC,Al Shahaniya,Al Ahli Doha SC,3.6,3.5,1.98,1,0,1,1,2,3
+26-09-25,18:53,Uganda Premier League,Express FC vs Updf FC,Express FC,Updf FC,2.2,3.0,3.2,1,0,1,1,0,1
+26-09-25,18:53,Slovenia 3. SNL,NK Sencur vs NK Svoboda Ljubljana,NK Sencur,NK Svoboda Ljubljana,1.31,5.0,7.4,0,0,0,1,0,1
+26-09-25,19:15,"Sweden Division 2, Norra Gotaland",IK Kongahalla vs Herrestads AIF,IK Kongahalla,Herrestads AIF,1.88,3.8,3.3,0,1,1,0,1,1
+26-09-25,19:15,"Russia Superleague, Women",CSKA Moscow vs Chertanovo Moscow,CSKA Moscow,Chertanovo Moscow,1.1,7.1,18.5,1,0,1,2,0,2
+26-09-25,19:41,Austria 2. Liga,Schwarz-Weiss Bregenz vs Austria Salzburg,Schwarz-Weiss Bregenz,Austria Salzburg,2.65,3.9,2.3,0,0,0,0,0,0
+26-09-25,19:41,Switzerland 1. Liga Classic,FC Mendrisio vs FC Collina D Oro,FC Mendrisio,FC Collina D Oro,2.35,3.7,2.45,0,0,0,1,1,0
+26-09-25,19:52,Netherlands Eredivisie,FC Twente Enschede vs Fortuna Sittard,FC Twente Enschede,Fortuna Sittard,1.51,4.75,6.35,1,0,1,3,2,5
+26-09-25,19:52,France Ligue 2,Clermont Foot vs Le Mans FC,Clermont Foot,Le Mans FC,2.65,3.2,2.65,1,0,1,1,1,2
+26-09-25,19:52,France Ligue 2,Grenoble Foot vs SC Bastia,Grenoble Foot,SC Bastia,3.0,3.2,2.4,0,0,0,0,0,0
+26-09-25,19:52,France Ligue 2,Nancy-Lorraine vs Reims,Nancy-Lorraine,Reims,3.25,3.4,2.2,0,0,0,0,1,1
+26-09-25,19:52,France Ligue 2,Troyes vs FC Annecy,Troyes,FC Annecy,1.6,3.8,5.8,1,0,1,3,1,4
+26-09-25,19:52,Netherlands Eerste Divisie,Almere City FC vs Jong FC Utrecht,Almere City FC,Jong FC Utrecht,1.46,4.9,5.8,1,0,1,4,0,4
+26-09-25,19:52,Netherlands Eerste Divisie,FC Dordrecht vs De Graafschap,FC Dordrecht,De Graafschap,2.65,3.75,2.45,0,1,1,1,1,2
+26-09-25,19:52,Netherlands Eerste Divisie,Helmond Sport vs FC Eindhoven,Helmond Sport,FC Eindhoven,1.75,3.9,4.3,1,0,1,1,0,1
+26-09-25,19:52,Netherlands Eerste Divisie,MVV Maastricht vs FC Emmen,MVV Maastricht,FC Emmen,3.1,3.75,2.15,0,0,0,1,0,1
+26-09-25,19:52,England Amateur Premier League Cup,Millwall U21 vs Wolverhampton Wanderers U21,Millwall U21,Wolverhampton Wanderers U21,2.85,4.5,1.97,0,1,1,1,1,2
+26-09-25,19:52,England Amateur U21 Premier League 2,Derby County U21 vs Arsenal U21,Derby County U21,Arsenal U21,3.6,4.3,1.74,0,0,0,0,1,1
+26-09-25,19:52,England Amateur U21 Premier League 2,Middlesbrough U21 vs Everton U21,Middlesbrough U21,Everton U21,2.1,4.1,2.75,0,0,0,0,1,1
+26-09-25,19:52,England Amateur U21 Premier League 2,Reading U21 vs Newcastle United U21,Reading U21,Newcastle United U21,3.4,4.4,1.8,1,0,1,1,1,2
+26-09-25,19:52,England Amateur U21 Premier League 2,Tottenham Hotspur U21 vs West Bromwich Albion FC U21,Tottenham Hotspur U21,West Bromwich Albion FC U21,1.56,5.1,4.1,1,0,1,1,0,1
+26-09-25,19:52,Belgium U21 Pro League,Jeugd Lommel SK vs KV Kortrijk,Jeugd Lommel SK,KV Kortrijk,3.75,4.7,1.67,0,1,1,2,1,3
+26-09-25,19:52,Belgium U21 Pro League,Lierse Kempenzonen vs RAAL La Louviere,Lierse Kempenzonen,RAAL La Louviere,2.85,4.3,2.0,0,1,1,1,3,4
+26-09-25,19:52,Belgium U21 Pro League,RFC Liege vs Jeugd Patro Eisden Maasmechelen,RFC Liege,Jeugd Patro Eisden Maasmechelen,1.78,4.5,3.4,1,0,1,2,1,3
+26-09-25,19:52,Belgium U21 Pro League,RWD Molenbeek Youth vs RFC Seraing,RWD Molenbeek Youth,RFC Seraing,1.3,5.8,7.3,0,0,0,3,0,3
+26-09-25,19:52,Brazil U20 Paulista,Ibrachina FC SP vs Ferroviaria SP,Ibrachina FC SP,Ferroviaria SP,1.96,3.7,3.1,0,0,0,3,4,7
+26-09-25,19:52,Brazil U20 Paulista,Ituano FC SP vs AA Ponte Preta SP,Ituano FC SP,AA Ponte Preta SP,1.54,4.1,4.8,0,0,0,4,5,9
+26-09-25,19:52,Brazil U20 Paulista,SE Palmeiras SP vs Referencia FC SP,SE Palmeiras SP,Referencia FC SP,1.07,9.1,19.0,1,0,1,3,0,3
+26-09-25,19:52,"Belgium Super League, Women",KRC Genk vs Standard Femina de Liege,KRC Genk,Standard Femina de Liege,4.9,4.0,1.55,0,0,0,2,0,2
+26-09-25,19:52,"Brazil U20 Carioca, Serie A2",America FC RJ vs AD Cabofriense RJ,America FC RJ,AD Cabofriense RJ,2.1,3.1,3.0,0,0,0,1,1,2
+26-09-25,19:52,"Brazil U20 Carioca, Serie A2",Sao Goncalo EC RJ vs Duque de Caxias FC RJ,Sao Goncalo EC RJ,Duque de Caxias FC RJ,1.46,3.9,5.3,1,0,1,3,0,3
+26-09-25,20:07,Switzerland Challenge League,Etoile Carouge FC vs FC Aarau,Etoile Carouge FC,FC Aarau,4.2,3.8,1.75,0,1,1,1,3,4
+26-09-25,20:07,Netherlands Eerste Divisie,TOP Oss vs Roda JC Kerkrade,TOP Oss,Roda JC Kerkrade,3.2,3.6,2.15,0,1,1,1,2,3
+26-09-25,20:07,Peru Liga 1,Asociacion Deportiva Tarma vs Alianza Atletico,Asociacion Deportiva Tarma,Alianza Atletico,1.7,3.5,5.1,0,0,0,1,0,1
+26-09-25,20:22,Spain LaLiga 2,CD Mirandes vs Real Zaragoza,CD Mirandes,Real Zaragoza,2.7,3.2,2.65,0,1,1,0,1,1
+26-09-25,20:22,Argentina Primera B,Sacachispas FC vs CS Italiano,Sacachispas FC,CS Italiano,3.1,2.65,2.65,0,0,0,0,1,1
+26-09-25,20:22,Poland Ekstraklasa,Wisla Plock vs GKS Katowice,Wisla Plock,GKS Katowice,2.0,3.6,3.5,1,0,1,1,1,2
+26-09-25,20:22,Poland 1. Liga,WKS Slask Wroclaw vs Polonia Warszawa,WKS Slask Wroclaw,Polonia Warszawa,2.1,3.5,3.1,1,0,1,1,1,2
+26-09-25,20:22,Wales Cymru Championship South,Ammanford vs Pontypridd Town,Ammanford,Pontypridd Town,1.69,4.4,3.8,0,0,0,1,1,2
+26-09-25,20:22,Wales Cymru Championship South,Cwmbran Celtic vs Trethomas Bluebirds,Cwmbran Celtic,Trethomas Bluebirds,3.2,4.0,1.94,0,1,1,2,2,4
+26-09-25,20:32,Wales Cymru Premier,Bala Town FC vs The New Saints FC,Bala Town FC,The New Saints FC,11.0,5.9,1.23,0,1,1,0,2,2
+26-09-25,20:32,Argentina Primera C,Deportivo Paraguayo vs Club Mercedes,Deportivo Paraguayo,Club Mercedes,2.2,2.85,3.6,0,0,0,0,0,0
+26-09-25,20:32,,Midleton A.F.C. vs Mayfield United,Midleton A.F.C.,Mayfield United,,,,0,0,0,0,2,2
+26-09-25,20:32,Ireland First Division,Bray Wanderers AFC vs Longford Town FC,Bray Wanderers AFC,Longford Town FC,1.57,4.25,4.75,0,1,1,0,2,2
+26-09-25,20:32,Ireland First Division,Kerry FC vs Treaty United,Kerry FC,Treaty United,2.4,3.25,2.85,0,0,0,1,1,2
+26-09-25,20:41,France Ligue 1,Strasbourg vs Marseille,Strasbourg,Marseille,3.54,3.76,2.12,0,0,0,1,2,3
+26-09-25,20:41,Belgium Pro League,Oud-Heverlee Leuven vs RSC Anderlecht,Oud-Heverlee Leuven,RSC Anderlecht,3.7,3.57,2.04,0,0,0,1,1,2
+26-09-25,20:41,Wales Cymru Premier,Llanelli Town vs Haverfordwest County AFC,Llanelli Town,Haverfordwest County AFC,4.7,4.4,1.59,1,0,1,1,0,1
+26-09-25,20:41,Ireland Premier Division,Drogheda United FC vs Derry City FC,Drogheda United FC,Derry City FC,3.7,3.1,2.1,1,0,1,1,1,2
+26-09-25,20:41,"Wales Cymru Championship, North",Holywell Town vs CPD Y Rhyl 1879,Holywell Town,CPD Y Rhyl 1879,1.23,6.3,9.1,0,1,1,1,1,2
+26-09-25,20:50,Spain LaLiga,Girona vs Espanyol,Girona,Espanyol,2.47,3.46,3.06,0,0,0,0,0,0
+26-09-25,20:50,England Championship,West Bromwich Albion vs Leicester,West Bromwich Albion,Leicester,2.35,3.39,3.23,1,0,1,1,1,2
+26-09-25,20:50,USA MLS Next Pro,New England Revolution II vs Crown Legacy FC,New England Revolution II,Crown Legacy FC,1.83,4.2,3.4,0,0,0,0,1,1
+26-09-25,20:50,,Carrigaline United vs St. Mary's FC,Carrigaline United,St. Mary's FC,,,,0,0,0,1,0,1
+26-09-25,20:50,"France Premiere Ligue, Women",Paris FC vs AS Saint-Etienne,Paris FC,AS Saint-Etienne,1.14,7.0,12.0,1,0,1,2,0,2
+26-09-25,21:27,Spain Primera Federacion,Racing Club de Ferrol vs CD Guadalajara,Racing Club de Ferrol,CD Guadalajara,1.77,3.4,4.1,0,0,0,0,0,0
+26-09-25,21:50,"Spain Amateur Tercera Federacion, Group 12",UD Villa Santa Brigida vs UD Tamaraceite,UD Villa Santa Brigida,UD Tamaraceite,3.8,3.4,1.85,0,0,0,1,0,1
+26-09-25,22:20,Colombia Primera B,Boyaca Patriotas vs CD Real Santander,Boyaca Patriotas,CD Real Santander,1.42,4.3,7.1,1,0,1,2,0,2
+26-09-25,22:20,Ecuador Serie B,CD Independiente Juniors vs Guayaquil City FC,CD Independiente Juniors,Guayaquil City FC,2.45,2.75,2.85,0,0,0,0,2,2
+26-09-25,22:32,Peru Liga 1,Atletico Grau vs Sport Huancayo,Atletico Grau,Sport Huancayo,1.68,3.8,4.75,1,0,1,3,1,4
+26-09-25,22:58,,UDS FC vs Antequera F.C.,UDS FC,Antequera F.C.,,,,1,0,1,1,0,1
+26-09-25,23:20,Paraguay Segunda Division,Guarani de Fram vs Carapegua,Guarani de Fram,Carapegua,3.1,3.33,2.1,1,0,1,1,0,1
+26-09-25,23:53,Argentina Primera LPF,CA Banfield vs Union de Santa Fe,CA Banfield,Union de Santa Fe,2.9,2.85,2.7,0,0,0,0,0,0
+26-09-25,23:53,Chile Primera Division,Colo-Colo vs Deportes Iquique,Colo-Colo,Deportes Iquique,1.46,4.5,6.25,1,0,1,4,0,4
+26-09-25,23:53,"Paraguay Division de Honor, Clausura",Sportivo Trinidense vs Club Guarani Asuncion,Sportivo Trinidense,Club Guarani Asuncion,2.85,3.25,2.35,0,0,0,1,1,2
+26-09-25,23:53,,Iguala F.C. vs Canteras Coka,Iguala F.C.,Canteras Coka,,,,0,1,1,1,2,3
