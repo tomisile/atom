@@ -9218,15 +9218,25 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 27-09-25,19:00,AD Frei Paulistano SE vs Caninde SE,"Brazil Sergipano, Serie A2",35688,AD Frei Paulistano SE,Caninde SE,1.73,3.5,3.8
 27-09-25,19:00,Aguara vs CD Imperial Unido,Chile Tercera Division,39662,Aguara,CD Imperial Unido,3.75,3.7,1.78
 27-09-25,14:25,Ajman vs Baniyas,United Arab Emirates U23 Pro League,17059,Ajman,Baniyas,1.58,4.0,4.6
-27-09-25,22:00,Indigenas de Matagalpa FC vs Rancho Santana FC,Nicaragua Primera Division,41749,Indigenas de Matagalpa FC,Rancho Santana FC,1.40,4.80,6.30
-27-09-25,00:00,Diriangen FC Diriamba vs Art Municipal Jalapa,Nicaragua Primera Division,15379,Diriangen FC Diriamba,Art Municipal Jalapa,1.25,5.90,8.90
-27-09-25,15:00,Hammarby IF vs Kalmar FF,Sweden Amateur U19 Allsvenskan,42107,Hammarby IF,Kalmar FF,1.26,5.20,7.10
-27-09-25,16:00,ZFK Krasnodar vs Lokomotiv Moscow,"Russia Superleague, Women",47716,ZFK Krasnodar,Lokomotiv Moscow,3.90,3.20,1.88
-27-09-25,14:30,Polonia Sroda Wielkopolska vs Kkp Warszawa,"Poland 1. Liga, Women",15691,Polonia Sroda Wielkopolska,Kkp Warszawa,1.38,4.70,6.10
-27-09-25,14:30,FK Humenne vs Lok. Kosice,Slovakia 3. Liga,47731,FK Humenne,Lok. Kosice,1.18,5.75,9.40
-27-09-25,14:30,MFK Dolny Kubin vs MSK Fomat Martin,Slovakia 3. Liga,30668,MFK Dolny Kubin,MSK Fomat Martin,2.70,3.90,1.98
-27-09-25,14:30,MFK Kezmarok vs FC Kosice II,Slovakia 3. Liga,47730,MFK Kezmarok,FC Kosice II,3.50,4.00,1.67
-27-09-25,14:30,MSK Namestovo vs FTC Filakovo,Slovakia 3. Liga,15509,MSK Namestovo,FTC Filakovo,1.68,4.00,3.50
-27-09-25,14:30,MSK Rimavska Sobota vs TJ Jednota Banova,Slovakia 3. Liga,43143,MSK Rimavska Sobota,TJ Jednota Banova,1.20,5.40,8.90
-27-09-25,19:30,Greval vs Riacho City Futebol Clube,"Brazil Candango, Serie B",47724,Greval,Riacho City Futebol Clube,1.24,5.50,9.00
-27-09-25,23:00,Tritones Vallarta MFC vs Cimarrones de Sonora FC,Mexico Liga Premier Serie A,15279,Tritones Vallarta MFC,Cimarrones de Sonora FC,2.70,3.70,2.15
+27-09-25,22:00,Indigenas de Matagalpa FC vs Rancho Santana FC,Nicaragua Primera Division,41749,Indigenas de Matagalpa FC,Rancho Santana FC,1.4,4.8,6.3
+27-09-25,00:00,Diriangen FC Diriamba vs Art Municipal Jalapa,Nicaragua Primera Division,15379,Diriangen FC Diriamba,Art Municipal Jalapa,1.25,5.9,8.9
+27-09-25,15:00,Hammarby IF vs Kalmar FF,Sweden Amateur U19 Allsvenskan,42107,Hammarby IF,Kalmar FF,1.26,5.2,7.1
+27-09-25,16:00,ZFK Krasnodar vs Lokomotiv Moscow,"Russia Superleague, Women",47716,ZFK Krasnodar,Lokomotiv Moscow,3.9,3.2,1.88
+27-09-25,14:30,Polonia Sroda Wielkopolska vs Kkp Warszawa,"Poland 1. Liga, Women",15691,Polonia Sroda Wielkopolska,Kkp Warszawa,1.38,4.7,6.1
+27-09-25,14:30,FK Humenne vs Lok. Kosice,Slovakia 3. Liga,47731,FK Humenne,Lok. Kosice,1.18,5.75,9.4
+27-09-25,14:30,MFK Dolny Kubin vs MSK Fomat Martin,Slovakia 3. Liga,30668,MFK Dolny Kubin,MSK Fomat Martin,2.7,3.9,1.98
+27-09-25,14:30,MFK Kezmarok vs FC Kosice II,Slovakia 3. Liga,47730,MFK Kezmarok,FC Kosice II,3.5,4.0,1.67
+27-09-25,14:30,MSK Namestovo vs FTC Filakovo,Slovakia 3. Liga,15509,MSK Namestovo,FTC Filakovo,1.68,4.0,3.5
+27-09-25,14:30,MSK Rimavska Sobota vs TJ Jednota Banova,Slovakia 3. Liga,43143,MSK Rimavska Sobota,TJ Jednota Banova,1.2,5.4,8.9
+27-09-25,19:30,Greval vs Riacho City Futebol Clube,"Brazil Candango, Serie B",47724,Greval,Riacho City Futebol Clube,1.24,5.5,9.0
+27-09-25,23:00,Tritones Vallarta MFC vs Cimarrones de Sonora FC,Mexico Liga Premier Serie A,15279,Tritones Vallarta MFC,Cimarrones de Sonora FC,2.7,3.7,2.15
+27-09-25,20:30,Angostura FC vs CS Maritimo de la Guaira,Venezuela Segunda Division,42396,Angostura FC,CS Maritimo de la Guaira,4.70,3.80,1.61
+27-09-25,20:30,Bolivar SC vs Dynamo Puerto FC,Venezuela Segunda Division,42557,Bolivar SC,Dynamo Puerto FC,2.40,3.10,2.75
+27-09-25,20:30,Deportivo Miranda vs Mineros de Guayana,Venezuela Segunda Division,41673,Deportivo Miranda,Mineros de Guayana,1.45,3.90,6.50
+27-09-25,20:30,Monagas SC B vs Aragua FC,Venezuela Segunda Division,42509,Monagas SC B,Aragua FC,2.55,3.40,2.40
+27-09-25,20:30,Real Frontera FC vs Trujillanos FC,Venezuela Segunda Division,42733,Real Frontera FC,Trujillanos FC,3.00,3.10,2.25
+27-09-25,20:30,TFC Guanare vs Barquisimeto SC,Venezuela Segunda Division,27281,TFC Guanare,Barquisimeto SC,2.70,3.00,2.50
+27-09-25,20:30,Urena SC vs Atletico El Vigia,Venezuela Segunda Division,42897,Urena SC,Atletico El Vigia,2.40,3.20,2.70
+27-09-25,18:45,Serrano FC RJ vs Paduano EC RJ,"Brazil Carioca, Serie B1",23972,Serrano FC RJ,Paduano EC RJ,2.20,3.10,3.00
+27-09-25,19:00,Uniao Luziense MG vs Coimbra Sports MG,"Brazil Mineiro, Segunda Divisao",24036,Uniao Luziense MG,Coimbra Sports MG,3.10,3.25,2.10
+27-09-25,17:30,CF Damm vs Gimnastic de Tarragona,Spain U19 Division de Honor Juvenil,29086,CF Damm,Gimnastic de Tarragona,1.73,3.60,4.10
