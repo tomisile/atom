@@ -10323,33 +10323,36 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 28-09-25,11:00,Oviedo Moderno vs Atletico Madrid B,"Spain Primera Federacion, Women",15007,Oviedo Moderno,Atletico Madrid B,2.3,3.1,3.0
 28-09-25,12:00,AJ Auxerre vs Saint Malo,"France Seconde Ligue, Women",12394,AJ Auxerre,Saint Malo,1.89,3.4,3.6
 28-09-25,12:00,LOSC Lille vs R. Aveyron,"France Seconde Ligue, Women",40382,LOSC Lille,R. Aveyron,1.51,4.0,5.4
-28-09-25,15:00,Igea Virtus Barcellona vs Enna Calcio SCSD,"Italy Serie D, Group I",14412,Igea Virtus Barcellona,Enna Calcio SCSD,2.10,3.20,3.25
-28-09-25,15:00,Ssd Athletic Club Palermo vs ASD Citta di Acireale 1946,"Italy Serie D, Group I",15768,Ssd Athletic Club Palermo,ASD Citta di Acireale 1946,2.10,3.00,3.40
-28-09-25,15:00,SC Covilha vs Lusitano GC,Portugal Liga Portugal 3,14722,SC Covilha,Lusitano GC,2.40,3.00,2.85
-28-09-25,15:00,FK Lovcen vs FK Igalo 1929,Montenegro 2. CFL,19834,FK Lovcen,FK Igalo 1929,1.87,3.30,3.80
-28-09-25,15:00,FK Otrant-Olympic Ulcinj vs FK Kom,Montenegro 2. CFL,19812,FK Otrant-Olympic Ulcinj,FK Kom,1.26,4.90,9.75
-28-09-25,18:00,FK Berane vs FK Podgorica,Montenegro 2. CFL,28433,FK Berane,FK Podgorica,1.43,4.60,5.40
-28-09-25,15:00,FC Marisca Mersch vs Berdenia Berbourg,Luxembourg Promotion d'Honneur,ID:,FC Marisca Mersch,Berdenia Berbourg,2.05,3.50,3.10
-28-09-25,15:00,FC Schifflingen 95 vs FC Lorentzweiler,Luxembourg Promotion d'Honneur,21623,FC Schifflingen 95,FC Lorentzweiler,1.63,3.90,4.40
-28-09-25,15:00,FC Wiltz 71 vs SC Bettembourg,Luxembourg Promotion d'Honneur,14769,FC Wiltz 71,SC Bettembourg,1.56,4.00,4.75
-28-09-25,15:00,The Belval Belvaux vs US Feulen,Luxembourg Promotion d'Honneur,21157,The Belval Belvaux,US Feulen,3.40,3.60,1.89
-28-09-25,21:00,Dunbeholden FC vs Cavaliers FC,Jamaica Premier League,40663,Dunbeholden FC,Cavaliers FC,4.10,3.20,1.90
-28-09-25,15:00,Fortuna Dusseldorf vs 1. FC Cologne,Germany Amateur U19 DFB Nachwuchsliga,44900,Fortuna Dusseldorf,1. FC Cologne,3.20,3.80,1.81
+28-09-25,15:00,Igea Virtus Barcellona vs Enna Calcio SCSD,"Italy Serie D, Group I",14412,Igea Virtus Barcellona,Enna Calcio SCSD,2.1,3.2,3.25
+28-09-25,15:00,Ssd Athletic Club Palermo vs ASD Citta di Acireale 1946,"Italy Serie D, Group I",15768,Ssd Athletic Club Palermo,ASD Citta di Acireale 1946,2.1,3.0,3.4
+28-09-25,15:00,SC Covilha vs Lusitano GC,Portugal Liga Portugal 3,14722,SC Covilha,Lusitano GC,2.4,3.0,2.85
+28-09-25,15:00,FK Lovcen vs FK Igalo 1929,Montenegro 2. CFL,19834,FK Lovcen,FK Igalo 1929,1.87,3.3,3.8
+28-09-25,15:00,FK Otrant-Olympic Ulcinj vs FK Kom,Montenegro 2. CFL,19812,FK Otrant-Olympic Ulcinj,FK Kom,1.26,4.9,9.75
+28-09-25,18:00,FK Berane vs FK Podgorica,Montenegro 2. CFL,28433,FK Berane,FK Podgorica,1.43,4.6,5.4
+28-09-25,15:00,FC Marisca Mersch vs Berdenia Berbourg,Luxembourg Promotion d'Honneur,ID:,FC Marisca Mersch,Berdenia Berbourg,2.05,3.5,3.1
+28-09-25,15:00,FC Schifflingen 95 vs FC Lorentzweiler,Luxembourg Promotion d'Honneur,21623,FC Schifflingen 95,FC Lorentzweiler,1.63,3.9,4.4
+28-09-25,15:00,FC Wiltz 71 vs SC Bettembourg,Luxembourg Promotion d'Honneur,14769,FC Wiltz 71,SC Bettembourg,1.56,4.0,4.75
+28-09-25,15:00,The Belval Belvaux vs US Feulen,Luxembourg Promotion d'Honneur,21157,The Belval Belvaux,US Feulen,3.4,3.6,1.89
+28-09-25,21:00,Dunbeholden FC vs Cavaliers FC,Jamaica Premier League,40663,Dunbeholden FC,Cavaliers FC,4.1,3.2,1.9
+28-09-25,15:00,Fortuna Dusseldorf vs 1. FC Cologne,Germany Amateur U19 DFB Nachwuchsliga,44900,Fortuna Dusseldorf,1. FC Cologne,3.2,3.8,1.81
 28-09-25,14:30,FC PBS Velka Bites vs 1. SC Znojmo FK,Czechia Divize D,24731,FC PBS Velka Bites,1. SC Znojmo FK,1.94,3.75,2.85
-28-09-25,14:30,Sokol Tasovice vs Zdar Nad Sazavou,Czechia Divize D,20580,Sokol Tasovice,Zdar Nad Sazavou,2.35,3.40,2.45
-28-09-25,14:30,SK Hs Kromeriz B vs SK Batov 1930,Czechia Divize E,27291,SK Hs Kromeriz B,SK Batov 1930,1.44,4.60,4.60
-28-09-25,14:30,Tatran Vsechovice vs TJ Skastice,Czechia Divize E,23820,Tatran Vsechovice,TJ Skastice,1.26,5.20,7.10
-28-09-25,14:30,SSK Bilovec vs SK Sulko Zabreh,Czechia Divize F,32130,SSK Bilovec,SK Sulko Zabreh,1.87,4.25,3.10
-28-09-25,15:00,Itabirito FC MG vs Atletico Mineiro MG,"Brazil Mineiro, Women",14542,Itabirito FC MG,Atletico Mineiro MG,5.60,4.00,1.43
-28-09-25,15:00,Eger SE vs Debreceni VSC II,Hungary NB III,17962,Eger SE,Debreceni VSC II,1.99,3.40,3.00
-28-09-25,15:00,Fuzesabony SC Eross Ut vs Putnok VSE,Hungary NB III,20857,Fuzesabony SC Eross Ut,Putnok VSE,3.90,3.60,1.67
-28-09-25,15:00,III Keruleti Tve vs Martfui Lse,Hungary NB III,31853,III Keruleti Tve,Martfui Lse,1.24,5.40,7.50
-28-09-25,15:00,Komarom Vse vs Zsambeki SK,Hungary NB III,13321,Komarom Vse,Zsambeki SK,1.39,4.20,5.70
-28-09-25,15:00,Szekszardi UFC vs Majosi SE,Hungary NB III,15088,Szekszardi UFC,Majosi SE,3.30,3.50,1.85
-28-09-25,15:00,Tiszafoldvar Vse vs Dunaharaszti MTK,Hungary NB III,16640,Tiszafoldvar Vse,Dunaharaszti MTK,3.40,3.50,1.81
-28-09-25,15:00,Tiszafured Vse vs Tiszaujvaros,Hungary NB III,27712,Tiszafured Vse,Tiszaujvaros,1.53,3.90,4.60
-28-09-25,16:00,Dunaujvaros Palhalma Agrospecial SE vs BFC Siofok,Hungary NB III,11850,Dunaujvaros Palhalma Agrospecial SE,BFC Siofok,1.44,4.10,5.25
-28-09-25,14:30,FK Hajduk Divos vs FK Sloboda Donji Tovarnik,Serbia Srpska Liga,12378,FK Hajduk Divos,FK Sloboda Donji Tovarnik,1.60,3.33,4.90
-28-09-25,14:30,FK Jedinstvo Surcin vs FK T6 Nika,Serbia Srpska Liga,14133,FK Jedinstvo Surcin,FK T6 Nika,2.30,2.85,2.85
-28-09-25,14:30,FK Radnicki Pirot vs FK Jedinstvo Paracin,Serbia Srpska Liga,11803,FK Radnicki Pirot,FK Jedinstvo Paracin,1.44,3.75,5.90
-28-09-25,14:30,FK Zeleznicar Indjija vs FK Sloga Conoplja,Serbia Srpska Liga,14372,FK Zeleznicar Indjija,FK Sloga Conoplja,1.37,4.10,6.60
+28-09-25,14:30,Sokol Tasovice vs Zdar Nad Sazavou,Czechia Divize D,20580,Sokol Tasovice,Zdar Nad Sazavou,2.35,3.4,2.45
+28-09-25,14:30,SK Hs Kromeriz B vs SK Batov 1930,Czechia Divize E,27291,SK Hs Kromeriz B,SK Batov 1930,1.44,4.6,4.6
+28-09-25,14:30,Tatran Vsechovice vs TJ Skastice,Czechia Divize E,23820,Tatran Vsechovice,TJ Skastice,1.26,5.2,7.1
+28-09-25,14:30,SSK Bilovec vs SK Sulko Zabreh,Czechia Divize F,32130,SSK Bilovec,SK Sulko Zabreh,1.87,4.25,3.1
+28-09-25,15:00,Itabirito FC MG vs Atletico Mineiro MG,"Brazil Mineiro, Women",14542,Itabirito FC MG,Atletico Mineiro MG,5.6,4.0,1.43
+28-09-25,15:00,Eger SE vs Debreceni VSC II,Hungary NB III,17962,Eger SE,Debreceni VSC II,1.99,3.4,3.0
+28-09-25,15:00,Fuzesabony SC Eross Ut vs Putnok VSE,Hungary NB III,20857,Fuzesabony SC Eross Ut,Putnok VSE,3.9,3.6,1.67
+28-09-25,15:00,III Keruleti Tve vs Martfui Lse,Hungary NB III,31853,III Keruleti Tve,Martfui Lse,1.24,5.4,7.5
+28-09-25,15:00,Komarom Vse vs Zsambeki SK,Hungary NB III,13321,Komarom Vse,Zsambeki SK,1.39,4.2,5.7
+28-09-25,15:00,Szekszardi UFC vs Majosi SE,Hungary NB III,15088,Szekszardi UFC,Majosi SE,3.3,3.5,1.85
+28-09-25,15:00,Tiszafoldvar Vse vs Dunaharaszti MTK,Hungary NB III,16640,Tiszafoldvar Vse,Dunaharaszti MTK,3.4,3.5,1.81
+28-09-25,15:00,Tiszafured Vse vs Tiszaujvaros,Hungary NB III,27712,Tiszafured Vse,Tiszaujvaros,1.53,3.9,4.6
+28-09-25,16:00,Dunaujvaros Palhalma Agrospecial SE vs BFC Siofok,Hungary NB III,11850,Dunaujvaros Palhalma Agrospecial SE,BFC Siofok,1.44,4.1,5.25
+28-09-25,14:30,FK Hajduk Divos vs FK Sloboda Donji Tovarnik,Serbia Srpska Liga,12378,FK Hajduk Divos,FK Sloboda Donji Tovarnik,1.6,3.33,4.9
+28-09-25,14:30,FK Jedinstvo Surcin vs FK T6 Nika,Serbia Srpska Liga,14133,FK Jedinstvo Surcin,FK T6 Nika,2.3,2.85,2.85
+28-09-25,14:30,FK Radnicki Pirot vs FK Jedinstvo Paracin,Serbia Srpska Liga,11803,FK Radnicki Pirot,FK Jedinstvo Paracin,1.44,3.75,5.9
+28-09-25,14:30,FK Zeleznicar Indjija vs FK Sloga Conoplja,Serbia Srpska Liga,14372,FK Zeleznicar Indjija,FK Sloga Conoplja,1.37,4.1,6.6
+28-09-25,18:00,ASC Jaraaf vs Colombe Sportive Du Dja Et Lobo,International Clubs CAF Champions League,26609,ASC Jaraaf,Colombe Sportive Du Dja Et Lobo,1.80,3.20,4.75
+28-09-25,22:00,CD Hercules U20 vs CD Aguila U20,"El Salvador Primera Division, Reserves, Apertura",11104,CD Hercules U20,CD Aguila U20,4.10,3.50,1.76
+28-09-25,19:00,Salgueiro AC PE vs Petrolina SFC PE,Brazil U20 Pernambucano,29910,Salgueiro AC PE,Petrolina SFC PE,2.15,3.40,2.95
