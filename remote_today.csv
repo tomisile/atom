@@ -10700,20 +10700,24 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 30-09-25,14:15,Hapoel Haifa vs Hapoel Nir Ramat Hasharon,Israel U19 Premier League,38333,Hapoel Haifa,Hapoel Nir Ramat Hasharon,1.85,3.8,3.1
 30-09-25,15:45,Hapoel Petah Tikva Nahum vs Bnei Yehuda Tel Aviv,Israel U19 Premier League,37445,Hapoel Petah Tikva Nahum,Bnei Yehuda Tel Aviv,2.15,3.5,2.65
 30-09-25,17:00,Hapoel Raanana vs Maccabi Petah Tikva,Israel U19 Premier League,38336,Hapoel Raanana,Maccabi Petah Tikva,2.5,3.33,2.35
-30-09-25,11:00,Ulsan Citizen FC vs Jeonbuk FC II,Republic of Korea K3 League,35320,Ulsan Citizen FC,Jeonbuk FC II,2.35,3.10,2.80
-30-09-25,19:45,Havant & Waterlooville vs Bracknell Town FC,England Amateur Southern League Premier South,35880,Havant & Waterlooville,Bracknell Town FC,1.56,4.30,4.40
-30-09-25,19:45,Cray Valley Paper Mills FC vs Aveley FC,"England Amateur Isthmian League, Pr. Div",36123,Cray Valley Paper Mills FC,Aveley FC,2.10,3.50,2.90
-30-09-25,19:45,Hashtag United vs Welling United,"England Amateur Isthmian League, Pr. Div",35714,Hashtag United,Welling United,1.83,4.00,3.33
-30-09-25,18:00,FK Haugesund 2 vs Hinna,Norway 3rd Division Group 5,16997,FK Haugesund 2,Hinna,2.10,4.50,2.50
-30-09-25,18:00,SV Werder Bremen II vs VfB Lubeck,Germany Amateur Regionalliga North,27825,SV Werder Bremen II,VfB Lubeck,2.25,3.80,2.50
-30-09-25,18:00,FC 08 Homburg-Saar vs TSV Schott Mainz,Germany Amateur Regionalliga Southwest,15459,FC 08 Homburg-Saar,TSV Schott Mainz,1.41,4.90,5.40
-30-09-25,18:00,FC Astoria Walldorf vs FSV Frankfurt 1899,Germany Amateur Regionalliga Southwest,15924,FC Astoria Walldorf,FSV Frankfurt 1899,2.65,3.50,2.30
-30-09-25,18:00,FSV Mainz II vs Eintracht Trier,Germany Amateur Regionalliga Southwest,21704,FSV Mainz II,Eintracht Trier,1.86,3.80,3.33
-30-09-25,18:00,Offenbacher FC Kickers 1901 vs SG Barockstadt Fulda-Lehnerz,Germany Amateur Regionalliga Southwest,42158,Offenbacher FC Kickers 1901,SG Barockstadt Fulda-Lehnerz,1.79,3.90,3.50
-30-09-25,18:00,SC Freiburg II vs TSG Balingen 1848,Germany Amateur Regionalliga Southwest,14719,SC Freiburg II,TSG Balingen 1848,1.54,4.30,4.60
-30-09-25,18:00,Stuttgarter Kickers vs SGV Freiberg,Germany Amateur Regionalliga Southwest,13741,Stuttgarter Kickers,SGV Freiberg,2.90,3.40,2.15
-30-09-25,18:00,TSV Steinbach Haiger vs FC Bayern Alzenau,Germany Amateur Regionalliga Southwest,13376,TSV Steinbach Haiger,FC Bayern Alzenau,1.47,4.40,5.20
-30-09-25,13:30,Melaka FC vs Brunei DPMM FC,Malaysia Super League,17208,Melaka FC,Brunei DPMM FC,1.65,4.00,4.10
-30-09-25,15:00,AL Arabi vs Al Tora,Jordan First Division,21590,AL Arabi,Al Tora,1.34,4.70,7.10
-30-09-25,14:00,MS Tamea vs Cascada SC,Egypt Egypt Second Division B,16360,MS Tamea,Cascada SC,2.25,3.00,3.10
-30-09-25,14:00,Nejmet Sinai FC vs MS Amer Village,Egypt Egypt Second Division B,34280,Nejmet Sinai FC,MS Amer Village,2.90,3.20,2.25
+30-09-25,11:00,Ulsan Citizen FC vs Jeonbuk FC II,Republic of Korea K3 League,35320,Ulsan Citizen FC,Jeonbuk FC II,2.35,3.1,2.8
+30-09-25,19:45,Havant & Waterlooville vs Bracknell Town FC,England Amateur Southern League Premier South,35880,Havant & Waterlooville,Bracknell Town FC,1.56,4.3,4.4
+30-09-25,19:45,Cray Valley Paper Mills FC vs Aveley FC,"England Amateur Isthmian League, Pr. Div",36123,Cray Valley Paper Mills FC,Aveley FC,2.1,3.5,2.9
+30-09-25,19:45,Hashtag United vs Welling United,"England Amateur Isthmian League, Pr. Div",35714,Hashtag United,Welling United,1.83,4.0,3.33
+30-09-25,18:00,FK Haugesund 2 vs Hinna,Norway 3rd Division Group 5,16997,FK Haugesund 2,Hinna,2.1,4.5,2.5
+30-09-25,18:00,SV Werder Bremen II vs VfB Lubeck,Germany Amateur Regionalliga North,27825,SV Werder Bremen II,VfB Lubeck,2.25,3.8,2.5
+30-09-25,18:00,FC 08 Homburg-Saar vs TSV Schott Mainz,Germany Amateur Regionalliga Southwest,15459,FC 08 Homburg-Saar,TSV Schott Mainz,1.41,4.9,5.4
+30-09-25,18:00,FC Astoria Walldorf vs FSV Frankfurt 1899,Germany Amateur Regionalliga Southwest,15924,FC Astoria Walldorf,FSV Frankfurt 1899,2.65,3.5,2.3
+30-09-25,18:00,FSV Mainz II vs Eintracht Trier,Germany Amateur Regionalliga Southwest,21704,FSV Mainz II,Eintracht Trier,1.86,3.8,3.33
+30-09-25,18:00,Offenbacher FC Kickers 1901 vs SG Barockstadt Fulda-Lehnerz,Germany Amateur Regionalliga Southwest,42158,Offenbacher FC Kickers 1901,SG Barockstadt Fulda-Lehnerz,1.79,3.9,3.5
+30-09-25,18:00,SC Freiburg II vs TSG Balingen 1848,Germany Amateur Regionalliga Southwest,14719,SC Freiburg II,TSG Balingen 1848,1.54,4.3,4.6
+30-09-25,18:00,Stuttgarter Kickers vs SGV Freiberg,Germany Amateur Regionalliga Southwest,13741,Stuttgarter Kickers,SGV Freiberg,2.9,3.4,2.15
+30-09-25,18:00,TSV Steinbach Haiger vs FC Bayern Alzenau,Germany Amateur Regionalliga Southwest,13376,TSV Steinbach Haiger,FC Bayern Alzenau,1.47,4.4,5.2
+30-09-25,13:30,Melaka FC vs Brunei DPMM FC,Malaysia Super League,17208,Melaka FC,Brunei DPMM FC,1.65,4.0,4.1
+30-09-25,15:00,AL Arabi vs Al Tora,Jordan First Division,21590,AL Arabi,Al Tora,1.34,4.7,7.1
+30-09-25,14:00,MS Tamea vs Cascada SC,Egypt Egypt Second Division B,16360,MS Tamea,Cascada SC,2.25,3.0,3.1
+30-09-25,14:00,Nejmet Sinai FC vs MS Amer Village,Egypt Egypt Second Division B,34280,Nejmet Sinai FC,MS Amer Village,2.9,3.2,2.25
+30-09-25,17:00,San Telmo Reserves vs Los Andes Reserves,"Argentina Primera Nacional, Reserve",14447,San Telmo Reserves,Los Andes Reserves,1.79,3.10,4.60
+30-09-25,17:00,Leiknir U19 vs IA/Kari/Skallagrimur/Vikingur Olafsvík U19,Iceland U19 League,10783,Leiknir U19,IA/Kari/Skallagrimur/Vikingur Olafsvík U19,6.30,5.40,1.32
+30-09-25,15:30,Hapoel Rishon Letzion vs Hapoel Ako,Israel U19 Premier League,20613,Hapoel Rishon Letzion,Hapoel Ako,1.61,3.70,4.20
+30-09-25,19:00,West Bromwich Albion FC U21 vs FC Nordsjaelland,International Youth U21 Premier League International Cup,36371,West Bromwich Albion FC U21,FC Nordsjaelland,4.20,4.25,1.59
