@@ -10909,7 +10909,15 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 01-10-25,22:17,Juventud Copalera vs Deportivo Nueva Concepcion,Guatemala Primera Division,45243,Juventud Copalera,Deportivo Nueva Concepcion,1.46,3.9,6.3
 01-10-25,13:00,GNK Dinamo Zagreb vs NK Rudes,Croatia U19 Prva NL Juniori,25983,GNK Dinamo Zagreb,NK Rudes,1.18,6.25,8.2
 01-10-25,19:00,Duque de Caxias FC RJ vs Goncalense Petropolis RJ U20,"Brazil U20 Carioca, Serie A2",17279,Duque de Caxias FC RJ,Goncalense Petropolis RJ U20,5.25,3.5,1.53
-01-10-25,15:00,FK Rabotnicki U19 vs Shelbourne,International Youth UEFA Youth League,13086,FK Rabotnicki U19,Shelbourne,4.30,4.90,1.60
-01-10-25,16:00,Rivers United FC vs Niger Tornadoes FC,Nigeria Premier League,38076,Rivers United FC,Niger Tornadoes FC,1.54,3.60,5.75
-01-10-25,19:00,Deportivo Iztapa vs San Benito FC,Guatemala Primera Division,26142,Deportivo Iztapa,San Benito FC,1.69,3.60,4.40
-01-10-25,22:30,Aguacatan FC vs Deportivo Gomerano,Guatemala Primera Division,35863,Aguacatan FC,Deportivo Gomerano,2.25,3.33,2.80
+01-10-25,15:00,FK Rabotnicki U19 vs Shelbourne,International Youth UEFA Youth League,13086,FK Rabotnicki U19,Shelbourne,4.3,4.9,1.6
+01-10-25,16:00,Rivers United FC vs Niger Tornadoes FC,Nigeria Premier League,38076,Rivers United FC,Niger Tornadoes FC,1.54,3.6,5.75
+01-10-25,19:00,Deportivo Iztapa vs San Benito FC,Guatemala Primera Division,26142,Deportivo Iztapa,San Benito FC,1.69,3.6,4.4
+01-10-25,22:30,Aguacatan FC vs Deportivo Gomerano,Guatemala Primera Division,35863,Aguacatan FC,Deportivo Gomerano,2.25,3.33,2.8
+01-10-25,18:00,1. FC Kaiserslautern II vs Hertha Wiesbach,Germany Amateur Oberliga Rheinland-Pfalz,39697,1. FC Kaiserslautern II,Hertha Wiesbach,1.75,4.00,3.60
+01-10-25,18:00,FK 03 Pirmasens vs SV Auersmacher,Germany Amateur Oberliga Rheinland-Pfalz,37553,FK 03 Pirmasens,SV Auersmacher,1.13,6.90,14.00
+01-10-25,18:00,FV Diefflen vs SC Idar-Oberstein,Germany Amateur Oberliga Rheinland-Pfalz,37382,FV Diefflen,SC Idar-Oberstein,1.94,3.80,3.10
+01-10-25,18:00,FV Engers 07 vs TUS Koblenz 1911,Germany Amateur Oberliga Rheinland-Pfalz,35198,FV Engers 07,TUS Koblenz 1911,3.40,3.80,1.85
+01-10-25,18:30,FC Rot-Weiss Koblenz vs FV Dudenhofen,Germany Amateur Oberliga Rheinland-Pfalz,42513,FC Rot-Weiss Koblenz,FV Dudenhofen,2.30,2.90,3.10
+01-10-25,18:30,FV Eppelborn vs Arminia Ludwigshafen,Germany Amateur Oberliga Rheinland-Pfalz,43922,FV Eppelborn,Arminia Ludwigshafen,2.30,2.90,3.10
+01-10-25,18:30,Sportfreunde Eisbachtal vs FC Emmelshausen-Karbach,Germany Amateur Oberliga Rheinland-Pfalz,27142,Sportfreunde Eisbachtal,FC Emmelshausen-Karbach,3.60,3.50,1.85
+01-10-25,18:30,VfR Wormatia 08 Worms vs SV Gonsenheim,Germany Amateur Oberliga Rheinland-Pfalz,45068,VfR Wormatia 08 Worms,SV Gonsenheim,2.15,3.33,3.00
