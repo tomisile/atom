@@ -13594,78 +13594,90 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 05-10-25,23:45,Club Tijuana de Caliente U21 vs CF Monterrey U21,Mexico U21 Liga MX,34428,Club Tijuana de Caliente U21,CF Monterrey U21,1.78,3.5,3.5
 05-10-25,08:45,FC Mauerwerk vs WAF Vorwarts Brigittenau,Austria Amateur Wiener Stadtliga,32856,FC Mauerwerk,WAF Vorwarts Brigittenau,2.15,3.4,2.85
 05-10-25,15:00,Oulun Luistinseura vs JJK Jyvaskyla,Finland Ykkonen,27761,Oulun Luistinseura,JJK Jyvaskyla,1.27,5.7,7.3
-05-10-25,19:00,Germinal vs CA 9 de Julio Rafaela,Argentina Torneo Federal A,47746,Germinal,CA 9 de Julio Rafaela,2.20,3.00,3.50
-05-10-25,19:00,Sol de Mayo vs Sportivo General San Martin,Argentina Torneo Federal A,32596,Sol de Mayo,Sportivo General San Martin,3.10,3.40,2.15
-05-10-25,19:30,CD Argentino Monte Maiz vs Ciudad de Bolivar,Argentina Torneo Federal A,40195,CD Argentino Monte Maiz,Ciudad de Bolivar,2.50,2.65,3.30
+05-10-25,19:00,Germinal vs CA 9 de Julio Rafaela,Argentina Torneo Federal A,47746,Germinal,CA 9 de Julio Rafaela,2.2,3.0,3.5
+05-10-25,19:00,Sol de Mayo vs Sportivo General San Martin,Argentina Torneo Federal A,32596,Sol de Mayo,Sportivo General San Martin,3.1,3.4,2.15
+05-10-25,19:30,CD Argentino Monte Maiz vs Ciudad de Bolivar,Argentina Torneo Federal A,40195,CD Argentino Monte Maiz,Ciudad de Bolivar,2.5,2.65,3.3
 05-10-25,20:00,Linqueno vs Gimnasia de Chivilcoy,Argentina Torneo Federal A,37550,Linqueno,Gimnasia de Chivilcoy,1.98,2.95,4.25
-05-10-25,14:00,Asd Sasso Marconi 1924 vs Pro Sesto,"Italy Serie D, Group D",39020,Asd Sasso Marconi 1924,Pro Sesto,3.40,3.30,1.98
-05-10-25,12:00,SC Lusitania Angra vs GD Vitoria Sernache,Portugal Campeonato de Portugal,25586,SC Lusitania Angra,GD Vitoria Sernache,2.40,3.20,2.75
-05-10-25,16:00,Rebordosa AC vs SC Beira Mar,Portugal Campeonato de Portugal,23681,Rebordosa AC,SC Beira Mar,2.00,2.95,3.75
-05-10-25,14:00,Rezeknes Fa/Bjss vs Marupes SC,Latvia 1.Liga,32315,Rezeknes Fa/Bjss,Marupes SC,3.30,3.75,1.88
-05-10-25,16:00,FK Smiltene/Bjss vs FK Tukums 2000/Tss II,Latvia 1.Liga,32320,FK Smiltene/Bjss,FK Tukums 2000/Tss II,1.59,3.90,4.60
-05-10-25,15:00,AS Kasserine vs EO Sidi Bouzid,Tunisia Ligue 2,22806,AS Kasserine,EO Sidi Bouzid,1.37,4.20,7.80
-05-10-25,16:30,UD Somozas vs CD Lugo B,"Spain Amateur Tercera Federacion, Group 1",31150,UD Somozas,CD Lugo B,3.20,2.90,2.25
-05-10-25,17:30,Arosa SC vs UD Barbadas,"Spain Amateur Tercera Federacion, Group 1",29339,Arosa SC,UD Barbadas,1.73,3.25,4.60
-05-10-25,16:00,Atletico Onubense vs CD San Roque de Lepe,"Spain Amateur Tercera Federacion, Group 10",24047,Atletico Onubense,CD San Roque de Lepe,2.40,2.90,2.95
-05-10-25,17:00,CD Bala Azul vs El Palmar CF-Estrella Grana,"Spain Amateur Tercera Federacion, Group 13",31165,CD Bala Azul,El Palmar CF-Estrella Grana,1.69,3.40,4.70
-05-10-25,17:00,CD Cieza vs Deportivo Maritimo,"Spain Amateur Tercera Federacion, Group 13",29297,CD Cieza,Deportivo Maritimo,1.19,5.75,11.50
-05-10-25,17:30,Muleno CF vs SFC Minerva,"Spain Amateur Tercera Federacion, Group 13",30572,Muleno CF,SFC Minerva,2.15,3.00,3.30
-05-10-25,17:30,UD Caravaca vs Union Molinense CF 2020,"Spain Amateur Tercera Federacion, Group 13",30511,UD Caravaca,Union Molinense CF 2020,3.25,3.20,2.05
-05-10-25,17:00,AD Llerenense vs SP Villafranca,"Spain Amateur Tercera Federacion, Group 14",30244,AD Llerenense,SP Villafranca,1.53,3.60,5.90
-05-10-25,16:00,CD Agoncillo vs Club Haro Deportivo,"Spain Amateur Tercera Federacion, Group 16",24084,CD Agoncillo,Club Haro Deportivo,2.40,3.25,2.70
-05-10-25,16:00,CD Arnedo vs CD Berceo,"Spain Amateur Tercera Federacion, Group 16",27522,CD Arnedo,CD Berceo,1.44,4.50,5.60
-05-10-25,16:30,CDFC La Calzada vs Pena Balmaiso CF,"Spain Amateur Tercera Federacion, Group 16",29634,CDFC La Calzada,Pena Balmaiso CF,1.44,4.25,5.80
-05-10-25,16:00,Andorra CF vs CF Calamocha,"Spain Amateur Tercera Federacion, Group 17",27700,Andorra CF,CF Calamocha,3.40,2.90,2.15
-05-10-25,16:00,CD Belchite 97 vs SD Huesca B,"Spain Amateur Tercera Federacion, Group 17",29227,CD Belchite 97,SD Huesca B,2.85,2.85,2.50
-05-10-25,16:00,CDJ Tamarite vs AD Almudevar,"Spain Amateur Tercera Federacion, Group 17",29531,CDJ Tamarite,AD Almudevar,2.50,3.00,2.70
-05-10-25,17:00,CD Huracan de Balazote vs CD Cazalegas,"Spain Amateur Tercera Federacion, Group 18",30423,CD Huracan de Balazote,CD Cazalegas,1.41,4.10,6.80
-05-10-25,16:00,CD Tuilla vs El San Martin Ra,"Spain Amateur Tercera Federacion, Group 2",24041,CD Tuilla,El San Martin Ra,2.15,3.10,3.10
-05-10-25,17:00,SD Leioa vs UD Aretxabaleta,"Spain Amateur Tercera Federacion, Group 4",30094,SD Leioa,UD Aretxabaleta,1.92,3.40,3.50
-05-10-25,11:00,UE Vic vs FC L Escala,"Spain Amateur Tercera Federacion, Group 5",47180,UE Vic,FC L Escala,2.55,3.40,2.45
-05-10-25,16:30,Atletico Saguntino vs CD Soneja,"Spain Amateur Tercera Federacion, Group 6",31152,Atletico Saguntino,CD Soneja,1.84,3.10,4.25
-05-10-25,16:00,CD Palencia Cristo Atletico vs CD Atletico Mansilles,"Spain Amateur Tercera Federacion, Group 8",23044,CD Palencia Cristo Atletico,CD Atletico Mansilles,1.67,3.00,5.90
-05-10-25,11:15,CD Alhaurino vs CD Huetor Tajar,"Spain Amateur Tercera Federacion, Group 9",35822,CD Alhaurino,CD Huetor Tajar,2.75,3.00,2.50
-05-10-25,17:00,CD Torreperogil vs Atletico Mancha Real,"Spain Amateur Tercera Federacion, Group 9",23343,CD Torreperogil,Atletico Mancha Real,2.40,2.80,3.00
-05-10-25,15:00,Umeaa FC Akademi vs Kubikenborgs IF,"Sweden Division 2, Norrland",29833,Umeaa FC Akademi,Kubikenborgs IF,3.50,4.10,1.83
-05-10-25,14:00,MKS Stal Jasien vs Gornik Zabrze II,"Poland III Liga, Group 3",21393,MKS Stal Jasien,Gornik Zabrze II,4.80,4.30,1.51
-05-10-25,17:00,Hapoel Kfar Saba FC vs MS Football Hapoel Kiryat Yam,Israel National League,32775,Hapoel Kfar Saba FC,MS Football Hapoel Kiryat Yam,2.70,3.40,2.40
-05-10-25,15:00,Dinamo-2 Tbilisi vs FC Lokomotivi Tbilisi,Georgia Erovnuli Liga 2,32723,Dinamo-2 Tbilisi,FC Lokomotivi Tbilisi,4.40,3.90,1.63
-05-10-25,16:00,FC Spaeri vs FC Saburtalo Tiblisi II,Georgia Erovnuli Liga 2,36084,FC Spaeri,FC Saburtalo Tiblisi II,1.42,4.50,5.80
-05-10-25,15:00,Academia Costa Del Este vs Umecit II,Panama Liga Prom,10672,Academia Costa Del Este,Umecit II,1.50,4.25,5.10
-05-10-25,22:00,Academia Mario Mendez vs Veraguas United FC B,Panama Liga Prom,32746,Academia Mario Mendez,Veraguas United FC B,1.38,4.50,6.50
-05-10-25,11:30,FC Slonim vs Dinamo Minsk 2,Belarus Pervaya Liga,33003,FC Slonim,Dinamo Minsk 2,4.20,3.40,1.82
-05-10-25,12:30,FC Belshina Bobruisk vs FC Orsha,Belarus Pervaya Liga,38901,FC Belshina Bobruisk,FC Orsha,1.24,5.70,10.50
-05-10-25,14:00,Aep Polemidion vs Podosfairkos Omilos Ormideia,Cyprus 3rd Division,36869,Aep Polemidion,Podosfairkos Omilos Ormideia,1.40,4.00,5.90
-05-10-25,15:00,KFUM 2 vs Harstad,Norway 3rd Division Group 1,25906,KFUM 2,Harstad,1.75,4.50,3.30
-05-10-25,14:00,Kristiansund BK 2 vs Trygg/Lade,Norway 3rd Division Group 2,29911,Kristiansund BK 2,Trygg/Lade,24.00,10.50,1.04
-05-10-25,16:00,Kongsvinger IL Fotball 2 vs Bjoerkelangen,Norway 3rd Division Group 3,31099,Kongsvinger IL Fotball 2,Bjoerkelangen,2.25,4.30,2.35
-05-10-25,12:00,Olimpia Asuncion Reserves vs Sportivo Ameliano Reserves,"Paraguay Primera Division Reserve, Clausura",15472,Olimpia Asuncion Reserves,Sportivo Ameliano Reserves,2.20,3.30,2.95
-05-10-25,16:00,Eleven Wonders FC vs Young Apostles FC,Ghana Premier League,18586,Eleven Wonders FC,Young Apostles FC,2.15,2.85,3.50
-05-10-25,16:00,Samartex vs Aduana Stars,Ghana Premier League,31146,Samartex,Aduana Stars,1.56,3.33,6.20
-05-10-25,14:00,Black Bulls FC vs Desportivo Da Matola,Mozambique Mocambola,32697,Black Bulls FC,Desportivo Da Matola,1.22,4.60,11.00
-05-10-25,14:00,LASK Amateure OO vs SC Kalsdorf,Austria Amateur Regionalliga Centre,32042,LASK Amateure OO,SC Kalsdorf,1.84,3.75,3.10
-05-10-25,15:00,SV Ried II vs Union Gurten,Austria Amateur Regionalliga Centre,37886,SV Ried II,Union Gurten,9.60,4.50,1.24
-05-10-25,13:00,SV Sandhausen vs TSV Steinbach Haiger,Germany Amateur Regionalliga Southwest,37616,SV Sandhausen,TSV Steinbach Haiger,2.15,3.70,2.70
-05-10-25,14:00,PDRM FA vs Johor Darul Tazim FC,Malaysia Super League,16612,PDRM FA,Johor Darul Tazim FC,20.00,10.50,1.05
-05-10-25,13:30,Edirnespor vs Fethiye Idman Yurdu,"Turkiye Amateur 3. Lig, Group 1",32368,Edirnespor,Fethiye Idman Yurdu,2.50,3.50,2.20
-05-10-25,12:30,Kahramanmarasspor vs Silifke Belediyespor,"Turkiye Amateur 3. Lig, Group 2",33976,Kahramanmarasspor,Silifke Belediyespor,3.25,3.60,1.84
-05-10-25,14:10,Oman Club vs Dhofar Club,Oman Professional League Cup,11987,Oman Club,Dhofar Club,1.90,3.20,3.40
-05-10-25,14:10,Samail vs Al-Nasr,Oman Professional League Cup,15031,Samail,Al-Nasr,4.70,2.60,1.88
-05-10-25,16:00,Wiliete SC vs Atletico Petroleos de Luanda,Angola Girabola,32737,Wiliete SC,Atletico Petroleos de Luanda,2.95,2.80,2.50
-05-10-25,21:00,Chapelton Maroons FC vs Montego Bay United,Jamaica Premier League,13381,Chapelton Maroons FC,Montego Bay United,5.10,3.70,1.63
-05-10-25,21:00,Portmore United vs Racing United FC,Jamaica Premier League,11895,Portmore United,Racing United FC,2.15,2.50,4.70
-05-10-25,14:00,NK TOSK Tesanj vs FK Tuzla City,"Bosnia & Herzegovina Prva Liga, Fed BiH",23456,NK TOSK Tesanj,FK Tuzla City,1.43,4.10,6.40
-05-10-25,14:00,FK Omarska vs FK Zvijezda 09,"Bosnia & Herzegovina Prva Liga, Rep of Srpska",24152,FK Omarska,FK Zvijezda 09,3.50,3.40,1.93
-05-10-25,13:30,Mzuzu City Hammers vs Civil Service United FC,Malawi Super League,20989,Mzuzu City Hammers,Civil Service United FC,3.00,2.95,2.35
-05-10-25,14:00,AO Acharnaikos vs AO Agia Paraskevi,"Greece Super League, Women",23384,AO Acharnaikos,AO Agia Paraskevi,3.10,2.95,2.30
-05-10-25,14:00,OFI vs Volos Nps,"Greece Super League, Women",23324,OFI,Volos Nps,1.21,6.00,9.50
-05-10-25,16:00,Hluboka vs FK Krimice,Czechia Divize A,19295,Hluboka,FK Krimice,1.90,3.90,2.85
-05-10-25,22:00,CD San Juan Quimistan vs CD Arsenal Sao Cantarranas,Honduras Liga de Ascenso,35701,CD San Juan Quimistan,CD Arsenal Sao Cantarranas,2.50,3.00,2.90
-05-10-25,14:00,Bumamuru FC vs Muzinga FC,Burundi Ligue A,37366,Bumamuru FC,Muzinga FC,1.42,3.60,6.90
-05-10-25,14:00,Flambeau Du Centre FC vs Aigle Noir CS,Burundi Ligue A,37539,Flambeau Du Centre FC,Aigle Noir CS,1.83,2.95,4.10
-05-10-25,14:00,Le Messager Ngozi FC vs Rukinzo FC,Burundi Ligue A,37368,Le Messager Ngozi FC,Rukinzo FC,2.45,2.80,2.75
-05-10-25,14:00,Olympic Star FC vs Musongati FC,Burundi Ligue A,37459,Olympic Star FC,Musongati FC,2.75,2.80,2.45
-05-10-25,12:00,Senyo Carnifex FC vs Godolloi SK,Hungary NB III,32257,Senyo Carnifex FC,Godolloi SK,2.45,3.60,2.25
-05-10-25,19:00,Deportivo Coatepeque vs Deportivo San Pedro,Guatemala Primera Division,32560,Deportivo Coatepeque,Deportivo San Pedro,1.73,3.33,4.50
-05-10-25,11:00,Mombasa United FC vs Fortune Sacco,Kenya Super League,30889,Mombasa United FC,Fortune Sacco,1.97,3.10,3.70
+05-10-25,14:00,Asd Sasso Marconi 1924 vs Pro Sesto,"Italy Serie D, Group D",39020,Asd Sasso Marconi 1924,Pro Sesto,3.4,3.3,1.98
+05-10-25,12:00,SC Lusitania Angra vs GD Vitoria Sernache,Portugal Campeonato de Portugal,25586,SC Lusitania Angra,GD Vitoria Sernache,2.4,3.2,2.75
+05-10-25,16:00,Rebordosa AC vs SC Beira Mar,Portugal Campeonato de Portugal,23681,Rebordosa AC,SC Beira Mar,2.0,2.95,3.75
+05-10-25,14:00,Rezeknes Fa/Bjss vs Marupes SC,Latvia 1.Liga,32315,Rezeknes Fa/Bjss,Marupes SC,3.3,3.75,1.88
+05-10-25,16:00,FK Smiltene/Bjss vs FK Tukums 2000/Tss II,Latvia 1.Liga,32320,FK Smiltene/Bjss,FK Tukums 2000/Tss II,1.59,3.9,4.6
+05-10-25,15:00,AS Kasserine vs EO Sidi Bouzid,Tunisia Ligue 2,22806,AS Kasserine,EO Sidi Bouzid,1.37,4.2,7.8
+05-10-25,16:30,UD Somozas vs CD Lugo B,"Spain Amateur Tercera Federacion, Group 1",31150,UD Somozas,CD Lugo B,3.2,2.9,2.25
+05-10-25,17:30,Arosa SC vs UD Barbadas,"Spain Amateur Tercera Federacion, Group 1",29339,Arosa SC,UD Barbadas,1.73,3.25,4.6
+05-10-25,16:00,Atletico Onubense vs CD San Roque de Lepe,"Spain Amateur Tercera Federacion, Group 10",24047,Atletico Onubense,CD San Roque de Lepe,2.4,2.9,2.95
+05-10-25,17:00,CD Bala Azul vs El Palmar CF-Estrella Grana,"Spain Amateur Tercera Federacion, Group 13",31165,CD Bala Azul,El Palmar CF-Estrella Grana,1.69,3.4,4.7
+05-10-25,17:00,CD Cieza vs Deportivo Maritimo,"Spain Amateur Tercera Federacion, Group 13",29297,CD Cieza,Deportivo Maritimo,1.19,5.75,11.5
+05-10-25,17:30,Muleno CF vs SFC Minerva,"Spain Amateur Tercera Federacion, Group 13",30572,Muleno CF,SFC Minerva,2.15,3.0,3.3
+05-10-25,17:30,UD Caravaca vs Union Molinense CF 2020,"Spain Amateur Tercera Federacion, Group 13",30511,UD Caravaca,Union Molinense CF 2020,3.25,3.2,2.05
+05-10-25,17:00,AD Llerenense vs SP Villafranca,"Spain Amateur Tercera Federacion, Group 14",30244,AD Llerenense,SP Villafranca,1.53,3.6,5.9
+05-10-25,16:00,CD Agoncillo vs Club Haro Deportivo,"Spain Amateur Tercera Federacion, Group 16",24084,CD Agoncillo,Club Haro Deportivo,2.4,3.25,2.7
+05-10-25,16:00,CD Arnedo vs CD Berceo,"Spain Amateur Tercera Federacion, Group 16",27522,CD Arnedo,CD Berceo,1.44,4.5,5.6
+05-10-25,16:30,CDFC La Calzada vs Pena Balmaiso CF,"Spain Amateur Tercera Federacion, Group 16",29634,CDFC La Calzada,Pena Balmaiso CF,1.44,4.25,5.8
+05-10-25,16:00,Andorra CF vs CF Calamocha,"Spain Amateur Tercera Federacion, Group 17",27700,Andorra CF,CF Calamocha,3.4,2.9,2.15
+05-10-25,16:00,CD Belchite 97 vs SD Huesca B,"Spain Amateur Tercera Federacion, Group 17",29227,CD Belchite 97,SD Huesca B,2.85,2.85,2.5
+05-10-25,16:00,CDJ Tamarite vs AD Almudevar,"Spain Amateur Tercera Federacion, Group 17",29531,CDJ Tamarite,AD Almudevar,2.5,3.0,2.7
+05-10-25,17:00,CD Huracan de Balazote vs CD Cazalegas,"Spain Amateur Tercera Federacion, Group 18",30423,CD Huracan de Balazote,CD Cazalegas,1.41,4.1,6.8
+05-10-25,16:00,CD Tuilla vs El San Martin Ra,"Spain Amateur Tercera Federacion, Group 2",24041,CD Tuilla,El San Martin Ra,2.15,3.1,3.1
+05-10-25,17:00,SD Leioa vs UD Aretxabaleta,"Spain Amateur Tercera Federacion, Group 4",30094,SD Leioa,UD Aretxabaleta,1.92,3.4,3.5
+05-10-25,11:00,UE Vic vs FC L Escala,"Spain Amateur Tercera Federacion, Group 5",47180,UE Vic,FC L Escala,2.55,3.4,2.45
+05-10-25,16:30,Atletico Saguntino vs CD Soneja,"Spain Amateur Tercera Federacion, Group 6",31152,Atletico Saguntino,CD Soneja,1.84,3.1,4.25
+05-10-25,16:00,CD Palencia Cristo Atletico vs CD Atletico Mansilles,"Spain Amateur Tercera Federacion, Group 8",23044,CD Palencia Cristo Atletico,CD Atletico Mansilles,1.67,3.0,5.9
+05-10-25,11:15,CD Alhaurino vs CD Huetor Tajar,"Spain Amateur Tercera Federacion, Group 9",35822,CD Alhaurino,CD Huetor Tajar,2.75,3.0,2.5
+05-10-25,17:00,CD Torreperogil vs Atletico Mancha Real,"Spain Amateur Tercera Federacion, Group 9",23343,CD Torreperogil,Atletico Mancha Real,2.4,2.8,3.0
+05-10-25,15:00,Umeaa FC Akademi vs Kubikenborgs IF,"Sweden Division 2, Norrland",29833,Umeaa FC Akademi,Kubikenborgs IF,3.5,4.1,1.83
+05-10-25,14:00,MKS Stal Jasien vs Gornik Zabrze II,"Poland III Liga, Group 3",21393,MKS Stal Jasien,Gornik Zabrze II,4.8,4.3,1.51
+05-10-25,17:00,Hapoel Kfar Saba FC vs MS Football Hapoel Kiryat Yam,Israel National League,32775,Hapoel Kfar Saba FC,MS Football Hapoel Kiryat Yam,2.7,3.4,2.4
+05-10-25,15:00,Dinamo-2 Tbilisi vs FC Lokomotivi Tbilisi,Georgia Erovnuli Liga 2,32723,Dinamo-2 Tbilisi,FC Lokomotivi Tbilisi,4.4,3.9,1.63
+05-10-25,16:00,FC Spaeri vs FC Saburtalo Tiblisi II,Georgia Erovnuli Liga 2,36084,FC Spaeri,FC Saburtalo Tiblisi II,1.42,4.5,5.8
+05-10-25,15:00,Academia Costa Del Este vs Umecit II,Panama Liga Prom,10672,Academia Costa Del Este,Umecit II,1.5,4.25,5.1
+05-10-25,22:00,Academia Mario Mendez vs Veraguas United FC B,Panama Liga Prom,32746,Academia Mario Mendez,Veraguas United FC B,1.38,4.5,6.5
+05-10-25,11:30,FC Slonim vs Dinamo Minsk 2,Belarus Pervaya Liga,33003,FC Slonim,Dinamo Minsk 2,4.2,3.4,1.82
+05-10-25,12:30,FC Belshina Bobruisk vs FC Orsha,Belarus Pervaya Liga,38901,FC Belshina Bobruisk,FC Orsha,1.24,5.7,10.5
+05-10-25,14:00,Aep Polemidion vs Podosfairkos Omilos Ormideia,Cyprus 3rd Division,36869,Aep Polemidion,Podosfairkos Omilos Ormideia,1.4,4.0,5.9
+05-10-25,15:00,KFUM 2 vs Harstad,Norway 3rd Division Group 1,25906,KFUM 2,Harstad,1.75,4.5,3.3
+05-10-25,14:00,Kristiansund BK 2 vs Trygg/Lade,Norway 3rd Division Group 2,29911,Kristiansund BK 2,Trygg/Lade,24.0,10.5,1.04
+05-10-25,16:00,Kongsvinger IL Fotball 2 vs Bjoerkelangen,Norway 3rd Division Group 3,31099,Kongsvinger IL Fotball 2,Bjoerkelangen,2.25,4.3,2.35
+05-10-25,12:00,Olimpia Asuncion Reserves vs Sportivo Ameliano Reserves,"Paraguay Primera Division Reserve, Clausura",15472,Olimpia Asuncion Reserves,Sportivo Ameliano Reserves,2.2,3.3,2.95
+05-10-25,16:00,Eleven Wonders FC vs Young Apostles FC,Ghana Premier League,18586,Eleven Wonders FC,Young Apostles FC,2.15,2.85,3.5
+05-10-25,16:00,Samartex vs Aduana Stars,Ghana Premier League,31146,Samartex,Aduana Stars,1.56,3.33,6.2
+05-10-25,14:00,Black Bulls FC vs Desportivo Da Matola,Mozambique Mocambola,32697,Black Bulls FC,Desportivo Da Matola,1.22,4.6,11.0
+05-10-25,14:00,LASK Amateure OO vs SC Kalsdorf,Austria Amateur Regionalliga Centre,32042,LASK Amateure OO,SC Kalsdorf,1.84,3.75,3.1
+05-10-25,15:00,SV Ried II vs Union Gurten,Austria Amateur Regionalliga Centre,37886,SV Ried II,Union Gurten,9.6,4.5,1.24
+05-10-25,13:00,SV Sandhausen vs TSV Steinbach Haiger,Germany Amateur Regionalliga Southwest,37616,SV Sandhausen,TSV Steinbach Haiger,2.15,3.7,2.7
+05-10-25,14:00,PDRM FA vs Johor Darul Tazim FC,Malaysia Super League,16612,PDRM FA,Johor Darul Tazim FC,20.0,10.5,1.05
+05-10-25,13:30,Edirnespor vs Fethiye Idman Yurdu,"Turkiye Amateur 3. Lig, Group 1",32368,Edirnespor,Fethiye Idman Yurdu,2.5,3.5,2.2
+05-10-25,12:30,Kahramanmarasspor vs Silifke Belediyespor,"Turkiye Amateur 3. Lig, Group 2",33976,Kahramanmarasspor,Silifke Belediyespor,3.25,3.6,1.84
+05-10-25,14:10,Oman Club vs Dhofar Club,Oman Professional League Cup,11987,Oman Club,Dhofar Club,1.9,3.2,3.4
+05-10-25,14:10,Samail vs Al-Nasr,Oman Professional League Cup,15031,Samail,Al-Nasr,4.7,2.6,1.88
+05-10-25,16:00,Wiliete SC vs Atletico Petroleos de Luanda,Angola Girabola,32737,Wiliete SC,Atletico Petroleos de Luanda,2.95,2.8,2.5
+05-10-25,21:00,Chapelton Maroons FC vs Montego Bay United,Jamaica Premier League,13381,Chapelton Maroons FC,Montego Bay United,5.1,3.7,1.63
+05-10-25,21:00,Portmore United vs Racing United FC,Jamaica Premier League,11895,Portmore United,Racing United FC,2.15,2.5,4.7
+05-10-25,14:00,NK TOSK Tesanj vs FK Tuzla City,"Bosnia & Herzegovina Prva Liga, Fed BiH",23456,NK TOSK Tesanj,FK Tuzla City,1.43,4.1,6.4
+05-10-25,14:00,FK Omarska vs FK Zvijezda 09,"Bosnia & Herzegovina Prva Liga, Rep of Srpska",24152,FK Omarska,FK Zvijezda 09,3.5,3.4,1.93
+05-10-25,13:30,Mzuzu City Hammers vs Civil Service United FC,Malawi Super League,20989,Mzuzu City Hammers,Civil Service United FC,3.0,2.95,2.35
+05-10-25,14:00,AO Acharnaikos vs AO Agia Paraskevi,"Greece Super League, Women",23384,AO Acharnaikos,AO Agia Paraskevi,3.1,2.95,2.3
+05-10-25,14:00,OFI vs Volos Nps,"Greece Super League, Women",23324,OFI,Volos Nps,1.21,6.0,9.5
+05-10-25,16:00,Hluboka vs FK Krimice,Czechia Divize A,19295,Hluboka,FK Krimice,1.9,3.9,2.85
+05-10-25,22:00,CD San Juan Quimistan vs CD Arsenal Sao Cantarranas,Honduras Liga de Ascenso,35701,CD San Juan Quimistan,CD Arsenal Sao Cantarranas,2.5,3.0,2.9
+05-10-25,14:00,Bumamuru FC vs Muzinga FC,Burundi Ligue A,37366,Bumamuru FC,Muzinga FC,1.42,3.6,6.9
+05-10-25,14:00,Flambeau Du Centre FC vs Aigle Noir CS,Burundi Ligue A,37539,Flambeau Du Centre FC,Aigle Noir CS,1.83,2.95,4.1
+05-10-25,14:00,Le Messager Ngozi FC vs Rukinzo FC,Burundi Ligue A,37368,Le Messager Ngozi FC,Rukinzo FC,2.45,2.8,2.75
+05-10-25,14:00,Olympic Star FC vs Musongati FC,Burundi Ligue A,37459,Olympic Star FC,Musongati FC,2.75,2.8,2.45
+05-10-25,12:00,Senyo Carnifex FC vs Godolloi SK,Hungary NB III,32257,Senyo Carnifex FC,Godolloi SK,2.45,3.6,2.25
+05-10-25,19:00,Deportivo Coatepeque vs Deportivo San Pedro,Guatemala Primera Division,32560,Deportivo Coatepeque,Deportivo San Pedro,1.73,3.33,4.5
+05-10-25,11:00,Mombasa United FC vs Fortune Sacco,Kenya Super League,30889,Mombasa United FC,Fortune Sacco,1.97,3.1,3.7
 05-10-25,14:00,FC Inter Turku U20 vs JäPS U20,Finland U20 SM,36257,FC Inter Turku U20,JäPS U20,,,
+05-10-25,21:30,Atletico de Rafaela vs Sp. Belgrano de S. F.,Argentina Torneo Federal A,24604,Atletico de Rafaela,Sp. Belgrano de S. F.,1.71,3.30,5.30
+05-10-25,16:30,CD BARCO vs Celtiga CF,"Spain Amateur Tercera Federacion, Group 1",27662,CD BARCO,Celtiga CF,2.25,3.10,3.00
+05-10-25,14:30,PFK Piestany vs Slovan Bratislava,Slovakia Slovensky Pohar,11607,PFK Piestany,Slovan Bratislava,38.00,16.00,1.01
+05-10-25,18:00,Deportivo Upala FC vs Municipal Grecia,"Costa Rica Liga de Ascenso, Apertura",27734,Deportivo Upala FC,Municipal Grecia,1.83,3.90,3.60
+05-10-25,22:00,HYH Sebaco FC vs CD Walter Ferretti,Nicaragua Primera Division,12777,HYH Sebaco FC,CD Walter Ferretti,2.15,3.40,3.10
+05-10-25,15:20,Al-Rustaq SC vs Saham,Oman Professional League Cup,24734,Al-Rustaq SC,Saham,2.45,2.90,2.65
+05-10-25,18:00,Caja Oblatos Cfd vs Dragones de Oaxaca,Mexico Liga Premier Serie B,27584,Caja Oblatos Cfd,Dragones de Oaxaca,2.40,3.10,2.75
+05-10-25,14:30,FK Metalac Gornji Milanovac vs FK Real Podunavci,Serbia Srpska Liga,12149,FK Metalac Gornji Milanovac,FK Real Podunavci,1.31,4.20,7.70
+05-10-25,14:30,FK Mladi Radnik 1940 Radinac vs FK Polimlje,Serbia Srpska Liga,13930,FK Mladi Radnik 1940 Radinac,FK Polimlje,1.97,3.20,3.25
+05-10-25,14:30,FK Napredak Markovac vs FK Sloboda Uzice,Serbia Srpska Liga,22549,FK Napredak Markovac,FK Sloboda Uzice,2.15,3.00,2.95
+05-10-25,14:30,FK Sloga Pozega vs FK Takovo,Serbia Srpska Liga,23170,FK Sloga Pozega,FK Takovo,2.05,3.00,3.10
+05-10-25,19:00,Petrolina SFC PE vs Salgueiro AC PE,Brazil U20 Pernambucano,33075,Petrolina SFC PE,Salgueiro AC PE,2.25,3.10,3.00
