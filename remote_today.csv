@@ -13784,4 +13784,87 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 06-10-25,23:00,Harbour View FC vs Dunbeholden FC,Jamaica Premier League,26286,Harbour View FC,Dunbeholden FC,2.1,3.2,3.4
 06-10-25,19:00,SE Paraty RJ vs SE Belford Roxo RJ,"Brazil Carioca, Serie B2",28000,SE Paraty RJ,SE Belford Roxo RJ,9.3,5.1,1.25
 06-10-25,19:00,Audax Rio EC RJ vs Olaria AC RJ,"Brazil U20 Carioca, Serie A2",36706,Audax Rio EC RJ,Olaria AC RJ,2.95,3.6,1.95
-06-10-25,00:00,Cruzeiro Arapiraca AL vs Dimensao Saude,"Brazil Alagoano, Serie B U23",27834,Cruzeiro Arapiraca AL,Dimensao Saude,1.50,3.70,5.20
+06-10-25,00:00,Cruzeiro Arapiraca AL vs Dimensao Saude,"Brazil Alagoano, Serie B U23",27834,Cruzeiro Arapiraca AL,Dimensao Saude,1.5,3.7,5.2
+07-10-25,20:30,Ukraine vs Spain,International Youth U20 World Cup,32331,Ukraine,Spain,4.22,3.79,1.85
+07-10-25,00:00,Chile vs Mexico,International Youth U20 World Cup,12998,Chile,Mexico,3.49,3.35,2.20
+07-10-25,17:45,Juventus Turin W vs SL Benfica Lisbon W,International Clubs UEFA Champions League Women,12005,Juventus Turin W,SL Benfica Lisbon W,1.53,4.25,5.25
+07-10-25,20:00,Arsenal WFC vs Olympique Lyon W,International Clubs UEFA Champions League Women,15059,Arsenal WFC,Olympique Lyon W,2.40,4.00,2.45
+07-10-25,20:00,FC Barcelona W vs Bayern Munich W,International Clubs UEFA Champions League Women,14051,FC Barcelona W,Bayern Munich W,1.10,8.75,18.50
+07-10-25,20:00,Paris FC vs Oud-Heverlee Leuven,International Clubs UEFA Champions League Women,27553,Paris FC,Oud-Heverlee Leuven,1.17,6.75,13.50
+07-10-25,00:00,Amazonas FC AM vs Criciuma EC SC,Brazil Brasileiro Serie B,32352,Amazonas FC AM,Criciuma EC SC,2.90,3.10,2.60
+07-10-25,19:45,Kelty Hearts FC vs Alloa Athletic FC,Scotland League 1,24451,Kelty Hearts FC,Alloa Athletic FC,3.70,3.70,1.90
+07-10-25,21:00,Envigado FC vs CS Deportivo Pereira,Colombia Copa Colombia,23017,Envigado FC,CS Deportivo Pereira,3.00,2.90,2.50
+07-10-25,08:30,Cheongju FC vs Gimpo FC,Republic of Korea K-League 2,35677,Cheongju FC,Gimpo FC,3.80,3.10,1.94
+07-10-25,18:30,FC Versailles 78 vs FC Villefranche-Beaujolais,France National,44122,FC Versailles 78,FC Villefranche-Beaujolais,1.76,3.50,4.70
+07-10-25,23:10,Real Soacha Cundinamarca vs Orsomarso SC,Colombia Primera B,37010,Real Soacha Cundinamarca,Orsomarso SC,1.68,3.40,5.30
+07-10-25,19:45,Scunthorpe United vs Morecambe FC,England National League,40091,Scunthorpe United,Morecambe FC,1.37,5.00,7.00
+07-10-25,19:00,Cambridge United vs Luton,England EFL Trophy,29488,Cambridge United,Luton,3.10,3.70,2.10
+07-10-25,19:00,Cheltenham Town vs Bristol Rovers,England EFL Trophy,29407,Cheltenham Town,Bristol Rovers,2.95,3.50,2.25
+07-10-25,19:00,Chesterfield FC vs Burton Albion,England EFL Trophy,29458,Chesterfield FC,Burton Albion,2.05,3.75,3.20
+07-10-25,19:00,Fleetwood Town vs Leeds United U21,England EFL Trophy,29381,Fleetwood Town,Leeds United U21,1.67,4.10,4.40
+07-10-25,19:00,Grimsby Town vs Doncaster Rovers,England EFL Trophy,29345,Grimsby Town,Doncaster Rovers,2.85,3.50,2.30
+07-10-25,19:00,Leyton Orient London vs Crawley Town,England EFL Trophy,29470,Leyton Orient London,Crawley Town,1.66,4.10,4.50
+07-10-25,19:00,Reading FC vs Milton Keynes Dons,England EFL Trophy,29431,Reading FC,Milton Keynes Dons,2.15,3.75,2.95
+07-10-25,19:00,Rotherham United vs Oldham Athletic,England EFL Trophy,29371,Rotherham United,Oldham Athletic,2.10,3.50,3.30
+07-10-25,19:00,Salford City vs Stockport County FC,England EFL Trophy,20192,Salford City,Stockport County FC,3.30,3.60,2.05
+07-10-25,19:00,Stevenage FC vs Bromley FC,England EFL Trophy,29220,Stevenage FC,Bromley FC,1.63,3.90,5.00
+07-10-25,19:00,Walsall FC vs Northampton Town,England EFL Trophy,28118,Walsall FC,Northampton Town,2.25,3.30,3.10
+07-10-25,19:00,Wigan Athletic vs Wolverhampton Wanderers U21,England EFL Trophy,24498,Wigan Athletic,Wolverhampton Wanderers U21,1.45,4.70,6.10
+07-10-25,19:00,Wycombe Wanderers vs Fulham U21,England EFL Trophy,29190,Wycombe Wanderers,Fulham U21,1.41,4.80,6.60
+07-10-25,19:30,Barrow AFC vs Tranmere Rovers FC,England EFL Trophy,29246,Barrow AFC,Tranmere Rovers FC,2.60,3.50,2.50
+07-10-25,19:45,Accrington Stanley vs Port Vale,England EFL Trophy,29262,Accrington Stanley,Port Vale,4.20,3.75,1.77
+07-10-25,19:45,Cardiff City vs Newport County,England EFL Trophy,29289,Cardiff City,Newport County,1.28,5.60,9.25
+07-10-25,19:45,Colchester United vs Gillingham FC,England EFL Trophy,30106,Colchester United,Gillingham FC,2.25,3.40,3.00
+07-10-25,19:45,Bala Town FC vs Connah`s Quay Nomads FC,Wales Cymru Premier,36707,Bala Town FC,Connah`s Quay Nomads FC,3.75,3.60,1.89
+07-10-25,19:45,Barry Town United FC vs Briton Ferry,Wales Cymru Premier,38867,Barry Town United FC,Briton Ferry,1.72,4.10,4.10
+07-10-25,19:45,Caernarfon Town FC vs The New Saints FC,Wales Cymru Premier,38121,Caernarfon Town FC,The New Saints FC,5.80,4.90,1.44
+07-10-25,19:45,Flint Town United vs Colwyn Bay,Wales Cymru Premier,23018,Flint Town United,Colwyn Bay,2.50,3.60,2.55
+07-10-25,19:45,Llanelli Town vs Cardiff Metropolitan University FC,Wales Cymru Premier,12253,Llanelli Town,Cardiff Metropolitan University FC,4.70,3.80,1.67
+07-10-25,19:45,Pen-y-Bont FC vs Haverfordwest County AFC,Wales Cymru Premier,44456,Pen-y-Bont FC,Haverfordwest County AFC,1.45,4.40,6.70
+07-10-25,19:45,Guiseley FC vs Warrington Rylands 1906 FC,England Amateur Northern Premier League Premier,16303,Guiseley FC,Warrington Rylands 1906 FC,1.98,3.40,3.33
+07-10-25,19:45,Hednesford Town vs Stockton Town,England Amateur Northern Premier League Premier,17437,Hednesford Town,Stockton Town,2.25,3.30,2.80
+07-10-25,19:45,Hyde United FC vs Bamber Bridge,England Amateur Northern Premier League Premier,23777,Hyde United FC,Bamber Bridge,2.25,3.50,2.70
+07-10-25,19:00,Preston North End Reserves vs Leicester City U21,England Amateur Premier League Cup,35962,Preston North End Reserves,Leicester City U21,3.60,4.80,1.68
+07-10-25,23:00,9 de Octubre FC vs CD Independiente Juniors,Ecuador Serie B,44605,9 de Octubre FC,CD Independiente Juniors,1.84,3.10,3.90
+07-10-25,13:00,Barnsley U21 vs Peterborough United U21,England Amateur U21 Professional Development League,46658,Barnsley U21,Peterborough United U21,1.91,4.25,3.10
+07-10-25,13:00,Coventry City U21 vs Hull City U21,England Amateur U21 Professional Development League,46026,Coventry City U21,Hull City U21,2.50,4.50,2.20
+07-10-25,19:45,Ballymena United vs Ballinamallard United,Northern Ireland League Cup,35285,Ballymena United,Ballinamallard United,1.20,5.75,10.50
+07-10-25,19:45,Bangor FC vs Lisburn Distillery FC,Northern Ireland League Cup,35644,Bangor FC,Lisburn Distillery FC,1.08,8.25,19.50
+07-10-25,19:45,Cliftonville FC vs Coagh United FC,Northern Ireland League Cup,26178,Cliftonville FC,Coagh United FC,1.06,8.90,24.00
+07-10-25,19:45,Crusaders FC vs Ballymacash Rangers,Northern Ireland League Cup,35707,Crusaders FC,Ballymacash Rangers,1.16,6.10,13.50
+07-10-25,19:45,Institute FC vs Glentoran FC,Northern Ireland League Cup,12170,Institute FC,Glentoran FC,9.30,5.70,1.22
+07-10-25,19:45,Loughgall FC vs Strabane Athletic FC,Northern Ireland League Cup,28617,Loughgall FC,Strabane Athletic FC,1.51,4.10,5.10
+07-10-25,18:00,Asa Targu Mures vs CS Gloria 2018 Bistrita-Nasaud,Romania Liga 2,13207,Asa Targu Mures,CS Gloria 2018 Bistrita-Nasaud,1.43,4.25,6.00
+07-10-25,23:00,Cerro Porteno vs Sol de America Villa Elisa,Paraguay Copa Paraguay,24806,Cerro Porteno,Sol de America Villa Elisa,1.63,3.30,6.10
+07-10-25,19:00,CA Union Santa Fe Reserve vs Defensa Y Justicia Reserve,"Argentina Primera LPF, Reserves",27449,CA Union Santa Fe Reserve,Defensa Y Justicia Reserve,2.15,3.10,2.95
+07-10-25,19:00,Gimnasia de la Plata Reserve vs Ferro Carril Oeste,"Argentina Primera LPF, Reserves",29535,Gimnasia de la Plata Reserve,Ferro Carril Oeste,1.78,3.20,3.90
+07-10-25,19:00,Racing Club Reserve vs CA Aldosivi Reserve,"Argentina Primera LPF, Reserves",32091,Racing Club Reserve,CA Aldosivi Reserve,1.48,3.70,5.40
+07-10-25,19:00,Rosario Central Reserve vs CA Platense,"Argentina Primera LPF, Reserves",27212,Rosario Central Reserve,CA Platense,1.37,4.20,6.20
+07-10-25,23:00,CA Talleres de Cordoba Reserve vs CA River Plate (Arg),"Argentina Primera LPF, Reserves",30469,CA Talleres de Cordoba Reserve,CA River Plate (Arg),3.20,3.10,2.05
+07-10-25,19:00,Defensor Sporting vs Liverpool Montevideo,"Uruguay Tercera Division, Reserves",15742,Defensor Sporting,Liverpool Montevideo,1.99,3.40,3.25
+07-10-25,19:00,Montevideo Wanderers vs Nacional de Montevideo,"Uruguay Tercera Division, Reserves",15382,Montevideo Wanderers,Nacional de Montevideo,2.30,3.30,2.75
+07-10-25,14:30,Ario Eslamshahr vs Sanat Naft Abadan FC,Iran Azadegan League,35401,Ario Eslamshahr,Sanat Naft Abadan FC,2.10,2.85,3.60
+07-10-25,14:30,FC Nassaji Mazandaran vs Besat Kermanshah,Iran Azadegan League,35334,FC Nassaji Mazandaran,Besat Kermanshah,1.74,3.33,4.40
+07-10-25,14:00,Al Tora vs Kfarsoum,Jordan First Division,35191,Al Tora,Kfarsoum,3.90,3.60,1.76
+07-10-25,06:30,Rebels FC vs Kickstart FC,India Bangalore Super Division,23802,Rebels FC,Kickstart FC,5.80,3.80,1.50
+07-10-25,08:00,Groningen SRL vs AJ Auxerre SRL,Simulated Reality League SRL Club Friendlies,38161,Groningen SRL,AJ Auxerre SRL,2.72,3.14,2.75
+07-10-25,08:00,Santa Clara SRL vs VfL Bochum SRL,Simulated Reality League SRL Club Friendlies,38177,Santa Clara SRL,VfL Bochum SRL,1.88,3.85,3.89
+07-10-25,09:00,Freiburg SRL vs Sturm Graz SRL,Simulated Reality League SRL Club Friendlies,38197,Freiburg SRL,Sturm Graz SRL,1.83,3.92,4.03
+07-10-25,09:00,Udinese SRL vs Rakow SRL,Simulated Reality League SRL Club Friendlies,38190,Udinese SRL,Rakow SRL,1.93,3.58,3.94
+07-10-25,10:00,Rapid Wien SRL vs Sparta Rotterdam SRL,Simulated Reality League SRL Club Friendlies,38205,Rapid Wien SRL,Sparta Rotterdam SRL,1.71,4.25,4.34
+07-10-25,10:00,SLAVIA PRAGUE SRL vs Augsburg SRL,Simulated Reality League SRL Club Friendlies,38204,SLAVIA PRAGUE SRL,Augsburg SRL,2.14,3.57,3.29
+07-10-25,11:00,Besiktas JK SRL vs GENK SRL,Simulated Reality League SRL Club Friendlies,38215,Besiktas JK SRL,GENK SRL,2.52,3.68,2.62
+07-10-25,11:00,Olympiacos SRL vs Arsenal SRL,Simulated Reality League SRL Club Friendlies,38214,Olympiacos SRL,Arsenal SRL,4.06,3.79,1.85
+07-10-25,17:45,FC Utrecht vs Feyenoord Rotterdam,"Netherlands Eredivisie, Women",38295,FC Utrecht,Feyenoord Rotterdam,2.50,3.60,2.35
+07-10-25,00:00,CA Nacional Potosi vs FC Universitario de Vinto,Bolivia Copa Bolivia,14680,CA Nacional Potosi,FC Universitario de Vinto,1.40,4.50,6.00
+07-10-25,23:00,Barra FC SC vs Avai FC SC Reserve,Brazil Copa Santa Catarina,18290,Barra FC SC,Avai FC SC Reserve,1.64,4.10,4.10
+07-10-25,13:30,Nogoom FC vs Eastern Company SC,Egypt Egypt Second Division B,14972,Nogoom FC,Eastern Company SC,2.85,2.75,2.60
+07-10-25,23:30,Potyguar Cn Seridoense RN vs Alecrim RN,"Brazil Potiguar, 2. Divisao",16315,Potyguar Cn Seridoense RN,Alecrim RN,3.70,3.60,1.81
+07-10-25,12:30,Balestier Khalsa II vs Albirex Niigata (S) Reserve,Singapore Premier League 2,11247,Balestier Khalsa II,Albirex Niigata (S) Reserve,2.55,3.50,2.40
+07-10-25,16:30,AL Ahli Doha U23 vs AL Shahaniya SC,Qatar U23 Olympic League,39567,AL Ahli Doha U23,AL Shahaniya SC,1.39,4.25,5.80
+07-10-25,16:30,AL Sailiya U23 vs AL Arabi Doha U23,Qatar U23 Olympic League,16304,AL Sailiya U23,AL Arabi Doha U23,1.99,3.20,3.20
+07-10-25,16:30,Qatar SC U23 vs AL Shamal U23,Qatar U23 Olympic League,39292,Qatar SC U23,AL Shamal U23,2.90,3.10,2.15
+07-10-25,16:00,FK Gintra Siauliai vs FC Nordsjaelland,"International Clubs UEFA Europa Cup, Women",26706,FK Gintra Siauliai,FC Nordsjaelland,14.00,7.60,1.17
+07-10-25,18:00,Hacken Gothenburg W vs GKS Katowice,"International Clubs UEFA Europa Cup, Women",29518,Hacken Gothenburg W,GKS Katowice,1.14,8.80,15.00
+07-10-25,18:00,Hammarby IF vs SK Brann,"International Clubs UEFA Europa Cup, Women",19324,Hammarby IF,SK Brann,2.40,3.90,2.60
+07-10-25,19:45,Sporting Cp vs Rosengaard Malmo,"International Clubs UEFA Europa Cup, Women",41079,Sporting Cp,Rosengaard Malmo,1.52,4.80,5.10
