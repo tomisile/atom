@@ -14030,107 +14030,113 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 08-10-25,11:30,South United vs Bengaluru B,India Bangalore Super Division,43851,South United,Bengaluru B,4.1,3.6,1.74
 08-10-25,19:00,CD Huetor Tajar vs CD Huetor Vega,"Spain Amateur Tercera Federacion, Group 9",43786,CD Huetor Tajar,CD Huetor Vega,1.93,3.25,3.6
 08-10-25,17:00,FC Spartak Trnava vs Spartak Myjava,Slovakia 1. League Women,27782,FC Spartak Trnava,Spartak Myjava,25.0,9.4,1.02
-09-10-25,17:00,Finland vs Lithuania,International World Cup Qualification UEFA,42975,Finland,Lithuania,1.52,4.20,6.70
-09-10-25,19:45,Austria vs San Marino,International World Cup Qualification UEFA,13522,Austria,San Marino,1.01,24.00,54.00
-09-10-25,19:45,Belarus vs Denmark,International World Cup Qualification UEFA,43409,Belarus,Denmark,26.00,8.00,1.13
-09-10-25,19:45,Cyprus vs Bosnia & Herzegovina,International World Cup Qualification UEFA,43493,Cyprus,Bosnia & Herzegovina,4.30,3.60,1.86
-09-10-25,19:45,Czechia vs Croatia,International World Cup Qualification UEFA,43546,Czechia,Croatia,3.10,3.30,2.35
+09-10-25,17:00,Finland vs Lithuania,International World Cup Qualification UEFA,42975,Finland,Lithuania,1.52,4.2,6.7
+09-10-25,19:45,Austria vs San Marino,International World Cup Qualification UEFA,13522,Austria,San Marino,1.01,24.0,54.0
+09-10-25,19:45,Belarus vs Denmark,International World Cup Qualification UEFA,43409,Belarus,Denmark,26.0,8.0,1.13
+09-10-25,19:45,Cyprus vs Bosnia & Herzegovina,International World Cup Qualification UEFA,43493,Cyprus,Bosnia & Herzegovina,4.3,3.6,1.86
+09-10-25,19:45,Czechia vs Croatia,International World Cup Qualification UEFA,43546,Czechia,Croatia,3.1,3.3,2.35
 09-10-25,19:45,Faroe Islands vs Montenegro,International World Cup Qualification UEFA,43547,Faroe Islands,Montenegro,3.33,3.25,2.25
-09-10-25,19:45,Malta vs Netherlands,International World Cup Qualification UEFA,43545,Malta,Netherlands,48.00,14.50,1.04
-09-10-25,19:45,Scotland vs Greece,International World Cup Qualification UEFA,43410,Scotland,Greece,2.75,3.10,2.70
-09-10-25,14:00,Burundi vs Kenya,"International World Cup, Qualification CAF",41165,Burundi,Kenya,2.60,3.10,2.85
-09-10-25,17:00,Botswana vs Uganda,"International World Cup, Qualification CAF",40947,Botswana,Uganda,3.20,3.10,2.35
-09-10-25,17:00,Liberia vs Namibia,"International World Cup, Qualification CAF",41393,Liberia,Namibia,2.70,3.10,2.75
-09-10-25,17:00,Malawi vs Equatorial Guinea,"International World Cup, Qualification CAF",41355,Malawi,Equatorial Guinea,2.60,3.10,2.85
-09-10-25,17:00,Mozambique vs Guinea,"International World Cup, Qualification CAF",41390,Mozambique,Guinea,2.55,3.10,2.90
-09-10-25,17:00,Somalia vs Algeria,"International World Cup, Qualification CAF",41189,Somalia,Algeria,64.00,15.50,1.02
-09-10-25,14:00,Uzbekistan vs Kuwait,International Int. Friendly Games,38913,Uzbekistan,Kuwait,1.22,6.10,13.00
-09-10-25,19:00,Romania vs Moldova,International Int. Friendly Games,27961,Romania,Moldova,1.32,5.20,9.20
-09-10-25,19:45,England vs Wales,International Int. Friendly Games,35603,England,Wales,1.26,5.60,11.00
-09-10-25,19:45,Poland vs New Zealand,International Int. Friendly Games,16576,Poland,New Zealand,1.47,4.40,6.70
-09-10-25,20:00,Morocco vs Bahrain,International Int. Friendly Games,29708,Morocco,Bahrain,1.15,7.25,18.00
+09-10-25,19:45,Malta vs Netherlands,International World Cup Qualification UEFA,43545,Malta,Netherlands,48.0,14.5,1.04
+09-10-25,19:45,Scotland vs Greece,International World Cup Qualification UEFA,43410,Scotland,Greece,2.75,3.1,2.7
+09-10-25,14:00,Burundi vs Kenya,"International World Cup, Qualification CAF",41165,Burundi,Kenya,2.6,3.1,2.85
+09-10-25,17:00,Botswana vs Uganda,"International World Cup, Qualification CAF",40947,Botswana,Uganda,3.2,3.1,2.35
+09-10-25,17:00,Liberia vs Namibia,"International World Cup, Qualification CAF",41393,Liberia,Namibia,2.7,3.1,2.75
+09-10-25,17:00,Malawi vs Equatorial Guinea,"International World Cup, Qualification CAF",41355,Malawi,Equatorial Guinea,2.6,3.1,2.85
+09-10-25,17:00,Mozambique vs Guinea,"International World Cup, Qualification CAF",41390,Mozambique,Guinea,2.55,3.1,2.9
+09-10-25,17:00,Somalia vs Algeria,"International World Cup, Qualification CAF",41189,Somalia,Algeria,64.0,15.5,1.02
+09-10-25,14:00,Uzbekistan vs Kuwait,International Int. Friendly Games,38913,Uzbekistan,Kuwait,1.22,6.1,13.0
+09-10-25,19:00,Romania vs Moldova,International Int. Friendly Games,27961,Romania,Moldova,1.32,5.2,9.2
+09-10-25,19:45,England vs Wales,International Int. Friendly Games,35603,England,Wales,1.26,5.6,11.0
+09-10-25,19:45,Poland vs New Zealand,International Int. Friendly Games,16576,Poland,New Zealand,1.47,4.4,6.7
+09-10-25,20:00,Morocco vs Bahrain,International Int. Friendly Games,29708,Morocco,Bahrain,1.15,7.25,18.0
 09-10-25,20:30,USA vs Italy,International Youth U20 World Cup,21731,USA,Italy,2.17,3.43,3.48
-09-10-25,00:00,Morocco vs Korea Republic,International Youth U20 World Cup,38593,Morocco,Korea Republic,1.90,3.51,4.35
-09-10-25,20:00,Club Libertad vs Club Nacional Montevideo,"International Clubs CONMEBOL Libertadores, Women",17698,Club Libertad,Club Nacional Montevideo,2.45,3.10,2.70
-09-10-25,20:00,Universidad de Chile vs Asociacion Deportivo Cali,"International Clubs CONMEBOL Libertadores, Women",19203,Universidad de Chile,Asociacion Deportivo Cali,2.90,3.20,2.30
-09-10-25,00:00,Club Olimpia vs Sao Paulo FC SP,"International Clubs CONMEBOL Libertadores, Women",42958,Club Olimpia,Sao Paulo FC SP,7.10,4.25,1.38
-09-10-25,00:00,San Lorenzo de Almagro vs Colo Colo,"International Clubs CONMEBOL Libertadores, Women",28319,San Lorenzo de Almagro,Colo Colo,3.40,3.25,2.00
-09-10-25,09:00,Brunei Darussalam vs Yemen,International AFC Asian Cup QF,39984,Brunei Darussalam,Yemen,15.50,6.25,1.17
-09-10-25,10:00,Pakistan vs Afghanistan,International AFC Asian Cup QF,44015,Pakistan,Afghanistan,4.40,3.50,1.78
-09-10-25,10:30,Timor-Leste vs Philippines,International AFC Asian Cup QF,24019,Timor-Leste,Philippines,36.00,12.50,1.03
-09-10-25,11:15,Sri Lanka vs Turkmenistan,International AFC Asian Cup QF,44019,Sri Lanka,Turkmenistan,4.00,3.25,1.91
-09-10-25,12:30,Singapore vs India,International AFC Asian Cup QF,44020,Singapore,India,2.35,3.20,2.95
-09-10-25,13:00,Laos vs Malaysia,International AFC Asian Cup QF,29594,Laos,Malaysia,18.00,7.90,1.11
-09-10-25,13:30,Thailand vs Chinese Taipei,International AFC Asian Cup QF,44021,Thailand,Chinese Taipei,1.04,11.50,33.00
-09-10-25,13:30,Vietnam vs Nepal,International AFC Asian Cup QF,16993,Vietnam,Nepal,1.08,8.90,25.00
-09-10-25,14:00,Tajikistan vs Maldives,International AFC Asian Cup QF,22290,Tajikistan,Maldives,1.06,9.60,33.00
-09-10-25,15:00,Bangladesh vs Hong Kong,International AFC Asian Cup QF,22741,Bangladesh,Hong Kong,3.60,3.20,2.10
-09-10-25,17:00,Lebanon vs Bhutan,International AFC Asian Cup QF,23464,Lebanon,Bhutan,1.04,11.50,30.00
-09-10-25,17:15,Syria vs Myanmar,International AFC Asian Cup QF,28342,Syria,Myanmar,1.09,8.60,23.00
-09-10-25,17:30,Scotland vs Gibraltar,"International Youth U21 UEFA European Championship, Qualification",30011,Scotland,Gibraltar,1.03,13.00,34.00
-09-10-25,18:30,Andorra vs Kazakhstan,"International Youth U21 UEFA European Championship, Qualification",35630,Andorra,Kazakhstan,3.70,3.40,1.94
-09-10-25,19:45,Northern Ireland vs Malta,"International Youth U21 UEFA European Championship, Qualification",44095,Northern Ireland,Malta,1.25,6.10,8.70
-09-10-25,23:00,Ferroviaria SP vs Chapecoense SC,Brazil Brasileiro Serie B,20811,Ferroviaria SP,Chapecoense SC,2.45,3.20,2.95
-09-10-25,23:30,Coritiba FC PR vs AC Goianiense GO,Brazil Brasileiro Serie B,36524,Coritiba FC PR,AC Goianiense GO,1.86,3.25,4.70
-09-10-25,00:30,CD Universidad Catolica vs Nublense,Chile Primera Division,35115,CD Universidad Catolica,Nublense,1.86,3.40,4.20
+09-10-25,00:00,Morocco vs Korea Republic,International Youth U20 World Cup,38593,Morocco,Korea Republic,1.9,3.51,4.35
+09-10-25,20:00,Club Libertad vs Club Nacional Montevideo,"International Clubs CONMEBOL Libertadores, Women",17698,Club Libertad,Club Nacional Montevideo,2.45,3.1,2.7
+09-10-25,20:00,Universidad de Chile vs Asociacion Deportivo Cali,"International Clubs CONMEBOL Libertadores, Women",19203,Universidad de Chile,Asociacion Deportivo Cali,2.9,3.2,2.3
+09-10-25,00:00,Club Olimpia vs Sao Paulo FC SP,"International Clubs CONMEBOL Libertadores, Women",42958,Club Olimpia,Sao Paulo FC SP,7.1,4.25,1.38
+09-10-25,00:00,San Lorenzo de Almagro vs Colo Colo,"International Clubs CONMEBOL Libertadores, Women",28319,San Lorenzo de Almagro,Colo Colo,3.4,3.25,2.0
+09-10-25,09:00,Brunei Darussalam vs Yemen,International AFC Asian Cup QF,39984,Brunei Darussalam,Yemen,15.5,6.25,1.17
+09-10-25,10:00,Pakistan vs Afghanistan,International AFC Asian Cup QF,44015,Pakistan,Afghanistan,4.4,3.5,1.78
+09-10-25,10:30,Timor-Leste vs Philippines,International AFC Asian Cup QF,24019,Timor-Leste,Philippines,36.0,12.5,1.03
+09-10-25,11:15,Sri Lanka vs Turkmenistan,International AFC Asian Cup QF,44019,Sri Lanka,Turkmenistan,4.0,3.25,1.91
+09-10-25,12:30,Singapore vs India,International AFC Asian Cup QF,44020,Singapore,India,2.35,3.2,2.95
+09-10-25,13:00,Laos vs Malaysia,International AFC Asian Cup QF,29594,Laos,Malaysia,18.0,7.9,1.11
+09-10-25,13:30,Thailand vs Chinese Taipei,International AFC Asian Cup QF,44021,Thailand,Chinese Taipei,1.04,11.5,33.0
+09-10-25,13:30,Vietnam vs Nepal,International AFC Asian Cup QF,16993,Vietnam,Nepal,1.08,8.9,25.0
+09-10-25,14:00,Tajikistan vs Maldives,International AFC Asian Cup QF,22290,Tajikistan,Maldives,1.06,9.6,33.0
+09-10-25,15:00,Bangladesh vs Hong Kong,International AFC Asian Cup QF,22741,Bangladesh,Hong Kong,3.6,3.2,2.1
+09-10-25,17:00,Lebanon vs Bhutan,International AFC Asian Cup QF,23464,Lebanon,Bhutan,1.04,11.5,30.0
+09-10-25,17:15,Syria vs Myanmar,International AFC Asian Cup QF,28342,Syria,Myanmar,1.09,8.6,23.0
+09-10-25,17:30,Scotland vs Gibraltar,"International Youth U21 UEFA European Championship, Qualification",30011,Scotland,Gibraltar,1.03,13.0,34.0
+09-10-25,18:30,Andorra vs Kazakhstan,"International Youth U21 UEFA European Championship, Qualification",35630,Andorra,Kazakhstan,3.7,3.4,1.94
+09-10-25,19:45,Northern Ireland vs Malta,"International Youth U21 UEFA European Championship, Qualification",44095,Northern Ireland,Malta,1.25,6.1,8.7
+09-10-25,23:00,Ferroviaria SP vs Chapecoense SC,Brazil Brasileiro Serie B,20811,Ferroviaria SP,Chapecoense SC,2.45,3.2,2.95
+09-10-25,23:30,Coritiba FC PR vs AC Goianiense GO,Brazil Brasileiro Serie B,36524,Coritiba FC PR,AC Goianiense GO,1.86,3.25,4.7
+09-10-25,00:30,CD Universidad Catolica vs Nublense,Chile Primera Division,35115,CD Universidad Catolica,Nublense,1.86,3.4,4.2
 09-10-25,08:00,Belarus SRL vs Denmark SRL,Simulated Reality League World Cup Qualifiers SRL,45050,Belarus SRL,Denmark SRL,26.21,8.19,1.12
 09-10-25,08:00,Cyprus SRL vs Bosnia & Herzegovina SRL,Simulated Reality League World Cup Qualifiers SRL,45071,Cyprus SRL,Bosnia & Herzegovina SRL,4.28,3.58,1.86
 09-10-25,08:00,Czech Republic SRL vs Croatia SRL,Simulated Reality League World Cup Qualifiers SRL,45078,Czech Republic SRL,Croatia SRL,3.04,3.23,2.43
 09-10-25,08:00,Finland SRL vs Lithuania SRL,Simulated Reality League World Cup Qualifiers SRL,45083,Finland SRL,Lithuania SRL,1.51,4.08,7.06
-09-10-25,09:00,Austria SRL vs San Marino SRL,Simulated Reality League World Cup Qualifiers SRL,45084,Austria SRL,San Marino SRL,1.01,23.82,50.00
+09-10-25,09:00,Austria SRL vs San Marino SRL,Simulated Reality League World Cup Qualifiers SRL,45084,Austria SRL,San Marino SRL,1.01,23.82,50.0
 09-10-25,09:00,Faroe Islands SRL vs Montenegro SRL,Simulated Reality League World Cup Qualifiers SRL,45091,Faroe Islands SRL,Montenegro SRL,3.52,3.31,2.16
-09-10-25,09:00,Malta SRL vs Netherlands SRL,Simulated Reality League World Cup Qualifiers SRL,45105,Malta SRL,Netherlands SRL,50.00,14.21,1.04
-09-10-25,09:00,Scotland SRL vs Greece SRL,Simulated Reality League World Cup Qualifiers SRL,45106,Scotland SRL,Greece SRL,2.78,3.10,2.72
-09-10-25,13:30,Abo Qair Semads vs El Qanah FC,Egypt 2. Division A,22822,Abo Qair Semads,El Qanah FC,1.94,3.00,4.00
-09-10-25,13:30,Asyut Petroleum vs Maleyat Kafr El Zayat,Egypt 2. Division A,25389,Asyut Petroleum,Maleyat Kafr El Zayat,1.59,3.50,5.30
-09-10-25,13:30,Baladiyyat AL Mehalla vs El Sekka El Hadid,Egypt 2. Division A,16791,Baladiyyat AL Mehalla,El Sekka El Hadid,2.40,2.80,3.10
-09-10-25,13:30,El Entag El Harby vs FC Masar,Egypt 2. Division A,19310,El Entag El Harby,FC Masar,1.95,3.00,3.90
-09-10-25,13:30,El Mansurah vs Aswan FC,Egypt 2. Division A,24766,El Mansurah,Aswan FC,2.90,2.80,2.50
-09-10-25,13:30,Tanta FC vs El Daklyeh,Egypt 2. Division A,20637,Tanta FC,El Daklyeh,2.80,2.45,3.00
-09-10-25,10:00,Yuksa Tarasivka vs FC Prykarpattya Ivano-Frankivsk,Ukraine Persha Liga,18274,Yuksa Tarasivka,FC Prykarpattya Ivano-Frankivsk,2.15,3.00,3.00
-09-10-25,11:15,FSK Mariupol vs FC Metalist Kharkiv,Ukraine Persha Liga,16896,FSK Mariupol,FC Metalist Kharkiv,2.45,3.00,2.60
-09-10-25,12:30,FC Chernomorets Odessa vs FC Viktoriya Sumy,Ukraine Persha Liga,18348,FC Chernomorets Odessa,FC Viktoriya Sumy,1.65,3.40,4.30
-09-10-25,21:30,Cumbaya FC vs Imbabura Sporting Club,Ecuador Serie B,31251,Cumbaya FC,Imbabura Sporting Club,2.10,3.10,3.00
-09-10-25,13:00,Millwall U21 vs Swansea City U21,England Amateur U21 Professional Development League,29835,Millwall U21,Swansea City U21,2.05,3.90,2.95
-09-10-25,00:30,York United FC vs Pacific FC,Canada Canadian Premier League,32109,York United FC,Pacific FC,1.57,3.90,5.30
-09-10-25,23:00,San Antonio FC vs LDU Quito,Ecuador Copa Ecuador,38562,San Antonio FC,LDU Quito,5.00,3.60,1.67
-09-10-25,19:45,Wayside Celtic vs Ballymun United,"Ireland Leinster Senior League, Senior Division",44254,Wayside Celtic,Ballymun United,1.83,3.75,3.50
-09-10-25,17:00,FC Beitar Yavne vs FC Holon Yirmiyahu,Israel Liga Alef,41535,FC Beitar Yavne,FC Holon Yirmiyahu,2.40,3.40,2.65
-09-10-25,17:00,MS Tira vs FC Zeirey Tamra,Israel Liga Alef,34036,MS Tira,FC Zeirey Tamra,1.76,3.70,4.20
-09-10-25,19:15,Hapoel Bnei Musmus vs Maccabi Kiryat Ata-Bialik,Israel Liga Alef,41576,Hapoel Bnei Musmus,Maccabi Kiryat Ata-Bialik,2.25,3.40,2.85
-09-10-25,19:00,Argentinos Juniors Reserve vs Newells Old Boys,"Argentina Primera LPF, Reserves",43636,Argentinos Juniors Reserve,Newells Old Boys,2.35,3.10,2.65
-09-10-25,19:00,CA Huracan vs CA Central Cordoba SE Reserve,"Argentina Primera LPF, Reserves",43638,CA Huracan,CA Central Cordoba SE Reserve,1.53,3.60,5.10
-09-10-25,19:00,CA Lanus vs CD Godoy Cruz,"Argentina Primera LPF, Reserves",43640,CA Lanus,CD Godoy Cruz,1.90,3.33,3.30
-09-10-25,19:00,San Martin de San Juan Reserve vs Independiente Reserve,"Argentina Primera LPF, Reserves",43641,San Martin de San Juan Reserve,Independiente Reserve,2.55,3.10,2.45
-09-10-25,23:00,Atletico Tucuman Reserve vs San Lorenzo de Almagro Res.,"Argentina Primera LPF, Reserves",43669,Atletico Tucuman Reserve,San Lorenzo de Almagro Res.,2.70,2.90,2.45
-09-10-25,20:00,Deportivo Recoleta Reserves vs Olimpia Asuncion Reserves,"Paraguay Primera Division Reserve, Clausura",12300,Deportivo Recoleta Reserves,Olimpia Asuncion Reserves,2.70,3.00,2.50
-09-10-25,18:00,FC Nottingen vs SV Oberachern,Germany Amateur Oberliga Baden-Wurttemberg,20654,FC Nottingen,SV Oberachern,2.70,4.50,1.99
-09-10-25,11:00,Dinamo Baki vs Kur-Araz,Azerbaijan Azerbaijan Cup,16511,Dinamo Baki,Kur-Araz,2.00,3.60,3.10
+09-10-25,09:00,Malta SRL vs Netherlands SRL,Simulated Reality League World Cup Qualifiers SRL,45105,Malta SRL,Netherlands SRL,50.0,14.21,1.04
+09-10-25,09:00,Scotland SRL vs Greece SRL,Simulated Reality League World Cup Qualifiers SRL,45106,Scotland SRL,Greece SRL,2.78,3.1,2.72
+09-10-25,13:30,Abo Qair Semads vs El Qanah FC,Egypt 2. Division A,22822,Abo Qair Semads,El Qanah FC,1.94,3.0,4.0
+09-10-25,13:30,Asyut Petroleum vs Maleyat Kafr El Zayat,Egypt 2. Division A,25389,Asyut Petroleum,Maleyat Kafr El Zayat,1.59,3.5,5.3
+09-10-25,13:30,Baladiyyat AL Mehalla vs El Sekka El Hadid,Egypt 2. Division A,16791,Baladiyyat AL Mehalla,El Sekka El Hadid,2.4,2.8,3.1
+09-10-25,13:30,El Entag El Harby vs FC Masar,Egypt 2. Division A,19310,El Entag El Harby,FC Masar,1.95,3.0,3.9
+09-10-25,13:30,El Mansurah vs Aswan FC,Egypt 2. Division A,24766,El Mansurah,Aswan FC,2.9,2.8,2.5
+09-10-25,13:30,Tanta FC vs El Daklyeh,Egypt 2. Division A,20637,Tanta FC,El Daklyeh,2.8,2.45,3.0
+09-10-25,10:00,Yuksa Tarasivka vs FC Prykarpattya Ivano-Frankivsk,Ukraine Persha Liga,18274,Yuksa Tarasivka,FC Prykarpattya Ivano-Frankivsk,2.15,3.0,3.0
+09-10-25,11:15,FSK Mariupol vs FC Metalist Kharkiv,Ukraine Persha Liga,16896,FSK Mariupol,FC Metalist Kharkiv,2.45,3.0,2.6
+09-10-25,12:30,FC Chernomorets Odessa vs FC Viktoriya Sumy,Ukraine Persha Liga,18348,FC Chernomorets Odessa,FC Viktoriya Sumy,1.65,3.4,4.3
+09-10-25,21:30,Cumbaya FC vs Imbabura Sporting Club,Ecuador Serie B,31251,Cumbaya FC,Imbabura Sporting Club,2.1,3.1,3.0
+09-10-25,13:00,Millwall U21 vs Swansea City U21,England Amateur U21 Professional Development League,29835,Millwall U21,Swansea City U21,2.05,3.9,2.95
+09-10-25,00:30,York United FC vs Pacific FC,Canada Canadian Premier League,32109,York United FC,Pacific FC,1.57,3.9,5.3
+09-10-25,23:00,San Antonio FC vs LDU Quito,Ecuador Copa Ecuador,38562,San Antonio FC,LDU Quito,5.0,3.6,1.67
+09-10-25,19:45,Wayside Celtic vs Ballymun United,"Ireland Leinster Senior League, Senior Division",44254,Wayside Celtic,Ballymun United,1.83,3.75,3.5
+09-10-25,17:00,FC Beitar Yavne vs FC Holon Yirmiyahu,Israel Liga Alef,41535,FC Beitar Yavne,FC Holon Yirmiyahu,2.4,3.4,2.65
+09-10-25,17:00,MS Tira vs FC Zeirey Tamra,Israel Liga Alef,34036,MS Tira,FC Zeirey Tamra,1.76,3.7,4.2
+09-10-25,19:15,Hapoel Bnei Musmus vs Maccabi Kiryat Ata-Bialik,Israel Liga Alef,41576,Hapoel Bnei Musmus,Maccabi Kiryat Ata-Bialik,2.25,3.4,2.85
+09-10-25,19:00,Argentinos Juniors Reserve vs Newells Old Boys,"Argentina Primera LPF, Reserves",43636,Argentinos Juniors Reserve,Newells Old Boys,2.35,3.1,2.65
+09-10-25,19:00,CA Huracan vs CA Central Cordoba SE Reserve,"Argentina Primera LPF, Reserves",43638,CA Huracan,CA Central Cordoba SE Reserve,1.53,3.6,5.1
+09-10-25,19:00,CA Lanus vs CD Godoy Cruz,"Argentina Primera LPF, Reserves",43640,CA Lanus,CD Godoy Cruz,1.9,3.33,3.3
+09-10-25,19:00,San Martin de San Juan Reserve vs Independiente Reserve,"Argentina Primera LPF, Reserves",43641,San Martin de San Juan Reserve,Independiente Reserve,2.55,3.1,2.45
+09-10-25,23:00,Atletico Tucuman Reserve vs San Lorenzo de Almagro Res.,"Argentina Primera LPF, Reserves",43669,Atletico Tucuman Reserve,San Lorenzo de Almagro Res.,2.7,2.9,2.45
+09-10-25,20:00,Deportivo Recoleta Reserves vs Olimpia Asuncion Reserves,"Paraguay Primera Division Reserve, Clausura",12300,Deportivo Recoleta Reserves,Olimpia Asuncion Reserves,2.7,3.0,2.5
+09-10-25,18:00,FC Nottingen vs SV Oberachern,Germany Amateur Oberliga Baden-Wurttemberg,20654,FC Nottingen,SV Oberachern,2.7,4.5,1.99
+09-10-25,11:00,Dinamo Baki vs Kur-Araz,Azerbaijan Azerbaijan Cup,16511,Dinamo Baki,Kur-Araz,2.0,3.6,3.1
 09-10-25,11:00,FK Qaradag Lokbatan vs Agdas,Azerbaijan Azerbaijan Cup,22475,FK Qaradag Lokbatan,Agdas,1.43,4.75,5.25
-09-10-25,06:30,Bangalore Dream United vs HAL SC Bangalore,India Bangalore Super Division,38221,Bangalore Dream United,HAL SC Bangalore,2.75,3.33,2.30
-09-10-25,09:00,Roots FC vs Parikrma FC,India Bangalore Super Division,20765,Roots FC,Parikrma FC,2.15,3.20,3.10
-09-10-25,11:30,United Stars FC vs Rebels FC,India Bangalore Super Division,41666,United Stars FC,Rebels FC,1.80,3.75,3.60
-09-10-25,16:00,Atletico Petroleos de Luanda vs Primeiro de Agosto,Angola Girabola,44253,Atletico Petroleos de Luanda,Primeiro de Agosto,1.60,3.50,5.25
-09-10-25,17:30,Follo U19 vs Nordstrand U19,Norway Amateur U19 Leagues,19264,Follo U19,Nordstrand U19,1.01,14.00,25.00
-09-10-25,19:15,Hamarkameratene U19 1 vs Ullensaker/Kisa U19,Norway Amateur U19 Leagues,19258,Hamarkameratene U19 1,Ullensaker/Kisa U19,1.71,4.60,3.33
-09-10-25,19:15,KFUM U19 vs Skeid U19,Norway Amateur U19 Leagues,19460,KFUM U19,Skeid U19,1.02,13.50,22.00
-09-10-25,19:15,Lillehammer FK U19 vs Grorud U19,Norway Amateur U19 Leagues,17204,Lillehammer FK U19,Grorud U19,1.44,5.50,4.50
-09-10-25,19:15,Ready Fotball U19 vs Skedsmo U19,Norway Amateur U19 Leagues,19226,Ready Fotball U19,Skedsmo U19,1.08,9.60,14.50
+09-10-25,06:30,Bangalore Dream United vs HAL SC Bangalore,India Bangalore Super Division,38221,Bangalore Dream United,HAL SC Bangalore,2.75,3.33,2.3
+09-10-25,09:00,Roots FC vs Parikrma FC,India Bangalore Super Division,20765,Roots FC,Parikrma FC,2.15,3.2,3.1
+09-10-25,11:30,United Stars FC vs Rebels FC,India Bangalore Super Division,41666,United Stars FC,Rebels FC,1.8,3.75,3.6
+09-10-25,16:00,Atletico Petroleos de Luanda vs Primeiro de Agosto,Angola Girabola,44253,Atletico Petroleos de Luanda,Primeiro de Agosto,1.6,3.5,5.25
+09-10-25,17:30,Follo U19 vs Nordstrand U19,Norway Amateur U19 Leagues,19264,Follo U19,Nordstrand U19,1.01,14.0,25.0
+09-10-25,19:15,Hamarkameratene U19 1 vs Ullensaker/Kisa U19,Norway Amateur U19 Leagues,19258,Hamarkameratene U19 1,Ullensaker/Kisa U19,1.71,4.6,3.33
+09-10-25,19:15,KFUM U19 vs Skeid U19,Norway Amateur U19 Leagues,19460,KFUM U19,Skeid U19,1.02,13.5,22.0
+09-10-25,19:15,Lillehammer FK U19 vs Grorud U19,Norway Amateur U19 Leagues,17204,Lillehammer FK U19,Grorud U19,1.44,5.5,4.5
+09-10-25,19:15,Ready Fotball U19 vs Skedsmo U19,Norway Amateur U19 Leagues,19226,Ready Fotball U19,Skedsmo U19,1.08,9.6,14.5
 09-10-25,10:00,Antalyaspor SRL vs Rayo Vallecano SRL,Simulated Reality League SRL Club Friendlies,45113,Antalyaspor SRL,Rayo Vallecano SRL,3.69,3.36,2.08
 09-10-25,10:00,BSC Young Boys SRL vs Betis SRL,Simulated Reality League SRL Club Friendlies,45128,BSC Young Boys SRL,Betis SRL,3.06,3.56,2.26
-09-10-25,10:00,Leverkusen SRL vs Panathinaikos SRL,Simulated Reality League SRL Club Friendlies,45126,Leverkusen SRL,Panathinaikos SRL,1.48,4.33,6.90
+09-10-25,10:00,Leverkusen SRL vs Panathinaikos SRL,Simulated Reality League SRL Club Friendlies,45126,Leverkusen SRL,Panathinaikos SRL,1.48,4.33,6.9
 09-10-25,10:00,Man Utd SRL vs Benfica SRL,Simulated Reality League SRL Club Friendlies,45112,Man Utd SRL,Benfica SRL,1.91,3.92,3.67
 09-10-25,11:00,Brugge SRL vs Guimaraes SRL,Simulated Reality League SRL Club Friendlies,45133,Brugge SRL,Guimaraes SRL,1.68,4.03,4.81
-09-10-25,11:00,Hoffenheim SRL vs Braga SRL,Simulated Reality League SRL Club Friendlies,45161,Hoffenheim SRL,Braga SRL,1.89,3.90,3.77
+09-10-25,11:00,Hoffenheim SRL vs Braga SRL,Simulated Reality League SRL Club Friendlies,45161,Hoffenheim SRL,Braga SRL,1.89,3.9,3.77
 09-10-25,11:00,Juventus SRL vs Real Madrid SRL,Simulated Reality League SRL Club Friendlies,45160,Juventus SRL,Real Madrid SRL,2.98,3.69,2.26
 09-10-25,11:00,SK Sigma Olomouc vs Mallorca SRL,Simulated Reality League SRL Club Friendlies,45170,SK Sigma Olomouc,Mallorca SRL,3.61,3.23,2.16
-09-10-25,17:55,AS Tel Aviv University vs Maccabi Kishronot Hadera,"Israel Liga Al, Women",28829,AS Tel Aviv University,Maccabi Kishronot Hadera,2.35,3.80,2.30
-09-10-25,18:00,Hapoel Raanana vs Kiryat Gat SC,"Israel Liga Al, Women",30112,Hapoel Raanana,Kiryat Gat SC,18.00,9.80,1.03
-09-10-25,14:00,Botafogo Fr RJ vs CR Flamengo RJ,"Brazil Carioca, Women",15780,Botafogo Fr RJ,CR Flamengo RJ,4.90,3.70,1.53
-09-10-25,17:45,SC St. Veit vs ATSV Wolfsberg,Austria Amateur Karntner Liga,35639,SC St. Veit,ATSV Wolfsberg,3.00,4.00,1.92
-09-10-25,10:30,Mls FC Lawtngtlai vs Aizawl FC,India Mizoram Premier League,34691,Mls FC Lawtngtlai,Aizawl FC,7.40,4.60,1.34
-09-10-25,11:00,FC Nordsjælland Reserves vs Lyngby BK Reserves,Denmark Amateur Reserveligaen,43044,FC Nordsjælland Reserves,Lyngby BK Reserves,1.59,4.10,4.40
-09-10-25,12:00,Viborg FF Reserves vs FC Midtjylland Reserves,Denmark Amateur Reserveligaen,10332,Viborg FF Reserves,FC Midtjylland Reserves,2.35,3.60,2.50
-09-10-25,19:00,Flamengo SE vs Desportiva Aracaju,"Brazil Sergipano, Serie A2",19986,Flamengo SE,Desportiva Aracaju,4.50,3.70,1.58
-09-10-25,13:30,SK Brann vs Lillestrom SK,Norway U19 Nasjonal,31024,SK Brann,Lillestrom SK,1.74,4.60,3.25
-09-10-25,19:00,Duque de Caxias FC RJ vs Americano RJ,"Brazil U20 Carioca, Serie A2",35892,Duque de Caxias FC RJ,Americano RJ,8.50,5.30,1.21
+09-10-25,17:55,AS Tel Aviv University vs Maccabi Kishronot Hadera,"Israel Liga Al, Women",28829,AS Tel Aviv University,Maccabi Kishronot Hadera,2.35,3.8,2.3
+09-10-25,18:00,Hapoel Raanana vs Kiryat Gat SC,"Israel Liga Al, Women",30112,Hapoel Raanana,Kiryat Gat SC,18.0,9.8,1.03
+09-10-25,14:00,Botafogo Fr RJ vs CR Flamengo RJ,"Brazil Carioca, Women",15780,Botafogo Fr RJ,CR Flamengo RJ,4.9,3.7,1.53
+09-10-25,17:45,SC St. Veit vs ATSV Wolfsberg,Austria Amateur Karntner Liga,35639,SC St. Veit,ATSV Wolfsberg,3.0,4.0,1.92
+09-10-25,10:30,Mls FC Lawtngtlai vs Aizawl FC,India Mizoram Premier League,34691,Mls FC Lawtngtlai,Aizawl FC,7.4,4.6,1.34
+09-10-25,11:00,FC Nordsjælland Reserves vs Lyngby BK Reserves,Denmark Amateur Reserveligaen,43044,FC Nordsjælland Reserves,Lyngby BK Reserves,1.59,4.1,4.4
+09-10-25,12:00,Viborg FF Reserves vs FC Midtjylland Reserves,Denmark Amateur Reserveligaen,10332,Viborg FF Reserves,FC Midtjylland Reserves,2.35,3.6,2.5
+09-10-25,19:00,Flamengo SE vs Desportiva Aracaju,"Brazil Sergipano, Serie A2",19986,Flamengo SE,Desportiva Aracaju,4.5,3.7,1.58
+09-10-25,13:30,SK Brann vs Lillestrom SK,Norway U19 Nasjonal,31024,SK Brann,Lillestrom SK,1.74,4.6,3.25
+09-10-25,19:00,Duque de Caxias FC RJ vs Americano RJ,"Brazil U20 Carioca, Serie A2",35892,Duque de Caxias FC RJ,Americano RJ,8.5,5.3,1.21
+09-10-25,12:00,SC Heerenveen vs PEC Zwolle,International Clubs Club Friendly Games,28546,SC Heerenveen,PEC Zwolle,1.88,3.60,3.50
+09-10-25,22:00,SD Atletico Nacional B vs San Francisco FC B,Panama Liga Prom,17796,SD Atletico Nacional B,San Francisco FC B,3.10,3.60,2.05
+09-10-25,00:00,Alianza FC II vs Tauro FC II,Panama Liga Prom,32989,Alianza FC II,Tauro FC II,3.30,3.30,2.00
+09-10-25,20:00,Deportivo Recoleta Reserve vs Olimpia Asuncion,"Paraguay Primera Division Reserve, Clausura",12300,Deportivo Recoleta Reserve,Olimpia Asuncion,2.70,3.00,2.50
+09-10-25,19:15,Ullern U19 vs Valerenga U19,Norway Amateur U19 Leagues,42251,Ullern U19,Valerenga U19,1.18,7.20,8.70
+09-10-25,19:00,Thor/KA vs Fram,"Iceland Besta deild, Women",29403,Thor/KA,Fram,2.05,3.90,3.10
