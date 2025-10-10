@@ -14386,15 +14386,20 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 10-10-25,14:05,Shabab Al-Ahli Dubai FC U21 vs Al-Ain U21,United Arab Emirates U21 League,34741,Shabab Al-Ahli Dubai FC U21,Al-Ain U21,,,
 10-10-25,17:00,Gerasd. Stammersd. vs SV Schwechat,Austria Amateur Wiener Stadtliga,44197,Gerasd. Stammersd.,SV Schwechat,1.98,3.6,3.1
 10-10-25,17:00,SC Red Star Penzing vs FC Mauerwerk,Austria Amateur Wiener Stadtliga,35866,SC Red Star Penzing,FC Mauerwerk,1.42,4.7,5.5
-10-10-25,12:30,FC Pyunik Yerevan 2 vs FC Ararat-Armenia 2,Armenia First League,11237,FC Pyunik Yerevan 2,FC Ararat-Armenia 2,1.38,4.40,5.70
-10-10-25,13:00,Uni Iks Labs vs FC Volna Pinsk,Belarus Pervaya Liga,33586,Uni Iks Labs,FC Volna Pinsk,2.55,3.50,2.45
-10-10-25,18:00,SC Weiz vs SK Treibach,Austria Amateur Regionalliga Centre,30163,SC Weiz,SK Treibach,1.41,4.60,4.90
-10-10-25,18:00,SPG Wallern/ASV St. Marienkirchen vs SV Ried II,Austria Amateur Regionalliga Centre,12024,SPG Wallern/ASV St. Marienkirchen,SV Ried II,1.33,5.20,5.40
-10-10-25,18:00,Union Gurten vs Atus Velden,Austria Amateur Regionalliga Centre,30060,Union Gurten,Atus Velden,1.24,5.00,7.80
-10-10-25,18:00,SV Gloggnitz vs SC Neusiedl am See 1919,Austria Amateur Regionalliga Ost,38077,SV Gloggnitz,SC Neusiedl am See 1919,1.76,3.60,3.50
-10-10-25,19:00,FC Portalban/Gletterens vs FC Coffrane,Switzerland 1. Liga Classic,37182,FC Portalban/Gletterens,FC Coffrane,1.70,3.90,3.90
-10-10-25,14:30,NK Kustosija Zagreb vs NK Bjelovar,Croatia Druga NL,13018,NK Kustosija Zagreb,NK Bjelovar,1.52,3.75,4.90
-10-10-25,14:30,NK Mladost Zdralovi vs NK Varteks,Croatia Druga NL,15908,NK Mladost Zdralovi,NK Varteks,1.44,3.90,5.50
-10-10-25,18:00,SK Austria Klagenfurt Amateure vs KAC 1909,Austria Amateur Karntner Liga,43736,SK Austria Klagenfurt Amateure,KAC 1909,1.58,4.00,4.60
-10-10-25,14:00,FK Bask vs FK Jedinstvo Surcin,Serbia Srpska Liga,40922,FK Bask,FK Jedinstvo Surcin,2.85,2.90,2.30
-10-10-25,18:00,ASK Koflach vs SV Lebring,"Austria Amateur Steiermark, Landesliga",43840,ASK Koflach,SV Lebring,2.80,3.60,2.15
+10-10-25,12:30,FC Pyunik Yerevan 2 vs FC Ararat-Armenia 2,Armenia First League,11237,FC Pyunik Yerevan 2,FC Ararat-Armenia 2,1.38,4.4,5.7
+10-10-25,13:00,Uni Iks Labs vs FC Volna Pinsk,Belarus Pervaya Liga,33586,Uni Iks Labs,FC Volna Pinsk,2.55,3.5,2.45
+10-10-25,18:00,SC Weiz vs SK Treibach,Austria Amateur Regionalliga Centre,30163,SC Weiz,SK Treibach,1.41,4.6,4.9
+10-10-25,18:00,SPG Wallern/ASV St. Marienkirchen vs SV Ried II,Austria Amateur Regionalliga Centre,12024,SPG Wallern/ASV St. Marienkirchen,SV Ried II,1.33,5.2,5.4
+10-10-25,18:00,Union Gurten vs Atus Velden,Austria Amateur Regionalliga Centre,30060,Union Gurten,Atus Velden,1.24,5.0,7.8
+10-10-25,18:00,SV Gloggnitz vs SC Neusiedl am See 1919,Austria Amateur Regionalliga Ost,38077,SV Gloggnitz,SC Neusiedl am See 1919,1.76,3.6,3.5
+10-10-25,19:00,FC Portalban/Gletterens vs FC Coffrane,Switzerland 1. Liga Classic,37182,FC Portalban/Gletterens,FC Coffrane,1.7,3.9,3.9
+10-10-25,14:30,NK Kustosija Zagreb vs NK Bjelovar,Croatia Druga NL,13018,NK Kustosija Zagreb,NK Bjelovar,1.52,3.75,4.9
+10-10-25,14:30,NK Mladost Zdralovi vs NK Varteks,Croatia Druga NL,15908,NK Mladost Zdralovi,NK Varteks,1.44,3.9,5.5
+10-10-25,18:00,SK Austria Klagenfurt Amateure vs KAC 1909,Austria Amateur Karntner Liga,43736,SK Austria Klagenfurt Amateure,KAC 1909,1.58,4.0,4.6
+10-10-25,14:00,FK Bask vs FK Jedinstvo Surcin,Serbia Srpska Liga,40922,FK Bask,FK Jedinstvo Surcin,2.85,2.9,2.3
+10-10-25,18:00,ASK Koflach vs SV Lebring,"Austria Amateur Steiermark, Landesliga",43840,ASK Koflach,SV Lebring,2.8,3.6,2.15
+10-10-25,18:30,SV Strasswalchen vs FC Puch,Austria Amateur Salzburger Liga,11814,SV Strasswalchen,FC Puch,1.71,4.25,3.25
+10-10-25,19:00,Artsul FC RJ vs Niteroiense,"Brazil Carioca, Serie B1",45436,Artsul FC RJ,Niteroiense,2.25,3.10,3.00
+10-10-25,19:00,Rosario SE vs Independente Simao Dias SE,"Brazil Sergipano, Serie A2",45233,Rosario SE,Independente Simao Dias SE,1.08,7.10,16.00
+10-10-25,18:00,Fehring 1947 vs FC Hohenhaus Tenne Schladming,"Austria Amateur Steiermark, Landesliga",43393,Fehring 1947,FC Hohenhaus Tenne Schladming,2.15,3.60,2.80
+10-10-25,23:00,Lexington SC vs Carolina Ascent USLW,"USA USL Super League, Women",35680,Lexington SC,Carolina Ascent USLW,3.40,3.00,1.96
