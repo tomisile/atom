@@ -16310,18 +16310,22 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 15-10-25,18:45,FK Austria Wien vs Slavia Prague,"International Clubs UEFA Europa Cup, Women",40172,FK Austria Wien,Slavia Prague,1.92,3.8,3.6
 15-10-25,19:35,Glasgow City LFC vs HB KOEGE W,"International Clubs UEFA Europa Cup, Women",44647,Glasgow City LFC,HB KOEGE W,2.9,3.75,2.2
 15-10-25,18:00,Bergnasets AIK vs Bodens BK,"Sweden Division 2, Norrland",18636,Bergnasets AIK,Bodens BK,,,
-15-10-25,17:00,Bnei Yehuda Tel Aviv FC vs MS Football Hapoel Kiryat Yam,"Israel League Cup, National",10967,Bnei Yehuda Tel Aviv FC,MS Football Hapoel Kiryat Yam,8.75,5.10,1.30
-15-10-25,19:00,SC Internacional RS vs EC Juventude RS,Brazil Copa FGF,36836,SC Internacional RS,EC Juventude RS,3.00,3.10,2.35
-15-10-25,18:00,SC Villa vs Gadafi FC,Uganda Premier League,17374,SC Villa,Gadafi FC,1.41,3.70,8.60
-15-10-25,18:00,Kickers Emden vs Hannover 96 II,Germany Amateur Regionalliga North,44117,Kickers Emden,Hannover 96 II,2.15,3.60,2.80
-15-10-25,12:30,Apolonia Fier vs KS Beselidhja,Albania Kupa e Shqiperise,30197,Apolonia Fier,KS Beselidhja,1.49,3.90,5.75
-15-10-25,12:30,Erzeni Shijak vs Sopoti Librazhd,Albania Kupa e Shqiperise,28649,Erzeni Shijak,Sopoti Librazhd,3.20,2.90,2.25
-15-10-25,12:30,Flamurtari Vlore vs KS Naftetari,Albania Kupa e Shqiperise,22825,Flamurtari Vlore,KS Naftetari,1.48,4.20,5.40
-15-10-25,12:30,Kastrioti Kruje vs KF Devolli,Albania Kupa e Shqiperise,21753,Kastrioti Kruje,KF Devolli,1.15,6.75,12.00
-15-10-25,12:30,KF Iliria Fushe-Kruje vs Luz i Vogel,Albania Kupa e Shqiperise,19793,KF Iliria Fushe-Kruje,Luz i Vogel,1.36,4.60,6.90
-15-10-25,12:30,KF Lushnja vs Butrinti Sarande,Albania Kupa e Shqiperise,25905,KF Lushnja,Butrinti Sarande,1.46,3.90,6.25
-15-10-25,12:30,Skenderbeu Korce vs Basania FC,Albania Kupa e Shqiperise,32709,Skenderbeu Korce,Basania FC,1.12,8.40,11.00
-15-10-25,19:00,Quinho FC Saf vs Baraunas RN,"Brazil Potiguar, 2. Divisao",14978,Quinho FC Saf,Baraunas RN,1.83,3.50,3.75
-15-10-25,19:00,Deportivo Iztapa vs Csd Chiquimulilla,Guatemala Primera Division,41691,Deportivo Iztapa,Csd Chiquimulilla,2.30,3.10,2.90
-15-10-25,22:00,Chichicasteco FC vs Juventud Copalera,Guatemala Primera Division,41700,Chichicasteco FC,Juventud Copalera,2.50,3.40,2.45
-15-10-25,20:00,SC Braga vs RSC Anderlecht,"International Clubs UEFA Europa Cup, Women",44659,SC Braga,RSC Anderlecht,2.75,3.70,2.35
+15-10-25,17:00,Bnei Yehuda Tel Aviv FC vs MS Football Hapoel Kiryat Yam,"Israel League Cup, National",10967,Bnei Yehuda Tel Aviv FC,MS Football Hapoel Kiryat Yam,8.75,5.1,1.3
+15-10-25,19:00,SC Internacional RS vs EC Juventude RS,Brazil Copa FGF,36836,SC Internacional RS,EC Juventude RS,3.0,3.1,2.35
+15-10-25,18:00,SC Villa vs Gadafi FC,Uganda Premier League,17374,SC Villa,Gadafi FC,1.41,3.7,8.6
+15-10-25,18:00,Kickers Emden vs Hannover 96 II,Germany Amateur Regionalliga North,44117,Kickers Emden,Hannover 96 II,2.15,3.6,2.8
+15-10-25,12:30,Apolonia Fier vs KS Beselidhja,Albania Kupa e Shqiperise,30197,Apolonia Fier,KS Beselidhja,1.49,3.9,5.75
+15-10-25,12:30,Erzeni Shijak vs Sopoti Librazhd,Albania Kupa e Shqiperise,28649,Erzeni Shijak,Sopoti Librazhd,3.2,2.9,2.25
+15-10-25,12:30,Flamurtari Vlore vs KS Naftetari,Albania Kupa e Shqiperise,22825,Flamurtari Vlore,KS Naftetari,1.48,4.2,5.4
+15-10-25,12:30,Kastrioti Kruje vs KF Devolli,Albania Kupa e Shqiperise,21753,Kastrioti Kruje,KF Devolli,1.15,6.75,12.0
+15-10-25,12:30,KF Iliria Fushe-Kruje vs Luz i Vogel,Albania Kupa e Shqiperise,19793,KF Iliria Fushe-Kruje,Luz i Vogel,1.36,4.6,6.9
+15-10-25,12:30,KF Lushnja vs Butrinti Sarande,Albania Kupa e Shqiperise,25905,KF Lushnja,Butrinti Sarande,1.46,3.9,6.25
+15-10-25,12:30,Skenderbeu Korce vs Basania FC,Albania Kupa e Shqiperise,32709,Skenderbeu Korce,Basania FC,1.12,8.4,11.0
+15-10-25,19:00,Quinho FC Saf vs Baraunas RN,"Brazil Potiguar, 2. Divisao",14978,Quinho FC Saf,Baraunas RN,1.83,3.5,3.75
+15-10-25,19:00,Deportivo Iztapa vs Csd Chiquimulilla,Guatemala Primera Division,41691,Deportivo Iztapa,Csd Chiquimulilla,2.3,3.1,2.9
+15-10-25,22:00,Chichicasteco FC vs Juventud Copalera,Guatemala Primera Division,41700,Chichicasteco FC,Juventud Copalera,2.5,3.4,2.45
+15-10-25,20:00,SC Braga vs RSC Anderlecht,"International Clubs UEFA Europa Cup, Women",44659,SC Braga,RSC Anderlecht,2.75,3.7,2.35
+15-10-25,19:30,CD Huetor Vega vs CR Granada,"Spain Amateur Tercera Federacion, Group 9",46221,CD Huetor Vega,CR Granada,2.20,2.95,3.33
+15-10-25,18:00,Boden City FC vs Taftea IK,"Sweden Division 2, Norrland",46451,Boden City FC,Taftea IK,2.65,3.80,2.35
+15-10-25,19:00,Lucksta IF vs Friska Viljor FC,"Sweden Division 2, Norrland",19875,Lucksta IF,Friska Viljor FC,3.00,4.25,1.99
+15-10-25,17:00,FC Teplice vs Sparta Prague B,"Czechia 2. Liga, Women",36137,FC Teplice,Sparta Prague B,13.50,7.70,1.08
