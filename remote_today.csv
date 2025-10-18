@@ -17789,33 +17789,72 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 18-10-25,14:30,LAC Inter vs Hellas Kagran,Austria Amateur Wiener Stadtliga,43338,LAC Inter,Hellas Kagran,1.62,4.1,4.2
 18-10-25,15:00,A-Xiii Auhof Center vs FC Stadlau,Austria Amateur Wiener Stadtliga,12920,A-Xiii Auhof Center,FC Stadlau,1.48,4.3,5.1
 18-10-25,15:00,Simmeringer SC vs Gerasd. Stammersd.,Austria Amateur Wiener Stadtliga,34084,Simmeringer SC,Gerasd. Stammersd.,3.25,3.6,1.95
-18-10-25,00:30,Douglas Haig vs CD Argentino Monte Maiz,Argentina Torneo Federal A,20997,Douglas Haig,CD Argentino Monte Maiz,1.83,3.20,4.50
-18-10-25,16:00,JS Massira vs Chabab Atlas Khenifra,Morocco Botola Pro D2,47935,JS Massira,Chabab Atlas Khenifra,2.55,2.45,3.40
-18-10-25,16:00,US Musulmane Oujda vs KAC Kenitra,Morocco Botola Pro D2,47950,US Musulmane Oujda,KAC Kenitra,2.35,2.25,4.40
-18-10-25,15:00,AS Agareb vs SA Menzel Bourguiba,Tunisia Ligue 2,41717,AS Agareb,SA Menzel Bourguiba,1.86,3.00,4.40
-18-10-25,19:30,AD Berazategui vs CDM Leandro N. Alem,Argentina Primera C,47941,AD Berazategui,CDM Leandro N. Alem,1.41,3.75,6.50
-18-10-25,19:30,Club Lujan vs CS Barracas,Argentina Primera C,44676,Club Lujan,CS Barracas,1.84,2.85,4.30
-18-10-25,18:30,Dos Hermanas CF 1971 vs Cordoba CF B,"Spain Amateur Tercera Federacion, Group 10",34086,Dos Hermanas CF 1971,Cordoba CF B,2.20,2.95,3.20
-18-10-25,16:00,CD Constancia vs CD Binissalem,"Spain Amateur Tercera Federacion, Group 11",47949,CD Constancia,CD Binissalem,1.44,3.75,7.20
-18-10-25,17:00,CD Herbania vs CD Tenerife C,"Spain Amateur Tercera Federacion, Group 12",47936,CD Herbania,CD Tenerife C,2.05,3.10,3.40
-18-10-25,15:30,Atletico Santa Cruz vs Union Molinense CF 2020,"Spain Amateur Tercera Federacion, Group 13",22743,Atletico Santa Cruz,Union Molinense CF 2020,2.05,3.10,3.33
-18-10-25,18:30,EF Puebla de la Calzada vs CD Azuaga,"Spain Amateur Tercera Federacion, Group 14",27542,EF Puebla de la Calzada,CD Azuaga,3.40,3.10,2.05
-18-10-25,15:00,CD Oberena vs Beti Kozkor KE,"Spain Amateur Tercera Federacion, Group 15",40122,CD Oberena,Beti Kozkor KE,2.75,3.30,2.30
-18-10-25,16:00,CD Arnedo vs Pena Balmaiso CF,"Spain Amateur Tercera Federacion, Group 16",33039,CD Arnedo,Pena Balmaiso CF,1.38,4.50,6.70
-18-10-25,15:45,SD Torina vs CD Cayon,"Spain Amateur Tercera Federacion, Group 3",26829,SD Torina,CD Cayon,2.60,3.00,2.60
-18-10-25,16:00,CD Derio vs CD Santurtzi KE,"Spain Amateur Tercera Federacion, Group 4",47934,CD Derio,CD Santurtzi KE,2.60,2.85,2.75
-18-10-25,17:00,UE Cornella vs CP San Cristobal,"Spain Amateur Tercera Federacion, Group 5",47954,UE Cornella,CP San Cristobal,1.55,3.60,5.60
-18-10-25,15:00,CD Colegios Diocesanos vs Arandina CF,"Spain Amateur Tercera Federacion, Group 8",38423,CD Colegios Diocesanos,Arandina CF,2.30,3.10,2.90
-18-10-25,17:00,Arenas Armilla CD vs Atletico Mancha Real,"Spain Amateur Tercera Federacion, Group 9",47914,Arenas Armilla CD,Atletico Mancha Real,2.05,3.00,3.50
-18-10-25,15:00,Arabe Unido B vs AF Sporting San Miguelito II,Panama Liga Prom,47862,Arabe Unido B,AF Sporting San Miguelito II,2.05,3.25,3.30
-18-10-25,00:00,San Martin FC vs Tauro FC II,Panama Liga Prom,47860,San Martin FC,Tauro FC II,2.60,3.33,2.40
-18-10-25,15:00,Dinamo Minsk 2 vs FC Orsha,Belarus Pervaya Liga,46350,Dinamo Minsk 2,FC Orsha,1.70,4.00,4.10
-18-10-25,14:30,Baroka FC vs Pretoria University FC,South Africa Championship,45618,Baroka FC,Pretoria University FC,2.45,2.80,3.00
-18-10-25,14:30,Midlands Wanderers FC vs Cape Town City FC,South Africa Championship,33020,Midlands Wanderers FC,Cape Town City FC,3.30,2.70,2.35
-18-10-25,15:45,Kheybar Khorramabad FC vs Persepolis FC,Iran Pro League,48126,Kheybar Khorramabad FC,Persepolis FC,4.50,3.00,1.84
-18-10-25,14:30,FK Berane vs FK Otrant-Olympic Ulcinj,Montenegro 2. CFL,46534,FK Berane,FK Otrant-Olympic Ulcinj,2.70,3.25,2.40
-18-10-25,14:30,FK Kom vs FK Podgorica,Montenegro 2. CFL,46528,FK Kom,FK Podgorica,2.35,3.10,2.85
-18-10-25,17:15,FC Fiorentino vs SS Virtus,San Marino Campionato Sammarinese,22973,FC Fiorentino,SS Virtus,11.50,5.10,1.18
-18-10-25,16:00,Luanda City FC vs Petroleos Do Lobito,Angola Girabola,19673,Luanda City FC,Petroleos Do Lobito,2.10,2.75,3.80
-18-10-25,15:00,Marica FC RJ vs CR Flamengo RJ,"Brazil U20 Carioca, Serie A",30896,Marica FC RJ,CR Flamengo RJ,5.70,4.10,1.46
-18-10-25,20:00,Fortaleza EC CE vs Ferroviario AC CE,Brazil U20 Cearense,43325,Fortaleza EC CE,Ferroviario AC CE,1.29,5.20,7.60
+18-10-25,00:30,Douglas Haig vs CD Argentino Monte Maiz,Argentina Torneo Federal A,20997,Douglas Haig,CD Argentino Monte Maiz,1.83,3.2,4.5
+18-10-25,16:00,JS Massira vs Chabab Atlas Khenifra,Morocco Botola Pro D2,47935,JS Massira,Chabab Atlas Khenifra,2.55,2.45,3.4
+18-10-25,16:00,US Musulmane Oujda vs KAC Kenitra,Morocco Botola Pro D2,47950,US Musulmane Oujda,KAC Kenitra,2.35,2.25,4.4
+18-10-25,15:00,AS Agareb vs SA Menzel Bourguiba,Tunisia Ligue 2,41717,AS Agareb,SA Menzel Bourguiba,1.86,3.0,4.4
+18-10-25,19:30,AD Berazategui vs CDM Leandro N. Alem,Argentina Primera C,47941,AD Berazategui,CDM Leandro N. Alem,1.41,3.75,6.5
+18-10-25,19:30,Club Lujan vs CS Barracas,Argentina Primera C,44676,Club Lujan,CS Barracas,1.84,2.85,4.3
+18-10-25,18:30,Dos Hermanas CF 1971 vs Cordoba CF B,"Spain Amateur Tercera Federacion, Group 10",34086,Dos Hermanas CF 1971,Cordoba CF B,2.2,2.95,3.2
+18-10-25,16:00,CD Constancia vs CD Binissalem,"Spain Amateur Tercera Federacion, Group 11",47949,CD Constancia,CD Binissalem,1.44,3.75,7.2
+18-10-25,17:00,CD Herbania vs CD Tenerife C,"Spain Amateur Tercera Federacion, Group 12",47936,CD Herbania,CD Tenerife C,2.05,3.1,3.4
+18-10-25,15:30,Atletico Santa Cruz vs Union Molinense CF 2020,"Spain Amateur Tercera Federacion, Group 13",22743,Atletico Santa Cruz,Union Molinense CF 2020,2.05,3.1,3.33
+18-10-25,18:30,EF Puebla de la Calzada vs CD Azuaga,"Spain Amateur Tercera Federacion, Group 14",27542,EF Puebla de la Calzada,CD Azuaga,3.4,3.1,2.05
+18-10-25,15:00,CD Oberena vs Beti Kozkor KE,"Spain Amateur Tercera Federacion, Group 15",40122,CD Oberena,Beti Kozkor KE,2.75,3.3,2.3
+18-10-25,16:00,CD Arnedo vs Pena Balmaiso CF,"Spain Amateur Tercera Federacion, Group 16",33039,CD Arnedo,Pena Balmaiso CF,1.38,4.5,6.7
+18-10-25,15:45,SD Torina vs CD Cayon,"Spain Amateur Tercera Federacion, Group 3",26829,SD Torina,CD Cayon,2.6,3.0,2.6
+18-10-25,16:00,CD Derio vs CD Santurtzi KE,"Spain Amateur Tercera Federacion, Group 4",47934,CD Derio,CD Santurtzi KE,2.6,2.85,2.75
+18-10-25,17:00,UE Cornella vs CP San Cristobal,"Spain Amateur Tercera Federacion, Group 5",47954,UE Cornella,CP San Cristobal,1.55,3.6,5.6
+18-10-25,15:00,CD Colegios Diocesanos vs Arandina CF,"Spain Amateur Tercera Federacion, Group 8",38423,CD Colegios Diocesanos,Arandina CF,2.3,3.1,2.9
+18-10-25,17:00,Arenas Armilla CD vs Atletico Mancha Real,"Spain Amateur Tercera Federacion, Group 9",47914,Arenas Armilla CD,Atletico Mancha Real,2.05,3.0,3.5
+18-10-25,15:00,Arabe Unido B vs AF Sporting San Miguelito II,Panama Liga Prom,47862,Arabe Unido B,AF Sporting San Miguelito II,2.05,3.25,3.3
+18-10-25,00:00,San Martin FC vs Tauro FC II,Panama Liga Prom,47860,San Martin FC,Tauro FC II,2.6,3.33,2.4
+18-10-25,15:00,Dinamo Minsk 2 vs FC Orsha,Belarus Pervaya Liga,46350,Dinamo Minsk 2,FC Orsha,1.7,4.0,4.1
+18-10-25,14:30,Baroka FC vs Pretoria University FC,South Africa Championship,45618,Baroka FC,Pretoria University FC,2.45,2.8,3.0
+18-10-25,14:30,Midlands Wanderers FC vs Cape Town City FC,South Africa Championship,33020,Midlands Wanderers FC,Cape Town City FC,3.3,2.7,2.35
+18-10-25,15:45,Kheybar Khorramabad FC vs Persepolis FC,Iran Pro League,48126,Kheybar Khorramabad FC,Persepolis FC,4.5,3.0,1.84
+18-10-25,14:30,FK Berane vs FK Otrant-Olympic Ulcinj,Montenegro 2. CFL,46534,FK Berane,FK Otrant-Olympic Ulcinj,2.7,3.25,2.4
+18-10-25,14:30,FK Kom vs FK Podgorica,Montenegro 2. CFL,46528,FK Kom,FK Podgorica,2.35,3.1,2.85
+18-10-25,17:15,FC Fiorentino vs SS Virtus,San Marino Campionato Sammarinese,22973,FC Fiorentino,SS Virtus,11.5,5.1,1.18
+18-10-25,16:00,Luanda City FC vs Petroleos Do Lobito,Angola Girabola,19673,Luanda City FC,Petroleos Do Lobito,2.1,2.75,3.8
+18-10-25,15:00,Marica FC RJ vs CR Flamengo RJ,"Brazil U20 Carioca, Serie A",30896,Marica FC RJ,CR Flamengo RJ,5.7,4.1,1.46
+18-10-25,20:00,Fortaleza EC CE vs Ferroviario AC CE,Brazil U20 Cearense,43325,Fortaleza EC CE,Ferroviario AC CE,1.29,5.2,7.6
+18-10-25,17:30,Fulham vs Arsenal,England Premier League,31635,Fulham,Arsenal,6.74,4.44,1.55
+18-10-25,17:30,Villarreal vs Betis,Spain LaLiga,14184,Villarreal,Betis,2.14,3.80,3.45
+18-10-25,20:00,Atletico Madrid vs Osasuna,Spain LaLiga,14284,Atletico Madrid,Osasuna,1.39,5.34,8.87
+18-10-25,17:30,Bayern Munich vs Borussia Dortmund,Germany Bundesliga,28724,Bayern Munich,Borussia Dortmund,1.42,5.83,6.94
+18-10-25,19:45,Roma vs Inter,Italy Serie A,17304,Roma,Inter,3.58,3.31,2.28
+18-10-25,18:00,Angers vs Monaco,France Ligue 1,22676,Angers,Monaco,5.59,4.32,1.64
+18-10-25,20:05,Marseille vs Le Havre,France Ligue 1,22718,Marseille,Le Havre,1.38,5.60,8.76
+18-10-25,18:00,Pyramids FC vs Rs Berkane,International Clubs CAF Super Cup,16516,Pyramids FC,Rs Berkane,1.80,3.10,4.90
+18-10-25,19:45,Leicester vs Portsmouth FC,England Championship,36166,Leicester,Portsmouth FC,1.63,4.13,5.79
+18-10-25,17:45,FC Utrecht vs FC Volendam,Netherlands Eredivisie,29582,FC Utrecht,FC Volendam,1.37,5.64,8.25
+18-10-25,17:45,PSV Eindhoven vs Go Ahead Eagles,Netherlands Eredivisie,28728,PSV Eindhoven,Go Ahead Eagles,1.25,7.53,10.14
+18-10-25,20:00,Ajax vs Alkmaar,Netherlands Eredivisie,29620,Ajax,Alkmaar,2.09,3.92,3.38
+18-10-25,20:00,NAC Breda vs PEC Zwolle,Netherlands Eredivisie,19634,NAC Breda,PEC Zwolle,1.98,3.72,3.91
+18-10-25,20:00,Colombia vs France,International Youth U20 World Cup,32997,Colombia,France,2.72,3.34,2.68
+18-10-25,19:30,Bochum vs Hertha,Germany 2. Bundesliga,29476,Bochum,Hertha,2.60,3.60,2.60
+18-10-25,19:00,Olympique Club de Safi vs Stade Tunisien,International Clubs CAF Confederations Cup,45433,Olympique Club de Safi,Stade Tunisien,1.74,3.25,4.60
+18-10-25,17:30,Real Zaragoza vs Cultural Leonesa,Spain LaLiga 2,31228,Real Zaragoza,Cultural Leonesa,1.82,3.50,4.50
+18-10-25,20:00,Real Sociedad San Sebastian B vs SD Huesca,Spain LaLiga 2,25188,Real Sociedad San Sebastian B,SD Huesca,2.80,2.90,2.75
+18-10-25,18:30,Spezia Calcio vs Cesena FC,Italy Serie B,31239,Spezia Calcio,Cesena FC,2.25,3.10,3.40
+18-10-25,20:30,SC Corinthians SP vs Asociacion Deportivo Cali,"International Clubs CONMEBOL Libertadores, Women",35656,SC Corinthians SP,Asociacion Deportivo Cali,1.30,4.40,9.40
+18-10-25,19:00,Saint-Etienne vs Le Mans FC,France Ligue 2,31452,Saint-Etienne,Le Mans FC,1.55,4.30,5.40
+18-10-25,18:00,Academico de Viseu FC vs Gil Vicente Barcelos,Portugal Taca de Portugal,41624,Academico de Viseu FC,Gil Vicente Barcelos,3.70,3.40,1.97
+18-10-25,18:00,AD Marco 09 vs SC Farense,Portugal Taca de Portugal,41537,AD Marco 09,SC Farense,3.75,3.33,1.98
+18-10-25,18:00,CD Celoricense vs Porto,Portugal Taca de Portugal,23727,CD Celoricense,Porto,61.00,15.50,1.01
+18-10-25,20:15,FC Pacos Ferreira vs Sporting,Portugal Taca de Portugal,47355,FC Pacos Ferreira,Sporting,16.00,7.90,1.13
+18-10-25,18:00,Istanbul BB vs Galatasaray Istanbul,Turkiye Super Lig,30243,Istanbul BB,Galatasaray Istanbul,4.54,4.35,1.72
+18-10-25,22:30,SC Corinthians SP vs Atletico Mineiro MG,Brazil Brasileiro Serie A,14837,SC Corinthians SP,Atletico Mineiro MG,2.05,3.20,4.00
+18-10-25,23:00,Atlanta United FC vs DC United,USA MLS,10939,Atlanta United FC,DC United,1.84,4.25,4.00
+18-10-25,23:00,Charlotte FC vs Philadelphia Union,USA MLS,30885,Charlotte FC,Philadelphia Union,2.42,3.85,2.81
+18-10-25,23:00,Columbus Crew vs New York Red Bulls,USA MLS,30903,Columbus Crew,New York Red Bulls,1.62,4.47,5.30
+18-10-25,23:00,FC Cincinnati vs CF Montreal,USA MLS,31273,FC Cincinnati,CF Montreal,1.58,4.83,5.25
+18-10-25,19:00,AA Carapebus RJ vs Serrano FC RJ,"Brazil Carioca, Serie B1",18620,AA Carapebus RJ,Serrano FC RJ,2.25,3.20,2.95
+18-10-25,19:00,Criciuma SC vs Avai FC SC,"Brazil Catarinense, Women",47223,Criciuma SC,Avai FC SC,5.70,4.10,1.40
+18-10-25,19:30,Crixas EC GO vs AE Evangelica GO,"Brazil Goiano, 3. Divisao",18164,Crixas EC GO,AE Evangelica GO,1.90,3.20,3.40
+18-10-25,20:00,Mineiros GO vs Abd GO,"Brazil Goiano, 3. Divisao",22294,Mineiros GO,Abd GO,2.20,3.10,2.85
+18-10-25,19:30,Flugoiania FC vs Alianca FC GO,"Brazil Goiano, Women",39826,Flugoiania FC,Alianca FC GO,2.25,3.40,2.80
+18-10-25,21:30,San Juan FC vs Ponce FC,Puerto Rico LPR Pro,35699,San Juan FC,Ponce FC,25.00,13.00,1.04
+18-10-25,19:00,America FC Pedrinhas SE vs Boca Junior FC SE,"Brazil Sergipano, Serie A2",33025,America FC Pedrinhas SE,Boca Junior FC SE,2.20,3.10,2.85
+18-10-25,19:00,Americano RJ vs Resende FC RJ,"Brazil U20 Carioca, Serie A2",22572,Americano RJ,Resende FC RJ,3.75,4.00,1.62
