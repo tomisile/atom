@@ -19981,23 +19981,45 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 24-10-25,19:00,Spain vs Sweden,"International UEFA Nations League, Women",34506,Spain,Sweden,1.28,5.4,8.6
 24-10-25,17:00,Gerasd. Stammersd. vs LAC Inter,Austria Amateur Wiener Stadtliga,47257,Gerasd. Stammersd.,LAC Inter,2.35,3.6,2.55
 24-10-25,17:00,SC Red Star Penzing vs FAC Wien,Austria Amateur Wiener Stadtliga,46651,SC Red Star Penzing,FAC Wien,1.53,4.1,4.9
-24-10-25,16:00,Lithuania vs Faroe Islands,International Int. Friendly Games W,27037,Lithuania,Faroe Islands,2.35,3.25,2.90
-24-10-25,15:30,Sassuolo Calcio vs Parma Calcio 1913 U20,Italy Primavera 1,32988,Sassuolo Calcio,Parma Calcio 1913 U20,2.35,3.50,2.55
-24-10-25,13:30,Bashkimi Kumanovo vs Shkupi Cair,North Macedonia 1. MFL,47051,Bashkimi Kumanovo,Shkupi Cair,1.21,5.25,12.00
-24-10-25,18:00,SC Weiz vs Atus Velden,Austria Amateur Regionalliga Centre,42921,SC Weiz,Atus Velden,1.76,4.10,3.20
+24-10-25,16:00,Lithuania vs Faroe Islands,International Int. Friendly Games W,27037,Lithuania,Faroe Islands,2.35,3.25,2.9
+24-10-25,15:30,Sassuolo Calcio vs Parma Calcio 1913 U20,Italy Primavera 1,32988,Sassuolo Calcio,Parma Calcio 1913 U20,2.35,3.5,2.55
+24-10-25,13:30,Bashkimi Kumanovo vs Shkupi Cair,North Macedonia 1. MFL,47051,Bashkimi Kumanovo,Shkupi Cair,1.21,5.25,12.0
+24-10-25,18:00,SC Weiz vs Atus Velden,Austria Amateur Regionalliga Centre,42921,SC Weiz,Atus Velden,1.76,4.1,3.2
 24-10-25,18:00,SV Lafnitz vs USV St. Anna am Aigen,Austria Amateur Regionalliga Centre,45400,SV Lafnitz,USV St. Anna am Aigen,,,
-24-10-25,12:00,Agrispor 1970 SK vs Nigde Belediyesi Spor,"Turkiye Amateur 3. Lig, Group 2",44129,Agrispor 1970 SK,Nigde Belediyesi Spor,2.35,3.00,2.70
-24-10-25,10:30,Obolon Kyiv vs Polissya Zhytomyr,Ukraine U19,45243,Obolon Kyiv,Polissya Zhytomyr,3.10,4.25,1.84
-24-10-25,11:00,FC Karpaty LVIV vs FC Rukh LVIV U19,Ukraine U19,24391,FC Karpaty LVIV,FC Rukh LVIV U19,1.74,4.70,3.20
-24-10-25,23:30,Abd GO vs Itumbiara EC GO,"Brazil Goiano, 3. Divisao",48279,Abd GO,Itumbiara EC GO,1.11,6.50,13.50
-24-10-25,21:00,G3X FC vs FC Real Elite,SoccerSpecials Kings Cup Brazil,44646,G3X FC,FC Real Elite,1.20,8.00,5.80
-24-10-25,22:00,Funkbol Clube vs Capim FC,SoccerSpecials Kings Cup Brazil,48466,Funkbol Clube,Capim FC,1.67,5.90,2.75
-24-10-25,23:00,Dendele FC vs Fluxo FC,SoccerSpecials Kings Cup Brazil,38776,Dendele FC,Fluxo FC,1.40,7.20,3.60
-24-10-25,00:00,Loud SC vs Furia FC,SoccerSpecials Kings Cup Brazil,45450,Loud SC,Furia FC,3.30,7.10,1.46
-24-10-25,13:00,ACS Aro Muscelul C-Lung Muscel vs CS Gilortul Targu Carbunesti,Romania Liga 3,13302,ACS Aro Muscelul C-Lung Muscel,CS Gilortul Targu Carbunesti,1.29,4.75,6.90
-24-10-25,14:00,Bumamuru FC vs Aigle Noir CS,Burundi Ligue A,39997,Bumamuru FC,Aigle Noir CS,2.35,3.25,2.50
-24-10-25,18:30,SC Sparkasse Korneuburg vs Scheiblingkirchen-Warth Usv,"Austria Amateur Niederosterreich, 1. Landesliga",43140,SC Sparkasse Korneuburg,Scheiblingkirchen-Warth Usv,2.95,3.50,1.98
-24-10-25,18:00,ASK Koflach vs TUS Bad Waltersdorf,"Austria Amateur Steiermark, Landesliga",46756,ASK Koflach,TUS Bad Waltersdorf,1.82,3.90,3.40
-24-10-25,18:00,FC Union RB Weinland Gamlitz vs FC Hohenhaus Tenne Schladming,"Austria Amateur Steiermark, Landesliga",46913,FC Union RB Weinland Gamlitz,FC Hohenhaus Tenne Schladming,2.00,3.70,3.00
-24-10-25,18:00,SV Tillmitsch vs SV Allerheiligen,"Austria Amateur Steiermark, Landesliga",46757,SV Tillmitsch,SV Allerheiligen,2.30,3.60,2.60
-24-10-25,18:00,USV Gnas vs Ilzer SV,"Austria Amateur Steiermark, Landesliga",46914,USV Gnas,Ilzer SV,5.80,4.80,1.39
+24-10-25,12:00,Agrispor 1970 SK vs Nigde Belediyesi Spor,"Turkiye Amateur 3. Lig, Group 2",44129,Agrispor 1970 SK,Nigde Belediyesi Spor,2.35,3.0,2.7
+24-10-25,10:30,Obolon Kyiv vs Polissya Zhytomyr,Ukraine U19,45243,Obolon Kyiv,Polissya Zhytomyr,3.1,4.25,1.84
+24-10-25,11:00,FC Karpaty LVIV vs FC Rukh LVIV U19,Ukraine U19,24391,FC Karpaty LVIV,FC Rukh LVIV U19,1.74,4.7,3.2
+24-10-25,23:30,Abd GO vs Itumbiara EC GO,"Brazil Goiano, 3. Divisao",48279,Abd GO,Itumbiara EC GO,1.11,6.5,13.5
+24-10-25,21:00,G3X FC vs FC Real Elite,SoccerSpecials Kings Cup Brazil,44646,G3X FC,FC Real Elite,1.2,8.0,5.8
+24-10-25,22:00,Funkbol Clube vs Capim FC,SoccerSpecials Kings Cup Brazil,48466,Funkbol Clube,Capim FC,1.67,5.9,2.75
+24-10-25,23:00,Dendele FC vs Fluxo FC,SoccerSpecials Kings Cup Brazil,38776,Dendele FC,Fluxo FC,1.4,7.2,3.6
+24-10-25,00:00,Loud SC vs Furia FC,SoccerSpecials Kings Cup Brazil,45450,Loud SC,Furia FC,3.3,7.1,1.46
+24-10-25,13:00,ACS Aro Muscelul C-Lung Muscel vs CS Gilortul Targu Carbunesti,Romania Liga 3,13302,ACS Aro Muscelul C-Lung Muscel,CS Gilortul Targu Carbunesti,1.29,4.75,6.9
+24-10-25,14:00,Bumamuru FC vs Aigle Noir CS,Burundi Ligue A,39997,Bumamuru FC,Aigle Noir CS,2.35,3.25,2.5
+24-10-25,18:30,SC Sparkasse Korneuburg vs Scheiblingkirchen-Warth Usv,"Austria Amateur Niederosterreich, 1. Landesliga",43140,SC Sparkasse Korneuburg,Scheiblingkirchen-Warth Usv,2.95,3.5,1.98
+24-10-25,18:00,ASK Koflach vs TUS Bad Waltersdorf,"Austria Amateur Steiermark, Landesliga",46756,ASK Koflach,TUS Bad Waltersdorf,1.82,3.9,3.4
+24-10-25,18:00,FC Union RB Weinland Gamlitz vs FC Hohenhaus Tenne Schladming,"Austria Amateur Steiermark, Landesliga",46913,FC Union RB Weinland Gamlitz,FC Hohenhaus Tenne Schladming,2.0,3.7,3.0
+24-10-25,18:00,SV Tillmitsch vs SV Allerheiligen,"Austria Amateur Steiermark, Landesliga",46757,SV Tillmitsch,SV Allerheiligen,2.3,3.6,2.6
+24-10-25,18:00,USV Gnas vs Ilzer SV,"Austria Amateur Steiermark, Landesliga",46914,USV Gnas,Ilzer SV,5.8,4.8,1.39
+24-10-25,18:30,FCM Traiskirchen vs FC Marchfeld Donauauen,Austria Amateur Regionalliga Ost,35632,FCM Traiskirchen,FC Marchfeld Donauauen,1.82,3.90,3.10
+24-10-25,18:30,Kremser SC vs SV Horn,Austria Amateur Regionalliga Ost,35582,Kremser SC,SV Horn,2.40,3.40,2.40
+24-10-25,18:00,FSV 08 Bissingen vs TSG Backnang,Germany Amateur Oberliga Baden-Wurttemberg,36747,FSV 08 Bissingen,TSG Backnang,2.55,3.90,2.20
+24-10-25,18:30,VfR Mannheim vs FC 08 Villingen,Germany Amateur Oberliga Baden-Wurttemberg,24820,VfR Mannheim,FC 08 Villingen,1.34,4.90,6.60
+24-10-25,18:30,FC Suderelbe 1949 vs FC Turkiye Wilhelmsburg,Germany Amateur Oberliga Hamburg,36195,FC Suderelbe 1949,FC Turkiye Wilhelmsburg,1.23,6.00,8.40
+24-10-25,18:30,Ratingen SV Germania 04/19 vs FC Buderich 02,Germany Amateur Oberliga Niederrhein,23689,Ratingen SV Germania 04/19,FC Buderich 02,1.63,4.30,4.00
+24-10-25,18:00,VfV 06 Hildesheim vs MTV Wolfenbuttel,Germany Amateur Oberliga Niedersachsen,32345,VfV 06 Hildesheim,MTV Wolfenbuttel,1.62,4.60,3.80
+24-10-25,18:30,SV Holthausen-Biene vs SC Spelle-Venhaus,Germany Amateur Oberliga Niedersachsen,48387,SV Holthausen-Biene,SC Spelle-Venhaus,3.75,4.50,1.63
+24-10-25,18:00,SV Lippstadt 08 vs SV Westfalia Rhynern,Germany Amateur Oberliga Westfalen,48712,SV Lippstadt 08,SV Westfalia Rhynern,2.00,4.60,2.60
+24-10-25,19:00,Ki Klaksvik II vs 07 Vestur Sorvagur II,Faroe Islands 1st deild,15525,Ki Klaksvik II,07 Vestur Sorvagur II,1.43,4.40,6.40
+24-10-25,19:00,NSI Runavik II vs Vikingur Gota II,Faroe Islands 1st deild,38688,NSI Runavik II,Vikingur Gota II,2.45,4.25,2.30
+24-10-25,18:00,ASV Cham vs FSV Stadeln,Germany Amateur Bayernliga North,18637,ASV Cham,FSV Stadeln,2.25,3.75,2.55
+24-10-25,18:00,ATSV Erlangen vs Jahn Regensburg II,Germany Amateur Bayernliga North,43869,ATSV Erlangen,Jahn Regensburg II,1.65,4.20,3.90
+24-10-25,18:00,Neudrossenfeld vs Bayern Hof,Germany Amateur Bayernliga North,16477,Neudrossenfeld,Bayern Hof,2.25,3.75,2.55
+24-10-25,18:00,SC Eltersdorf vs Eintracht Bamberg,Germany Amateur Bayernliga North,19293,SC Eltersdorf,Eintracht Bamberg,1.65,4.10,4.00
+24-10-25,18:30,FC Oberneuland vs TS Woltmershausen,Germany Amateur Bremen Liga,26401,FC Oberneuland,TS Woltmershausen,1.66,4.60,3.60
+24-10-25,18:30,KSV Vatan Sport vs Leher TS,Germany Amateur Bremen Liga,36666,KSV Vatan Sport,Leher TS,2.45,4.70,2.10
+24-10-25,18:15,FC Kilia Kiel vs Oldenburger SV,Germany Amateur Oberliga Schleswig-Holstein,22730,FC Kilia Kiel,Oldenburger SV,1.44,5.10,4.80
+24-10-25,18:00,Goerslev IF vs Ringsted IF,Denmark Amateur Danmarksserien,45048,Goerslev IF,Ringsted IF,1.90,3.70,3.00
+24-10-25,18:00,Horsens FS vs Oestre Boldklub,Denmark Amateur Danmarksserien,12046,Horsens FS,Oestre Boldklub,1.72,3.40,3.90
+24-10-25,18:15,VB 1968 vs Skovshoved IF,Denmark Amateur Danmarksserien,35031,VB 1968,Skovshoved IF,1.85,4.00,2.90
+24-10-25,18:30,Grasshopper Club Zurich vs FC Aarau,Switzerland U19 Elite,24946,Grasshopper Club Zurich,FC Aarau,1.53,3.80,4.70
