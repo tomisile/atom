@@ -22234,40 +22234,48 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 26-10-25,13:00,Slavia Sofia II vs Septemvri Sofia II,Bulgaria Treta Liga,23555,Slavia Sofia II,Septemvri Sofia II,1.35,4.9,5.5
 26-10-25,13:30,Rayo Vallecano vs Atletico Madrid,Spain U19 Division de Honor Juvenil,41704,Rayo Vallecano,Atletico Madrid,4.8,4.0,1.56
 26-10-25,19:00,Petrolina SFC PE vs Nautico Capibaribe PE,Brazil U20 Pernambucano,41717,Petrolina SFC PE,Nautico Capibaribe PE,5.3,4.6,1.48
-26-10-25,17:00,Stade Malien de Bamako vs FC Nouadhibou,International Clubs CAF Champions League,18639,Stade Malien de Bamako,FC Nouadhibou,1.66,3.50,5.10
-26-10-25,14:30,Legnago Salus vs Luparense FC,"Italy Serie D, Group C",39621,Legnago Salus,Luparense FC,1.79,3.40,4.00
+26-10-25,17:00,Stade Malien de Bamako vs FC Nouadhibou,International Clubs CAF Champions League,18639,Stade Malien de Bamako,FC Nouadhibou,1.66,3.5,5.1
+26-10-25,14:30,Legnago Salus vs Luparense FC,"Italy Serie D, Group C",39621,Legnago Salus,Luparense FC,1.79,3.4,4.0
 26-10-25,14:30,Union Clodiense Chioggia SSD vs Treviso FBC,"Italy Serie D, Group C",15041,Union Clodiense Chioggia SSD,Treviso FBC,3.75,3.33,1.87
-26-10-25,15:00,ASD Real Acerrana 1926 vs Afragolese 1944,"Italy Serie D, Group H",37705,ASD Real Acerrana 1926,Afragolese 1944,2.90,3.10,2.35
-26-10-25,15:00,Rezeknes Fa/Bjss vs Leevon Ppk,Latvia 1.Liga,23625,Rezeknes Fa/Bjss,Leevon Ppk,3.00,3.33,2.15
-26-10-25,18:00,Mazarron FC vs UD Caravaca,"Spain Amateur Tercera Federacion, Group 13",14395,Mazarron FC,UD Caravaca,2.25,3.10,3.00
-26-10-25,16:00,CD Subiza vs CD Pamplona,"Spain Amateur Tercera Federacion, Group 15",12960,CD Subiza,CD Pamplona,2.80,3.20,2.30
-26-10-25,16:30,UD Aretxabaleta vs Touring Ke,"Spain Amateur Tercera Federacion, Group 4",11242,UD Aretxabaleta,Touring Ke,1.85,3.50,3.60
-26-10-25,19:30,EC Pelotas RS vs EC Juventude RS,Brazil Copa FGF,20779,EC Pelotas RS,EC Juventude RS,2.10,3.25,3.33
-26-10-25,16:00,Karela United FC vs Bechem United,Ghana Premier League,23365,Karela United FC,Bechem United,1.99,2.95,3.90
-26-10-25,16:00,Nations FC vs Eleven Wonders FC,Ghana Premier League,24524,Nations FC,Eleven Wonders FC,1.48,3.50,7.10
-26-10-25,15:00,AFC Wimbledon Ladies vs Chatham Town Women,"England Amateur FA Cup, Women",19620,AFC Wimbledon Ladies,Chatham Town Women,1.50,4.60,5.10
-26-10-25,15:00,FC Wegberg-Beeck vs FC Pesch,Germany Amateur Mittelrheinliga,38746,FC Wegberg-Beeck,FC Pesch,1.61,4.50,3.90
-26-10-25,15:30,SPVG Frechen 20 vs Hennef 05,Germany Amateur Mittelrheinliga,12892,SPVG Frechen 20,Hennef 05,1.37,4.70,6.30
-26-10-25,15:30,SSV Bornheim vs TUS BW Konigsdorf,Germany Amateur Mittelrheinliga,14201,SSV Bornheim,TUS BW Konigsdorf,2.60,3.90,2.15
-26-10-25,15:00,1. FC Kleve vs Sportfreunde Baumberg,Germany Amateur Oberliga Niederrhein,15914,1. FC Kleve,Sportfreunde Baumberg,5.90,4.50,1.41
-26-10-25,14:30,1. FC Germania Egestorf/Langreder vs Luneburger SK Hansa,Germany Amateur Oberliga Niedersachsen,37602,1. FC Germania Egestorf/Langreder,Luneburger SK Hansa,1.37,5.10,5.75
-26-10-25,14:30,Sepahan SC vs Paykan FC,Iran Pro League,22085,Sepahan SC,Paykan FC,1.45,3.75,6.90
-26-10-25,14:30,FK Rudar Pljevlja vs FK Kom,Montenegro 2. CFL,32585,FK Rudar Pljevlja,FK Kom,1.99,3.75,3.00
-26-10-25,15:30,Habenhauser FV vs SV Hemelingen,Germany Amateur Bremen Liga,32333,Habenhauser FV,SV Hemelingen,13.00,7.20,1.13
-26-10-25,16:00,CS Fola Esch vs Alisontia Steinsel,Luxembourg Promotion d'Honneur,10066,CS Fola Esch,Alisontia Steinsel,1.51,4.10,5.10
-26-10-25,16:00,FC Schifflingen 95 vs FC Mondercange,Luxembourg Promotion d'Honneur,11429,FC Schifflingen 95,FC Mondercange,3.30,3.60,1.94
-26-10-25,16:00,FC Wiltz 71 vs US Rumelange,Luxembourg Promotion d'Honneur,26647,FC Wiltz 71,US Rumelange,1.61,3.90,4.50
-26-10-25,16:00,Residence Walferdange vs FC Etzella Ettelbruck,Luxembourg Promotion d'Honneur,12929,Residence Walferdange,FC Etzella Ettelbruck,2.05,3.50,3.10
-26-10-25,16:00,SC Bettembourg vs Berdenia Berbourg,Luxembourg Promotion d'Honneur,28983,SC Bettembourg,Berdenia Berbourg,2.10,3.50,3.00
-26-10-25,16:00,The Belval Belvaux vs FC Rm Hamm Benfica,Luxembourg Promotion d'Honneur,26685,The Belval Belvaux,FC Rm Hamm Benfica,3.90,3.60,1.75
-26-10-25,16:00,US Feulen vs FC Lorentzweiler,Luxembourg Promotion d'Honneur,26802,US Feulen,FC Lorentzweiler,1.42,4.60,5.70
-26-10-25,15:00,FC Neptunas B vs FK Silute,Lithuania II Lyga,11527,FC Neptunas B,FK Silute,1.37,4.40,7.00
-26-10-25,15:00,FKS Ukmerge vs FK Viltis Vilnius,Lithuania II Lyga,21224,FKS Ukmerge,FK Viltis Vilnius,1.56,4.00,4.75
-26-10-25,18:30,AL Najaf vs AL Talaba,Iraq Stars League,36791,AL Najaf,AL Talaba,3.10,3.10,2.15
-26-10-25,15:00,Grasshopper Club Zurich II vs FC Solothurn,Switzerland 1. Liga Classic,22498,Grasshopper Club Zurich II,FC Solothurn,1.42,4.60,5.70
-26-10-25,14:30,FK Caslav vs FK Dobrovice,Czechia Divize C,11421,FK Caslav,FK Dobrovice,1.12,6.30,13.00
-26-10-25,14:30,MFK Trutnov vs FK Prepere,Czechia Divize C,11272,MFK Trutnov,FK Prepere,2.35,3.50,2.35
-26-10-25,14:30,Svitavy vs FK Slovan Hradek Nad Nisou 1910,Czechia Divize C,37163,Svitavy,FK Slovan Hradek Nad Nisou 1910,1.87,3.60,3.10
-26-10-25,14:30,TJ Dalnice Sperice vs FK Pelhimov,Czechia Divize D,20865,TJ Dalnice Sperice,FK Pelhimov,1.95,3.60,2.95
-26-10-25,17:00,CD Oberena Youth vs UD Logrones Promesas,Spain U19 Division de Honor Juvenil,15421,CD Oberena Youth,UD Logrones Promesas,2.25,3.20,2.95
-26-10-25,17:45,UD La Mosca U19 vs UD Maracena,Spain U19 Division de Honor Juvenil,15430,UD La Mosca U19,UD Maracena,2.25,3.20,2.95
+26-10-25,15:00,ASD Real Acerrana 1926 vs Afragolese 1944,"Italy Serie D, Group H",37705,ASD Real Acerrana 1926,Afragolese 1944,2.9,3.1,2.35
+26-10-25,15:00,Rezeknes Fa/Bjss vs Leevon Ppk,Latvia 1.Liga,23625,Rezeknes Fa/Bjss,Leevon Ppk,3.0,3.33,2.15
+26-10-25,18:00,Mazarron FC vs UD Caravaca,"Spain Amateur Tercera Federacion, Group 13",14395,Mazarron FC,UD Caravaca,2.25,3.1,3.0
+26-10-25,16:00,CD Subiza vs CD Pamplona,"Spain Amateur Tercera Federacion, Group 15",12960,CD Subiza,CD Pamplona,2.8,3.2,2.3
+26-10-25,16:30,UD Aretxabaleta vs Touring Ke,"Spain Amateur Tercera Federacion, Group 4",11242,UD Aretxabaleta,Touring Ke,1.85,3.5,3.6
+26-10-25,19:30,EC Pelotas RS vs EC Juventude RS,Brazil Copa FGF,20779,EC Pelotas RS,EC Juventude RS,2.1,3.25,3.33
+26-10-25,16:00,Karela United FC vs Bechem United,Ghana Premier League,23365,Karela United FC,Bechem United,1.99,2.95,3.9
+26-10-25,16:00,Nations FC vs Eleven Wonders FC,Ghana Premier League,24524,Nations FC,Eleven Wonders FC,1.48,3.5,7.1
+26-10-25,15:00,AFC Wimbledon Ladies vs Chatham Town Women,"England Amateur FA Cup, Women",19620,AFC Wimbledon Ladies,Chatham Town Women,1.5,4.6,5.1
+26-10-25,15:00,FC Wegberg-Beeck vs FC Pesch,Germany Amateur Mittelrheinliga,38746,FC Wegberg-Beeck,FC Pesch,1.61,4.5,3.9
+26-10-25,15:30,SPVG Frechen 20 vs Hennef 05,Germany Amateur Mittelrheinliga,12892,SPVG Frechen 20,Hennef 05,1.37,4.7,6.3
+26-10-25,15:30,SSV Bornheim vs TUS BW Konigsdorf,Germany Amateur Mittelrheinliga,14201,SSV Bornheim,TUS BW Konigsdorf,2.6,3.9,2.15
+26-10-25,15:00,1. FC Kleve vs Sportfreunde Baumberg,Germany Amateur Oberliga Niederrhein,15914,1. FC Kleve,Sportfreunde Baumberg,5.9,4.5,1.41
+26-10-25,14:30,1. FC Germania Egestorf/Langreder vs Luneburger SK Hansa,Germany Amateur Oberliga Niedersachsen,37602,1. FC Germania Egestorf/Langreder,Luneburger SK Hansa,1.37,5.1,5.75
+26-10-25,14:30,Sepahan SC vs Paykan FC,Iran Pro League,22085,Sepahan SC,Paykan FC,1.45,3.75,6.9
+26-10-25,14:30,FK Rudar Pljevlja vs FK Kom,Montenegro 2. CFL,32585,FK Rudar Pljevlja,FK Kom,1.99,3.75,3.0
+26-10-25,15:30,Habenhauser FV vs SV Hemelingen,Germany Amateur Bremen Liga,32333,Habenhauser FV,SV Hemelingen,13.0,7.2,1.13
+26-10-25,16:00,CS Fola Esch vs Alisontia Steinsel,Luxembourg Promotion d'Honneur,10066,CS Fola Esch,Alisontia Steinsel,1.51,4.1,5.1
+26-10-25,16:00,FC Schifflingen 95 vs FC Mondercange,Luxembourg Promotion d'Honneur,11429,FC Schifflingen 95,FC Mondercange,3.3,3.6,1.94
+26-10-25,16:00,FC Wiltz 71 vs US Rumelange,Luxembourg Promotion d'Honneur,26647,FC Wiltz 71,US Rumelange,1.61,3.9,4.5
+26-10-25,16:00,Residence Walferdange vs FC Etzella Ettelbruck,Luxembourg Promotion d'Honneur,12929,Residence Walferdange,FC Etzella Ettelbruck,2.05,3.5,3.1
+26-10-25,16:00,SC Bettembourg vs Berdenia Berbourg,Luxembourg Promotion d'Honneur,28983,SC Bettembourg,Berdenia Berbourg,2.1,3.5,3.0
+26-10-25,16:00,The Belval Belvaux vs FC Rm Hamm Benfica,Luxembourg Promotion d'Honneur,26685,The Belval Belvaux,FC Rm Hamm Benfica,3.9,3.6,1.75
+26-10-25,16:00,US Feulen vs FC Lorentzweiler,Luxembourg Promotion d'Honneur,26802,US Feulen,FC Lorentzweiler,1.42,4.6,5.7
+26-10-25,15:00,FC Neptunas B vs FK Silute,Lithuania II Lyga,11527,FC Neptunas B,FK Silute,1.37,4.4,7.0
+26-10-25,15:00,FKS Ukmerge vs FK Viltis Vilnius,Lithuania II Lyga,21224,FKS Ukmerge,FK Viltis Vilnius,1.56,4.0,4.75
+26-10-25,18:30,AL Najaf vs AL Talaba,Iraq Stars League,36791,AL Najaf,AL Talaba,3.1,3.1,2.15
+26-10-25,15:00,Grasshopper Club Zurich II vs FC Solothurn,Switzerland 1. Liga Classic,22498,Grasshopper Club Zurich II,FC Solothurn,1.42,4.6,5.7
+26-10-25,14:30,FK Caslav vs FK Dobrovice,Czechia Divize C,11421,FK Caslav,FK Dobrovice,1.12,6.3,13.0
+26-10-25,14:30,MFK Trutnov vs FK Prepere,Czechia Divize C,11272,MFK Trutnov,FK Prepere,2.35,3.5,2.35
+26-10-25,14:30,Svitavy vs FK Slovan Hradek Nad Nisou 1910,Czechia Divize C,37163,Svitavy,FK Slovan Hradek Nad Nisou 1910,1.87,3.6,3.1
+26-10-25,14:30,TJ Dalnice Sperice vs FK Pelhimov,Czechia Divize D,20865,TJ Dalnice Sperice,FK Pelhimov,1.95,3.6,2.95
+26-10-25,17:00,CD Oberena Youth vs UD Logrones Promesas,Spain U19 Division de Honor Juvenil,15421,CD Oberena Youth,UD Logrones Promesas,2.25,3.2,2.95
+26-10-25,17:45,UD La Mosca U19 vs UD Maracena,Spain U19 Division de Honor Juvenil,15430,UD La Mosca U19,UD Maracena,2.25,3.2,2.95
+26-10-25,19:00,Al-Ahli Tripoli vs Rs Berkane,International Clubs CAF Champions League,28743,Al-Ahli Tripoli,Rs Berkane,2.80,3.10,2.50
+26-10-25,19:00,Yeclano Deportivo B vs Real Murcia Imperial FC,"Spain Amateur Tercera Federacion, Group 13",10471,Yeclano Deportivo B,Real Murcia Imperial FC,3.90,3.60,1.75
+26-10-25,00:00,Central FC vs Point Fortin FC,Trinidad and Tobago TT Premier League,15505,Central FC,Point Fortin FC,1.01,12.00,39.00
+26-10-25,19:00,Quinho FC Saf vs Potyguar Cn Seridoense RN,"Brazil Potiguar, 2. Divisao",29904,Quinho FC Saf,Potyguar Cn Seridoense RN,2.00,3.10,3.60
+26-10-25,18:00,Csd Chiquimulilla vs CSD Sacachispas,Guatemala Primera Division,20978,Csd Chiquimulilla,CSD Sacachispas,2.20,2.60,3.80
+26-10-25,18:00,Deportivo Gomerano vs Deportivo Coatepeque,Guatemala Primera Division,24486,Deportivo Gomerano,Deportivo Coatepeque,1.79,3.33,4.10
+26-10-25,18:00,Deportivo Nueva Concepcion vs CD Suchitepequez,Guatemala Primera Division,25936,Deportivo Nueva Concepcion,CD Suchitepequez,2.50,2.95,2.75
+26-10-25,19:00,Maracana CE vs Pague Menos CE,Brazil Taca Fares Lopes,44200,Maracana CE,Pague Menos CE,2.70,3.20,2.45
