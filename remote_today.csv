@@ -22642,218 +22642,234 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 28-10-25,20:45,Netherlands vs Canada,International Int. Friendly Games W,31882,Netherlands,Canada,2.15,3.1,3.33
 28-10-25,20:45,Wales vs Poland,International Int. Friendly Games W,42562,Wales,Poland,2.6,3.2,2.6
 28-10-25,20:45,Brantham Athletic vs Waltham Abbey,England England Isthmian League North Division,45575,Brantham Athletic,Waltham Abbey,18.0,8.4,1.08
-29-10-25,11:30,Talasgucu Belediyespor vs Ankara Keciorengucu,Turkiye Turkiye Kupasi,41310,Talasgucu Belediyespor,Ankara Keciorengucu,5.00,4.00,1.59
-29-10-25,11:30,Tuzlaspor vs Yalova Yesilovaspor,Turkiye Turkiye Kupasi,43096,Tuzlaspor,Yalova Yesilovaspor,1.95,3.40,3.60
-29-10-25,13:00,Bursa Yildirim Spor vs Alanyaspor,Turkiye Turkiye Kupasi,21908,Bursa Yildirim Spor,Alanyaspor,7.40,5.00,1.34
-29-10-25,13:30,Corum FK vs Belediye Kutahyaspor,Turkiye Turkiye Kupasi,23059,Corum FK,Belediye Kutahyaspor,1.30,5.25,8.40
-29-10-25,13:30,Orduspor 1967 vs Erbaaspor,Turkiye Turkiye Kupasi,23804,Orduspor 1967,Erbaaspor,2.20,3.60,2.85
-29-10-25,13:30,Pendikspor vs Corluspor 1947,Turkiye Turkiye Kupasi,22544,Pendikspor,Corluspor 1947,1.40,4.60,6.80
-29-10-25,16:00,Manisa Futbol Kulubu vs Muglaspor,Turkiye Turkiye Kupasi,44362,Manisa Futbol Kulubu,Muglaspor,2.25,3.50,2.85
-29-10-25,18:30,Antalyaspor vs Bursaspor,Turkiye Turkiye Kupasi,44365,Antalyaspor,Bursaspor,1.70,4.00,4.20
-29-10-25,20:30,Belisia Bilzen SV vs SV Zulte Waregem,Belgium Beker van Belgie,16966,Belisia Bilzen SV,SV Zulte Waregem,7.20,5.00,1.35
-29-10-25,20:30,KRC Genk vs RWD Molenbeek 47,Belgium Beker van Belgie,18175,KRC Genk,RWD Molenbeek 47,1.28,5.60,8.20
-29-10-25,20:30,KSK Heist vs RAAL La Louviere,Belgium Beker van Belgie,24810,KSK Heist,RAAL La Louviere,7.70,5.60,1.29
-29-10-25,20:30,Royal Antwerp FC vs KAS Eupen,Belgium Beker van Belgie,28886,Royal Antwerp FC,KAS Eupen,1.34,5.00,7.50
-29-10-25,20:30,Royale Union Tubize-Braine vs Union Gilloise,Belgium Beker van Belgie,25260,Royale Union Tubize-Braine,Union Gilloise,21.00,10.00,1.07
-29-10-25,13:30,GS Ilioupoli vs AEK Athens,Greece Greece Cup,45026,GS Ilioupoli,AEK Athens,23.00,8.70,1.10
-29-10-25,14:00,AO Egaleo 1931 PAE vs Aris Thessaloniki,Greece Greece Cup,36967,AO Egaleo 1931 PAE,Aris Thessaloniki,18.00,6.50,1.16
-29-10-25,15:30,Olympiacos vs Volos NPS,Greece Greece Cup,45022,Olympiacos,Volos NPS,1.19,6.50,13.50
-29-10-25,17:30,APO Levadiakos FC vs Asteras Tripolis,Greece Greece Cup,45023,APO Levadiakos FC,Asteras Tripolis,1.65,3.75,5.00
-29-10-25,18:30,Atromitos Athinon vs Panathinaikos,Greece Greece Cup,45031,Atromitos Athinon,Panathinaikos,5.50,3.70,1.62
-29-10-25,20:30,PAOK vs AE Larissa FC,Greece Greece Cup,45009,PAOK,AE Larissa FC,1.21,6.10,12.00
-29-10-25,12:00,Jamshedpur FC vs Northeast United FC,India Indian Super Cup,36611,Jamshedpur FC,Northeast United FC,3.25,3.20,1.97
-29-10-25,15:00,FC Goa vs Inter Kashi FC,India Indian Super Cup,36613,FC Goa,Inter Kashi FC,1.14,6.10,11.50
-29-10-25,19:00,Mjoendalen IF vs Stabaek IF,Norway 1st Division,44467,Mjoendalen IF,Stabaek IF,4.75,4.40,1.61
-29-10-25,15:00,Racing Club Avellaneda SRL vs CD Flamengo RJ SRL,Simulated Reality League Copa Libertadores SRL,45742,Racing Club Avellaneda SRL,CD Flamengo RJ SRL,3.06,3.30,2.38
-29-10-25,15:00,AC Renate vs Juventus FC,Italy Coppa Italia Serie C,27565,AC Renate,Juventus FC,3.80,3.10,1.94
-29-10-25,15:00,Atalanta BC U23 vs Alcione Milano,Italy Coppa Italia Serie C,27451,Atalanta BC U23,Alcione Milano,2.55,3.20,2.55
-29-10-25,15:00,Sambenedettese vs Ascoli Calcio 1898,Italy Coppa Italia Serie C,19827,Sambenedettese,Ascoli Calcio 1898,2.80,3.25,2.30
-29-10-25,18:30,ASD Sorrento 1945 vs Trapani Calcio,Italy Coppa Italia Serie C,27783,ASD Sorrento 1945,Trapani Calcio,3.20,3.10,2.20
-29-10-25,18:30,Ravenna FC 1913 vs Rimini FC 1912,Italy Coppa Italia Serie C,27841,Ravenna FC 1913,Rimini FC 1912,1.73,3.60,4.10
-29-10-25,18:30,SS Arezzo vs ASD Torres Sassari,Italy Coppa Italia Serie C,27703,SS Arezzo,ASD Torres Sassari,1.45,3.90,6.60
-29-10-25,20:30,Audace Cerignola vs S.S.D. Casarano Calcio,Italy Coppa Italia Serie C,28035,Audace Cerignola,S.S.D. Casarano Calcio,2.90,3.20,2.25
-29-10-25,20:30,FC Giugliano 1928 vs Benevento,Italy Coppa Italia Serie C,28051,FC Giugliano 1928,Benevento,4.40,3.80,1.63
-29-10-25,20:30,SS Monopoli vs Potenza Calcio,Italy Coppa Italia Serie C,27849,SS Monopoli,Potenza Calcio,2.10,3.20,3.20
+29-10-25,11:30,Talasgucu Belediyespor vs Ankara Keciorengucu,Turkiye Turkiye Kupasi,41310,Talasgucu Belediyespor,Ankara Keciorengucu,5.0,4.0,1.59
+29-10-25,11:30,Tuzlaspor vs Yalova Yesilovaspor,Turkiye Turkiye Kupasi,43096,Tuzlaspor,Yalova Yesilovaspor,1.95,3.4,3.6
+29-10-25,13:00,Bursa Yildirim Spor vs Alanyaspor,Turkiye Turkiye Kupasi,21908,Bursa Yildirim Spor,Alanyaspor,7.4,5.0,1.34
+29-10-25,13:30,Corum FK vs Belediye Kutahyaspor,Turkiye Turkiye Kupasi,23059,Corum FK,Belediye Kutahyaspor,1.3,5.25,8.4
+29-10-25,13:30,Orduspor 1967 vs Erbaaspor,Turkiye Turkiye Kupasi,23804,Orduspor 1967,Erbaaspor,2.2,3.6,2.85
+29-10-25,13:30,Pendikspor vs Corluspor 1947,Turkiye Turkiye Kupasi,22544,Pendikspor,Corluspor 1947,1.4,4.6,6.8
+29-10-25,16:00,Manisa Futbol Kulubu vs Muglaspor,Turkiye Turkiye Kupasi,44362,Manisa Futbol Kulubu,Muglaspor,2.25,3.5,2.85
+29-10-25,18:30,Antalyaspor vs Bursaspor,Turkiye Turkiye Kupasi,44365,Antalyaspor,Bursaspor,1.7,4.0,4.2
+29-10-25,20:30,Belisia Bilzen SV vs SV Zulte Waregem,Belgium Beker van Belgie,16966,Belisia Bilzen SV,SV Zulte Waregem,7.2,5.0,1.35
+29-10-25,20:30,KRC Genk vs RWD Molenbeek 47,Belgium Beker van Belgie,18175,KRC Genk,RWD Molenbeek 47,1.28,5.6,8.2
+29-10-25,20:30,KSK Heist vs RAAL La Louviere,Belgium Beker van Belgie,24810,KSK Heist,RAAL La Louviere,7.7,5.6,1.29
+29-10-25,20:30,Royal Antwerp FC vs KAS Eupen,Belgium Beker van Belgie,28886,Royal Antwerp FC,KAS Eupen,1.34,5.0,7.5
+29-10-25,20:30,Royale Union Tubize-Braine vs Union Gilloise,Belgium Beker van Belgie,25260,Royale Union Tubize-Braine,Union Gilloise,21.0,10.0,1.07
+29-10-25,13:30,GS Ilioupoli vs AEK Athens,Greece Greece Cup,45026,GS Ilioupoli,AEK Athens,23.0,8.7,1.1
+29-10-25,14:00,AO Egaleo 1931 PAE vs Aris Thessaloniki,Greece Greece Cup,36967,AO Egaleo 1931 PAE,Aris Thessaloniki,18.0,6.5,1.16
+29-10-25,15:30,Olympiacos vs Volos NPS,Greece Greece Cup,45022,Olympiacos,Volos NPS,1.19,6.5,13.5
+29-10-25,17:30,APO Levadiakos FC vs Asteras Tripolis,Greece Greece Cup,45023,APO Levadiakos FC,Asteras Tripolis,1.65,3.75,5.0
+29-10-25,18:30,Atromitos Athinon vs Panathinaikos,Greece Greece Cup,45031,Atromitos Athinon,Panathinaikos,5.5,3.7,1.62
+29-10-25,20:30,PAOK vs AE Larissa FC,Greece Greece Cup,45009,PAOK,AE Larissa FC,1.21,6.1,12.0
+29-10-25,12:00,Jamshedpur FC vs Northeast United FC,India Indian Super Cup,36611,Jamshedpur FC,Northeast United FC,3.25,3.2,1.97
+29-10-25,15:00,FC Goa vs Inter Kashi FC,India Indian Super Cup,36613,FC Goa,Inter Kashi FC,1.14,6.1,11.5
+29-10-25,19:00,Mjoendalen IF vs Stabaek IF,Norway 1st Division,44467,Mjoendalen IF,Stabaek IF,4.75,4.4,1.61
+29-10-25,15:00,Racing Club Avellaneda SRL vs CD Flamengo RJ SRL,Simulated Reality League Copa Libertadores SRL,45742,Racing Club Avellaneda SRL,CD Flamengo RJ SRL,3.06,3.3,2.38
+29-10-25,15:00,AC Renate vs Juventus FC,Italy Coppa Italia Serie C,27565,AC Renate,Juventus FC,3.8,3.1,1.94
+29-10-25,15:00,Atalanta BC U23 vs Alcione Milano,Italy Coppa Italia Serie C,27451,Atalanta BC U23,Alcione Milano,2.55,3.2,2.55
+29-10-25,15:00,Sambenedettese vs Ascoli Calcio 1898,Italy Coppa Italia Serie C,19827,Sambenedettese,Ascoli Calcio 1898,2.8,3.25,2.3
+29-10-25,18:30,ASD Sorrento 1945 vs Trapani Calcio,Italy Coppa Italia Serie C,27783,ASD Sorrento 1945,Trapani Calcio,3.2,3.1,2.2
+29-10-25,18:30,Ravenna FC 1913 vs Rimini FC 1912,Italy Coppa Italia Serie C,27841,Ravenna FC 1913,Rimini FC 1912,1.73,3.6,4.1
+29-10-25,18:30,SS Arezzo vs ASD Torres Sassari,Italy Coppa Italia Serie C,27703,SS Arezzo,ASD Torres Sassari,1.45,3.9,6.6
+29-10-25,20:30,Audace Cerignola vs S.S.D. Casarano Calcio,Italy Coppa Italia Serie C,28035,Audace Cerignola,S.S.D. Casarano Calcio,2.9,3.2,2.25
+29-10-25,20:30,FC Giugliano 1928 vs Benevento,Italy Coppa Italia Serie C,28051,FC Giugliano 1928,Benevento,4.4,3.8,1.63
+29-10-25,20:30,SS Monopoli vs Potenza Calcio,Italy Coppa Italia Serie C,27849,SS Monopoli,Potenza Calcio,2.1,3.2,3.2
 29-10-25,12:00,FC Lorient SRL vs PSG SRL,Simulated Reality League Ligue 1 SRL,45139,FC Lorient SRL,PSG SRL,9.75,6.23,1.27
-29-10-25,12:00,FC Paris Srl vs Lyon SRL,Simulated Reality League Ligue 1 SRL,45108,FC Paris Srl,Lyon SRL,2.69,3.60,2.50
+29-10-25,12:00,FC Paris Srl vs Lyon SRL,Simulated Reality League Ligue 1 SRL,45108,FC Paris Srl,Lyon SRL,2.69,3.6,2.5
 29-10-25,12:00,Le Havre AC Srl vs Brest SRL,Simulated Reality League Ligue 1 SRL,45098,Le Havre AC Srl,Brest SRL,2.53,3.32,2.83
-29-10-25,12:00,Marseille SRL vs Angers SRL,Simulated Reality League Ligue 1 SRL,45109,Marseille SRL,Angers SRL,1.23,6.42,12.80
+29-10-25,12:00,Marseille SRL vs Angers SRL,Simulated Reality League Ligue 1 SRL,45109,Marseille SRL,Angers SRL,1.23,6.42,12.8
 29-10-25,12:00,Metz SRL vs RC Lens SRL,Simulated Reality League Ligue 1 SRL,45115,Metz SRL,RC Lens SRL,5.92,4.49,1.52
 29-10-25,12:00,Nantes SRL vs Monaco SRL,Simulated Reality League Ligue 1 SRL,45137,Nantes SRL,Monaco SRL,4.73,4.07,1.69
-29-10-25,12:00,Nice SRL vs Lille SRL,Simulated Reality League Ligue 1 SRL,45138,Nice SRL,Lille SRL,2.90,3.52,2.37
-29-10-25,12:00,Strasbourg SRL vs AJ Auxerre SRL,Simulated Reality League Ligue 1 SRL,45135,Strasbourg SRL,AJ Auxerre SRL,1.75,3.90,4.52
-29-10-25,12:00,Toulouse SRL vs Rennes SRL,Simulated Reality League Ligue 1 SRL,45101,Toulouse SRL,Rennes SRL,2.15,3.50,3.33
-29-10-25,14:00,AFC Metalul Buzau vs FC Universitatea Cluj,Romania Romania Cup,46297,AFC Metalul Buzau,FC Universitatea Cluj,3.50,3.50,1.89
-29-10-25,14:00,Metaloglobus Bucuresti vs ACS Champions FC Arges,Romania Romania Cup,37077,Metaloglobus Bucuresti,ACS Champions FC Arges,5.10,3.75,1.57
-29-10-25,17:30,Sanatatea Cluj vs CS Universitatea Craiova,Romania Romania Cup,38661,Sanatatea Cluj,CS Universitatea Craiova,9.90,5.00,1.25
-29-10-25,20:00,CS Gloria 2018 Bistrita-Nasaud vs Fotbal Club FCSB,Romania Romania Cup,36905,CS Gloria 2018 Bistrita-Nasaud,Fotbal Club FCSB,8.10,4.60,1.32
-29-10-25,10:00,Bologna SRL vs Torino SRL,Simulated Reality League Serie A SRL,45092,Bologna SRL,Torino SRL,1.79,3.50,4.88
+29-10-25,12:00,Nice SRL vs Lille SRL,Simulated Reality League Ligue 1 SRL,45138,Nice SRL,Lille SRL,2.9,3.52,2.37
+29-10-25,12:00,Strasbourg SRL vs AJ Auxerre SRL,Simulated Reality League Ligue 1 SRL,45135,Strasbourg SRL,AJ Auxerre SRL,1.75,3.9,4.52
+29-10-25,12:00,Toulouse SRL vs Rennes SRL,Simulated Reality League Ligue 1 SRL,45101,Toulouse SRL,Rennes SRL,2.15,3.5,3.33
+29-10-25,14:00,AFC Metalul Buzau vs FC Universitatea Cluj,Romania Romania Cup,46297,AFC Metalul Buzau,FC Universitatea Cluj,3.5,3.5,1.89
+29-10-25,14:00,Metaloglobus Bucuresti vs ACS Champions FC Arges,Romania Romania Cup,37077,Metaloglobus Bucuresti,ACS Champions FC Arges,5.1,3.75,1.57
+29-10-25,17:30,Sanatatea Cluj vs CS Universitatea Craiova,Romania Romania Cup,38661,Sanatatea Cluj,CS Universitatea Craiova,9.9,5.0,1.25
+29-10-25,20:00,CS Gloria 2018 Bistrita-Nasaud vs Fotbal Club FCSB,Romania Romania Cup,36905,CS Gloria 2018 Bistrita-Nasaud,Fotbal Club FCSB,8.1,4.6,1.32
+29-10-25,10:00,Bologna SRL vs Torino SRL,Simulated Reality League Serie A SRL,45092,Bologna SRL,Torino SRL,1.79,3.5,4.88
 29-10-25,10:00,Como 1907 Srl vs Verona SRL,Simulated Reality League Serie A SRL,45088,Como 1907 Srl,Verona SRL,1.61,3.78,6.08
-29-10-25,10:00,Genoa SRL vs US Cremonese SRL,Simulated Reality League Serie A SRL,45093,Genoa SRL,US Cremonese SRL,1.88,3.30,4.66
+29-10-25,10:00,Genoa SRL vs US Cremonese SRL,Simulated Reality League Serie A SRL,45093,Genoa SRL,US Cremonese SRL,1.88,3.3,4.66
 29-10-25,10:00,Inter SRL vs Fiorentina SRL,Simulated Reality League Serie A SRL,45097,Inter SRL,Fiorentina SRL,1.39,4.91,7.82
 29-10-25,10:00,Juventus SRL vs Udinese SRL,Simulated Reality League Serie A SRL,45132,Juventus SRL,Udinese SRL,1.44,4.48,7.48
 29-10-25,10:00,Roma SRL vs Parma SRL,Simulated Reality League Serie A SRL,45089,Roma SRL,Parma SRL,1.53,4.09,6.58
-29-10-25,16:10,AL Jabalain FC vs AL Anwar,Saudi Arabia Division 1,17784,AL Jabalain FC,AL Anwar,1.66,3.50,4.80
-29-10-25,18:00,Al-Raed Club vs AL Jandal,Saudi Arabia Division 1,18501,Al-Raed Club,AL Jandal,1.49,3.90,5.75
-29-10-25,11:00,Genoa CFC vs Cosenza Calcio,Italy Coppa Italia Primavera,41668,Genoa CFC,Cosenza Calcio,1.33,4.70,8.70
-29-10-25,11:00,SS Lazio vs LR Vicenza,Italy Coppa Italia Primavera,29034,SS Lazio,LR Vicenza,1.68,3.90,4.40
-29-10-25,11:00,US Lecce vs US Avellino,Italy Coppa Italia Primavera,35186,US Lecce,US Avellino,1.94,3.50,3.60
-29-10-25,11:00,Virtus Entella vs Palermo FC,Italy Coppa Italia Primavera,35179,Virtus Entella,Palermo FC,1.60,3.90,5.10
-29-10-25,11:30,AC Monza vs Catanzaro Calcio 2011,Italy Coppa Italia Primavera,35211,AC Monza,Catanzaro Calcio 2011,1.37,4.70,7.30
-29-10-25,11:30,Torino FC vs Pescara Calcio,Italy Coppa Italia Primavera,42608,Torino FC,Pescara Calcio,1.63,3.80,4.90
-29-10-25,14:30,Cesena FC vs Modena,Italy Coppa Italia Primavera,35284,Cesena FC,Modena,1.46,4.20,6.50
-29-10-25,15:00,Atalanta BC vs Pro Vercelli 1892,Italy Coppa Italia Primavera,35353,Atalanta BC,Pro Vercelli 1892,1.34,4.40,9.30
-29-10-25,15:00,Empoli FC vs Pisa Calcio,Italy Coppa Italia Primavera,10546,Empoli FC,Pisa Calcio,2.85,3.33,2.30
-29-10-25,18:00,AS Far Rabat vs Hassania Union Sport Agadir,Morocco Botola Pro D1,17257,AS Far Rabat,Hassania Union Sport Agadir,1.41,4.10,8.40
-29-10-25,20:00,Wydad AC vs Raja Casablanca Athletic,Morocco Botola Pro D1,17263,Wydad AC,Raja Casablanca Athletic,2.30,2.80,3.60
-29-10-25,18:15,Lusitania FC Lourosa vs FC Vizela,Portugal Liga Portugal 2,44130,Lusitania FC Lourosa,FC Vizela,3.00,3.10,2.40
-29-10-25,20:15,UD Oliveirense vs FC Porto B,Portugal Liga Portugal 2,37108,UD Oliveirense,FC Porto B,2.90,3.25,2.40
-29-10-25,18:00,FC Admira Wacker Modling vs Sturm Graz,Austria OFB Cup,12718,FC Admira Wacker Modling,Sturm Graz,5.10,4.00,1.58
-29-10-25,19:00,Schwarz-Weiss Bregenz vs SV Ried,Austria OFB Cup,29151,Schwarz-Weiss Bregenz,SV Ried,5.70,4.60,1.45
-29-10-25,19:00,SKU Amstetten vs Wolfsberger AC,Austria OFB Cup,23177,SKU Amstetten,Wolfsberger AC,5.20,4.10,1.55
-29-10-25,20:30,SKN St Polten vs SK Rapid,Austria OFB Cup,23553,SKN St Polten,SK Rapid,4.10,3.80,1.74
-29-10-25,21:00,Shamrock Rovers vs Galway United FC,Ireland Premier Division,14234,Shamrock Rovers,Galway United FC,1.86,3.50,4.00
-29-10-25,12:00,Avia Swidnik vs MKS Flota Swinoujscie,Poland Puchar Polski,34259,Avia Swidnik,MKS Flota Swinoujscie,1.75,3.90,4.00
-29-10-25,13:00,KS Hutnik Krakow SSA vs Wisla Krakow,Poland Puchar Polski,37959,KS Hutnik Krakow SSA,Wisla Krakow,7.60,5.25,1.32
-29-10-25,17:30,Widzew Lodz vs Zaglebie Lubin,Poland Puchar Polski,33557,Widzew Lodz,Zaglebie Lubin,1.97,3.50,3.50
-29-10-25,19:15,Puszcza Niepolomice vs KS Lechia Gdansk,Poland Puchar Polski,40857,Puszcza Niepolomice,KS Lechia Gdansk,3.50,3.33,2.00
-29-10-25,20:30,Rakow Czestochowa vs MKS Cracovia Krakow,Poland Puchar Polski,13539,Rakow Czestochowa,MKS Cracovia Krakow,1.94,3.30,3.80
-29-10-25,13:00,FK Borac Cacak vs Cukaricki,Serbia Serbian Cup,37359,FK Borac Cacak,Cukaricki,4.50,4.00,1.64
-29-10-25,13:00,FK Zemun vs FK Radnicki 1923 Kragujevac,Serbia Serbian Cup,42059,FK Zemun,FK Radnicki 1923 Kragujevac,4.60,3.60,1.71
-29-10-25,13:00,RFK Graficar Beograd vs Backa Topola,Serbia Serbian Cup,42058,RFK Graficar Beograd,Backa Topola,5.00,4.10,1.57
-29-10-25,15:30,FK Trayal Krusevac vs FK Napredak Krusevac,Serbia Serbian Cup,39568,FK Trayal Krusevac,FK Napredak Krusevac,2.90,3.40,2.25
-29-10-25,19:00,CD Independiente Juniors vs San Antonio FC,Ecuador Serie B,31740,CD Independiente Juniors,San Antonio FC,1.86,3.25,3.50
-29-10-25,21:00,Club Leones Del Norte vs Guayaquil City FC,Ecuador Serie B,32051,Club Leones Del Norte,Guayaquil City FC,1.78,3.30,3.80
-29-10-25,20:45,Havant & Waterlooville vs Farnham Town,England Amateur Southern League Premier South,36983,Havant & Waterlooville,Farnham Town,2.05,4.00,2.85
-29-10-25,18:00,KFC Komarno vs Slovan Bratislava,Slovakia Superliga,32136,KFC Komarno,Slovan Bratislava,4.40,4.20,1.65
-29-10-25,18:00,Spartak Trnava vs FK Kosice,Slovakia Superliga,10845,Spartak Trnava,FK Kosice,1.60,4.20,4.80
-29-10-25,11:00,PFC Minyor Pernik vs PFC Cherno More Varna,Bulgaria Bulgarian Cup,30215,PFC Minyor Pernik,PFC Cherno More Varna,17.00,7.40,1.13
-29-10-25,12:30,FC Vitosha Bistrica vs PFK Beroe Stara Zagora,Bulgaria Bulgarian Cup,18397,FC Vitosha Bistrica,PFK Beroe Stara Zagora,18.50,8.50,1.10
-29-10-25,12:30,FK Sevlievo vs PFC CSKA Sofia,Bulgaria Bulgarian Cup,33837,FK Sevlievo,PFC CSKA Sofia,33.00,9.20,1.06
-29-10-25,12:30,Marek Dupnica vs PFC Montana 1921,Bulgaria Bulgarian Cup,21553,Marek Dupnica,PFC Montana 1921,4.25,3.20,1.89
-29-10-25,12:30,PFK Sportist Svoge vs FK Septemvri Sofia,Bulgaria Bulgarian Cup,33703,PFK Sportist Svoge,FK Septemvri Sofia,6.50,4.40,1.43
-29-10-25,12:30,Spartak Plovdiv vs PFC Slavia Sofia,Bulgaria Bulgarian Cup,34627,Spartak Plovdiv,PFC Slavia Sofia,18.00,8.10,1.11
-29-10-25,15:30,FK Hebar Pazardzhik vs PFC Levski Sofia,Bulgaria Bulgarian Cup,22447,FK Hebar Pazardzhik,PFC Levski Sofia,18.00,7.30,1.13
-29-10-25,19:30,CS Barracas vs CDM Leandro N. Alem,Argentina Primera C,15271,CS Barracas,CDM Leandro N. Alem,2.10,2.85,3.33
-29-10-25,00:05,Ituzaingo vs Deportivo Espanol,Argentina Primera C,39202,Ituzaingo,Deportivo Espanol,2.05,2.95,3.30
-29-10-25,20:30,UD Alzira vs UD Castellonense,"Spain Amateur Tercera Federacion, Group 6",36734,UD Alzira,UD Castellonense,2.65,3.10,2.50
-29-10-25,14:00,FK Nove Sady vs Viktoria Plzen,Czechia Czech Cup,32190,FK Nove Sady,Viktoria Plzen,36.00,13.50,1.02
+29-10-25,16:10,AL Jabalain FC vs AL Anwar,Saudi Arabia Division 1,17784,AL Jabalain FC,AL Anwar,1.66,3.5,4.8
+29-10-25,18:00,Al-Raed Club vs AL Jandal,Saudi Arabia Division 1,18501,Al-Raed Club,AL Jandal,1.49,3.9,5.75
+29-10-25,11:00,Genoa CFC vs Cosenza Calcio,Italy Coppa Italia Primavera,41668,Genoa CFC,Cosenza Calcio,1.33,4.7,8.7
+29-10-25,11:00,SS Lazio vs LR Vicenza,Italy Coppa Italia Primavera,29034,SS Lazio,LR Vicenza,1.68,3.9,4.4
+29-10-25,11:00,US Lecce vs US Avellino,Italy Coppa Italia Primavera,35186,US Lecce,US Avellino,1.94,3.5,3.6
+29-10-25,11:00,Virtus Entella vs Palermo FC,Italy Coppa Italia Primavera,35179,Virtus Entella,Palermo FC,1.6,3.9,5.1
+29-10-25,11:30,AC Monza vs Catanzaro Calcio 2011,Italy Coppa Italia Primavera,35211,AC Monza,Catanzaro Calcio 2011,1.37,4.7,7.3
+29-10-25,11:30,Torino FC vs Pescara Calcio,Italy Coppa Italia Primavera,42608,Torino FC,Pescara Calcio,1.63,3.8,4.9
+29-10-25,14:30,Cesena FC vs Modena,Italy Coppa Italia Primavera,35284,Cesena FC,Modena,1.46,4.2,6.5
+29-10-25,15:00,Atalanta BC vs Pro Vercelli 1892,Italy Coppa Italia Primavera,35353,Atalanta BC,Pro Vercelli 1892,1.34,4.4,9.3
+29-10-25,15:00,Empoli FC vs Pisa Calcio,Italy Coppa Italia Primavera,10546,Empoli FC,Pisa Calcio,2.85,3.33,2.3
+29-10-25,18:00,AS Far Rabat vs Hassania Union Sport Agadir,Morocco Botola Pro D1,17257,AS Far Rabat,Hassania Union Sport Agadir,1.41,4.1,8.4
+29-10-25,20:00,Wydad AC vs Raja Casablanca Athletic,Morocco Botola Pro D1,17263,Wydad AC,Raja Casablanca Athletic,2.3,2.8,3.6
+29-10-25,18:15,Lusitania FC Lourosa vs FC Vizela,Portugal Liga Portugal 2,44130,Lusitania FC Lourosa,FC Vizela,3.0,3.1,2.4
+29-10-25,20:15,UD Oliveirense vs FC Porto B,Portugal Liga Portugal 2,37108,UD Oliveirense,FC Porto B,2.9,3.25,2.4
+29-10-25,18:00,FC Admira Wacker Modling vs Sturm Graz,Austria OFB Cup,12718,FC Admira Wacker Modling,Sturm Graz,5.1,4.0,1.58
+29-10-25,19:00,Schwarz-Weiss Bregenz vs SV Ried,Austria OFB Cup,29151,Schwarz-Weiss Bregenz,SV Ried,5.7,4.6,1.45
+29-10-25,19:00,SKU Amstetten vs Wolfsberger AC,Austria OFB Cup,23177,SKU Amstetten,Wolfsberger AC,5.2,4.1,1.55
+29-10-25,20:30,SKN St Polten vs SK Rapid,Austria OFB Cup,23553,SKN St Polten,SK Rapid,4.1,3.8,1.74
+29-10-25,21:00,Shamrock Rovers vs Galway United FC,Ireland Premier Division,14234,Shamrock Rovers,Galway United FC,1.86,3.5,4.0
+29-10-25,12:00,Avia Swidnik vs MKS Flota Swinoujscie,Poland Puchar Polski,34259,Avia Swidnik,MKS Flota Swinoujscie,1.75,3.9,4.0
+29-10-25,13:00,KS Hutnik Krakow SSA vs Wisla Krakow,Poland Puchar Polski,37959,KS Hutnik Krakow SSA,Wisla Krakow,7.6,5.25,1.32
+29-10-25,17:30,Widzew Lodz vs Zaglebie Lubin,Poland Puchar Polski,33557,Widzew Lodz,Zaglebie Lubin,1.97,3.5,3.5
+29-10-25,19:15,Puszcza Niepolomice vs KS Lechia Gdansk,Poland Puchar Polski,40857,Puszcza Niepolomice,KS Lechia Gdansk,3.5,3.33,2.0
+29-10-25,20:30,Rakow Czestochowa vs MKS Cracovia Krakow,Poland Puchar Polski,13539,Rakow Czestochowa,MKS Cracovia Krakow,1.94,3.3,3.8
+29-10-25,13:00,FK Borac Cacak vs Cukaricki,Serbia Serbian Cup,37359,FK Borac Cacak,Cukaricki,4.5,4.0,1.64
+29-10-25,13:00,FK Zemun vs FK Radnicki 1923 Kragujevac,Serbia Serbian Cup,42059,FK Zemun,FK Radnicki 1923 Kragujevac,4.6,3.6,1.71
+29-10-25,13:00,RFK Graficar Beograd vs Backa Topola,Serbia Serbian Cup,42058,RFK Graficar Beograd,Backa Topola,5.0,4.1,1.57
+29-10-25,15:30,FK Trayal Krusevac vs FK Napredak Krusevac,Serbia Serbian Cup,39568,FK Trayal Krusevac,FK Napredak Krusevac,2.9,3.4,2.25
+29-10-25,19:00,CD Independiente Juniors vs San Antonio FC,Ecuador Serie B,31740,CD Independiente Juniors,San Antonio FC,1.86,3.25,3.5
+29-10-25,21:00,Club Leones Del Norte vs Guayaquil City FC,Ecuador Serie B,32051,Club Leones Del Norte,Guayaquil City FC,1.78,3.3,3.8
+29-10-25,20:45,Havant & Waterlooville vs Farnham Town,England Amateur Southern League Premier South,36983,Havant & Waterlooville,Farnham Town,2.05,4.0,2.85
+29-10-25,18:00,KFC Komarno vs Slovan Bratislava,Slovakia Superliga,32136,KFC Komarno,Slovan Bratislava,4.4,4.2,1.65
+29-10-25,18:00,Spartak Trnava vs FK Kosice,Slovakia Superliga,10845,Spartak Trnava,FK Kosice,1.6,4.2,4.8
+29-10-25,11:00,PFC Minyor Pernik vs PFC Cherno More Varna,Bulgaria Bulgarian Cup,30215,PFC Minyor Pernik,PFC Cherno More Varna,17.0,7.4,1.13
+29-10-25,12:30,FC Vitosha Bistrica vs PFK Beroe Stara Zagora,Bulgaria Bulgarian Cup,18397,FC Vitosha Bistrica,PFK Beroe Stara Zagora,18.5,8.5,1.1
+29-10-25,12:30,FK Sevlievo vs PFC CSKA Sofia,Bulgaria Bulgarian Cup,33837,FK Sevlievo,PFC CSKA Sofia,33.0,9.2,1.06
+29-10-25,12:30,Marek Dupnica vs PFC Montana 1921,Bulgaria Bulgarian Cup,21553,Marek Dupnica,PFC Montana 1921,4.25,3.2,1.89
+29-10-25,12:30,PFK Sportist Svoge vs FK Septemvri Sofia,Bulgaria Bulgarian Cup,33703,PFK Sportist Svoge,FK Septemvri Sofia,6.5,4.4,1.43
+29-10-25,12:30,Spartak Plovdiv vs PFC Slavia Sofia,Bulgaria Bulgarian Cup,34627,Spartak Plovdiv,PFC Slavia Sofia,18.0,8.1,1.11
+29-10-25,15:30,FK Hebar Pazardzhik vs PFC Levski Sofia,Bulgaria Bulgarian Cup,22447,FK Hebar Pazardzhik,PFC Levski Sofia,18.0,7.3,1.13
+29-10-25,19:30,CS Barracas vs CDM Leandro N. Alem,Argentina Primera C,15271,CS Barracas,CDM Leandro N. Alem,2.1,2.85,3.33
+29-10-25,00:05,Ituzaingo vs Deportivo Espanol,Argentina Primera C,39202,Ituzaingo,Deportivo Espanol,2.05,2.95,3.3
+29-10-25,20:30,UD Alzira vs UD Castellonense,"Spain Amateur Tercera Federacion, Group 6",36734,UD Alzira,UD Castellonense,2.65,3.1,2.5
+29-10-25,14:00,FK Nove Sady vs Viktoria Plzen,Czechia Czech Cup,32190,FK Nove Sady,Viktoria Plzen,36.0,13.5,1.02
 29-10-25,16:30,FC Zlin vs Slavia Prague,Czechia Czech Cup,44683,FC Zlin,Slavia Prague,6.25,4.25,1.46
-29-10-25,13:00,Legia Warszawa II vs LKS 1926 Lomza,"Poland III Liga, Group 1",34539,Legia Warszawa II,LKS 1926 Lomza,2.10,3.60,2.90
-29-10-25,13:30,Partizan Bardejov BSK vs MFK Zemplin Michalovce,Slovakia Slovensky Pohar,39476,Partizan Bardejov BSK,MFK Zemplin Michalovce,13.50,6.50,1.17
-29-10-25,16:30,MSK Senec vs MSK Zilina,Slovakia Slovensky Pohar,40184,MSK Senec,MSK Zilina,15.50,7.50,1.07
-29-10-25,18:00,Hapoel Hadera FC vs FC Sderot,Israel State Cup,16073,Hapoel Hadera FC,FC Sderot,1.41,4.60,6.50
-29-10-25,19:00,Sport Club Dimona vs Maccabi Petah Tikva FC,Israel State Cup,21581,Sport Club Dimona,Maccabi Petah Tikva FC,5.40,4.10,1.53
-29-10-25,16:00,FC Torpedo Belaz Zhodino vs FC Gomel,Belarus Vysshaya Liga,29559,FC Torpedo Belaz Zhodino,FC Gomel,1.72,3.60,4.70
-29-10-25,18:00,FC Neman Grodno vs FC Dinamo Minsk,Belarus Vysshaya Liga,29563,FC Neman Grodno,FC Dinamo Minsk,3.10,3.10,2.35
-29-10-25,13:30,FK Arsimi 1973 vs FK Rabotnicki Skopje,North Macedonia 1. MFL,10728,FK Arsimi 1973,FK Rabotnicki Skopje,1.88,3.50,3.60
-29-10-25,13:30,FK Makedonija Gjorce Petrov vs Bashkimi Kumanovo,North Macedonia 1. MFL,26397,FK Makedonija Gjorce Petrov,Bashkimi Kumanovo,1.98,3.25,3.50
-29-10-25,13:00,NK Rudes Zagreb vs HNK Gorica,Croatia Croatian Cup,33363,NK Rudes Zagreb,HNK Gorica,3.60,3.40,1.95
-29-10-25,14:00,NK BSK Bijelo Brdo vs NK Slaven Belupo,Croatia Croatian Cup,33853,NK BSK Bijelo Brdo,NK Slaven Belupo,4.90,3.75,1.64
-29-10-25,15:30,HNK Cibalia Vinkovci vs HNK Hajduk Split,Croatia Croatian Cup,25201,HNK Cibalia Vinkovci,HNK Hajduk Split,8.70,5.20,1.29
-29-10-25,17:00,NK Lokomotiva Zagreb vs NK Varteks,Croatia Croatian Cup,34074,NK Lokomotiva Zagreb,NK Varteks,1.09,8.40,21.00
-29-10-25,18:00,M E A P Nisou vs Apollon Limassol,Cyprus Cyprus Cup,28353,M E A P Nisou,Apollon Limassol,11.00,6.30,1.20
-29-10-25,18:00,AD Sarchi vs Pfa Antioquia FC,"Costa Rica Liga de Ascenso, Apertura",36906,AD Sarchi,Pfa Antioquia FC,1.97,3.50,3.50
-29-10-25,14:00,FK Frydek-Mistek vs SK Sigma Olomouc B,Czechia MSFL,43686,FK Frydek-Mistek,SK Sigma Olomouc B,2.95,3.90,2.00
-29-10-25,19:00,CA Aldosivi Reserve vs Colon de Santa Fe Reserve,"Argentina Primera LPF, Reserves",34997,CA Aldosivi Reserve,Colon de Santa Fe Reserve,2.05,3.10,3.10
-29-10-25,19:00,CA Belgrano vs CA Union Santa Fe Reserve,"Argentina Primera LPF, Reserves",41754,CA Belgrano,CA Union Santa Fe Reserve,1.31,4.50,6.90
-29-10-25,19:00,CD Godoy Cruz vs Deportivo Riestra Afbc Reserve,"Argentina Primera LPF, Reserves",41772,CD Godoy Cruz,Deportivo Riestra Afbc Reserve,1.73,3.40,3.90
-29-10-25,19:00,Independiente Reserve vs Rosario Central Reserve,"Argentina Primera LPF, Reserves",41776,Independiente Reserve,Rosario Central Reserve,2.80,3.30,2.15
-29-10-25,19:00,Velez Sarsfield Reserve vs CA River Plate (Arg),"Argentina Primera LPF, Reserves",33072,Velez Sarsfield Reserve,CA River Plate (Arg),2.60,3.20,2.35
-29-10-25,23:00,CA Central Cordoba SE Reserve vs CA Banfield,"Argentina Primera LPF, Reserves",33298,CA Central Cordoba SE Reserve,CA Banfield,2.55,3.10,2.40
-29-10-25,15:30,Al-Sailiya SC vs AL Bidda SC,Qatar QSL Cup,23131,Al-Sailiya SC,AL Bidda SC,2.15,3.60,2.80
-29-10-25,17:30,AL Markhiya vs Al-Khor SC,Qatar QSL Cup,36160,AL Markhiya,Al-Khor SC,2.40,3.60,2.45
-29-10-25,17:30,Umm-Salal SC vs Muaither SC,Qatar QSL Cup,33360,Umm-Salal SC,Muaither SC,1.70,3.90,3.90
-29-10-25,14:00,ND Beltinci vs NK Radomlje,Slovenia Slovenia Cup,32551,ND Beltinci,NK Radomlje,3.80,3.80,1.79
-29-10-25,16:00,NK Sencur vs Olimpija Ljubljana,Slovenia Slovenia Cup,40784,NK Sencur,Olimpija Ljubljana,21.00,11.00,1.06
-29-10-25,17:00,Tabor Sezana vs Primorje Ajdovscina,Slovenia Slovenia Cup,16092,Tabor Sezana,Primorje Ajdovscina,3.75,4.00,1.77
-29-10-25,20:00,NK Brinje Grosuplje vs NK Maribor,Slovenia Slovenia Cup,16257,NK Brinje Grosuplje,NK Maribor,5.25,4.20,1.54
-29-10-25,13:00,FK Romanija Pale vs HSK Zrinjski Mostar,Bosnia & Herzegovina Kup BiH,40951,FK Romanija Pale,HSK Zrinjski Mostar,19.50,7.90,1.11
-29-10-25,14:00,HNK Grude vs FK Sloga Doboj,Bosnia & Herzegovina Kup BiH,21877,HNK Grude,FK Sloga Doboj,19.00,7.70,1.11
-29-10-25,18:00,NK Celik Zenica vs HSK Posusje,Bosnia & Herzegovina Kup BiH,24875,NK Celik Zenica,HSK Posusje,2.65,3.30,2.50
-29-10-25,20:15,FK Sloboda Tuzla vs FK Zeljeznicar Sarajevo,Bosnia & Herzegovina Kup BiH,29214,FK Sloboda Tuzla,FK Zeljeznicar Sarajevo,8.50,5.10,1.31
-29-10-25,22:15,CD Aguila San Miguel vs CD Fuerte San Francisco Morazan,"El Salvador Primera Division, Apertura",23099,CD Aguila San Miguel,CD Fuerte San Francisco Morazan,1.35,4.50,7.25
-29-10-25,13:00,KF Drenica Skenderaj vs KF Drita,Kosovo Superliga,23573,KF Drenica Skenderaj,KF Drita,3.40,3.50,1.94
-29-10-25,13:00,KF Llapi vs FC Prishtina,Kosovo Superliga,24887,KF Llapi,FC Prishtina,3.40,3.40,1.94
-29-10-25,20:00,La Luz FC Reserves vs Montevideo Wanderers,"Uruguay Tercera Division, Reserves",45185,La Luz FC Reserves,Montevideo Wanderers,2.60,3.25,2.45
-29-10-25,12:30,Debreceni Eac vs Bvsc-Zuglo,Hungary Magyar Kupa,34727,Debreceni Eac,Bvsc-Zuglo,4.10,3.80,1.75
-29-10-25,12:30,Kelen SC vs Kazincbarcikai SC,Hungary Magyar Kupa,35117,Kelen SC,Kazincbarcikai SC,18.00,12.00,1.06
-29-10-25,12:30,Martfui Lse vs Paksi FC,Hungary Magyar Kupa,27468,Martfui Lse,Paksi FC,24.00,14.00,1.03
-29-10-25,17:00,FC Ajka vs Tiszakecskei LC,Hungary Magyar Kupa,40333,FC Ajka,Tiszakecskei LC,2.90,3.50,2.20
-29-10-25,17:00,Kecskemeti TE vs Tiszafured Vse,Hungary Magyar Kupa,40330,Kecskemeti TE,Tiszafured Vse,1.19,6.40,11.50
-29-10-25,17:15,Vasas FC vs Mezoors Kse,Hungary Magyar Kupa,44496,Vasas FC,Mezoors Kse,1.17,7.20,11.50
-29-10-25,17:30,Kozarmisleny SE vs Esmtk Budapest,Hungary Magyar Kupa,40334,Kozarmisleny SE,Esmtk Budapest,1.63,4.20,4.40
+29-10-25,13:00,Legia Warszawa II vs LKS 1926 Lomza,"Poland III Liga, Group 1",34539,Legia Warszawa II,LKS 1926 Lomza,2.1,3.6,2.9
+29-10-25,13:30,Partizan Bardejov BSK vs MFK Zemplin Michalovce,Slovakia Slovensky Pohar,39476,Partizan Bardejov BSK,MFK Zemplin Michalovce,13.5,6.5,1.17
+29-10-25,16:30,MSK Senec vs MSK Zilina,Slovakia Slovensky Pohar,40184,MSK Senec,MSK Zilina,15.5,7.5,1.07
+29-10-25,18:00,Hapoel Hadera FC vs FC Sderot,Israel State Cup,16073,Hapoel Hadera FC,FC Sderot,1.41,4.6,6.5
+29-10-25,19:00,Sport Club Dimona vs Maccabi Petah Tikva FC,Israel State Cup,21581,Sport Club Dimona,Maccabi Petah Tikva FC,5.4,4.1,1.53
+29-10-25,16:00,FC Torpedo Belaz Zhodino vs FC Gomel,Belarus Vysshaya Liga,29559,FC Torpedo Belaz Zhodino,FC Gomel,1.72,3.6,4.7
+29-10-25,18:00,FC Neman Grodno vs FC Dinamo Minsk,Belarus Vysshaya Liga,29563,FC Neman Grodno,FC Dinamo Minsk,3.1,3.1,2.35
+29-10-25,13:30,FK Arsimi 1973 vs FK Rabotnicki Skopje,North Macedonia 1. MFL,10728,FK Arsimi 1973,FK Rabotnicki Skopje,1.88,3.5,3.6
+29-10-25,13:30,FK Makedonija Gjorce Petrov vs Bashkimi Kumanovo,North Macedonia 1. MFL,26397,FK Makedonija Gjorce Petrov,Bashkimi Kumanovo,1.98,3.25,3.5
+29-10-25,13:00,NK Rudes Zagreb vs HNK Gorica,Croatia Croatian Cup,33363,NK Rudes Zagreb,HNK Gorica,3.6,3.4,1.95
+29-10-25,14:00,NK BSK Bijelo Brdo vs NK Slaven Belupo,Croatia Croatian Cup,33853,NK BSK Bijelo Brdo,NK Slaven Belupo,4.9,3.75,1.64
+29-10-25,15:30,HNK Cibalia Vinkovci vs HNK Hajduk Split,Croatia Croatian Cup,25201,HNK Cibalia Vinkovci,HNK Hajduk Split,8.7,5.2,1.29
+29-10-25,17:00,NK Lokomotiva Zagreb vs NK Varteks,Croatia Croatian Cup,34074,NK Lokomotiva Zagreb,NK Varteks,1.09,8.4,21.0
+29-10-25,18:00,M E A P Nisou vs Apollon Limassol,Cyprus Cyprus Cup,28353,M E A P Nisou,Apollon Limassol,11.0,6.3,1.2
+29-10-25,18:00,AD Sarchi vs Pfa Antioquia FC,"Costa Rica Liga de Ascenso, Apertura",36906,AD Sarchi,Pfa Antioquia FC,1.97,3.5,3.5
+29-10-25,14:00,FK Frydek-Mistek vs SK Sigma Olomouc B,Czechia MSFL,43686,FK Frydek-Mistek,SK Sigma Olomouc B,2.95,3.9,2.0
+29-10-25,19:00,CA Aldosivi Reserve vs Colon de Santa Fe Reserve,"Argentina Primera LPF, Reserves",34997,CA Aldosivi Reserve,Colon de Santa Fe Reserve,2.05,3.1,3.1
+29-10-25,19:00,CA Belgrano vs CA Union Santa Fe Reserve,"Argentina Primera LPF, Reserves",41754,CA Belgrano,CA Union Santa Fe Reserve,1.31,4.5,6.9
+29-10-25,19:00,CD Godoy Cruz vs Deportivo Riestra Afbc Reserve,"Argentina Primera LPF, Reserves",41772,CD Godoy Cruz,Deportivo Riestra Afbc Reserve,1.73,3.4,3.9
+29-10-25,19:00,Independiente Reserve vs Rosario Central Reserve,"Argentina Primera LPF, Reserves",41776,Independiente Reserve,Rosario Central Reserve,2.8,3.3,2.15
+29-10-25,19:00,Velez Sarsfield Reserve vs CA River Plate (Arg),"Argentina Primera LPF, Reserves",33072,Velez Sarsfield Reserve,CA River Plate (Arg),2.6,3.2,2.35
+29-10-25,23:00,CA Central Cordoba SE Reserve vs CA Banfield,"Argentina Primera LPF, Reserves",33298,CA Central Cordoba SE Reserve,CA Banfield,2.55,3.1,2.4
+29-10-25,15:30,Al-Sailiya SC vs AL Bidda SC,Qatar QSL Cup,23131,Al-Sailiya SC,AL Bidda SC,2.15,3.6,2.8
+29-10-25,17:30,AL Markhiya vs Al-Khor SC,Qatar QSL Cup,36160,AL Markhiya,Al-Khor SC,2.4,3.6,2.45
+29-10-25,17:30,Umm-Salal SC vs Muaither SC,Qatar QSL Cup,33360,Umm-Salal SC,Muaither SC,1.7,3.9,3.9
+29-10-25,14:00,ND Beltinci vs NK Radomlje,Slovenia Slovenia Cup,32551,ND Beltinci,NK Radomlje,3.8,3.8,1.79
+29-10-25,16:00,NK Sencur vs Olimpija Ljubljana,Slovenia Slovenia Cup,40784,NK Sencur,Olimpija Ljubljana,21.0,11.0,1.06
+29-10-25,17:00,Tabor Sezana vs Primorje Ajdovscina,Slovenia Slovenia Cup,16092,Tabor Sezana,Primorje Ajdovscina,3.75,4.0,1.77
+29-10-25,20:00,NK Brinje Grosuplje vs NK Maribor,Slovenia Slovenia Cup,16257,NK Brinje Grosuplje,NK Maribor,5.25,4.2,1.54
+29-10-25,13:00,FK Romanija Pale vs HSK Zrinjski Mostar,Bosnia & Herzegovina Kup BiH,40951,FK Romanija Pale,HSK Zrinjski Mostar,19.5,7.9,1.11
+29-10-25,14:00,HNK Grude vs FK Sloga Doboj,Bosnia & Herzegovina Kup BiH,21877,HNK Grude,FK Sloga Doboj,19.0,7.7,1.11
+29-10-25,18:00,NK Celik Zenica vs HSK Posusje,Bosnia & Herzegovina Kup BiH,24875,NK Celik Zenica,HSK Posusje,2.65,3.3,2.5
+29-10-25,20:15,FK Sloboda Tuzla vs FK Zeljeznicar Sarajevo,Bosnia & Herzegovina Kup BiH,29214,FK Sloboda Tuzla,FK Zeljeznicar Sarajevo,8.5,5.1,1.31
+29-10-25,22:15,CD Aguila San Miguel vs CD Fuerte San Francisco Morazan,"El Salvador Primera Division, Apertura",23099,CD Aguila San Miguel,CD Fuerte San Francisco Morazan,1.35,4.5,7.25
+29-10-25,13:00,KF Drenica Skenderaj vs KF Drita,Kosovo Superliga,23573,KF Drenica Skenderaj,KF Drita,3.4,3.5,1.94
+29-10-25,13:00,KF Llapi vs FC Prishtina,Kosovo Superliga,24887,KF Llapi,FC Prishtina,3.4,3.4,1.94
+29-10-25,20:00,La Luz FC Reserves vs Montevideo Wanderers,"Uruguay Tercera Division, Reserves",45185,La Luz FC Reserves,Montevideo Wanderers,2.6,3.25,2.45
+29-10-25,12:30,Debreceni Eac vs Bvsc-Zuglo,Hungary Magyar Kupa,34727,Debreceni Eac,Bvsc-Zuglo,4.1,3.8,1.75
+29-10-25,12:30,Kelen SC vs Kazincbarcikai SC,Hungary Magyar Kupa,35117,Kelen SC,Kazincbarcikai SC,18.0,12.0,1.06
+29-10-25,12:30,Martfui Lse vs Paksi FC,Hungary Magyar Kupa,27468,Martfui Lse,Paksi FC,24.0,14.0,1.03
+29-10-25,17:00,FC Ajka vs Tiszakecskei LC,Hungary Magyar Kupa,40333,FC Ajka,Tiszakecskei LC,2.9,3.5,2.2
+29-10-25,17:00,Kecskemeti TE vs Tiszafured Vse,Hungary Magyar Kupa,40330,Kecskemeti TE,Tiszafured Vse,1.19,6.4,11.5
+29-10-25,17:15,Vasas FC vs Mezoors Kse,Hungary Magyar Kupa,44496,Vasas FC,Mezoors Kse,1.17,7.2,11.5
+29-10-25,17:30,Kozarmisleny SE vs Esmtk Budapest,Hungary Magyar Kupa,40334,Kozarmisleny SE,Esmtk Budapest,1.63,4.2,4.4
 29-10-25,18:00,WKW ETO FC Gyor vs Pilisi Lk-Legea,Hungary Magyar Kupa,44502,WKW ETO FC Gyor,Pilisi Lk-Legea,,,
-29-10-25,20:00,Ferencvarosi Budapest vs Bekescsaba 1912 Elore,Hungary Magyar Kupa,40337,Ferencvarosi Budapest,Bekescsaba 1912 Elore,1.09,9.40,18.50
-29-10-25,20:00,MTK Budapest vs Mezokovesd Zsory SE,Hungary Magyar Kupa,40336,MTK Budapest,Mezokovesd Zsory SE,1.38,5.00,6.40
+29-10-25,20:00,Ferencvarosi Budapest vs Bekescsaba 1912 Elore,Hungary Magyar Kupa,40337,Ferencvarosi Budapest,Bekescsaba 1912 Elore,1.09,9.4,18.5
+29-10-25,20:00,MTK Budapest vs Mezokovesd Zsory SE,Hungary Magyar Kupa,40336,MTK Budapest,Mezokovesd Zsory SE,1.38,5.0,6.4
 29-10-25,16:00,JS Saoura vs JS Kabylie,Algeria Ligue 1,28369,JS Saoura,JS Kabylie,2.25,2.95,3.33
-29-10-25,17:00,ASO Chlef vs CR Belouizdad,Algeria Ligue 1,17776,ASO Chlef,CR Belouizdad,3.33,2.85,2.30
-29-10-25,18:00,ES Setif vs USM Alger,Algeria Ligue 1,28785,ES Setif,USM Alger,2.30,3.00,3.25
-29-10-25,12:00,Aps Bomet FC vs Kakamega Homeboyz,Kenya Premier League,45594,Aps Bomet FC,Kakamega Homeboyz,4.70,3.40,1.75
-29-10-25,14:00,Ulinzi Stars FC vs Bidco United,Kenya Premier League,23407,Ulinzi Stars FC,Bidco United,2.30,3.10,3.10
-29-10-25,14:00,Uganda Police FC vs Maroons FC,Uganda Premier League,45730,Uganda Police FC,Maroons FC,2.15,3.10,3.20
-29-10-25,17:00,URA FC vs Updf FC,Uganda Premier League,45751,URA FC,Updf FC,1.48,3.75,6.40
-29-10-25,14:30,Black Leopards vs Midlands Wanderers FC,South Africa Championship,41090,Black Leopards,Midlands Wanderers FC,1.67,3.40,4.70
-29-10-25,14:30,Casric Stars FC vs Venda Football Academy,South Africa Championship,41093,Casric Stars FC,Venda Football Academy,1.85,3.10,4.25
-29-10-25,14:30,Hungry Lion vs Highbury FC,South Africa Championship,13828,Hungry Lion,Highbury FC,2.35,2.80,3.10
-29-10-25,14:30,Milford FC vs Kruger United,South Africa Championship,31075,Milford FC,Kruger United,1.83,3.20,4.20
-29-10-25,18:00,Marumo Gallants FC vs Stellenbosch FC,South Africa Knockout Cup,42027,Marumo Gallants FC,Stellenbosch FC,3.70,2.50,2.45
-29-10-25,14:00,Nchanga Rangers vs Power Dynamos,Zambia Super League,31789,Nchanga Rangers,Power Dynamos,3.80,2.50,2.40
-29-10-25,13:00,Hawassa Kenema SC vs Wolaita Dicha SC,Ethiopia Premier League,43994,Hawassa Kenema SC,Wolaita Dicha SC,2.40,2.90,3.00
-29-10-25,14:00,Fasil Kenema SC vs Sidama Bunna SC,Ethiopia Premier League,12664,Fasil Kenema SC,Sidama Bunna SC,3.25,2.95,2.20
-29-10-25,14:00,Negelle Arsi vs Saint George SC,Ethiopia Premier League,44131,Negelle Arsi,Saint George SC,3.33,2.80,2.25
-29-10-25,14:00,Al Nahda vs Sur SC,Oman Omani League,26707,Al Nahda,Sur SC,1.33,3.60,14.50
-29-10-25,08:00,Eastern District vs Kowloon City,"Hong Kong, China Premier League",38601,Eastern District,Kowloon City,3.20,3.90,1.96
-29-10-25,19:00,Hannover 96 II vs 1. FC Phonix Lubeck,Germany Amateur Regionalliga North,39639,Hannover 96 II,1. FC Phonix Lubeck,2.15,3.75,2.70
-29-10-25,18:15,Hibernians FC Paola vs Sliema Wanderers,Malta Premier League,37648,Hibernians FC Paola,Sliema Wanderers,3.70,3.25,1.91
-29-10-25,18:45,Floriana FC vs Hamrun Spartans FC,Malta Premier League,45274,Floriana FC,Hamrun Spartans FC,3.20,3.10,2.15
-29-10-25,21:00,Marsaxlokk FC vs Zabbar Saint Patrick FC,Malta Premier League,25290,Marsaxlokk FC,Zabbar Saint Patrick FC,1.95,3.20,3.60
-29-10-25,21:00,Mosta FC vs Naxxar Lions FC,Malta Premier League,39237,Mosta FC,Naxxar Lions FC,2.85,3.10,2.35
-29-10-25,11:00,Simal vs Shahdagh-Samur Gusar,Azerbaijan Azerbaijan Cup,17657,Simal,Shahdagh-Samur Gusar,4.00,3.60,1.73
-29-10-25,11:00,Zaqatala FK vs Sumgayit FK,Azerbaijan Azerbaijan Cup,13926,Zaqatala FK,Sumgayit FK,8.50,5.00,1.28
-29-10-25,13:00,Gabala FK vs Energetik Mingechevir,Azerbaijan Azerbaijan Cup,40983,Gabala FK,Energetik Mingechevir,1.25,5.30,8.90
-29-10-25,13:00,Sabail FK vs Shamakhi FK,Azerbaijan Azerbaijan Cup,29874,Sabail FK,Shamakhi FK,2.75,3.00,2.45
-29-10-25,16:00,Neftchi Baku PFC vs Moik Baku,Azerbaijan Azerbaijan Cup,33764,Neftchi Baku PFC,Moik Baku,1.02,11.00,34.00
-29-10-25,17:00,Flamurtari Vlore vs Vllaznia Shkoder,Albania Kategoria Superiore,21401,Flamurtari Vlore,Vllaznia Shkoder,4.00,3.50,1.83
-29-10-25,19:30,FC Dinamo City vs Partizani Tirana,Albania Kategoria Superiore,20544,FC Dinamo City,Partizani Tirana,1.93,3.30,3.90
-29-10-25,14:00,Af Luftetari vs KF Laci,Albania Kategoria e Pare,30842,Af Luftetari,KF Laci,6.30,3.25,1.58
-29-10-25,14:00,Besa Kavaje vs FK Kukesi,Albania Kategoria e Pare,33234,Besa Kavaje,FK Kukesi,1.44,3.40,8.80
-29-10-25,14:00,Kastrioti Kruje vs Skenderbeu Korce,Albania Kategoria e Pare,34325,Kastrioti Kruje,Skenderbeu Korce,9.00,4.00,1.35
-29-10-25,08:00,Khovd FC vs Hunters FC,Mongolia Premier League,13197,Khovd FC,Hunters FC,2.70,3.90,2.10
-29-10-25,06:30,United Stars FC vs Parikrma FC,India Bangalore Super Division,36854,United Stars FC,Parikrma FC,1.79,3.60,3.80
+29-10-25,17:00,ASO Chlef vs CR Belouizdad,Algeria Ligue 1,17776,ASO Chlef,CR Belouizdad,3.33,2.85,2.3
+29-10-25,18:00,ES Setif vs USM Alger,Algeria Ligue 1,28785,ES Setif,USM Alger,2.3,3.0,3.25
+29-10-25,12:00,Aps Bomet FC vs Kakamega Homeboyz,Kenya Premier League,45594,Aps Bomet FC,Kakamega Homeboyz,4.7,3.4,1.75
+29-10-25,14:00,Ulinzi Stars FC vs Bidco United,Kenya Premier League,23407,Ulinzi Stars FC,Bidco United,2.3,3.1,3.1
+29-10-25,14:00,Uganda Police FC vs Maroons FC,Uganda Premier League,45730,Uganda Police FC,Maroons FC,2.15,3.1,3.2
+29-10-25,17:00,URA FC vs Updf FC,Uganda Premier League,45751,URA FC,Updf FC,1.48,3.75,6.4
+29-10-25,14:30,Black Leopards vs Midlands Wanderers FC,South Africa Championship,41090,Black Leopards,Midlands Wanderers FC,1.67,3.4,4.7
+29-10-25,14:30,Casric Stars FC vs Venda Football Academy,South Africa Championship,41093,Casric Stars FC,Venda Football Academy,1.85,3.1,4.25
+29-10-25,14:30,Hungry Lion vs Highbury FC,South Africa Championship,13828,Hungry Lion,Highbury FC,2.35,2.8,3.1
+29-10-25,14:30,Milford FC vs Kruger United,South Africa Championship,31075,Milford FC,Kruger United,1.83,3.2,4.2
+29-10-25,18:00,Marumo Gallants FC vs Stellenbosch FC,South Africa Knockout Cup,42027,Marumo Gallants FC,Stellenbosch FC,3.7,2.5,2.45
+29-10-25,14:00,Nchanga Rangers vs Power Dynamos,Zambia Super League,31789,Nchanga Rangers,Power Dynamos,3.8,2.5,2.4
+29-10-25,13:00,Hawassa Kenema SC vs Wolaita Dicha SC,Ethiopia Premier League,43994,Hawassa Kenema SC,Wolaita Dicha SC,2.4,2.9,3.0
+29-10-25,14:00,Fasil Kenema SC vs Sidama Bunna SC,Ethiopia Premier League,12664,Fasil Kenema SC,Sidama Bunna SC,3.25,2.95,2.2
+29-10-25,14:00,Negelle Arsi vs Saint George SC,Ethiopia Premier League,44131,Negelle Arsi,Saint George SC,3.33,2.8,2.25
+29-10-25,14:00,Al Nahda vs Sur SC,Oman Omani League,26707,Al Nahda,Sur SC,1.33,3.6,14.5
+29-10-25,08:00,Eastern District vs Kowloon City,"Hong Kong, China Premier League",38601,Eastern District,Kowloon City,3.2,3.9,1.96
+29-10-25,19:00,Hannover 96 II vs 1. FC Phonix Lubeck,Germany Amateur Regionalliga North,39639,Hannover 96 II,1. FC Phonix Lubeck,2.15,3.75,2.7
+29-10-25,18:15,Hibernians FC Paola vs Sliema Wanderers,Malta Premier League,37648,Hibernians FC Paola,Sliema Wanderers,3.7,3.25,1.91
+29-10-25,18:45,Floriana FC vs Hamrun Spartans FC,Malta Premier League,45274,Floriana FC,Hamrun Spartans FC,3.2,3.1,2.15
+29-10-25,21:00,Marsaxlokk FC vs Zabbar Saint Patrick FC,Malta Premier League,25290,Marsaxlokk FC,Zabbar Saint Patrick FC,1.95,3.2,3.6
+29-10-25,21:00,Mosta FC vs Naxxar Lions FC,Malta Premier League,39237,Mosta FC,Naxxar Lions FC,2.85,3.1,2.35
+29-10-25,11:00,Simal vs Shahdagh-Samur Gusar,Azerbaijan Azerbaijan Cup,17657,Simal,Shahdagh-Samur Gusar,4.0,3.6,1.73
+29-10-25,11:00,Zaqatala FK vs Sumgayit FK,Azerbaijan Azerbaijan Cup,13926,Zaqatala FK,Sumgayit FK,8.5,5.0,1.28
+29-10-25,13:00,Gabala FK vs Energetik Mingechevir,Azerbaijan Azerbaijan Cup,40983,Gabala FK,Energetik Mingechevir,1.25,5.3,8.9
+29-10-25,13:00,Sabail FK vs Shamakhi FK,Azerbaijan Azerbaijan Cup,29874,Sabail FK,Shamakhi FK,2.75,3.0,2.45
+29-10-25,16:00,Neftchi Baku PFC vs Moik Baku,Azerbaijan Azerbaijan Cup,33764,Neftchi Baku PFC,Moik Baku,1.02,11.0,34.0
+29-10-25,17:00,Flamurtari Vlore vs Vllaznia Shkoder,Albania Kategoria Superiore,21401,Flamurtari Vlore,Vllaznia Shkoder,4.0,3.5,1.83
+29-10-25,19:30,FC Dinamo City vs Partizani Tirana,Albania Kategoria Superiore,20544,FC Dinamo City,Partizani Tirana,1.93,3.3,3.9
+29-10-25,14:00,Af Luftetari vs KF Laci,Albania Kategoria e Pare,30842,Af Luftetari,KF Laci,6.3,3.25,1.58
+29-10-25,14:00,Besa Kavaje vs FK Kukesi,Albania Kategoria e Pare,33234,Besa Kavaje,FK Kukesi,1.44,3.4,8.8
+29-10-25,14:00,Kastrioti Kruje vs Skenderbeu Korce,Albania Kategoria e Pare,34325,Kastrioti Kruje,Skenderbeu Korce,9.0,4.0,1.35
+29-10-25,08:00,Khovd FC vs Hunters FC,Mongolia Premier League,13197,Khovd FC,Hunters FC,2.7,3.9,2.1
+29-10-25,06:30,United Stars FC vs Parikrma FC,India Bangalore Super Division,36854,United Stars FC,Parikrma FC,1.79,3.6,3.8
 29-10-25,09:00,Bangalore Dream United vs FC Agniputhra,India Bangalore Super Division,20280,Bangalore Dream United,FC Agniputhra,,,
-29-10-25,16:00,AL Shorta SC vs AL Karma,Iraq Stars League,33663,AL Shorta SC,AL Karma,1.82,3.40,3.90
-29-10-25,18:30,Newroz SC vs Erbil SC,Iraq Stars League,33713,Newroz SC,Erbil SC,3.40,3.10,2.05
-29-10-25,14:30,Pakhtakor vs FK Buxoro,Uzbekistan Cup,44076,Pakhtakor,FK Buxoro,1.29,4.50,9.60
-29-10-25,13:30,Kamuzu Barracks FC vs Mzuzu City Hammers,Malawi Super League,23861,Kamuzu Barracks FC,Mzuzu City Hammers,1.51,4.10,5.20
-29-10-25,11:00,Atletic Club d'Escaldes vs CE Carroi,Andorra Primera Divisio,26286,Atletic Club d'Escaldes,CE Carroi,1.03,11.00,29.00
-29-10-25,14:30,Inter Club de Escaldes vs FC Rangers,Andorra Primera Divisio,17389,Inter Club de Escaldes,FC Rangers,2.05,3.40,3.20
-29-10-25,11:00,Estoril Praia U23 vs Santa Clara U23,Portugal U23 Liga Revelacao,48632,Estoril Praia U23,Santa Clara U23,2.45,3.30,2.40
-29-10-25,16:00,Torreense U23 vs Portimonense,Portugal U23 Liga Revelacao,27341,Torreense U23,Portimonense,1.35,4.10,6.90
-29-10-25,19:00,America FC MG vs CR Vasco da Gama RJ,Brazil U20 Copa do Brasil,45245,America FC MG,CR Vasco da Gama RJ,2.25,3.20,2.90
-29-10-25,19:00,CR Brasil AL vs SC Recife PE,Brazil U20 Copa do Brasil,45244,CR Brasil AL,SC Recife PE,2.95,3.60,2.05
-29-10-25,19:00,Fortaleza EC CE vs EC Bahia BA,Brazil U20 Copa do Brasil,45241,Fortaleza EC CE,EC Bahia BA,2.05,3.25,3.30
-29-10-25,21:00,Gremio Novorizontino vs Operario Ferroviario EC PR,Brazil U20 Copa do Brasil,45253,Gremio Novorizontino,Operario Ferroviario EC PR,1.96,3.40,3.40
-29-10-25,21:30,Atletico Mineiro MG vs CR Flamengo RJ,Brazil U20 Copa do Brasil,36493,Atletico Mineiro MG,CR Flamengo RJ,2.40,3.50,2.50
-29-10-25,13:00,FC Dac 1904 Dunajska Streda vs Ruzomberok,Slovakia U19 1. Liga,39390,FC Dac 1904 Dunajska Streda,Ruzomberok,2.30,3.60,2.55
-29-10-25,13:00,FC Petrzalka U19 vs MSK Zilina,Slovakia U19 1. Liga,39338,FC Petrzalka U19,MSK Zilina,3.50,4.10,1.75
-29-10-25,13:00,FK Pohronie Ziar Nad Hronom Dolna Zdana U19 vs Tatran Presov,Slovakia U19 1. Liga,43669,FK Pohronie Ziar Nad Hronom Dolna Zdana U19,Tatran Presov,6.50,5.10,1.33
-29-10-25,13:00,MFk Dukla Banska Bystrica vs FC Kosice,Slovakia U19 1. Liga,39379,MFk Dukla Banska Bystrica,FC Kosice,2.30,3.75,2.55
-29-10-25,13:00,Zemplin Michalovce vs Trencin,Slovakia U19 1. Liga,40967,Zemplin Michalovce,Trencin,3.10,4.40,1.81
-29-10-25,13:00,ZP Sport Podbrezova vs Spartak Trnava,Slovakia U19 1. Liga,43685,ZP Sport Podbrezova,Spartak Trnava,3.10,3.60,2.00
-29-10-25,14:30,Milan Futuro vs ASD Varesina Calcio,Italy Coppa Italia Serie D,27426,Milan Futuro,ASD Varesina Calcio,1.66,3.50,4.60
-29-10-25,20:00,Ferroviaria SP vs AE Realidade Jovem SP,"Brazil Paulista, Women",27675,Ferroviaria SP,AE Realidade Jovem SP,1.01,9.60,25.00
-29-10-25,09:00,Phnom Penh Crown FC vs Shan United,International Clubs AFC Challenge League,32125,Phnom Penh Crown FC,Shan United,1.31,5.00,7.25
-29-10-25,10:00,SP Falcons FC vs Manila Digger FC,International Clubs AFC Challenge League,37349,SP Falcons FC,Manila Digger FC,2.75,3.50,2.25
-29-10-25,13:00,Ezra FC vs Preah Khan Reach Svay Rieng FC,International Clubs AFC Challenge League,41337,Ezra FC,Preah Khan Reach Svay Rieng FC,6.30,4.80,1.37
-29-10-25,00:45,CD Plaza Amador Panama City vs AF Sporting San Miguelito,International Clubs CONCACAF Central American Cup,36988,CD Plaza Amador Panama City,AF Sporting San Miguelito,1.77,3.60,4.20
-29-10-25,20:00,Cdt Real Oruro vs FC Universitario de Vinto,Bolivia Copa Bolivia,15835,Cdt Real Oruro,FC Universitario de Vinto,2.15,3.50,2.85
-29-10-25,22:30,CA Nacional Potosi vs Academia del Balompie Boliviano,Bolivia Copa Bolivia,16389,CA Nacional Potosi,Academia del Balompie Boliviano,1.68,3.60,4.40
-29-10-25,00:30,CA Penarol Montevideo vs Plaza Colonia,Uruguay Copa Uruguay,21732,CA Penarol Montevideo,Plaza Colonia,1.37,4.30,9.10
-29-10-25,13:30,El Zohour Matrouh vs Alexandria Petroleum,Egypt Egypt Second Division B,45657,El Zohour Matrouh,Alexandria Petroleum,5.20,4.25,1.49
-29-10-25,07:00,Eastern Suburbs Auckland AFC vs Auckland United FC,"New Zealand National League, Women",20128,Eastern Suburbs Auckland AFC,Auckland United FC,3.90,4.20,1.64
-29-10-25,19:30,Alecrim RN vs Baraunas RN,"Brazil Potiguar, 2. Divisao",34406,Alecrim RN,Baraunas RN,2.30,3.25,2.85
-29-10-25,12:30,Hougang United FC II vs BG Tampines Rovers II,Singapore Premier League 2,28521,Hougang United FC II,BG Tampines Rovers II,4.40,3.90,1.62
-29-10-25,13:00,Mombasa United FC vs Naivas,Kenya Super League,18195,Mombasa United FC,Naivas,2.10,3.20,3.25
-29-10-25,20:00,Southampton U21 vs Real Madrid U21,International Youth U21 Premier League International Cup,41801,Southampton U21,Real Madrid U21,5.00,4.40,1.53
-29-10-25,20:00,Sunderland U21 vs RSC Anderlecht,International Youth U21 Premier League International Cup,22421,Sunderland U21,RSC Anderlecht,1.76,4.00,3.80
+29-10-25,16:00,AL Shorta SC vs AL Karma,Iraq Stars League,33663,AL Shorta SC,AL Karma,1.82,3.4,3.9
+29-10-25,18:30,Newroz SC vs Erbil SC,Iraq Stars League,33713,Newroz SC,Erbil SC,3.4,3.1,2.05
+29-10-25,14:30,Pakhtakor vs FK Buxoro,Uzbekistan Cup,44076,Pakhtakor,FK Buxoro,1.29,4.5,9.6
+29-10-25,13:30,Kamuzu Barracks FC vs Mzuzu City Hammers,Malawi Super League,23861,Kamuzu Barracks FC,Mzuzu City Hammers,1.51,4.1,5.2
+29-10-25,11:00,Atletic Club d'Escaldes vs CE Carroi,Andorra Primera Divisio,26286,Atletic Club d'Escaldes,CE Carroi,1.03,11.0,29.0
+29-10-25,14:30,Inter Club de Escaldes vs FC Rangers,Andorra Primera Divisio,17389,Inter Club de Escaldes,FC Rangers,2.05,3.4,3.2
+29-10-25,11:00,Estoril Praia U23 vs Santa Clara U23,Portugal U23 Liga Revelacao,48632,Estoril Praia U23,Santa Clara U23,2.45,3.3,2.4
+29-10-25,16:00,Torreense U23 vs Portimonense,Portugal U23 Liga Revelacao,27341,Torreense U23,Portimonense,1.35,4.1,6.9
+29-10-25,19:00,America FC MG vs CR Vasco da Gama RJ,Brazil U20 Copa do Brasil,45245,America FC MG,CR Vasco da Gama RJ,2.25,3.2,2.9
+29-10-25,19:00,CR Brasil AL vs SC Recife PE,Brazil U20 Copa do Brasil,45244,CR Brasil AL,SC Recife PE,2.95,3.6,2.05
+29-10-25,19:00,Fortaleza EC CE vs EC Bahia BA,Brazil U20 Copa do Brasil,45241,Fortaleza EC CE,EC Bahia BA,2.05,3.25,3.3
+29-10-25,21:00,Gremio Novorizontino vs Operario Ferroviario EC PR,Brazil U20 Copa do Brasil,45253,Gremio Novorizontino,Operario Ferroviario EC PR,1.96,3.4,3.4
+29-10-25,21:30,Atletico Mineiro MG vs CR Flamengo RJ,Brazil U20 Copa do Brasil,36493,Atletico Mineiro MG,CR Flamengo RJ,2.4,3.5,2.5
+29-10-25,13:00,FC Dac 1904 Dunajska Streda vs Ruzomberok,Slovakia U19 1. Liga,39390,FC Dac 1904 Dunajska Streda,Ruzomberok,2.3,3.6,2.55
+29-10-25,13:00,FC Petrzalka U19 vs MSK Zilina,Slovakia U19 1. Liga,39338,FC Petrzalka U19,MSK Zilina,3.5,4.1,1.75
+29-10-25,13:00,FK Pohronie Ziar Nad Hronom Dolna Zdana U19 vs Tatran Presov,Slovakia U19 1. Liga,43669,FK Pohronie Ziar Nad Hronom Dolna Zdana U19,Tatran Presov,6.5,5.1,1.33
+29-10-25,13:00,MFk Dukla Banska Bystrica vs FC Kosice,Slovakia U19 1. Liga,39379,MFk Dukla Banska Bystrica,FC Kosice,2.3,3.75,2.55
+29-10-25,13:00,Zemplin Michalovce vs Trencin,Slovakia U19 1. Liga,40967,Zemplin Michalovce,Trencin,3.1,4.4,1.81
+29-10-25,13:00,ZP Sport Podbrezova vs Spartak Trnava,Slovakia U19 1. Liga,43685,ZP Sport Podbrezova,Spartak Trnava,3.1,3.6,2.0
+29-10-25,14:30,Milan Futuro vs ASD Varesina Calcio,Italy Coppa Italia Serie D,27426,Milan Futuro,ASD Varesina Calcio,1.66,3.5,4.6
+29-10-25,20:00,Ferroviaria SP vs AE Realidade Jovem SP,"Brazil Paulista, Women",27675,Ferroviaria SP,AE Realidade Jovem SP,1.01,9.6,25.0
+29-10-25,09:00,Phnom Penh Crown FC vs Shan United,International Clubs AFC Challenge League,32125,Phnom Penh Crown FC,Shan United,1.31,5.0,7.25
+29-10-25,10:00,SP Falcons FC vs Manila Digger FC,International Clubs AFC Challenge League,37349,SP Falcons FC,Manila Digger FC,2.75,3.5,2.25
+29-10-25,13:00,Ezra FC vs Preah Khan Reach Svay Rieng FC,International Clubs AFC Challenge League,41337,Ezra FC,Preah Khan Reach Svay Rieng FC,6.3,4.8,1.37
+29-10-25,00:45,CD Plaza Amador Panama City vs AF Sporting San Miguelito,International Clubs CONCACAF Central American Cup,36988,CD Plaza Amador Panama City,AF Sporting San Miguelito,1.77,3.6,4.2
+29-10-25,20:00,Cdt Real Oruro vs FC Universitario de Vinto,Bolivia Copa Bolivia,15835,Cdt Real Oruro,FC Universitario de Vinto,2.15,3.5,2.85
+29-10-25,22:30,CA Nacional Potosi vs Academia del Balompie Boliviano,Bolivia Copa Bolivia,16389,CA Nacional Potosi,Academia del Balompie Boliviano,1.68,3.6,4.4
+29-10-25,00:30,CA Penarol Montevideo vs Plaza Colonia,Uruguay Copa Uruguay,21732,CA Penarol Montevideo,Plaza Colonia,1.37,4.3,9.1
+29-10-25,13:30,El Zohour Matrouh vs Alexandria Petroleum,Egypt Egypt Second Division B,45657,El Zohour Matrouh,Alexandria Petroleum,5.2,4.25,1.49
+29-10-25,07:00,Eastern Suburbs Auckland AFC vs Auckland United FC,"New Zealand National League, Women",20128,Eastern Suburbs Auckland AFC,Auckland United FC,3.9,4.2,1.64
+29-10-25,19:30,Alecrim RN vs Baraunas RN,"Brazil Potiguar, 2. Divisao",34406,Alecrim RN,Baraunas RN,2.3,3.25,2.85
+29-10-25,12:30,Hougang United FC II vs BG Tampines Rovers II,Singapore Premier League 2,28521,Hougang United FC II,BG Tampines Rovers II,4.4,3.9,1.62
+29-10-25,13:00,Mombasa United FC vs Naivas,Kenya Super League,18195,Mombasa United FC,Naivas,2.1,3.2,3.25
+29-10-25,20:00,Southampton U21 vs Real Madrid U21,International Youth U21 Premier League International Cup,41801,Southampton U21,Real Madrid U21,5.0,4.4,1.53
+29-10-25,20:00,Sunderland U21 vs RSC Anderlecht,International Youth U21 Premier League International Cup,22421,Sunderland U21,RSC Anderlecht,1.76,4.0,3.8
+29-10-25,20:30,Club Brugge vs Eendracht Aalst Lede,Belgium Beker van Belgie,40017,Club Brugge,Eendracht Aalst Lede,1.02,13.50,44.00
+29-10-25,12:00,Philippines vs Uzbekistan,International Int. Friendly Games W,12578,Philippines,Uzbekistan,1.76,3.80,4.00
+29-10-25,22:00,Pitbulls Santa Barbara FC vs AD Cariari Pococi,"Costa Rica Liga de Ascenso, Apertura",14305,Pitbulls Santa Barbara FC,AD Cariari Pococi,2.70,3.40,2.40
+29-10-25,14:00,FK Famos Hrasnica vs NK Jedinstvo Bihac,Bosnia & Herzegovina Kup BiH,30839,FK Famos Hrasnica,NK Jedinstvo Bihac,5.80,4.40,1.47
+29-10-25,14:00,HNK Krusevo vs FK Borac Banja Luka,Bosnia & Herzegovina Kup BiH,28120,HNK Krusevo,FK Borac Banja Luka,33.00,14.00,1.02
+29-10-25,16:20,Al-Khaboora vs Oman Club,Oman Omani League,25142,Al-Khaboora,Oman Club,3.40,3.00,2.10
+29-10-25,11:00,Khankendi FK vs Difai Agsu,Azerbaijan Azerbaijan Cup,35251,Khankendi FK,Difai Agsu,2.95,3.50,2.10
+29-10-25,14:00,Korabi Peshkopi vs KS Pogradeci,Albania Kategoria e Pare,33393,Korabi Peshkopi,KS Pogradeci,19.00,5.25,1.17
+29-10-25,11:30,Kickstart FC vs Bengaluru B,India Bangalore Super Division,43182,Kickstart FC,Bengaluru B,2.15,3.40,2.90
+29-10-25,13:30,Mighty Wanderers FC vs Songwe Border United FC,Malawi Super League,37489,Mighty Wanderers FC,Songwe Border United FC,1.02,13.50,22.00
+29-10-25,13:00,Tainan City vs Dewa United,International Clubs AFC Challenge League,42784,Tainan City,Dewa United,5.50,4.25,1.46
+29-10-25,13:00,FC Talanta vs Gucha Stars FC,Kenya Super League,42685,FC Talanta,Gucha Stars FC,1.54,4.00,5.00
+29-10-25,13:00,Fortune Sacco vs Mully Children Family FC,Kenya Super League,45582,Fortune Sacco,Mully Children Family FC,1.76,3.30,4.40
+29-10-25,13:00,Kibera Black Stars vs Nzoia Sugar FC,Kenya Super League,39080,Kibera Black Stars,Nzoia Sugar FC,1.85,3.20,4.10
+29-10-25,13:00,Migori Youth FC vs 3K FC,Kenya Super League,39384,Migori Youth FC,3K FC,2.10,2.90,3.60
+29-10-25,13:00,Mulembe United vs Kisumu All Stars,Kenya Super League,41536,Mulembe United,Kisumu All Stars,3.00,3.00,2.30
