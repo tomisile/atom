@@ -22873,94 +22873,99 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 29-10-25,13:00,Kibera Black Stars vs Nzoia Sugar FC,Kenya Super League,39080,Kibera Black Stars,Nzoia Sugar FC,1.85,3.2,4.1
 29-10-25,13:00,Migori Youth FC vs 3K FC,Kenya Super League,39384,Migori Youth FC,3K FC,2.1,2.9,3.6
 29-10-25,13:00,Mulembe United vs Kisumu All Stars,Kenya Super League,41536,Mulembe United,Kisumu All Stars,3.0,3.0,2.3
-29-10-25,20:45,Arsenal vs Brighton,England EFL Cup,14758,Arsenal,Brighton,1.48,4.60,6.30
-29-10-25,20:45,Liverpool vs Crystal Palace,England EFL Cup,31077,Liverpool,Crystal Palace,1.92,3.90,3.70
-29-10-25,20:45,Swansea City vs Man City,England EFL Cup,15405,Swansea City,Man City,11.00,6.60,1.24
-29-10-25,20:45,Wolves vs Chelsea,England EFL Cup,17124,Wolves,Chelsea,3.80,3.70,1.93
-29-10-25,21:00,Newcastle vs Tottenham,England EFL Cup,15493,Newcastle,Tottenham,1.75,3.90,4.50
+29-10-25,20:45,Arsenal vs Brighton,England EFL Cup,14758,Arsenal,Brighton,1.48,4.6,6.3
+29-10-25,20:45,Liverpool vs Crystal Palace,England EFL Cup,31077,Liverpool,Crystal Palace,1.92,3.9,3.7
+29-10-25,20:45,Swansea City vs Man City,England EFL Cup,15405,Swansea City,Man City,11.0,6.6,1.24
+29-10-25,20:45,Wolves vs Chelsea,England EFL Cup,17124,Wolves,Chelsea,3.8,3.7,1.93
+29-10-25,21:00,Newcastle vs Tottenham,England EFL Cup,15493,Newcastle,Tottenham,1.75,3.9,4.5
 29-10-25,18:30,Como 1907 vs Verona,Italy Serie A,26735,Como 1907,Verona,1.61,3.95,6.82
 29-10-25,18:30,Juventus vs Udinese,Italy Serie A,26791,Juventus,Udinese,1.43,4.97,8.52
-29-10-25,18:30,Roma vs Parma,Italy Serie A,26837,Roma,Parma,1.50,4.47,7.81
+29-10-25,18:30,Roma vs Parma,Italy Serie A,26837,Roma,Parma,1.5,4.47,7.81
 29-10-25,20:45,Bologna vs FC Torino,Italy Serie A,26894,Bologna,FC Torino,1.87,3.58,4.84
-29-10-25,20:45,Genoa vs US Cremonese,Italy Serie A,26925,Genoa,US Cremonese,1.89,3.40,5.05
+29-10-25,20:45,Genoa vs US Cremonese,Italy Serie A,26925,Genoa,US Cremonese,1.89,3.4,5.05
 29-10-25,20:45,Inter vs Fiorentina,Italy Serie A,26683,Inter,Fiorentina,1.44,5.03,7.92
 29-10-25,19:00,Le Havre vs Brest,France Ligue 1,40544,Le Havre,Brest,2.64,3.38,2.89
 29-10-25,19:00,Lorient vs PSG,France Ligue 1,36912,Lorient,PSG,11.43,7.05,1.26
 29-10-25,19:00,Metz vs RC Lens,France Ligue 1,37303,Metz,RC Lens,6.83,5.05,1.48
 29-10-25,19:00,Nice vs Lille,France Ligue 1,39663,Nice,Lille,3.52,3.72,2.14
-29-10-25,21:05,Marseille vs Angers,France Ligue 1,37352,Marseille,Angers,1.27,6.70,12.13
+29-10-25,21:05,Marseille vs Angers,France Ligue 1,37352,Marseille,Angers,1.27,6.7,12.13
 29-10-25,21:05,Nantes vs Monaco,France Ligue 1,38091,Nantes,Monaco,4.61,4.11,1.79
 29-10-25,21:05,Paris FC vs Lyon,France Ligue 1,38157,Paris FC,Lyon,2.69,3.65,2.67
-29-10-25,21:05,Strasbourg vs AJ Auxerre,France Ligue 1,38124,Strasbourg,AJ Auxerre,1.80,3.96,4.70
+29-10-25,21:05,Strasbourg vs AJ Auxerre,France Ligue 1,38124,Strasbourg,AJ Auxerre,1.8,3.96,4.7
 29-10-25,21:05,Toulouse vs Rennes,France Ligue 1,39317,Toulouse,Rennes,2.18,3.61,3.53
-29-10-25,17:00,FC Dynamo Kyiv vs Shakhtar D,Ukraine Ukraine Cup,34286,FC Dynamo Kyiv,Shakhtar D,2.85,3.30,2.35
-29-10-25,18:00,FV Illertissen vs 1. FC Magdeburg,Germany DFB Pokal,38756,FV Illertissen,1. FC Magdeburg,6.20,4.90,1.45
-29-10-25,18:00,Mainz vs Stuttgart,Germany DFB Pokal,34610,Mainz,Stuttgart,2.95,3.60,2.25
-29-10-25,18:00,Paderborn vs Bayer Leverkusen,Germany DFB Pokal,25143,Paderborn,Bayer Leverkusen,4.40,4.10,1.71
-29-10-25,20:45,Cologne vs Bayern Munich,Germany DFB Pokal,34613,Cologne,Bayern Munich,11.00,7.20,1.20
-29-10-25,20:45,Darmstadt vs Schalke,Germany DFB Pokal,38581,Darmstadt,Schalke,2.35,3.40,2.95
-29-10-25,20:45,Fortuna D vs Freiburg,Germany DFB Pokal,38571,Fortuna D,Freiburg,4.00,3.60,1.87
-29-10-25,20:45,Union Berlin vs Arminia Bielefeld,Germany DFB Pokal,38602,Union Berlin,Arminia Bielefeld,1.69,3.90,4.60
+29-10-25,17:00,FC Dynamo Kyiv vs Shakhtar D,Ukraine Ukraine Cup,34286,FC Dynamo Kyiv,Shakhtar D,2.85,3.3,2.35
+29-10-25,18:00,FV Illertissen vs 1. FC Magdeburg,Germany DFB Pokal,38756,FV Illertissen,1. FC Magdeburg,6.2,4.9,1.45
+29-10-25,18:00,Mainz vs Stuttgart,Germany DFB Pokal,34610,Mainz,Stuttgart,2.95,3.6,2.25
+29-10-25,18:00,Paderborn vs Bayer Leverkusen,Germany DFB Pokal,25143,Paderborn,Bayer Leverkusen,4.4,4.1,1.71
+29-10-25,20:45,Cologne vs Bayern Munich,Germany DFB Pokal,34613,Cologne,Bayern Munich,11.0,7.2,1.2
+29-10-25,20:45,Darmstadt vs Schalke,Germany DFB Pokal,38581,Darmstadt,Schalke,2.35,3.4,2.95
+29-10-25,20:45,Fortuna D vs Freiburg,Germany DFB Pokal,38571,Fortuna D,Freiburg,4.0,3.6,1.87
+29-10-25,20:45,Union Berlin vs Arminia Bielefeld,Germany DFB Pokal,38602,Union Berlin,Arminia Bielefeld,1.69,3.9,4.6
 29-10-25,19:00,SK Brann vs Bodoe/Glimt,Norway Eliteserien,44042,SK Brann,Bodoe/Glimt,3.65,4.19,1.93
 29-10-25,21:00,Rosenborg BK vs Sandefjord Fotball,Norway Eliteserien,28918,Rosenborg BK,Sandefjord Fotball,2.03,4.04,3.46
 29-10-25,20:15,Braga vs Santa Clara Azores,Portugal League Cup,16931,Braga,Santa Clara Azores,1.92,3.52,4.46
 29-10-25,21:45,Benfica vs CD Tondela,Portugal League Cup,10194,Benfica,CD Tondela,1.19,7.85,16.16
-29-10-25,20:30,Mantova 1911 vs US Catanzaro,Italy Serie B,35734,Mantova 1911,US Catanzaro,2.55,3.20,2.80
+29-10-25,20:30,Mantova 1911 vs US Catanzaro,Italy Serie B,35734,Mantova 1911,US Catanzaro,2.55,3.2,2.8
 29-10-25,20:30,Spezia Calcio vs Calcio Padova,Italy Serie B,39852,Spezia Calcio,Calcio Padova,1.93,3.25,4.25
-29-10-25,20:30,Venezia FC vs FC Sudtirol Bolzano,Italy Serie B,40010,Venezia FC,FC Sudtirol Bolzano,1.72,3.70,4.80
-29-10-25,18:45,K.v.v. Quick Boys vs FC Volendam,Netherlands KNVB beker,44065,K.v.v. Quick Boys,FC Volendam,3.70,4.25,1.77
-29-10-25,20:00,FC Lisse vs SC Telstar,Netherlands KNVB beker,44165,FC Lisse,SC Telstar,9.90,6.10,1.24
-29-10-25,20:00,Hoek vs FC Eindhoven,Netherlands KNVB beker,45116,Hoek,FC Eindhoven,3.10,4.10,1.97
-29-10-25,20:00,HSC 21 vs Koninklijke HFC,Netherlands KNVB beker,45145,HSC 21,Koninklijke HFC,11.50,7.25,1.18
-29-10-25,20:00,SC Genemuiden vs Rksv Halsteren,Netherlands KNVB beker,45152,SC Genemuiden,Rksv Halsteren,1.08,10.50,22.00
-29-10-25,21:00,Excelsior Maassluis vs Excelsior Rotterdam,Netherlands KNVB beker,45146,Excelsior Maassluis,Excelsior Rotterdam,6.60,5.75,1.34
-29-10-25,23:00,Fluminense FC RJ vs Ceara SC CE,Brazil Brasileiro Serie A,28077,Fluminense FC RJ,Ceara SC CE,1.57,3.90,6.30
-29-10-25,16:00,Rivers United FC vs Ikorodu City,Nigeria Premier League,13418,Rivers United FC,Ikorodu City,1.53,3.50,6.40
+29-10-25,20:30,Venezia FC vs FC Sudtirol Bolzano,Italy Serie B,40010,Venezia FC,FC Sudtirol Bolzano,1.72,3.7,4.8
+29-10-25,18:45,K.v.v. Quick Boys vs FC Volendam,Netherlands KNVB beker,44065,K.v.v. Quick Boys,FC Volendam,3.7,4.25,1.77
+29-10-25,20:00,FC Lisse vs SC Telstar,Netherlands KNVB beker,44165,FC Lisse,SC Telstar,9.9,6.1,1.24
+29-10-25,20:00,Hoek vs FC Eindhoven,Netherlands KNVB beker,45116,Hoek,FC Eindhoven,3.1,4.1,1.97
+29-10-25,20:00,HSC 21 vs Koninklijke HFC,Netherlands KNVB beker,45145,HSC 21,Koninklijke HFC,11.5,7.25,1.18
+29-10-25,20:00,SC Genemuiden vs Rksv Halsteren,Netherlands KNVB beker,45152,SC Genemuiden,Rksv Halsteren,1.08,10.5,22.0
+29-10-25,21:00,Excelsior Maassluis vs Excelsior Rotterdam,Netherlands KNVB beker,45146,Excelsior Maassluis,Excelsior Rotterdam,6.6,5.75,1.34
+29-10-25,23:00,Fluminense FC RJ vs Ceara SC CE,Brazil Brasileiro Serie A,28077,Fluminense FC RJ,Ceara SC CE,1.57,3.9,6.3
+29-10-25,16:00,Rivers United FC vs Ikorodu City,Nigeria Premier League,13418,Rivers United FC,Ikorodu City,1.53,3.5,6.4
 29-10-25,20:45,Celtic vs Falkirk FC,Scotland Premiership,29155,Celtic,Falkirk FC,1.23,7.13,11.36
 29-10-25,20:45,Hibernian FC vs Rangers,Scotland Premiership,24472,Hibernian FC,Rangers,3.02,3.73,2.27
 29-10-25,20:45,Kilmarnock FC vs Aberdeen,Scotland Premiership,24565,Kilmarnock FC,Aberdeen,2.74,3.43,2.61
 29-10-25,20:45,Motherwell FC vs Dundee United,Scotland Premiership,29731,Motherwell FC,Dundee United,2.08,3.82,3.35
-29-10-25,20:45,St Mirren FC vs Heart of Midlothian FC,Scotland Premiership,29737,St Mirren FC,Heart of Midlothian FC,4.30,3.75,1.85
-29-10-25,20:30,Basel vs FC Zurich,Switzerland Super League,24906,Basel,FC Zurich,1.49,4.90,5.50
-29-10-25,20:30,Lausanne-Sport vs Servette Geneva,Switzerland Super League,23658,Lausanne-Sport,Servette Geneva,2.40,3.70,2.70
-29-10-25,17:00,Al-Khaldiya SC vs Al Ahli Doha SC,International Clubs AFC Champions League Two,38375,Al-Khaldiya SC,Al Ahli Doha SC,2.25,3.50,2.90
-29-10-25,19:15,Al Wehdat vs Al-Muharraq SC,International Clubs AFC Champions League Two,36202,Al Wehdat,Al-Muharraq SC,2.85,3.40,2.35
-29-10-25,18:00,UD Poblense vs CE Sabadell FC,Spain Copa del Rey,13380,UD Poblense,CE Sabadell FC,3.75,3.20,2.10
-29-10-25,19:00,CD Ebro vs SD Tarazona,Spain Copa del Rey,28637,CD Ebro,SD Tarazona,3.50,3.33,2.15
-29-10-25,19:00,CD Sant Jordi vs Osasuna,Spain Copa del Rey,41713,CD Sant Jordi,Osasuna,37.00,19.00,1.02
+29-10-25,20:45,St Mirren FC vs Heart of Midlothian FC,Scotland Premiership,29737,St Mirren FC,Heart of Midlothian FC,4.3,3.75,1.85
+29-10-25,20:30,Basel vs FC Zurich,Switzerland Super League,24906,Basel,FC Zurich,1.49,4.9,5.5
+29-10-25,20:30,Lausanne-Sport vs Servette Geneva,Switzerland Super League,23658,Lausanne-Sport,Servette Geneva,2.4,3.7,2.7
+29-10-25,17:00,Al-Khaldiya SC vs Al Ahli Doha SC,International Clubs AFC Champions League Two,38375,Al-Khaldiya SC,Al Ahli Doha SC,2.25,3.5,2.9
+29-10-25,19:15,Al Wehdat vs Al-Muharraq SC,International Clubs AFC Champions League Two,36202,Al Wehdat,Al-Muharraq SC,2.85,3.4,2.35
+29-10-25,18:00,UD Poblense vs CE Sabadell FC,Spain Copa del Rey,13380,UD Poblense,CE Sabadell FC,3.75,3.2,2.1
+29-10-25,19:00,CD Ebro vs SD Tarazona,Spain Copa del Rey,28637,CD Ebro,SD Tarazona,3.5,3.33,2.15
+29-10-25,19:00,CD Sant Jordi vs Osasuna,Spain Copa del Rey,41713,CD Sant Jordi,Osasuna,37.0,19.0,1.02
 29-10-25,19:00,UD Los Garres vs Elche CF,Spain Copa del Rey,42977,UD Los Garres,Elche CF,,,
-29-10-25,19:00,UD Mutilvera vs Real Zaragoza,Spain Copa del Rey,39766,UD Mutilvera,Real Zaragoza,6.20,4.10,1.52
-29-10-25,19:30,FC La Union Atletico vs AD Ceuta,Spain Copa del Rey,40559,FC La Union Atletico,AD Ceuta,6.30,3.90,1.55
+29-10-25,19:00,UD Mutilvera vs Real Zaragoza,Spain Copa del Rey,39766,UD Mutilvera,Real Zaragoza,6.2,4.1,1.52
+29-10-25,19:30,FC La Union Atletico vs AD Ceuta,Spain Copa del Rey,40559,FC La Union Atletico,AD Ceuta,6.3,3.9,1.55
 29-10-25,20:00,Atletic Sant Just FC vs Mallorca,Spain Copa del Rey,44002,Atletic Sant Just FC,Mallorca,,,
-29-10-25,20:00,Atletico Astorga FC vs CD Mirandes,Spain Copa del Rey,40714,Atletico Astorga FC,CD Mirandes,5.80,3.33,1.69
-29-10-25,20:00,Caudal Deportivo vs Sporting Gijon,Spain Copa del Rey,14821,Caudal Deportivo,Sporting Gijon,10.00,5.70,1.28
-29-10-25,20:00,CD Azuaga vs Leganes,Spain Copa del Rey,41033,CD Azuaga,Leganes,16.00,7.30,1.16
-29-10-25,20:00,CD Cieza vs Cordoba CF,Spain Copa del Rey,12747,CD Cieza,Cordoba CF,10.00,5.20,1.30
-29-10-25,20:00,CD Numancia vs Arenas Club Getxo,Spain Copa del Rey,42287,CD Numancia,Arenas Club Getxo,2.35,3.30,3.00
-29-10-25,20:00,CDA Navalcarnero vs Merida UD,Spain Copa del Rey,33587,CDA Navalcarnero,Merida UD,3.50,3.10,2.20
-29-10-25,20:00,CF Lorca Deportiva vs Almeria,Spain Copa del Rey,31595,CF Lorca Deportiva,Almeria,6.20,4.40,1.49
-29-10-25,20:00,Club Portugalete vs Valladolid,Spain Copa del Rey,30264,Club Portugalete,Valladolid,11.50,5.80,1.25
-29-10-25,20:00,Naxara CD vs Eibar,Spain Copa del Rey,17433,Naxara CD,Eibar,9.30,5.10,1.32
-29-10-25,20:00,Torrent CF vs Juventud Torremolinos CF,Spain Copa del Rey,25086,Torrent CF,Juventud Torremolinos CF,3.40,3.40,2.10
-29-10-25,20:00,UE Sant Andreu vs CD Teruel,Spain Copa del Rey,42735,UE Sant Andreu,CD Teruel,2.30,3.20,3.20
-29-10-25,20:30,Puente Genil FC vs FC Cartagena,Spain Copa del Rey,43171,Puente Genil FC,FC Cartagena,3.70,3.10,2.15
-29-10-25,20:30,Reus FC Reddis vs CE Europa,Spain Copa del Rey,31598,Reus FC Reddis,CE Europa,3.40,3.50,2.10
-29-10-25,20:30,UD Ourense vs Pontevedra CF,Spain Copa del Rey,34541,UD Ourense,Pontevedra CF,4.90,3.60,1.72
-29-10-25,21:00,CD Ciudad de Lucena vs Villarreal,Spain Copa del Rey,35766,CD Ciudad de Lucena,Villarreal,58.00,18.50,1.01
-29-10-25,21:00,CD Quintanar del Rey vs UD Ibiza,Spain Copa del Rey,12111,CD Quintanar del Rey,UD Ibiza,3.90,3.50,1.94
+29-10-25,20:00,Atletico Astorga FC vs CD Mirandes,Spain Copa del Rey,40714,Atletico Astorga FC,CD Mirandes,5.8,3.33,1.69
+29-10-25,20:00,Caudal Deportivo vs Sporting Gijon,Spain Copa del Rey,14821,Caudal Deportivo,Sporting Gijon,10.0,5.7,1.28
+29-10-25,20:00,CD Azuaga vs Leganes,Spain Copa del Rey,41033,CD Azuaga,Leganes,16.0,7.3,1.16
+29-10-25,20:00,CD Cieza vs Cordoba CF,Spain Copa del Rey,12747,CD Cieza,Cordoba CF,10.0,5.2,1.3
+29-10-25,20:00,CD Numancia vs Arenas Club Getxo,Spain Copa del Rey,42287,CD Numancia,Arenas Club Getxo,2.35,3.3,3.0
+29-10-25,20:00,CDA Navalcarnero vs Merida UD,Spain Copa del Rey,33587,CDA Navalcarnero,Merida UD,3.5,3.1,2.2
+29-10-25,20:00,CF Lorca Deportiva vs Almeria,Spain Copa del Rey,31595,CF Lorca Deportiva,Almeria,6.2,4.4,1.49
+29-10-25,20:00,Club Portugalete vs Valladolid,Spain Copa del Rey,30264,Club Portugalete,Valladolid,11.5,5.8,1.25
+29-10-25,20:00,Naxara CD vs Eibar,Spain Copa del Rey,17433,Naxara CD,Eibar,9.3,5.1,1.32
+29-10-25,20:00,Torrent CF vs Juventud Torremolinos CF,Spain Copa del Rey,25086,Torrent CF,Juventud Torremolinos CF,3.4,3.4,2.1
+29-10-25,20:00,UE Sant Andreu vs CD Teruel,Spain Copa del Rey,42735,UE Sant Andreu,CD Teruel,2.3,3.2,3.2
+29-10-25,20:30,Puente Genil FC vs FC Cartagena,Spain Copa del Rey,43171,Puente Genil FC,FC Cartagena,3.7,3.1,2.15
+29-10-25,20:30,Reus FC Reddis vs CE Europa,Spain Copa del Rey,31598,Reus FC Reddis,CE Europa,3.4,3.5,2.1
+29-10-25,20:30,UD Ourense vs Pontevedra CF,Spain Copa del Rey,34541,UD Ourense,Pontevedra CF,4.9,3.6,1.72
+29-10-25,21:00,CD Ciudad de Lucena vs Villarreal,Spain Copa del Rey,35766,CD Ciudad de Lucena,Villarreal,58.0,18.5,1.01
+29-10-25,21:00,CD Quintanar del Rey vs UD Ibiza,Spain Copa del Rey,12111,CD Quintanar del Rey,UD Ibiza,3.9,3.5,1.94
 29-10-25,21:00,CD Yuncos vs Rayo Vallecano,Spain Copa del Rey,15277,CD Yuncos,Rayo Vallecano,,,
 29-10-25,21:00,Real Jaen CF vs Club Deportivo Eldense,Spain Copa del Rey,12254,Real Jaen CF,Club Deportivo Eldense,3.33,3.33,2.15
-29-10-25,17:45,Hobro IK vs Copenhagen,Denmark DBU Pokalen,26088,Hobro IK,Copenhagen,9.60,5.70,1.25
-29-10-25,18:00,FC Fredericia vs Viborg FF,Denmark DBU Pokalen,35710,FC Fredericia,Viborg FF,2.95,3.60,2.15
-29-10-25,18:00,IF Lyseng vs Vejle BK,Denmark DBU Pokalen,31133,IF Lyseng,Vejle BK,13.00,7.00,1.16
-29-10-25,19:00,Esbjerg FB vs Randers FC,Denmark DBU Pokalen,32963,Esbjerg FB,Randers FC,3.90,3.60,1.82
-29-10-25,20:45,AGF Aarhus vs SonderjyskE,Denmark DBU Pokalen,46542,AGF Aarhus,SonderjyskE,1.43,4.50,6.40
-29-10-25,18:00,Petrojet FC vs AL Ahly SC (EGY),Egypt Premier League,45220,Petrojet FC,AL Ahly SC (EGY),7.40,4.40,1.45
-29-10-25,22:00,CD La Equidad vs Fortaleza FC,"Colombia Primera A, Clausura",35643,CD La Equidad,Fortaleza FC,4.75,3.40,1.78
-29-10-25,00:10,CD Junior FC vs Independiente Santa Fe,"Colombia Primera A, Clausura",21957,CD Junior FC,Independiente Santa Fe,1.67,3.60,5.10
-29-10-25,00:10,Independiente Medellin vs CA Bucaramanga,"Colombia Primera A, Clausura",28130,Independiente Medellin,CA Bucaramanga,1.78,3.60,4.40
+29-10-25,17:45,Hobro IK vs Copenhagen,Denmark DBU Pokalen,26088,Hobro IK,Copenhagen,9.6,5.7,1.25
+29-10-25,18:00,FC Fredericia vs Viborg FF,Denmark DBU Pokalen,35710,FC Fredericia,Viborg FF,2.95,3.6,2.15
+29-10-25,18:00,IF Lyseng vs Vejle BK,Denmark DBU Pokalen,31133,IF Lyseng,Vejle BK,13.0,7.0,1.16
+29-10-25,19:00,Esbjerg FB vs Randers FC,Denmark DBU Pokalen,32963,Esbjerg FB,Randers FC,3.9,3.6,1.82
+29-10-25,20:45,AGF Aarhus vs SonderjyskE,Denmark DBU Pokalen,46542,AGF Aarhus,SonderjyskE,1.43,4.5,6.4
+29-10-25,18:00,Petrojet FC vs AL Ahly SC (EGY),Egypt Premier League,45220,Petrojet FC,AL Ahly SC (EGY),7.4,4.4,1.45
+29-10-25,22:00,CD La Equidad vs Fortaleza FC,"Colombia Primera A, Clausura",35643,CD La Equidad,Fortaleza FC,4.75,3.4,1.78
+29-10-25,00:10,CD Junior FC vs Independiente Santa Fe,"Colombia Primera A, Clausura",21957,CD Junior FC,Independiente Santa Fe,1.67,3.6,5.1
+29-10-25,00:10,Independiente Medellin vs CA Bucaramanga,"Colombia Primera A, Clausura",28130,Independiente Medellin,CA Bucaramanga,1.78,3.6,4.4
 29-10-25,17:30,Torpedo Moscow vs FC Kuban Holding Pavlovskaya,Russia Russian Cup,33431,Torpedo Moscow,FC Kuban Holding Pavlovskaya,2.05,3.33,3.33
-29-10-25,20:45,Wayside Celtic vs Bangor GG FC,"Ireland Leinster Senior League, Senior Division",31957,Wayside Celtic,Bangor GG FC,2.95,3.50,2.10
-29-10-25,22:00,Tauro FC II vs Chorrillo FC,Panama Liga Prom,12008,Tauro FC II,Chorrillo FC,4.50,3.80,1.62
-29-10-25,22:00,Csd Ipala vs Deportivo San Pedro,Guatemala Primera Division,46094,Csd Ipala,Deportivo San Pedro,2.15,3.10,3.25
-29-10-25,20:00,West Bromwich Albion FC U21 vs Borussia Monchengladbach U21,International Youth U21 Premier League International Cup,24315,West Bromwich Albion FC U21,Borussia Monchengladbach U21,2.85,3.80,2.15
+29-10-25,20:45,Wayside Celtic vs Bangor GG FC,"Ireland Leinster Senior League, Senior Division",31957,Wayside Celtic,Bangor GG FC,2.95,3.5,2.1
+29-10-25,22:00,Tauro FC II vs Chorrillo FC,Panama Liga Prom,12008,Tauro FC II,Chorrillo FC,4.5,3.8,1.62
+29-10-25,22:00,Csd Ipala vs Deportivo San Pedro,Guatemala Primera Division,46094,Csd Ipala,Deportivo San Pedro,2.15,3.1,3.25
+29-10-25,20:00,West Bromwich Albion FC U21 vs Borussia Monchengladbach U21,International Youth U21 Premier League International Cup,24315,West Bromwich Albion FC U21,Borussia Monchengladbach U21,2.85,3.8,2.15
+29-10-25,19:00,Gualaceo SC vs 9 de Octubre FC,Ecuador Serie B,45589,Gualaceo SC,9 de Octubre FC,2.90,3.20,2.10
+29-10-25,18:00,FK Sveikata Kybartai vs FC Neptunas B,Lithuania II Lyga,42294,FK Sveikata Kybartai,FC Neptunas B,1.45,4.60,5.30
+29-10-25,18:30,FK Garliava vs Dfk Dainava B,Lithuania II Lyga,46244,FK Garliava,Dfk Dainava B,1.23,5.90,8.80
+29-10-25,18:30,FK Sirijus vs FC Dziugas B,Lithuania II Lyga,30770,FK Sirijus,FC Dziugas B,1.82,3.75,3.50
+29-10-25,20:00,Tocantinopolis EC TO U20 vs Paysandu SC,Brazil U20 Copa do Brasil,24564,Tocantinopolis EC TO U20,Paysandu SC,4.10,3.70,1.71
