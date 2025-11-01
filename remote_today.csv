@@ -24338,67 +24338,99 @@ date,time,title,tournament,game-id,home-team,away-team,pre-match_odds_home,pre-m
 01-11-25,14:00,SV Dinamo Helfort 15 vs Gerasd. Stammersd.,Austria Amateur Wiener Stadtliga,35555,SV Dinamo Helfort 15,Gerasd. Stammersd.,1.47,4.4,5.25
 01-11-25,14:00,SV Wienerberg 1921 vs SK Slovan HAC,Austria Amateur Wiener Stadtliga,40352,SV Wienerberg 1921,SK Slovan HAC,1.22,6.1,8.6
 01-11-25,15:00,A-Xiii Auhof Center vs SV Schwechat,Austria Amateur Wiener Stadtliga,40344,A-Xiii Auhof Center,SV Schwechat,1.45,4.5,5.4
-01-11-25,14:30,US Ben Guerdane vs JS Kairouanaise,Tunisia Ligue 1,47286,US Ben Guerdane,JS Kairouanaise,1.58,3.33,6.00
-01-11-25,15:00,FC Goa vs Northeast United FC,India Indian Super Cup,10109,FC Goa,Northeast United FC,1.54,3.80,4.50
-01-11-25,16:00,Stade Marocain vs KAC Kenitra,Morocco Botola Pro D2,48662,Stade Marocain,KAC Kenitra,2.45,2.40,3.70
-01-11-25,17:00,UD Somozas vs CF Noia,"Spain Amateur Tercera Federacion, Group 1",48669,UD Somozas,CF Noia,1.97,3.10,3.70
-01-11-25,17:00,UD Las Palmas C vs UD Telde,"Spain Amateur Tercera Federacion, Group 12",44493,UD Las Palmas C,UD Telde,1.17,6.10,12.00
-01-11-25,18:00,CD Herbania vs CD Marino,"Spain Amateur Tercera Federacion, Group 12",44518,CD Herbania,CD Marino,2.85,3.33,2.20
-01-11-25,16:30,AD Llerenense vs Atletico Club Pueblonuevo,"Spain Amateur Tercera Federacion, Group 14",48668,AD Llerenense,Atletico Club Pueblonuevo,1.22,5.25,11.00
-01-11-25,15:30,CD Cortes Navarre vs CD Ardoi FE,"Spain Amateur Tercera Federacion, Group 15",12223,CD Cortes Navarre,CD Ardoi FE,1.84,3.20,4.10
-01-11-25,16:30,CD Oberena vs CD Avance Ezcabarte,"Spain Amateur Tercera Federacion, Group 15",47881,CD Oberena,CD Avance Ezcabarte,2.10,3.10,3.33
-01-11-25,16:30,FC Bidezarra vs AD San Juan Pamplona,"Spain Amateur Tercera Federacion, Group 15",48738,FC Bidezarra,AD San Juan Pamplona,4.30,3.20,1.82
-01-11-25,16:00,CD Belchite 97 vs CF Atletico de Monzon,"Spain Amateur Tercera Federacion, Group 17",13214,CD Belchite 97,CF Atletico de Monzon,4.10,3.20,1.86
-01-11-25,16:30,CD Azuqueca vs CD Villacanas,"Spain Amateur Tercera Federacion, Group 18",15767,CD Azuqueca,CD Villacanas,2.25,2.90,3.25
+01-11-25,14:30,US Ben Guerdane vs JS Kairouanaise,Tunisia Ligue 1,47286,US Ben Guerdane,JS Kairouanaise,1.58,3.33,6.0
+01-11-25,15:00,FC Goa vs Northeast United FC,India Indian Super Cup,10109,FC Goa,Northeast United FC,1.54,3.8,4.5
+01-11-25,16:00,Stade Marocain vs KAC Kenitra,Morocco Botola Pro D2,48662,Stade Marocain,KAC Kenitra,2.45,2.4,3.7
+01-11-25,17:00,UD Somozas vs CF Noia,"Spain Amateur Tercera Federacion, Group 1",48669,UD Somozas,CF Noia,1.97,3.1,3.7
+01-11-25,17:00,UD Las Palmas C vs UD Telde,"Spain Amateur Tercera Federacion, Group 12",44493,UD Las Palmas C,UD Telde,1.17,6.1,12.0
+01-11-25,18:00,CD Herbania vs CD Marino,"Spain Amateur Tercera Federacion, Group 12",44518,CD Herbania,CD Marino,2.85,3.33,2.2
+01-11-25,16:30,AD Llerenense vs Atletico Club Pueblonuevo,"Spain Amateur Tercera Federacion, Group 14",48668,AD Llerenense,Atletico Club Pueblonuevo,1.22,5.25,11.0
+01-11-25,15:30,CD Cortes Navarre vs CD Ardoi FE,"Spain Amateur Tercera Federacion, Group 15",12223,CD Cortes Navarre,CD Ardoi FE,1.84,3.2,4.1
+01-11-25,16:30,CD Oberena vs CD Avance Ezcabarte,"Spain Amateur Tercera Federacion, Group 15",47881,CD Oberena,CD Avance Ezcabarte,2.1,3.1,3.33
+01-11-25,16:30,FC Bidezarra vs AD San Juan Pamplona,"Spain Amateur Tercera Federacion, Group 15",48738,FC Bidezarra,AD San Juan Pamplona,4.3,3.2,1.82
+01-11-25,16:00,CD Belchite 97 vs CF Atletico de Monzon,"Spain Amateur Tercera Federacion, Group 17",13214,CD Belchite 97,CF Atletico de Monzon,4.1,3.2,1.86
+01-11-25,16:30,CD Azuqueca vs CD Villacanas,"Spain Amateur Tercera Federacion, Group 18",15767,CD Azuqueca,CD Villacanas,2.25,2.9,3.25
 01-11-25,17:00,CD Tarancon vs Calvo Sotelo Puertollano,"Spain Amateur Tercera Federacion, Group 18",14441,CD Tarancon,Calvo Sotelo Puertollano,2.35,2.75,3.25
-01-11-25,17:30,Villarrubia CF vs AD San Clemente,"Spain Amateur Tercera Federacion, Group 18",43813,Villarrubia CF,AD San Clemente,1.66,3.60,4.50
-01-11-25,18:30,CD Revilla vs Tropezon,"Spain Amateur Tercera Federacion, Group 3",18467,CD Revilla,Tropezon,3.70,3.50,1.82
-01-11-25,16:00,Atletico Levante UD vs UD Alzira,"Spain Amateur Tercera Federacion, Group 6",48737,Atletico Levante UD,UD Alzira,1.44,4.00,6.40
-01-11-25,18:00,CF Villarreal C vs Crevillente Deportivo,"Spain Amateur Tercera Federacion, Group 6",23172,CF Villarreal C,Crevillente Deportivo,1.47,3.90,6.25
-01-11-25,18:30,Hercules CF B vs CD Utiel,"Spain Amateur Tercera Federacion, Group 6",25468,Hercules CF B,CD Utiel,2.40,2.75,3.20
-01-11-25,17:00,CD Guijuelo vs CD Mojados,"Spain Amateur Tercera Federacion, Group 8",48670,CD Guijuelo,CD Mojados,1.24,5.00,10.50
-01-11-25,19:00,Arenas Armilla CD vs CP Mijas-Las Lagunas,"Spain Amateur Tercera Federacion, Group 9",44535,Arenas Armilla CD,CP Mijas-Las Lagunas,2.60,2.75,2.85
-01-11-25,18:00,Maccabi Neve Shaanan Eldad vs Tzeirey Um El Fahem,Israel Liga Alef,28481,Maccabi Neve Shaanan Eldad,Tzeirey Um El Fahem,2.25,3.50,2.90
-01-11-25,19:00,Maccabi Ironi Ashdod FC vs Hapoel Marmorek FC,Israel Liga Alef,22639,Maccabi Ironi Ashdod FC,Hapoel Marmorek FC,1.81,3.60,4.00
-01-11-25,19:30,Maccabi Ironi Kiryat Gat vs FC Tzeirey Tira,Israel Liga Alef,28221,Maccabi Ironi Kiryat Gat,FC Tzeirey Tira,1.47,4.80,5.20
-01-11-25,15:00,Aguilas de la Universidad de Panama vs SD Atletico Nacional B,Panama Liga Prom,47208,Aguilas de la Universidad de Panama,SD Atletico Nacional B,1.34,4.90,6.60
+01-11-25,17:30,Villarrubia CF vs AD San Clemente,"Spain Amateur Tercera Federacion, Group 18",43813,Villarrubia CF,AD San Clemente,1.66,3.6,4.5
+01-11-25,18:30,CD Revilla vs Tropezon,"Spain Amateur Tercera Federacion, Group 3",18467,CD Revilla,Tropezon,3.7,3.5,1.82
+01-11-25,16:00,Atletico Levante UD vs UD Alzira,"Spain Amateur Tercera Federacion, Group 6",48737,Atletico Levante UD,UD Alzira,1.44,4.0,6.4
+01-11-25,18:00,CF Villarreal C vs Crevillente Deportivo,"Spain Amateur Tercera Federacion, Group 6",23172,CF Villarreal C,Crevillente Deportivo,1.47,3.9,6.25
+01-11-25,18:30,Hercules CF B vs CD Utiel,"Spain Amateur Tercera Federacion, Group 6",25468,Hercules CF B,CD Utiel,2.4,2.75,3.2
+01-11-25,17:00,CD Guijuelo vs CD Mojados,"Spain Amateur Tercera Federacion, Group 8",48670,CD Guijuelo,CD Mojados,1.24,5.0,10.5
+01-11-25,19:00,Arenas Armilla CD vs CP Mijas-Las Lagunas,"Spain Amateur Tercera Federacion, Group 9",44535,Arenas Armilla CD,CP Mijas-Las Lagunas,2.6,2.75,2.85
+01-11-25,18:00,Maccabi Neve Shaanan Eldad vs Tzeirey Um El Fahem,Israel Liga Alef,28481,Maccabi Neve Shaanan Eldad,Tzeirey Um El Fahem,2.25,3.5,2.9
+01-11-25,19:00,Maccabi Ironi Ashdod FC vs Hapoel Marmorek FC,Israel Liga Alef,22639,Maccabi Ironi Ashdod FC,Hapoel Marmorek FC,1.81,3.6,4.0
+01-11-25,19:30,Maccabi Ironi Kiryat Gat vs FC Tzeirey Tira,Israel Liga Alef,28221,Maccabi Ironi Kiryat Gat,FC Tzeirey Tira,1.47,4.8,5.2
+01-11-25,15:00,Aguilas de la Universidad de Panama vs SD Atletico Nacional B,Panama Liga Prom,47208,Aguilas de la Universidad de Panama,SD Atletico Nacional B,1.34,4.9,6.6
 01-11-25,19:00,EC Juventude RS vs CE Bento Goncalves RS,Brazil Copa FGF,48833,EC Juventude RS,CE Bento Goncalves RS,,,
-01-11-25,15:00,CR Beni Thour vs AS Khroub,Algeria Ligue 2,42699,CR Beni Thour,AS Khroub,1.63,3.70,4.60
-01-11-25,16:30,SV Leobendorf vs Union Mauer,Austria Amateur Regionalliga Ost,48307,SV Leobendorf,Union Mauer,1.48,4.00,5.00
-01-11-25,15:00,FC Dziugas B vs FK Garliava,Lithuania II Lyga,20034,FC Dziugas B,FK Garliava,18.50,10.00,1.06
-01-11-25,14:30,FC Nantes vs Stade Poitevin FC U19,France U19 National,33126,FC Nantes,Stade Poitevin FC U19,1.08,8.50,17.00
-01-11-25,14:30,Stade Brestois 29 vs EA Guingamp,France U19 National,38936,Stade Brestois 29,EA Guingamp,2.05,3.50,3.10
-01-11-25,16:00,Club Brugge KV vs Oud-Heverlee Leuven,"Belgium Beker van Belgie, Women",47877,Club Brugge KV,Oud-Heverlee Leuven,2.85,3.60,2.15
-01-11-25,16:00,SV Zulte Waregem vs Kvk Tienen,"Belgium Beker van Belgie, Women",48123,SV Zulte Waregem,Kvk Tienen,1.02,12.00,27.00
-01-11-25,15:00,FC Viktoria Plzen vs Slavia Prague,"Czechia 1. Liga, Women",20980,FC Viktoria Plzen,Slavia Prague,18.00,9.50,1.03
-01-11-25,18:00,Budaors Women vs Szent Mihaly SE,"Hungary NB I, Women",26923,Budaors Women,Szent Mihaly SE,8.90,5.70,1.19
-01-11-25,16:00,FC Dietikon vs FC Mendrisio,Switzerland 1. Liga Classic,47312,FC Dietikon,FC Mendrisio,2.10,3.60,2.90
-01-11-25,19:00,Bonsucesso FC RJ vs Goncalense FC RJ,"Brazil Carioca, Serie B1",46428,Bonsucesso FC RJ,Goncalense FC RJ,2.30,2.90,3.10
-01-11-25,19:00,Campo Grande AC RJ vs AA Carapebus RJ,"Brazil Carioca, Serie B1",16039,Campo Grande AC RJ,AA Carapebus RJ,2.15,2.85,3.60
-01-11-25,19:00,Duque de Caxias FC RJ vs EC Nova Cidade RJ,"Brazil Carioca, Serie B1",48282,Duque de Caxias FC RJ,EC Nova Cidade RJ,1.91,2.95,4.20
-01-11-25,19:00,Friburguense AC RJ vs Niteroiense,"Brazil Carioca, Serie B1",47053,Friburguense AC RJ,Niteroiense,2.45,2.90,2.90
-01-11-25,19:00,Sao Cristovao FR RJ vs Paduano EC RJ,"Brazil Carioca, Serie B1",13369,Sao Cristovao FR RJ,Paduano EC RJ,2.45,2.85,2.90
-01-11-25,16:00,BK Skjold vs Hvidovre IF 2,Denmark Amateur Danmarksserien,12050,BK Skjold,Hvidovre IF 2,1.66,3.80,3.75
+01-11-25,15:00,CR Beni Thour vs AS Khroub,Algeria Ligue 2,42699,CR Beni Thour,AS Khroub,1.63,3.7,4.6
+01-11-25,16:30,SV Leobendorf vs Union Mauer,Austria Amateur Regionalliga Ost,48307,SV Leobendorf,Union Mauer,1.48,4.0,5.0
+01-11-25,15:00,FC Dziugas B vs FK Garliava,Lithuania II Lyga,20034,FC Dziugas B,FK Garliava,18.5,10.0,1.06
+01-11-25,14:30,FC Nantes vs Stade Poitevin FC U19,France U19 National,33126,FC Nantes,Stade Poitevin FC U19,1.08,8.5,17.0
+01-11-25,14:30,Stade Brestois 29 vs EA Guingamp,France U19 National,38936,Stade Brestois 29,EA Guingamp,2.05,3.5,3.1
+01-11-25,16:00,Club Brugge KV vs Oud-Heverlee Leuven,"Belgium Beker van Belgie, Women",47877,Club Brugge KV,Oud-Heverlee Leuven,2.85,3.6,2.15
+01-11-25,16:00,SV Zulte Waregem vs Kvk Tienen,"Belgium Beker van Belgie, Women",48123,SV Zulte Waregem,Kvk Tienen,1.02,12.0,27.0
+01-11-25,15:00,FC Viktoria Plzen vs Slavia Prague,"Czechia 1. Liga, Women",20980,FC Viktoria Plzen,Slavia Prague,18.0,9.5,1.03
+01-11-25,18:00,Budaors Women vs Szent Mihaly SE,"Hungary NB I, Women",26923,Budaors Women,Szent Mihaly SE,8.9,5.7,1.19
+01-11-25,16:00,FC Dietikon vs FC Mendrisio,Switzerland 1. Liga Classic,47312,FC Dietikon,FC Mendrisio,2.1,3.6,2.9
+01-11-25,19:00,Bonsucesso FC RJ vs Goncalense FC RJ,"Brazil Carioca, Serie B1",46428,Bonsucesso FC RJ,Goncalense FC RJ,2.3,2.9,3.1
+01-11-25,19:00,Campo Grande AC RJ vs AA Carapebus RJ,"Brazil Carioca, Serie B1",16039,Campo Grande AC RJ,AA Carapebus RJ,2.15,2.85,3.6
+01-11-25,19:00,Duque de Caxias FC RJ vs EC Nova Cidade RJ,"Brazil Carioca, Serie B1",48282,Duque de Caxias FC RJ,EC Nova Cidade RJ,1.91,2.95,4.2
+01-11-25,19:00,Friburguense AC RJ vs Niteroiense,"Brazil Carioca, Serie B1",47053,Friburguense AC RJ,Niteroiense,2.45,2.9,2.9
+01-11-25,19:00,Sao Cristovao FR RJ vs Paduano EC RJ,"Brazil Carioca, Serie B1",13369,Sao Cristovao FR RJ,Paduano EC RJ,2.45,2.85,2.9
+01-11-25,16:00,BK Skjold vs Hvidovre IF 2,Denmark Amateur Danmarksserien,12050,BK Skjold,Hvidovre IF 2,1.66,3.8,3.75
 01-11-25,16:00,Redbridge vs Wroxham,England England Isthmian League North Division,15236,Redbridge,Wroxham,2.05,3.25,3.33
-01-11-25,16:00,Tilbury vs Walthamstow FC,England England Isthmian League North Division,16894,Tilbury,Walthamstow FC,1.86,3.70,3.40
-01-11-25,16:00,Waltham Abbey vs Cambridge City,England England Isthmian League North Division,34755,Waltham Abbey,Cambridge City,1.52,4.20,4.90
-01-11-25,16:00,Witham Town vs Mildenhall Town,England England Isthmian League North Division,34701,Witham Town,Mildenhall Town,1.60,3.90,4.60
-01-11-25,18:00,AS Furiani Agliani vs Bourges FC,France National 2,44857,AS Furiani Agliani,Bourges FC,2.75,3.00,2.50
-01-11-25,18:00,FC Rousset Svo vs US Creteil-Lusitanos,France National 2,48671,FC Rousset Svo,US Creteil-Lusitanos,2.90,2.95,2.40
-01-11-25,18:00,Hyeres FC vs FC 93 Bobigny BG,France National 2,14512,Hyeres FC,FC 93 Bobigny BG,2.20,2.90,3.30
-01-11-25,18:00,Lusitanos Saint-Maur vs RC Grasse,France National 2,30273,Lusitanos Saint-Maur,RC Grasse,2.15,3.10,3.20
-01-11-25,18:00,Saint-Colomban Locmine vs US Avranches,France National 2,44853,Saint-Colomban Locmine,US Avranches,3.25,3.20,2.10
-01-11-25,18:00,Stade Poitevin FC vs Olympique Saumur FC,France National 2,44512,Stade Poitevin FC,Olympique Saumur FC,2.15,3.10,3.20
-01-11-25,18:00,US Granville vs FC De Montlouis,France National 2,29845,US Granville,FC De Montlouis,1.81,3.25,4.20
-01-11-25,00:00,Wellington Phoenix vs Central Football,"New Zealand National League, Women",13307,Wellington Phoenix,Central Football,1.02,12.50,27.00
-01-11-25,19:00,America PE vs AAD Vitoria Tabocas PE,"Brazil Pernambucano, Serie A2",48354,America PE,AAD Vitoria Tabocas PE,1.86,3.60,3.50
-01-11-25,22:00,CD Fuerte San Francisco U20 vs CD Platense,"El Salvador Primera Division, Reserves, Apertura",41210,CD Fuerte San Francisco U20,CD Platense,1.89,3.60,3.40
-01-11-25,20:30,CDS Constitucion Unido vs CD Municipal Mejillones,Chile Tercera Division,29841,CDS Constitucion Unido,CD Municipal Mejillones,1.12,7.25,14.50
-01-11-25,16:00,RS Gimnastica de Torrelavega vs Real Sporting de Gijon,Spain U19 Division de Honor Juvenil,41340,RS Gimnastica de Torrelavega,Real Sporting de Gijon,4.70,3.80,1.61
-01-11-25,17:00,Ads Hortaleza Youth vs CD Diocesano,Spain U19 Division de Honor Juvenil,27793,Ads Hortaleza Youth,CD Diocesano,1.77,3.90,3.60
-01-11-25,18:00,Atletico Madrid vs CF Burgos,Spain U19 Division de Honor Juvenil,47055,Atletico Madrid,CF Burgos,1.09,8.90,13.50
-01-11-25,15:45,FK Vozdovac vs FK Novi Pazar,Serbia U19 League,26629,FK Vozdovac,FK Novi Pazar,1.66,4.10,3.50
-01-11-25,19:00,Fluminense FC RJ vs CR Vasco da Gama RJ,"Brazil U20 Carioca, Serie A",40911,Fluminense FC RJ,CR Vasco da Gama RJ,2.65,3.30,2.40
-01-11-25,19:00,Marica FC RJ vs Bangu AC RJ,"Brazil U20 Carioca, Serie A",21356,Marica FC RJ,Bangu AC RJ,2.00,3.25,3.40
-01-11-25,19:00,Nautico Capibaribe PE vs Petrolina SFC PE,Brazil U20 Pernambucano,19272,Nautico Capibaribe PE,Petrolina SFC PE,1.29,5.50,8.20
-01-11-25,16:00,Atlas FC U21 vs Deportivo Toluca FC U21,Mexico U21 Liga MX,46970,Atlas FC U21,Deportivo Toluca FC U21,2.60,3.80,2.05
+01-11-25,16:00,Tilbury vs Walthamstow FC,England England Isthmian League North Division,16894,Tilbury,Walthamstow FC,1.86,3.7,3.4
+01-11-25,16:00,Waltham Abbey vs Cambridge City,England England Isthmian League North Division,34755,Waltham Abbey,Cambridge City,1.52,4.2,4.9
+01-11-25,16:00,Witham Town vs Mildenhall Town,England England Isthmian League North Division,34701,Witham Town,Mildenhall Town,1.6,3.9,4.6
+01-11-25,18:00,AS Furiani Agliani vs Bourges FC,France National 2,44857,AS Furiani Agliani,Bourges FC,2.75,3.0,2.5
+01-11-25,18:00,FC Rousset Svo vs US Creteil-Lusitanos,France National 2,48671,FC Rousset Svo,US Creteil-Lusitanos,2.9,2.95,2.4
+01-11-25,18:00,Hyeres FC vs FC 93 Bobigny BG,France National 2,14512,Hyeres FC,FC 93 Bobigny BG,2.2,2.9,3.3
+01-11-25,18:00,Lusitanos Saint-Maur vs RC Grasse,France National 2,30273,Lusitanos Saint-Maur,RC Grasse,2.15,3.1,3.2
+01-11-25,18:00,Saint-Colomban Locmine vs US Avranches,France National 2,44853,Saint-Colomban Locmine,US Avranches,3.25,3.2,2.1
+01-11-25,18:00,Stade Poitevin FC vs Olympique Saumur FC,France National 2,44512,Stade Poitevin FC,Olympique Saumur FC,2.15,3.1,3.2
+01-11-25,18:00,US Granville vs FC De Montlouis,France National 2,29845,US Granville,FC De Montlouis,1.81,3.25,4.2
+01-11-25,00:00,Wellington Phoenix vs Central Football,"New Zealand National League, Women",13307,Wellington Phoenix,Central Football,1.02,12.5,27.0
+01-11-25,19:00,America PE vs AAD Vitoria Tabocas PE,"Brazil Pernambucano, Serie A2",48354,America PE,AAD Vitoria Tabocas PE,1.86,3.6,3.5
+01-11-25,22:00,CD Fuerte San Francisco U20 vs CD Platense,"El Salvador Primera Division, Reserves, Apertura",41210,CD Fuerte San Francisco U20,CD Platense,1.89,3.6,3.4
+01-11-25,20:30,CDS Constitucion Unido vs CD Municipal Mejillones,Chile Tercera Division,29841,CDS Constitucion Unido,CD Municipal Mejillones,1.12,7.25,14.5
+01-11-25,16:00,RS Gimnastica de Torrelavega vs Real Sporting de Gijon,Spain U19 Division de Honor Juvenil,41340,RS Gimnastica de Torrelavega,Real Sporting de Gijon,4.7,3.8,1.61
+01-11-25,17:00,Ads Hortaleza Youth vs CD Diocesano,Spain U19 Division de Honor Juvenil,27793,Ads Hortaleza Youth,CD Diocesano,1.77,3.9,3.6
+01-11-25,18:00,Atletico Madrid vs CF Burgos,Spain U19 Division de Honor Juvenil,47055,Atletico Madrid,CF Burgos,1.09,8.9,13.5
+01-11-25,15:45,FK Vozdovac vs FK Novi Pazar,Serbia U19 League,26629,FK Vozdovac,FK Novi Pazar,1.66,4.1,3.5
+01-11-25,19:00,Fluminense FC RJ vs CR Vasco da Gama RJ,"Brazil U20 Carioca, Serie A",40911,Fluminense FC RJ,CR Vasco da Gama RJ,2.65,3.3,2.4
+01-11-25,19:00,Marica FC RJ vs Bangu AC RJ,"Brazil U20 Carioca, Serie A",21356,Marica FC RJ,Bangu AC RJ,2.0,3.25,3.4
+01-11-25,19:00,Nautico Capibaribe PE vs Petrolina SFC PE,Brazil U20 Pernambucano,19272,Nautico Capibaribe PE,Petrolina SFC PE,1.29,5.5,8.2
+01-11-25,16:00,Atlas FC U21 vs Deportivo Toluca FC U21,Mexico U21 Liga MX,46970,Atlas FC U21,Deportivo Toluca FC U21,2.6,3.8,2.05
+01-11-25,18:30,Tottenham vs Chelsea,England Premier League,34489,Tottenham,Chelsea,3.04,3.54,2.45
+01-11-25,21:00,Liverpool vs Aston Villa,England Premier League,34939,Liverpool,Aston Villa,1.70,4.49,4.79
+01-11-25,21:00,Real Madrid vs Valencia,Spain LaLiga,31744,Real Madrid,Valencia,1.20,8.28,15.14
+01-11-25,18:30,Bayern Munich vs Bayer Leverkusen,Germany Bundesliga,23321,Bayern Munich,Bayer Leverkusen,1.29,7.17,9.63
+01-11-25,18:00,Napoli vs Como 1907,Italy Serie A,21888,Napoli,Como 1907,1.98,3.44,4.47
+01-11-25,20:45,US Cremonese vs Juventus,Italy Serie A,21898,US Cremonese,Juventus,6.80,4.62,1.52
+01-11-25,19:00,Monaco vs Paris FC,France Ligue 1,29491,Monaco,Paris FC,1.68,4.42,5.04
+01-11-25,21:05,AJ Auxerre vs Marseille,France Ligue 1,29636,AJ Auxerre,Marseille,5.12,4.14,1.72
+01-11-25,18:30,Brackley Town FC vs Notts County,England FA Cup,37737,Brackley Town FC,Notts County,3.80,3.75,1.89
+01-11-25,18:00,Molde vs Rosenborg BK,Norway Eliteserien,22419,Molde,Rosenborg BK,1.89,4.09,3.91
+01-11-25,18:45,NAC Breda vs Go Ahead Eagles,Netherlands Eredivisie,35431,NAC Breda,Go Ahead Eagles,2.29,3.73,3.07
+01-11-25,20:00,Feyenoord vs FC Volendam,Netherlands Eredivisie,35616,Feyenoord,FC Volendam,1.14,9.92,19.01
+01-11-25,21:00,SC Telstar vs Excelsior Rotterdam,Netherlands Eredivisie,35927,SC Telstar,Excelsior Rotterdam,2.16,3.72,3.35
+01-11-25,19:00,Casa Pia Lisbon vs Estrela Amadora,Portugal Liga Portugal,18781,Casa Pia Lisbon,Estrela Amadora,2.34,3.20,3.45
+01-11-25,19:00,Rio Ave FC vs Estoril Praia,Portugal Liga Portugal,22804,Rio Ave FC,Estoril Praia,2.36,3.37,3.22
+01-11-25,21:30,Vitoria SC Guimaraes vs Benfica,Portugal Liga Portugal,23643,Vitoria SC Guimaraes,Benfica,6.84,4.52,1.51
+01-11-25,20:30,Darmstadt vs Arminia Bielefeld,Germany 2. Bundesliga,40307,Darmstadt,Arminia Bielefeld,1.99,3.90,3.40
+01-11-25,18:30,Albacete Balompie vs SD Huesca,Spain LaLiga 2,26931,Albacete Balompie,SD Huesca,2.05,3.10,4.00
+01-11-25,18:30,Leganes vs Burgos CF,Spain LaLiga 2,28762,Leganes,Burgos CF,2.15,3.00,3.80
+01-11-25,21:00,Almeria vs Eibar,Spain LaLiga 2,22996,Almeria,Eibar,1.79,3.70,4.40
+01-11-25,19:30,Palermo FC vs Delfino Pescara,Italy Serie B,18411,Palermo FC,Delfino Pescara,1.40,4.80,7.20
+01-11-25,20:00,Red Star FC vs Saint-Etienne,France Ligue 2,23267,Red Star FC,Saint-Etienne,2.85,3.40,2.40
+01-11-25,18:00,Galatasaray Istanbul vs Trabzonspor,Turkiye Super Lig,27732,Galatasaray Istanbul,Trabzonspor,1.47,5.19,6.43
+01-11-25,18:00,Slavia Prague vs FC Banik Ostrava,Czechia 1. Liga,22572,Slavia Prague,FC Banik Ostrava,1.28,5.75,9.75
+01-11-25,17:30,Olympique Rovenain vs Balma SC U19,France U19 National,29682,Olympique Rovenain,Balma SC U19,2.25,3.30,2.90
+01-11-25,19:00,Artsul FC RJ vs Serrano FC RJ,"Brazil Carioca, Serie B1",15198,Artsul FC RJ,Serrano FC RJ,1.87,3.20,4.00
+01-11-25,19:30,Santa Helena GO vs Rioverdense GO,"Brazil Goiano, 3. Divisao",18782,Santa Helena GO,Rioverdense GO,1.09,7.00,14.50
+01-11-25,20:00,Aparecida EC GO vs Mineiros GO,"Brazil Goiano, 3. Divisao",19000,Aparecida EC GO,Mineiros GO,5.10,3.60,1.52
+01-11-25,18:00,Dieppe FC vs Colmar,France National 2,31016,Dieppe FC,Colmar,1.91,3.40,3.50
+01-11-25,18:00,FC Goal vs Nimes,France National 2,14166,FC Goal,Nimes,2.80,3.40,2.20
+01-11-25,19:00,Pague Menos CE vs Ceara SC CE,Brazil Taca Fares Lopes,23699,Pague Menos CE,Ceara SC CE,1.53,3.90,5.40
+01-11-25,19:00,Arosa SC vs Pontevedra CF,Spain U19 Division de Honor Juvenil,28631,Arosa SC,Pontevedra CF,1.47,3.75,6.50
